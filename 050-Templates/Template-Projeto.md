@@ -15,7 +15,7 @@ updated: "{{date:YYYY-MM-DD}}"
 
 ## Visão geral
 
-Resuma o problema, a solução proposta e o valor esperado para a [[DataRetail S.A.]].
+Resuma o problema, a solução proposta e o valor esperado para a [[030-Projetos/DataRetail Platform/README|DataRetail S.A.]].
 
 ## Objetivos
 

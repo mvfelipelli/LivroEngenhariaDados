@@ -22,7 +22,7 @@ Explique quais conceitos do módulo serão analisados e quais decisões o leitor
 
 ## Contexto da DataRetail
 
-Apresente a área de negócio, os sistemas envolvidos, o volume de dados e as restrições relevantes da [[DataRetail S.A.]].
+Apresente a área de negócio, os sistemas envolvidos, o volume de dados e as restrições relevantes da [[030-Projetos/DataRetail Platform/README|DataRetail S.A.]].
 
 ## Problema
 

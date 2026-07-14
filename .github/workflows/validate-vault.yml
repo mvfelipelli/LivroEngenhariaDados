@@ -1,0 +1,36 @@
+name: Validar Vault
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Obter repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar validador Markdown
+        run: python -m pip install -r requirements-dev.txt
+
+      - name: Validar nomenclatura editorial
+        run: python tools/validate_project.py --checks names
+
+      - name: Validar templates
+        run: python tools/validate_project.py 050-Templates --checks markdown,yaml,names,wikilinks
+
+      - name: Auditar dívida histórica do Vault
+        continue-on-error: true
+        run: python tools/validate_project.py --max-issues 200

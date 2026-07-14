@@ -51,7 +51,7 @@ comando --version
 
 ## Aplicação na DataRetail
 
-Mostre como a tecnologia poderia ser utilizada no cenário da [[DataRetail S.A.]].
+Mostre como a tecnologia poderia ser utilizada no cenário da [[030-Projetos/DataRetail Platform/README|DataRetail S.A.]].
 
 ## Quando utilizar
 

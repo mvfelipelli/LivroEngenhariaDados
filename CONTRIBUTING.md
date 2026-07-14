@@ -151,6 +151,36 @@ Antes de enviar uma contribuição verifique:
 
 ---
 
+## Validação automatizada
+
+Instale as dependências de desenvolvimento:
+
+```bash
+python -m pip install -r requirements-dev.txt
+```
+
+No Windows, execute a auditoria completa com:
+
+```bat
+tools\validate.cmd
+```
+
+Em qualquer sistema com Python, utilize:
+
+```bash
+python tools/validate_project.py
+```
+
+É possível executar categorias específicas:
+
+```bash
+python tools/validate_project.py --checks yaml,names,wikilinks
+```
+
+As verificações disponíveis são `markdown`, `yaml`, `names`, `wikilinks` e `modules`. Enquanto a dívida histórica estiver em correção, o CI bloqueia regressões nos escopos já limpos e publica a auditoria completa como diagnóstico não bloqueante.
+
+---
+
 ## Código de Conduta
 
 Esperamos que todos os colaboradores mantenham um ambiente respeitoso, colaborativo e construtivo.

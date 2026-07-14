@@ -32,7 +32,7 @@ Apresente o mecanismo essencial sem repetir capítulos completos.
 ## Exemplo prático
 
 > [!example]
-> Relacione o conceito a uma situação da [[DataRetail S.A.]].
+> Relacione o conceito a uma situação da [[030-Projetos/DataRetail Platform/README|DataRetail S.A.]].
 
 ## Quando utilizar
 

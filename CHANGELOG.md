@@ -34,6 +34,8 @@ As alterações são classificadas nas seguintes categorias:
 * Wikilinks relacionados atualizados com aliases para preservar o texto exibido no Obsidian.
 * Convenção editorial diferenciada das nomenclaturas reservadas por ferramentas de infraestrutura.
 * Templates de capítulo, estudo de caso, glossário, laboratório, projeto e tecnologia preenchidos e padronizados para o Obsidian.
+* Validador integrado com verificações de Markdown, YAML, nomenclatura, Wikilinks e estrutura dos módulos.
+* Workflow de CI adicionado para impor invariantes limpos e auditar, sem bloqueio temporário, a dívida histórica do Vault.
 
 ## Planned
 

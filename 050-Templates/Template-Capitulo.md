@@ -59,7 +59,7 @@ print("Substitua por um exemplo executável")
 
 ## Aplicação na DataRetail
 
-Contextualize o conceito no cenário permanente da [[DataRetail S.A.]].
+Contextualize o conceito no cenário permanente da [[030-Projetos/DataRetail Platform/README|DataRetail S.A.]].
 
 ## Boas práticas
 
