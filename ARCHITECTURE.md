@@ -1,12 +1,12 @@
 # ARCHITECTURE.md
 
-# Arquitetura do Projeto
+## Arquitetura do Projeto
 
 ## Formação em Engenharia de Dados
 
 ---
 
-# Objetivo
+## Objetivo
 
 Este documento descreve a arquitetura da **Formação em Engenharia de Dados**.
 
@@ -16,7 +16,7 @@ Este documento é destinado tanto a colaboradores humanos quanto a agentes de In
 
 ---
 
-# Visão Geral
+## Visão Geral
 
 O projeto foi concebido como um **Vault do Obsidian**, funcionando simultaneamente como:
 
@@ -37,7 +37,7 @@ Toda a arquitetura foi desenhada para favorecer:
 
 ---
 
-# Princípios Arquiteturais
+## Princípios Arquiteturais
 
 A arquitetura segue cinco princípios fundamentais.
 
@@ -85,7 +85,7 @@ Ferramentas são apresentadas como implementações dos conceitos.
 
 ---
 
-# Organização do Vault
+## Organização do Vault
 
 A raiz do projeto possui a seguinte estrutura.
 
@@ -113,7 +113,7 @@ Cada diretório possui uma responsabilidade única.
 
 ---
 
-# Camadas da Arquitetura
+## Camadas da Arquitetura
 
 A arquitetura pode ser entendida em cinco camadas.
 
@@ -139,7 +139,7 @@ Recursos
 
 ---
 
-# Camada de Governança
+## Camada de Governança
 
 Define as regras do projeto.
 
@@ -169,7 +169,7 @@ Todo agente de IA deve lê-los antes de produzir conteúdo.
 
 ---
 
-# Camada de Navegação
+## Camada de Navegação
 
 Responsável pela descoberta do conhecimento.
 
@@ -189,7 +189,7 @@ Eles não devem duplicar conteúdo técnico existente nos volumes.
 
 ---
 
-# Camada de Conteúdo
+## Camada de Conteúdo
 
 O conhecimento principal está localizado em:
 
@@ -201,7 +201,7 @@ Cada volume aborda um domínio específico da Engenharia de Dados.
 
 ---
 
-# Camada de Laboratórios
+## Camada de Laboratórios
 
 Responsável pelo conteúdo prático.
 
@@ -217,7 +217,7 @@ Projetos integradores evoluem ao longo da formação.
 
 ---
 
-# Camada de Recursos
+## Camada de Recursos
 
 Inclui materiais auxiliares.
 
@@ -233,31 +233,61 @@ Essa camada fornece suporte ao conteúdo principal.
 
 ---
 
-# Organização dos Volumes
+## Organização dos Volumes
 
 Cada volume representa um domínio de conhecimento.
 
-Exemplo:
+Estrutura oficial:
 
 ```text id="09vxr4"
+00-Introducao
+
 01-Fundamentos
 
 02-Linux
 
-03-SQL
+03-Git-e-GitHub
 
-04-Modelagem
+04-SQL
 
-05-Bancos-de-Dados
+05-Modelagem-de-Dados
+
+06-Python
+
+07-Apache-Spark
+
+08-PostgreSQL
+
+09-Lakehouse
+
+10-Trino
+
+11-Apache-Airflow
+
+12-Qualidade-de-Dados
+
+13-Observabilidade
+
+14-Streaming
+
+15-Cloud
+
+16-DataOps-e-DevOps
+
+17-Arquiteturas-Avancadas
+
+18-Projeto-Integrador
 ```
 
 Volumes não devem conter conhecimento duplicado.
 
 Quando necessário utilizar Wikilinks.
 
+Essa lista corresponde aos diretórios vigentes em `100-Volumes`. Ela é a referência arquitetural para nomes e numeração.
+
 ---
 
-# Organização dos Módulos
+## Organização dos Módulos
 
 Cada módulo segue exatamente a mesma estrutura.
 
@@ -291,7 +321,7 @@ Essa estrutura é obrigatória.
 
 ---
 
-# Fluxo de Conhecimento
+## Fluxo de Conhecimento
 
 Todo conceito deve evoluir da seguinte maneira.
 
@@ -323,7 +353,7 @@ Essa progressão deve ser preservada.
 
 ---
 
-# Wikilinks
+## Wikilinks
 
 Os Wikilinks representam as conexões entre os conceitos.
 
@@ -339,7 +369,7 @@ Em vez de repetir a definição.
 
 ---
 
-# Diagramas
+## Diagramas
 
 Diagramas são considerados parte da arquitetura do conhecimento.
 
@@ -349,7 +379,7 @@ Cada diagrama deve explicar apenas um conceito.
 
 ---
 
-# Projeto Integrador
+## Projeto Integrador
 
 Toda a coleção utiliza a empresa fictícia:
 
@@ -361,7 +391,7 @@ Novos cenários fictícios devem ser evitados, salvo necessidade didática clara
 
 ---
 
-# Dependências entre Volumes
+## Dependências entre Volumes
 
 Os volumes possuem dependências conceituais.
 
@@ -378,38 +408,50 @@ Linux
 
 ↓
 
+Git e GitHub
+
+↓
+
 SQL
 
 ↓
 
-Modelagem
+Modelagem de Dados
 
 ↓
 
-Bancos de Dados
+Python
 
 ↓
 
-Data Warehouse
+Apache Spark
 
 ↓
 
-Data Lake
+PostgreSQL
 
 ↓
 
-Processamento
+Lakehouse → Trino → Apache Airflow
 
 ↓
 
-Streaming
+Qualidade → Observabilidade → Streaming
+
+↓
+
+Cloud → DataOps e DevOps → Arquiteturas Avançadas
+
+↓
+
+Projeto Integrador
 ```
 
 O ROADMAP detalha a sequência completa.
 
 ---
 
-# Evolução da Arquitetura
+## Evolução da Arquitetura
 
 A arquitetura deve evoluir preservando:
 
@@ -423,7 +465,7 @@ Mudanças estruturais devem ser excepcionais e documentadas.
 
 ---
 
-# Responsabilidades dos Agentes
+## Responsabilidades dos Agentes
 
 Antes de criar novos arquivos, um agente de IA deve:
 
@@ -436,7 +478,7 @@ Antes de criar novos arquivos, um agente de IA deve:
 
 ---
 
-# Princípios de Evolução
+## Princípios de Evolução
 
 Toda nova contribuição deve buscar:
 
@@ -449,7 +491,7 @@ Toda nova contribuição deve buscar:
 
 ---
 
-# Visão de Longo Prazo
+## Visão de Longo Prazo
 
 A Formação em Engenharia de Dados não deve ser encarada como uma sequência linear de documentos.
 

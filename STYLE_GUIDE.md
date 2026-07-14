@@ -1,12 +1,12 @@
 # STYLE_GUIDE.md
 
-# Guia de Estilo
+## Guia de Estilo
 
 ## Formação em Engenharia de Dados
 
 ---
 
-# Objetivo
+## Objetivo
 
 Este documento define o padrão de escrita utilizado em toda a coleção **Formação em Engenharia de Dados**.
 
@@ -16,7 +16,7 @@ Este guia complementa o `EDITORIAL.md`.
 
 ---
 
-# Princípios
+## Princípios
 
 Todo conteúdo deve ser:
 
@@ -29,7 +29,7 @@ Todo conteúdo deve ser:
 
 ---
 
-# Idioma
+## Idioma
 
 Todo o conteúdo deve ser produzido em:
 
@@ -58,7 +58,7 @@ Evitar traduções literais.
 
 ---
 
-# Capitalização
+## Capitalização
 
 Utilizar maiúsculas apenas quando fizerem parte do nome oficial.
 
@@ -78,7 +78,7 @@ Exemplos incorretos:
 
 ---
 
-# Siglas
+## Siglas
 
 Na primeira ocorrência:
 
@@ -94,7 +94,7 @@ Após isso utilizar apenas a sigla quando apropriado.
 
 ---
 
-# Terminologia Oficial
+## Terminologia Oficial
 
 Sempre utilizar os mesmos termos.
 
@@ -111,7 +111,7 @@ Sempre utilizar os mesmos termos.
 
 ---
 
-# Nomes de Arquivos
+## Nomes de Arquivos
 
 Utilizar:
 
@@ -144,7 +144,7 @@ capitulo1.md
 
 ---
 
-# Diretórios
+## Diretórios
 
 Os diretórios devem utilizar:
 
@@ -170,7 +170,7 @@ Modulo1
 
 ---
 
-# Títulos
+## Títulos
 
 Sempre utilizar:
 
@@ -188,7 +188,7 @@ Evitar níveis superiores a quatro.
 
 ---
 
-# Parágrafos
+## Parágrafos
 
 Priorizar parágrafos curtos.
 
@@ -198,7 +198,7 @@ Evitar blocos longos de texto.
 
 ---
 
-# Listas
+## Listas
 
 Preferir listas quando:
 
@@ -210,7 +210,7 @@ Evitar listas excessivamente longas.
 
 ---
 
-# Ênfase
+## Ênfase
 
 Utilizar:
 
@@ -236,7 +236,7 @@ Evitar sublinhado.
 
 ---
 
-# Código
+## Código
 
 Todo código deve indicar a linguagem.
 
@@ -261,7 +261,7 @@ version: "3"
 
 ---
 
-# SQL
+## SQL
 
 Palavras reservadas sempre em maiúsculas.
 
@@ -278,7 +278,7 @@ ORDER BY idade;
 
 ---
 
-# Python
+## Python
 
 Seguir PEP 8.
 
@@ -290,7 +290,7 @@ Sempre utilizar:
 
 ---
 
-# Bash
+## Bash
 
 Sempre utilizar:
 
@@ -304,7 +304,7 @@ Explicar comandos destrutivos.
 
 ---
 
-# YAML
+## YAML
 
 Sempre utilizar:
 
@@ -323,7 +323,7 @@ No início dos documentos estruturados.
 
 ---
 
-# Markdown
+## Markdown
 
 Utilizar apenas recursos compatíveis com Obsidian.
 
@@ -331,7 +331,7 @@ Evitar HTML.
 
 ---
 
-# Wikilinks
+## Wikilinks
 
 Sempre utilizar:
 
@@ -347,7 +347,7 @@ Nunca utilizar caminhos relativos quando existir um Wikilink equivalente.
 
 ---
 
-# Callouts
+## Callouts
 
 Preferir:
 
@@ -367,7 +367,7 @@ Utilizar apenas quando agregarem valor.
 
 ---
 
-# Diagramas
+## Diagramas
 
 Utilizar Mermaid.
 
@@ -387,7 +387,7 @@ Cada diagrama deve explicar apenas um conceito.
 
 ---
 
-# Tabelas
+## Tabelas
 
 Utilizar tabelas apenas quando melhorarem a compreensão.
 
@@ -395,7 +395,7 @@ Evitar tabelas com excesso de colunas.
 
 ---
 
-# Exemplos
+## Exemplos
 
 Sempre que possível apresentar três níveis.
 
@@ -413,7 +413,7 @@ Cenário de produção.
 
 ---
 
-# Boas Práticas
+## Boas Práticas
 
 Ao final de capítulos técnicos incluir seção:
 
@@ -423,7 +423,7 @@ Com recomendações objetivas.
 
 ---
 
-# Erros Comuns
+## Erros Comuns
 
 Sempre incluir seção:
 
@@ -433,7 +433,7 @@ Apresentando problemas frequentes encontrados em projetos reais.
 
 ---
 
-# Estudos de Caso
+## Estudos de Caso
 
 Todos os estudos de caso devem utilizar a empresa fictícia:
 
@@ -443,7 +443,7 @@ Evitar criar novos cenários fictícios.
 
 ---
 
-# Laboratórios
+## Laboratórios
 
 Os laboratórios devem seguir a estrutura:
 
@@ -458,7 +458,7 @@ Os laboratórios devem seguir a estrutura:
 
 ---
 
-# Referências
+## Referências
 
 Prioridade das fontes:
 
@@ -473,7 +473,7 @@ Evitar referências sem autoria identificada.
 
 ---
 
-# Emojis
+## Emojis
 
 Não utilizar emojis em títulos.
 
@@ -481,7 +481,7 @@ Emojis podem ser utilizados apenas em dashboards, índices ou páginas de navega
 
 ---
 
-# Linguagem
+## Linguagem
 
 Evitar:
 
@@ -495,7 +495,7 @@ Essas expressões presumem conhecimento prévio do leitor.
 
 ---
 
-# Consistência
+## Consistência
 
 Sempre utilizar a mesma nomenclatura ao longo de toda a coleção.
 
@@ -503,7 +503,7 @@ Se um conceito foi denominado "Data Lake", nunca alternar para "Lago de Dados" e
 
 ---
 
-# Revisão Final
+## Revisão Final
 
 Antes de concluir qualquer documento verificar:
 
@@ -520,7 +520,7 @@ Antes de concluir qualquer documento verificar:
 
 ---
 
-# Princípio Final
+## Princípio Final
 
 O leitor deve conseguir abrir qualquer capítulo da coleção e reconhecer imediatamente que ele pertence à mesma obra.
 

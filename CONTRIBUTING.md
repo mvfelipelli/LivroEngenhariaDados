@@ -8,7 +8,7 @@ Toda contribuição é bem-vinda, desde que mantenha os padrões técnicos e edi
 
 ---
 
-# Antes de Contribuir
+## Antes de Contribuir
 
 Leia obrigatoriamente os documentos de governança:
 
@@ -25,7 +25,7 @@ Esses documentos definem como o projeto deve evoluir.
 
 ---
 
-# Como Contribuir
+## Como Contribuir
 
 Você pode contribuir com:
 
@@ -41,7 +41,7 @@ Você pode contribuir com:
 
 ---
 
-# Fluxo de Trabalho
+## Fluxo de Trabalho
 
 1. Faça um fork do repositório.
 2. Crie uma branch específica para sua alteração.
@@ -52,7 +52,7 @@ Você pode contribuir com:
 
 ---
 
-# Convenções
+## Convenções
 
 Todo conteúdo deve seguir:
 
@@ -65,7 +65,7 @@ Todo conteúdo deve seguir:
 
 ---
 
-# Qualidade Técnica
+## Qualidade Técnica
 
 Todo conteúdo deve:
 
@@ -77,7 +77,7 @@ Todo conteúdo deve:
 
 ---
 
-# Código
+## Código
 
 Sempre que possível utilizar exemplos reais.
 
@@ -94,7 +94,7 @@ Todo código deve ser executável.
 
 ---
 
-# Diagramas
+## Diagramas
 
 Utilizar Mermaid sempre que possível.
 
@@ -102,7 +102,7 @@ Evitar imagens quando um diagrama textual puder explicar o conceito.
 
 ---
 
-# Estudos de Caso
+## Estudos de Caso
 
 Utilizar preferencialmente o cenário da empresa fictícia:
 
@@ -112,7 +112,7 @@ Evitar criar novos cenários sem necessidade.
 
 ---
 
-# Inteligência Artificial
+## Inteligência Artificial
 
 Contribuições produzidas com auxílio de IA são permitidas.
 
@@ -124,7 +124,7 @@ Entretanto:
 
 ---
 
-# Pull Requests
+## Pull Requests
 
 Um Pull Request deve conter:
 
@@ -136,7 +136,7 @@ Um Pull Request deve conter:
 
 ---
 
-# Checklist
+## Checklist
 
 Antes de enviar uma contribuição verifique:
 
@@ -151,7 +151,7 @@ Antes de enviar uma contribuição verifique:
 
 ---
 
-# Código de Conduta
+## Código de Conduta
 
 Esperamos que todos os colaboradores mantenham um ambiente respeitoso, colaborativo e construtivo.
 
@@ -161,6 +161,6 @@ Ataques pessoais, discriminação e comportamento ofensivo não serão tolerados
 
 ---
 
-# Obrigado
+## Obrigado
 
 Obrigado por contribuir para a construção de uma referência aberta em Engenharia de Dados para a comunidade de língua portuguesa.

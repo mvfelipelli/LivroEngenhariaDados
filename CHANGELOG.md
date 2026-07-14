@@ -4,12 +4,12 @@ Todas as mudanças relevantes deste projeto serão documentadas neste arquivo.
 
 O formato segue o padrão **Keep a Changelog** e utiliza **Semantic Versioning**.
 
-* Keep a Changelog: https://keepachangelog.com/
-* Semantic Versioning: https://semver.org/
+* [Keep a Changelog](https://keepachangelog.com/)
+* [Semantic Versioning](https://semver.org/)
 
 ---
 
-# Tipos de alteração
+## Tipos de alteração
 
 As alterações são classificadas nas seguintes categorias:
 
@@ -22,7 +22,14 @@ As alterações são classificadas nas seguintes categorias:
 
 ---
 
-# [Unreleased]
+## [Unreleased]
+
+## Changed
+
+* Estrutura física de `100-Volumes` consolidada como fonte oficial para nomes e numeração dos volumes.
+* ROADMAP sincronizado com os volumes `00-Introducao` a `18-Projeto-Integrador`.
+* Status do Volume 00 corrigido para refletir o conteúdo parcial existente.
+* README, ARCHITECTURE, MEMORY e PROJECT_STATUS alinhados à estrutura oficial.
 
 ## Planned
 
@@ -33,7 +40,7 @@ As alterações são classificadas nas seguintes categorias:
 
 ---
 
-# [0.1.0] - 2026-07-14
+## [0.1.0] - 2026-07-14
 
 ## Added
 
@@ -67,17 +74,17 @@ As alterações são classificadas nas seguintes categorias:
 
 ---
 
-# Versionamento
+## Versionamento
 
 O projeto utiliza Semantic Versioning.
 
-```
+```text
 MAJOR.MINOR.PATCH
 ```
 
 Exemplos:
 
-```
+```text
 1.0.0
 
 1.1.0
@@ -87,7 +94,7 @@ Exemplos:
 
 ---
 
-# Política de Atualização
+## Política de Atualização
 
 Este arquivo deve ser atualizado sempre que ocorrer:
 
@@ -102,7 +109,7 @@ Correções editoriais pequenas não precisam ser registradas.
 
 ---
 
-# Histórico
+## Histórico
 
 | Versão | Data       | Descrição                    |
 | ------ | ---------- | ---------------------------- |

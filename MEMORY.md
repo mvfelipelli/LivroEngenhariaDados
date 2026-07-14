@@ -1,6 +1,6 @@
 # MEMORY.md
 
-# Memória do Projeto
+## Memória do Projeto
 
 ## Formação em Engenharia de Dados
 
@@ -8,7 +8,7 @@
 
 ---
 
-# Objetivo
+## Objetivo
 
 A **Formação em Engenharia de Dados** é um projeto de longo prazo que tem como objetivo construir uma academia completa de Engenharia de Dados em português, organizada como um Vault do Obsidian.
 
@@ -26,7 +26,7 @@ Todo o conteúdo é produzido seguindo padrões editoriais definidos em `EDITORI
 
 ---
 
-# Visão de Longo Prazo
+## Visão de Longo Prazo
 
 Ao final da coleção, o estudante deverá ser capaz de atuar como Engenheiro de Dados pleno ou sênior, dominando:
 
@@ -52,7 +52,7 @@ A coleção deverá funcionar como referência permanente para consulta profissi
 
 ---
 
-# Estrutura do Vault
+## Estrutura do Vault
 
 A estrutura oficial do projeto é composta pelos seguintes diretórios:
 
@@ -79,9 +79,11 @@ Essa estrutura é considerada estável.
 
 Alterações estruturais devem ser registradas no `CHANGELOG.md`.
 
+Os diretórios existentes em `100-Volumes`, numerados de `00-Introducao` a `18-Projeto-Integrador`, são a fonte oficial para a sequência, a numeração e os nomes dos volumes. O `ROADMAP.md` deve sempre refletir essa estrutura.
+
 ---
 
-# Projeto Integrador
+## Projeto Integrador
 
 Toda a coleção utiliza um único cenário de negócio.
 
@@ -93,7 +95,7 @@ Todos os exemplos, laboratórios e estudos de caso utilizam essa empresa fictíc
 
 ---
 
-# Padrão Editorial
+## Padrão Editorial
 
 O projeto adota os seguintes padrões permanentes:
 
@@ -108,7 +110,7 @@ O projeto adota os seguintes padrões permanentes:
 
 ---
 
-# Estrutura Padrão dos Módulos
+## Estrutura Padrão dos Módulos
 
 Todos os módulos seguem exatamente a mesma organização.
 
@@ -144,7 +146,7 @@ Essa estrutura não deve ser modificada sem decisão explícita.
 
 ---
 
-# Convenções Permanentes
+## Convenções Permanentes
 
 As seguintes decisões fazem parte da arquitetura do projeto.
 
@@ -178,7 +180,7 @@ Evitar imagens para representar conceitos que possam ser descritos por diagramas
 
 ---
 
-# Estado Atual
+## Estado Atual
 
 ## Governança
 
@@ -201,11 +203,13 @@ Documentos existentes ou planejados:
 
 ## Conteúdo
 
-### Volume 00
+### Volume 00 — Introdução
 
 Status:
 
-⏳ Planejado
+🚧 Em desenvolvimento
+
+O volume possui dez módulos estruturados. Há conteúdo parcial, especialmente em `01-O-que-e-Engenharia-de-Dados`; portanto, ele não deve ser classificado como não iniciado.
 
 ---
 
@@ -231,9 +235,11 @@ Os capítulos iniciais já foram produzidos.
 
 O módulo ainda não foi concluído.
 
+O próximo arquivo é `07-Processamento-de-Dados.md`, que já existe, mas está vazio.
+
 ---
 
-# Próximo Marco
+## Próximo Marco
 
 Concluir integralmente:
 
@@ -250,13 +256,15 @@ Após sua conclusão:
 
 ---
 
-# Decisões Arquiteturais
+## Decisões Arquiteturais
 
 Até o momento foram adotadas as seguintes decisões permanentes.
 
 ## Organização
 
 O projeto utiliza uma estrutura baseada em Volumes → Módulos → Capítulos.
+
+A estrutura física de `100-Volumes` foi consolidada como referência oficial. Documentos de governança não devem propor sequências conflitantes com os diretórios existentes.
 
 ---
 
@@ -290,7 +298,7 @@ Mudanças relevantes devem ser registradas no `CHANGELOG.md`.
 
 ---
 
-# Regras para Atualização
+## Regras para Atualização
 
 Este documento deve ser atualizado quando ocorrer qualquer um dos eventos abaixo.
 
@@ -305,7 +313,7 @@ Evitar registrar eventos pequenos ou alterações rotineiras.
 
 ---
 
-# Continuidade para Agentes de IA
+## Continuidade para Agentes de IA
 
 Antes de produzir qualquer novo conteúdo, um agente deve seguir a sequência abaixo.
 
@@ -326,11 +334,10 @@ Nunca alterar a estrutura da coleção sem autorização explícita.
 
 ---
 
-# Visão de Futuro
+## Visão de Futuro
 
 Este documento existe para preservar a continuidade do projeto ao longo dos anos.
 
 Seu objetivo é garantir que qualquer colaborador — humano ou agente de Inteligência Artificial — consiga compreender rapidamente o estado atual da coleção, as decisões tomadas e o próximo passo a ser executado.
 
 A memória do projeto deve representar sempre a verdade sobre o estado da coleção e servir como a principal referência para sua evolução contínua.
-

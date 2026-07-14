@@ -1,448 +1,198 @@
 # ROADMAP.md
 
-# Roadmap
+## Roadmap
 
 ## Formação em Engenharia de Dados
 
 ---
 
-# Objetivo
+## Objetivo
 
 Este documento representa o planejamento oficial da coleção **Formação em Engenharia de Dados**.
 
-Seu propósito é organizar a evolução do projeto, permitindo que colaboradores humanos e agentes de Inteligência Artificial saibam exatamente:
-
-* a estrutura completa da coleção;
-* a ordem dos volumes;
-* os módulos planejados;
-* o progresso atual;
-* os próximos passos.
-
-O ROADMAP é a referência oficial para continuidade do projeto.
+Seu propósito é registrar a estrutura vigente em `100-Volumes`, a ordem de estudo, o progresso atual e os próximos passos. A estrutura física existente é a fonte oficial para nomes e numeração dos volumes; qualquer alteração futura exige autorização explícita e registro no `CHANGELOG.md`.
 
 ---
 
-# Estado Atual
+## Estado Atual
 
 | Item                  | Status                |
 | --------------------- | --------------------- |
 | Estrutura do Vault    | ✅ Concluída           |
-| Governança do Projeto | 🚧 Em andamento       |
-| Volume 00             | ⏳ Planejado           |
+| Governança do Projeto | 🚧 Em consolidação    |
+| Volume 00             | 🚧 Em desenvolvimento |
 | Volume 01             | 🚧 Em desenvolvimento |
-| Demais Volumes        | ⏳ Planejados          |
+| Volumes 02 a 18       | ⏳ Estruturados        |
 
 ---
 
-# Estrutura Geral da Formação
+## Estrutura Geral da Formação
 
-A coleção está organizada em grandes volumes.
-
-Cada volume contém diversos módulos.
-
-Cada módulo é composto por capítulos, exercícios, laboratórios e estudos de caso.
-
-```text
-Coleção
-
-↓
-
-Volumes
-
-↓
-
-Módulos
-
-↓
-
-Capítulos
-
-↓
-
-Laboratórios
-
-↓
-
-Projetos
+```mermaid
+flowchart LR
+    A["Coleção"] --> B["Volumes"]
+    B --> C["Módulos"]
+    C --> D["Capítulos"]
+    D --> E["Laboratórios"]
+    E --> F["Projetos"]
 ```
 
 ---
 
-# Planejamento dos Volumes
+## Planejamento Oficial dos Volumes
+
+| Volume | Diretório | Domínio | Status |
+| ------ | --------- | ------- | ------ |
+| 00 | `00-Introducao` | Introdução | 🚧 Em desenvolvimento |
+| 01 | `01-Fundamentos` | Fundamentos | 🚧 Em desenvolvimento |
+| 02 | `02-Linux` | Linux | ⏳ Estruturado |
+| 03 | `03-Git-e-GitHub` | Git e GitHub | ⏳ Estruturado |
+| 04 | `04-SQL` | SQL | ⏳ Estruturado |
+| 05 | `05-Modelagem-de-Dados` | Modelagem de Dados | ⏳ Estruturado |
+| 06 | `06-Python` | Python | ⏳ Estruturado |
+| 07 | `07-Apache-Spark` | Apache Spark | ⏳ Estruturado |
+| 08 | `08-PostgreSQL` | PostgreSQL | ⏳ Estruturado |
+| 09 | `09-Lakehouse` | Lakehouse | ⏳ Estruturado |
+| 10 | `10-Trino` | Trino | ⏳ Estruturado |
+| 11 | `11-Apache-Airflow` | Apache Airflow | ⏳ Estruturado |
+| 12 | `12-Qualidade-de-Dados` | Qualidade de Dados | ⏳ Estruturado |
+| 13 | `13-Observabilidade` | Observabilidade | ⏳ Estruturado |
+| 14 | `14-Streaming` | Streaming | ⏳ Estruturado |
+| 15 | `15-Cloud` | Cloud | ⏳ Estruturado |
+| 16 | `16-DataOps-e-DevOps` | DataOps e DevOps | ⏳ Estruturado |
+| 17 | `17-Arquiteturas-Avancadas` | Arquiteturas Avançadas | ⏳ Estruturado |
+| 18 | `18-Projeto-Integrador` | Projeto Integrador | ⏳ Estruturado |
+
+> [!note]
+> “Estruturado” significa que o diretório do volume e seus arquivos de controle existem. Não significa que o conteúdo técnico esteja concluído.
+
+---
 
 ## Volume 00 — Introdução
 
-**Objetivo**
+**Objetivo:** apresentar a profissão, o ecossistema de dados, a estrutura da academia e a preparação do ambiente de estudos.
 
-Apresentar a profissão de Engenheiro de Dados, a estrutura da coleção e preparar o ambiente de estudos.
+Status: 🚧 Em desenvolvimento
 
-Status:
+### Módulos
 
-⏳ Planejado
+| Módulo | Status |
+| ------ | ------ |
+| 00 — Apresentação | 🚧 Parcial |
+| 01 — O que é Engenharia de Dados | 🚧 Parcial |
+| 02 — Ecossistema de Dados | ⏳ Estruturado |
+| 03 — Arquiteturas Modernas | ⏳ Estruturado |
+| 04 — Projeto Integrador | ⏳ Estruturado |
+| 05 — Ambiente da Academia | ⏳ Estruturado |
+| 06 — Como Estudar | ⏳ Estruturado |
+| 07 — Roadmap | ⏳ Estruturado |
+| 08 — Preparação do Ambiente | ⏳ Estruturado |
+| 09 — Encerramento | ⏳ Estruturado |
 
 ---
 
 ## Volume 01 — Fundamentos
 
-Objetivo:
+**Objetivo:** construir a base conceitual necessária para compreender sistemas, plataformas e arquiteturas de dados.
 
-Construir toda a base conceitual da Engenharia de Dados.
-
-Status:
-
-🚧 Em desenvolvimento
+Status: 🚧 Em desenvolvimento
 
 ### Módulos
 
-| Status | Módulo                  |
-| ------ | ----------------------- |
-| ✅      | Dados                   |
-| 🚧     | Ciclo de Vida dos Dados |
-| ⏳      | Bancos de Dados         |
-| ⏳      | Modelagem de Dados      |
-| ⏳      | Arquiteturas de Dados   |
-| ⏳      | Governança de Dados     |
-| ⏳      | Qualidade de Dados      |
-| ⏳      | Segurança da Informação |
-| ⏳      | Ética e LGPD            |
-| ⏳      | Projeto Integrador      |
+| Módulo | Status |
+| ------ | ------ |
+| 01 — Dados | ✅ Concluído |
+| 02 — Ciclo de Vida dos Dados | 🚧 Em desenvolvimento |
+| 03 — Bancos de Dados | ⏳ Planejado |
+| 04 — Modelagem | ⏳ Planejado |
+| 05 — ETL | ⏳ Planejado |
+| 06 — ELT | ⏳ Planejado |
+| 07 — Pipelines | ⏳ Planejado |
+| 08 — Arquiteturas | ⏳ Planejado |
+| 09 — Qualidade | ⏳ Planejado |
+| 10 — Governança | ⏳ Planejado |
+| 11 — Observabilidade | ⏳ Planejado |
+| 12 — Conceitos Modernos | ⏳ Planejado |
+
+### Ponto de continuidade
+
+O próximo conteúdo a ser produzido é `07-Processamento-de-Dados.md`, no Módulo 02. O arquivo existe, mas ainda está vazio. Depois dele, devem ser concluídos os capítulos técnicos e os componentes obrigatórios do módulo.
 
 ---
 
-## Volume 02 — Linux
-
-Status:
-
-⏳ Planejado
-
-### Módulos
-
-* Introdução ao Linux
-* Sistema de Arquivos
-* Shell
-* Bash
-* Processos
-* Serviços
-* Permissões
-* Redes
-* Automação
-* Projeto Integrador
-
----
-
-## Volume 03 — SQL
-
-Status:
-
-⏳ Planejado
-
-### Módulos
-
-* Fundamentos SQL
-* Consultas
-* Joins
-* Funções Analíticas
-* CTE
-* Views
-* Stored Procedures
-* Performance
-* Projeto Integrador
-
----
-
-## Volume 04 — Modelagem de Dados
-
-Status:
-
-⏳ Planejado
-
-### Módulos
-
-* Modelagem Conceitual
-* Modelagem Lógica
-* Modelagem Física
-* Normalização
-* Desnormalização
-* Modelagem Dimensional
-* Projeto Integrador
-
----
-
-## Volume 05 — Bancos de Dados
-
-Status:
-
-⏳ Planejado
-
-Tecnologias:
-
-* PostgreSQL
-* SQL Server
-* Oracle
-* MySQL
-
----
-
-## Volume 06 — Data Warehouse
-
-Status:
-
-⏳ Planejado
-
----
-
-## Volume 07 — Data Lake
-
-Status:
-
-⏳ Planejado
-
----
-
-## Volume 08 — Lakehouse
-
-Status:
-
-⏳ Planejado
-
----
-
-## Volume 09 — Apache Spark
-
-Status:
-
-⏳ Planejado
-
----
-
-## Volume 10 — Hadoop Ecosystem
-
-Status:
-
-⏳ Planejado
-
----
-
-## Volume 11 — Streaming
-
-Status:
-
-⏳ Planejado
-
-Tecnologias:
-
-* Kafka
-* Spark Streaming
-* Flink
-
----
-
-## Volume 12 — Orquestração
-
-Status:
-
-⏳ Planejado
-
-Tecnologias:
-
-* Airflow
-* dbt
-* Dagster
-
----
-
-## Volume 13 — Qualidade de Dados
-
-Status:
-
-⏳ Planejado
-
-Tecnologias:
-
-* Great Expectations
-* Soda
-* dbt Tests
-
----
-
-## Volume 14 — Cloud
-
-Status:
-
-⏳ Planejado
-
-Tecnologias:
-
-* AWS
-* Azure
-* Google Cloud
-
----
-
-## Volume 15 — DataOps
-
-Status:
-
-⏳ Planejado
-
----
-
-## Volume 16 — DevOps para Dados
-
-Status:
-
-⏳ Planejado
-
----
-
-## Volume 17 — Arquitetura de Dados
-
-Status:
-
-⏳ Planejado
-
----
-
-## Volume 18 — Engenharia de Machine Learning
-
-Status:
-
-⏳ Planejado
-
----
-
-## Volume 19 — Projeto Final
-
-Status:
-
-⏳ Planejado
-
-Projeto completo envolvendo toda a arquitetura construída ao longo da coleção.
-
----
-
-# Ordem Recomendada de Estudo
-
-```text
-Introdução
-
-↓
-
-Fundamentos
-
-↓
-
-Linux
-
-↓
-
-SQL
-
-↓
-
-Modelagem
-
-↓
-
-Banco de Dados
-
-↓
-
-Data Warehouse
-
-↓
-
-Data Lake
-
-↓
-
-Lakehouse
-
-↓
-
-Spark
-
-↓
-
-Streaming
-
-↓
-
-Orquestração
-
-↓
-
-Qualidade
-
-↓
-
-Cloud
-
-↓
-
-DataOps
-
-↓
-
-Arquitetura
-
-↓
-
-ML Engineering
-
-↓
-
-Projeto Final
+## Ordem Recomendada de Estudo
+
+```mermaid
+flowchart TD
+    V00["00 — Introdução"] --> V01["01 — Fundamentos"]
+    V01 --> V02["02 — Linux"]
+    V02 --> V03["03 — Git e GitHub"]
+    V03 --> V04["04 — SQL"]
+    V04 --> V05["05 — Modelagem de Dados"]
+    V05 --> V06["06 — Python"]
+    V06 --> V07["07 — Apache Spark"]
+    V07 --> V08["08 — PostgreSQL"]
+    V08 --> V09["09 — Lakehouse"]
+    V09 --> V10["10 — Trino"]
+    V10 --> V11["11 — Apache Airflow"]
+    V11 --> V12["12 — Qualidade de Dados"]
+    V12 --> V13["13 — Observabilidade"]
+    V13 --> V14["14 — Streaming"]
+    V14 --> V15["15 — Cloud"]
+    V15 --> V16["16 — DataOps e DevOps"]
+    V16 --> V17["17 — Arquiteturas Avançadas"]
+    V17 --> V18["18 — Projeto Integrador"]
 ```
 
 ---
 
-# Critério de Conclusão
+## Critério de Conclusão
 
 Um módulo somente pode ser considerado concluído quando possuir:
 
-* README
-* Objetivos
-* Introdução
-* Capítulos técnicos
-* Estudo de Caso
-* Resumo
-* Perguntas de Entrevista
-* Exercícios
-* Gabarito
-* Laboratório
-* Solução
-* Referências
+* README;
+* Objetivos;
+* Introdução;
+* capítulos técnicos;
+* Estudo de Caso;
+* Resumo;
+* Perguntas de Entrevista;
+* Exercícios;
+* Gabarito;
+* Laboratório;
+* Solução;
+* Referências.
 
 ---
 
-# Continuidade
+## Continuidade
 
-Antes de criar novos conteúdos, os agentes de IA devem:
+Antes de criar novos conteúdos, colaboradores e agentes devem:
 
-1. Ler este ROADMAP.
-2. Identificar o último módulo concluído.
-3. Localizar o próximo módulo previsto.
-4. Confirmar o status no `MEMORY.md`.
-5. Continuar exatamente desse ponto.
+1. consultar a estrutura existente em `100-Volumes`;
+2. confirmar o estado neste ROADMAP;
+3. confirmar o próximo marco no `MEMORY.md` e no `PROJECT_STATUS.md`;
+4. verificar se já existe conteúdo parcial;
+5. continuar exatamente do ponto registrado.
 
----
-
-# Evolução
-
-A ordem dos volumes poderá evoluir ao longo do projeto.
-
-Entretanto:
-
-* não remover volumes já publicados;
-* evitar mudanças de numeração;
-* preservar compatibilidade com Wikilinks;
-* registrar alterações relevantes no `CHANGELOG.md`.
+Nunca duplicar capítulos nem reiniciar módulos concluídos.
 
 ---
 
-# Visão de Longo Prazo
+## Evolução
 
-A Formação em Engenharia de Dados tem como objetivo tornar-se uma referência aberta em língua portuguesa, cobrindo toda a jornada de aprendizado de um Engenheiro de Dados, desde os fundamentos até arquiteturas distribuídas, plataformas modernas de dados e projetos completos de nível profissional.
+Os nomes e números registrados neste documento correspondem aos diretórios existentes e formam a estrutura oficial da coleção.
 
-O ROADMAP representa esse compromisso de longo prazo e deve ser atualizado sempre que novos volumes, módulos ou marcos forem planejados ou concluídos.
+Alterações arquiteturais devem:
+
+* ser autorizadas explicitamente;
+* preservar Wikilinks e navegação;
+* evitar renumeração de volumes publicados;
+* ser refletidas em `README.md`, `ARCHITECTURE.md`, `MEMORY.md` e `PROJECT_STATUS.md`;
+* ser registradas no `CHANGELOG.md`.
+
+---
+
+## Visão de Longo Prazo
+
+A Formação em Engenharia de Dados pretende tornar-se uma referência aberta em língua portuguesa, cobrindo desde fundamentos até plataformas modernas, operação de dados e arquiteturas avançadas. O Projeto Integrador da DataRetail S.A. consolida os conhecimentos desenvolvidos ao longo da coleção.

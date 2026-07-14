@@ -1,12 +1,12 @@
 # EDITORIAL.md
 
-# Manual Editorial
+## Manual Editorial
 
 ## Formação em Engenharia de Dados
 
 ---
 
-# Objetivo
+## Objetivo
 
 Este documento estabelece o padrão editorial oficial da coleção **Formação em Engenharia de Dados**.
 
@@ -16,7 +16,7 @@ Todas as contribuições devem seguir estas regras.
 
 ---
 
-# Filosofia Editorial
+## Filosofia Editorial
 
 A coleção deve ser escrita como um livro técnico profissional.
 
@@ -32,7 +32,7 @@ O leitor deve perceber que todos os capítulos pertencem à mesma obra.
 
 ---
 
-# Princípios Fundamentais
+## Princípios Fundamentais
 
 Todo conteúdo deve seguir os princípios abaixo.
 
@@ -76,7 +76,7 @@ Depois apresentar implementações em ferramentas.
 
 ---
 
-# Idioma
+## Idioma
 
 Todo o conteúdo deve ser produzido em Português do Brasil.
 
@@ -97,7 +97,7 @@ Evitar traduções artificiais.
 
 ---
 
-# Público-Alvo
+## Público-Alvo
 
 Os capítulos devem atender simultaneamente três perfis.
 
@@ -119,7 +119,7 @@ Busca compreender funcionamento interno, arquitetura e boas práticas.
 
 ---
 
-# Estrutura de um Capítulo
+## Estrutura de um Capítulo
 
 Todo capítulo técnico deve seguir a seguinte sequência.
 
@@ -147,7 +147,7 @@ Todo capítulo técnico deve seguir a seguinte sequência.
 
 ---
 
-# Objetivos
+## Objetivos
 
 Todo capítulo inicia informando claramente o que será aprendido.
 
@@ -163,7 +163,7 @@ Exemplos:
 
 ---
 
-# Introdução
+## Introdução
 
 A introdução deve responder:
 
@@ -175,7 +175,7 @@ Nunca iniciar diretamente com definições.
 
 ---
 
-# Desenvolvimento
+## Desenvolvimento
 
 O desenvolvimento deve seguir esta ordem:
 
@@ -203,7 +203,7 @@ Resumo
 
 ---
 
-# Diagramas
+## Diagramas
 
 Sempre que possível incluir diagramas Mermaid.
 
@@ -222,7 +222,7 @@ Priorizar:
 
 ---
 
-# Código
+## Código
 
 Todo código deve ser válido.
 
@@ -247,7 +247,7 @@ Evitar pseudocódigo.
 
 ---
 
-# Exemplos
+## Exemplos
 
 Todo conceito importante deve possuir exemplos.
 
@@ -259,7 +259,7 @@ Preferencialmente:
 
 ---
 
-# Tabelas
+## Tabelas
 
 Utilizar tabelas quando melhorarem a compreensão.
 
@@ -267,7 +267,7 @@ Evitar tabelas excessivamente grandes.
 
 ---
 
-# Callouts
+## Callouts
 
 Utilizar callouts apenas quando necessários.
 
@@ -287,7 +287,7 @@ Evitar excesso.
 
 ---
 
-# Wikilinks
+## Wikilinks
 
 Sempre utilizar Wikilinks do Obsidian.
 
@@ -305,7 +305,7 @@ Nunca criar links quebrados.
 
 ---
 
-# YAML Frontmatter
+## YAML Frontmatter
 
 Todos os documentos estruturados devem iniciar com:
 
@@ -322,7 +322,7 @@ updated:
 
 ---
 
-# Convenção de Arquivos
+## Convenção de Arquivos
 
 Os arquivos devem possuir nomes claros.
 
@@ -342,7 +342,7 @@ Evitar caracteres especiais.
 
 ---
 
-# Convenção de Títulos
+## Convenção de Títulos
 
 Utilizar:
 
@@ -358,7 +358,7 @@ Evitar níveis maiores que quatro.
 
 ---
 
-# Estudos de Caso
+## Estudos de Caso
 
 Sempre utilizar o cenário da empresa fictícia:
 
@@ -370,7 +370,7 @@ Evitar criar empresas fictícias diferentes.
 
 ---
 
-# Laboratórios
+## Laboratórios
 
 Todo laboratório deve conter:
 
@@ -390,7 +390,7 @@ Conclusão
 
 ---
 
-# Exercícios
+## Exercícios
 
 Organizar por dificuldade.
 
@@ -404,7 +404,7 @@ Organizar por dificuldade.
 
 ---
 
-# Perguntas de Entrevista
+## Perguntas de Entrevista
 
 Priorizar perguntas utilizadas em processos seletivos reais.
 
@@ -414,7 +414,7 @@ Sempre fornecer respostas fundamentadas no capítulo.
 
 ---
 
-# Referências
+## Referências
 
 Prioridade:
 
@@ -432,7 +432,7 @@ Evitar blogs desconhecidos.
 
 ---
 
-# Estilo de Escrita
+## Estilo de Escrita
 
 Escrever como um autor técnico.
 
@@ -447,7 +447,7 @@ Evitar:
 
 ---
 
-# Profundidade
+## Profundidade
 
 Sempre responder:
 
@@ -469,7 +469,7 @@ Quais alternativas?
 
 ---
 
-# Repetições
+## Repetições
 
 Evitar repetir definições em diversos capítulos.
 
@@ -477,7 +477,7 @@ Quando necessário, utilizar Wikilinks.
 
 ---
 
-# Consistência
+## Consistência
 
 Antes de finalizar um documento verificar:
 
@@ -490,7 +490,7 @@ Antes de finalizar um documento verificar:
 
 ---
 
-# Checklist Editorial
+## Checklist Editorial
 
 Todo documento deve responder positivamente às perguntas abaixo.
 
@@ -511,7 +511,7 @@ Somente após esse checklist o documento pode ser considerado concluído.
 
 ---
 
-# Identidade da Coleção
+## Identidade da Coleção
 
 A **Formação em Engenharia de Dados** deve transmitir a sensação de uma obra única e contínua.
 

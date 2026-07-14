@@ -1,6 +1,6 @@
 # PROJECT_STATUS.md
 
-# Status do Projeto
+## Status do Projeto
 
 ## Formação em Engenharia de Dados
 
@@ -8,7 +8,7 @@
 
 ---
 
-# Informações Gerais
+## Informações Gerais
 
 | Item               | Valor                            |
 | ------------------ | -------------------------------- |
@@ -17,11 +17,11 @@
 | Idioma             | Português (Brasil)               |
 | Repositório        | LivroEngenhariaDados             |
 | Status Geral       | 🚧 Em desenvolvimento            |
-| Última atualização | Atualizar a cada marco relevante |
+| Última atualização | 2026-07-14                     |
 
 ---
 
-# Governança
+## Governança
 
 ## Status dos documentos de governança
 
@@ -39,7 +39,7 @@
 
 ---
 
-# Estrutura Geral
+## Estrutura Geral
 
 ## Vault
 
@@ -68,13 +68,19 @@ Diretórios principais:
 
 ---
 
-# Progresso da Coleção
+## Progresso da Coleção
 
 ## Volume 00 — Introdução
 
 Status:
 
-⏳ Não iniciado
+🚧 Em desenvolvimento
+
+Situação:
+
+* Dez módulos estruturados.
+* Conteúdo parcial existente.
+* O módulo `01-O-que-e-Engenharia-de-Dados` contém capítulos técnicos já produzidos.
 
 ---
 
@@ -116,20 +122,23 @@ Status:
 Situação:
 
 * README concluído.
-* Capítulos iniciais desenvolvidos.
+* Capítulos 01 a 06 desenvolvidos.
+* O capítulo `07-Processamento-de-Dados.md` existe, mas está vazio.
 * Módulo ainda não finalizado.
 
 ---
 
-## Demais Volumes
+## Volumes 02 a 18
 
 Status:
 
-⏳ Planejados
+⏳ Estruturados
+
+Os diretórios, `README.md`, `SUMMARY.md` e `CHANGELOG.md` de cada volume existem. Os READMEs ainda são placeholders vazios; portanto, esses volumes não são considerados iniciados ou concluídos.
 
 ---
 
-# Próximo Trabalho
+## Próximo Trabalho
 
 O próximo trabalho oficial do projeto é:
 
@@ -186,7 +195,7 @@ Após concluir esse módulo:
 
 ---
 
-# Backlog
+## Backlog
 
 ## Alta Prioridade
 
@@ -212,13 +221,15 @@ Após concluir esse módulo:
 
 ---
 
-# Decisões Recentes
+## Decisões Recentes
 
 ## Arquitetura
 
 * Separação entre memória institucional e estado operacional.
 * Criação de documentação de governança dedicada.
 * Padronização editorial consolidada.
+* Estrutura física de `100-Volumes` definida como fonte oficial para nomes e numeração.
+* ROADMAP sincronizado com os volumes `00-Introducao` a `18-Projeto-Integrador`.
 
 ---
 
@@ -241,7 +252,7 @@ antes de produzir qualquer novo conteúdo.
 
 ---
 
-# Checklist para Retomada
+## Checklist para Retomada
 
 Antes de continuar o desenvolvimento, verificar:
 
@@ -254,7 +265,7 @@ Antes de continuar o desenvolvimento, verificar:
 
 ---
 
-# Critérios para Atualização
+## Critérios para Atualização
 
 Atualizar este documento sempre que ocorrer um dos eventos abaixo:
 
@@ -269,7 +280,7 @@ Não registrar pequenas alterações editoriais ou correções de texto.
 
 ---
 
-# Como Retomar o Projeto
+## Como Retomar o Projeto
 
 Ao iniciar uma nova sessão de trabalho:
 
@@ -285,7 +296,7 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ---
 
-# Próximo Marco
+## Próximo Marco
 
 **Concluir integralmente o Módulo 02 — Ciclo de Vida dos Dados.**
 
@@ -298,7 +309,7 @@ Após sua conclusão:
 
 ---
 
-# Histórico de Marcos
+## Histórico de Marcos
 
 | Marco                             | Status |
 | --------------------------------- | ------ |
@@ -312,7 +323,7 @@ Após sua conclusão:
 
 ---
 
-# Observações
+## Observações
 
 Este documento é a principal referência operacional do projeto.
 

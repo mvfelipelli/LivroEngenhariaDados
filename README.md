@@ -6,7 +6,7 @@
 
 ---
 
-# Objetivo
+## Objetivo
 
 Este projeto tem como objetivo construir uma **Academia de Engenharia de Dados** inteiramente em português, organizada como um Vault do Obsidian e estruturada como uma combinação de:
 
@@ -23,7 +23,7 @@ O conteúdo foi projetado para evoluir continuamente, permitindo que um estudant
 
 ---
 
-# Filosofia do Projeto
+## Filosofia do Projeto
 
 Este projeto segue alguns princípios fundamentais.
 
@@ -91,7 +91,7 @@ São utilizados recursos como:
 
 ---
 
-# Público-Alvo
+## Público-Alvo
 
 Esta formação foi planejada para:
 
@@ -107,7 +107,7 @@ Esta formação foi planejada para:
 
 ---
 
-# Estrutura do Projeto
+## Estrutura do Projeto
 
 O Vault é organizado da seguinte forma:
 
@@ -136,13 +136,13 @@ tools/
 
 ---
 
-# Organização dos Volumes
+## Organização dos Volumes
 
 Cada volume representa um grande domínio da Engenharia de Dados.
 
-Exemplo:
+Estrutura oficial:
 
-```
+```text
 100-Volumes/
 
 00-Introducao
@@ -151,30 +151,52 @@ Exemplo:
 
 02-Linux
 
-03-SQL
+03-Git-e-GitHub
 
-04-Modelagem
+04-SQL
 
-05-Bancos-de-Dados
+05-Modelagem-de-Dados
 
-06-Data-Warehouse
+06-Python
 
-...
+07-Apache-Spark
 
-20-Projeto-Final
+08-PostgreSQL
+
+09-Lakehouse
+
+10-Trino
+
+11-Apache-Airflow
+
+12-Qualidade-de-Dados
+
+13-Observabilidade
+
+14-Streaming
+
+15-Cloud
+
+16-DataOps-e-DevOps
+
+17-Arquiteturas-Avancadas
+
+18-Projeto-Integrador
 ```
 
 Cada volume é dividido em módulos.
 
 Cada módulo possui uma estrutura padronizada.
 
+Os nomes e números acima correspondem aos diretórios existentes em `100-Volumes` e constituem a estrutura oficial. Mudanças nessa sequência exigem decisão arquitetural explícita.
+
 ---
 
-# Estrutura dos Módulos
+## Estrutura dos Módulos
 
 Todos os módulos seguem exatamente a mesma organização.
 
-```
+```text
 README.md
 
 01-Objetivos.md
@@ -208,7 +230,7 @@ Essa padronização permite uma experiência consistente durante toda a formaç�
 
 ---
 
-# Padrão Editorial
+## Padrão Editorial
 
 Todos os documentos seguem um padrão único.
 
@@ -231,7 +253,7 @@ As regras completas encontram-se em:
 
 ---
 
-# Projeto Integrador
+## Projeto Integrador
 
 Durante toda a formação será utilizada uma empresa fictícia:
 
@@ -241,7 +263,7 @@ Todos os exemplos, estudos de caso, pipelines, bancos de dados e laboratórios s
 
 ---
 
-# Inteligência Artificial
+## Inteligência Artificial
 
 Este projeto foi desenvolvido para funcionar em conjunto com agentes de IA.
 
@@ -262,11 +284,11 @@ As instruções encontram-se em:
 
 ---
 
-# Roadmap
+## Roadmap
 
 O planejamento completo da formação está disponível em:
 
-```
+```text
 ROADMAP.md
 ```
 
@@ -279,11 +301,11 @@ Nele encontram-se:
 
 ---
 
-# Estado Atual
+## Estado Atual
 
 O estado atual do projeto encontra-se em:
 
-```
+```text
 MEMORY.md
 ```
 
@@ -297,7 +319,7 @@ Esse documento registra:
 
 ---
 
-# Como Utilizar
+## Como Utilizar
 
 Clone o repositório:
 
@@ -311,7 +333,7 @@ Toda a navegação foi planejada para utilizar backlinks, wikilinks e gráficos 
 
 ---
 
-# Contribuições
+## Contribuições
 
 Contribuições são bem-vindas.
 
@@ -326,7 +348,7 @@ Antes de enviar alterações, recomenda-se:
 
 ---
 
-# Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 Entre as tecnologias abordadas ao longo da formação estão:
 
@@ -356,7 +378,7 @@ Entre as tecnologias abordadas ao longo da formação estão:
 
 ---
 
-# Licença
+## Licença
 
 Este projeto é disponibilizado para fins educacionais.
 
@@ -364,7 +386,7 @@ A definição da licença oficial será publicada em versões futuras do reposit
 
 ---
 
-# Autor
+## Autor
 
 **Marcello Felipelli**
 
@@ -372,7 +394,7 @@ Engenheiro de Dados • Arquiteto de Dados • Especialista em Analytics
 
 LinkedIn:
 
-https://www.linkedin.com/in/marcellofelipelli/
+[Perfil de Marcello Felipelli no LinkedIn](https://www.linkedin.com/in/marcellofelipelli/)
 
 ---
 
