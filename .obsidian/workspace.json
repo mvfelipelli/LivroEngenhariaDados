@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "9a4e90a290491868",
+    "type": "split",
+    "children": [
+      {
+        "id": "24aeaff53f8182dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce01ee39de58d7bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100-Volumes/01-Fundamentos/02-Ciclo-de-Vida-dos-Dados/07-Processamento-de-Dados.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07-Processamento-de-Dados"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9332f045b86204bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "d72fe5345fb5ad50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4bac3c21384447b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "36d10fc110d90943",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "87beaf678fdfe26b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5086555480957
+  },
+  "right": {
+    "id": "95bb090e6427418f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6efc83836830951a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72cf63c1308834d4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "100-Volumes/01-Fundamentos/01-Dados/15 - Referências.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 15 - Referências"
+            }
+          },
+          {
+            "id": "cfa0d33c7657429e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "100-Volumes/01-Fundamentos/01-Dados/15 - Referências.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 15 - Referências"
+            }
+          },
+          {
+            "id": "a46d71aaa61c9df5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b2eed1a8bd9e7762",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "485a37894f2d0b56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "100-Volumes/01-Fundamentos/01-Dados/15 - Referências.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 15 - Referências"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ce01ee39de58d7bf",
+  "lastOpenFiles": [
+    "100-Volumes/01-Fundamentos/02-Ciclo-de-Vida-dos-Dados/06-Armazenamento-de-Dados.md",
+    "100-Volumes/01-Fundamentos/02-Ciclo-de-Vida-dos-Dados/07-Processamento-de-Dados.md",
+    "100-Volumes/01-Fundamentos/02-Ciclo-de-Vida-dos-Dados/05-Ingestao-de-Dados.md",
+    "100-Volumes/01-Fundamentos/02-Ciclo-de-Vida-dos-Dados/04-Geracao-e-Coleta-de-Dados.md",
+    "100-Volumes/01-Fundamentos/02-Ciclo-de-Vida-dos-Dados/03-O-que-e-o-Ciclo-de-Vida-dos-Dados.md",
+    "100-Volumes/01-Fundamentos/02-Ciclo-de-Vida-dos-Dados/02-Introducao.md",
+    "100-Volumes/01-Fundamentos/02-Ciclo-de-Vida-dos-Dados/01-Objetivos.md",
+    "100-Volumes/01-Fundamentos/02-Ciclo-de-Vida-dos-Dados/README.md",
+    "100-Volumes/01-Fundamentos/01-Dados/15 - Referências.md",
+    "030-Projetos/DataRetail Platform/tests/desktop.ini",
+    "020-Laboratorios/Streaming/desktop.ini",
+    "010-Biblioteca/Documentacao Oficial/desktop.ini",
+    "000-Atlas/Empresas/desktop.ini",
+    "000-Atlas/Diagramas/desktop.ini",
+    "090-Arquivados/desktop.ini",
+    "080-Inbox/desktop.ini",
+    "100-Volumes/06-Python/desktop.ini",
+    "100-Volumes/05-Modelagem-de-Dados/desktop.ini",
+    "100-Volumes/04-SQL/desktop.ini",
+    "100-Volumes/01-Fundamentos/01-Dados/14 - Solução.md",
+    "100-Volumes/01-Fundamentos/01-Dados/14 - Laboratório.md",
+    "100-Volumes/01-Fundamentos/01-Dados/13 - Gabarito.md",
+    "100-Volumes/01-Fundamentos/01-Dados/13 - Exercícios.md",
+    "100-Volumes/01-Fundamentos/01-Dados/12 - Perguntas de Entrevista.md",
+    "100-Volumes/01-Fundamentos/01-Dados/11 - Resumo.md",
+    "100-Volumes/01-Fundamentos/01-Dados/10 - Estudo de Caso.md",
+    "100-Volumes/01-Fundamentos/01-Dados/09 - Metadados.md",
+    "100-Volumes/01-Fundamentos/01-Dados/08 - Qualidade dos Dados.md",
+    "100-Volumes/01-Fundamentos/01-Dados/07 - Ciclo de Vida dos Dados.md",
+    "100-Volumes/01-Fundamentos/01-Dados/06 - Estruturação dos Dados.md",
+    "100-Volumes/01-Fundamentos/01-Dados/05 - Tipos de Dados.md",
+    "100-Volumes/01-Fundamentos/01-Dados/04 - Características dos Dados.md",
+    "100-Volumes/01-Fundamentos/01-Dados/03 - O que são Dados.md",
+    "100-Volumes/01-Fundamentos/01-Dados/02 - Introdução.md",
+    "100-Volumes/01-Fundamentos/01-Dados/01 - Objetivos.md",
+    "100-Volumes/01-Fundamentos/01-Dados/README.md"
+  ]
+}

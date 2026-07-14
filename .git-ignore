@@ -1,0 +1,27 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
+
+# Obsidian Workspace (opcional)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Lixeira
+999-Arquivos-Temporarios/

@@ -1,0 +1,40 @@
+$script = ".\Adequar-Academia.ps1"
+
+Copy-Item $script "$script.bak" -Force
+
+$conteudo = Get-Content $script -Raw
+
+$antigo = @'
+        $content = Get-Content -LiteralPath $file.FullName -Raw -Encoding utf8
+
+        if ($null -eq $content) {
+            $content = ""
+        }
+
+        $updated = $content
+'@
+
+$novo = @'
+        $content = Get-Content -LiteralPath $file.FullName -Raw -Encoding utf8
+
+        if ($null -eq $content) {
+            $content = ""
+        }
+
+        $updated = $content
+'@
+
+if (-not $conteudo.Contains($antigo)) {
+    throw "Trecho esperado não encontrado. O script não foi alterado."
+}
+
+$conteudo = $conteudo.Replace($antigo, $novo)
+
+Set-Content `
+    -LiteralPath $script `
+    -Value $conteudo `
+    -Encoding utf8
+
+Write-Host "Adequar-Academia.ps1 corrigido." -ForegroundColor Green
+
+
