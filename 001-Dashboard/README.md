@@ -37,7 +37,7 @@ Aqui você encontrará:
 
 Siga esta ordem.
 
-1. [[000-Atlas/Como Usar a Academia]]
+1. [[000-Atlas/Como-Usar-a-Academia|Como Usar a Academia]]
 
 2. [[000-Atlas/Roadmap]]
 
@@ -96,7 +96,7 @@ Siga esta ordem.
 - [[000-Atlas/Tecnologias]]
 - [[000-Atlas/Timeline]]
 - [[000-Atlas/Carreira]]
-- [[000-Atlas/Guia Editorial]]
+- [[000-Atlas/Guia-Editorial|Guia Editorial]]
 
 ---
 

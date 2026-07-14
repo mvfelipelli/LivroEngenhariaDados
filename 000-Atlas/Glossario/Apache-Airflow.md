@@ -1,20 +1,20 @@
 ---
-title: MapReduce
+title: Apache Airflow
 aliases:
-  - MapReduce
+  - Apache Airflow
 type: glossario
 status: rascunho
 created: 2026-07-13
 tags:
-  - big-data
-  - processamento-distribuido
-  - conceito
+  - orquestracao
+  - airflow
+  - tecnologia
 ---
 
-# MapReduce
+# Apache Airflow
 
 > [!abstract] Definição
-> Adicione aqui uma definição objetiva para **MapReduce**.
+> Adicione aqui uma definição objetiva para **Apache Airflow**.
 
 ## Contexto
 
@@ -33,8 +33,9 @@ Explique por que esse conceito é importante para a [[Engenharia-de-Dados|Engenh
 
 ## Relações com outros conceitos
 
-- [[Big-Data|Big Data]]
+- [[Pipeline-de-Dados|Pipeline de Dados]]
 - [[Apache-Spark|Apache Spark]]
+- [[DataOps]]
 
 ## Referências
 

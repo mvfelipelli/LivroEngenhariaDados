@@ -1,20 +1,20 @@
 ---
-title: MapReduce
+title: Big Data
 aliases:
-  - MapReduce
+  - Big Data
 type: glossario
 status: rascunho
 created: 2026-07-13
 tags:
   - big-data
-  - processamento-distribuido
+  - fundamentos
   - conceito
 ---
 
-# MapReduce
+# Big Data
 
 > [!abstract] Definição
-> Adicione aqui uma definição objetiva para **MapReduce**.
+> Adicione aqui uma definição objetiva para **Big Data**.
 
 ## Contexto
 
@@ -33,8 +33,9 @@ Explique por que esse conceito é importante para a [[Engenharia-de-Dados|Engenh
 
 ## Relações com outros conceitos
 
-- [[Big-Data|Big Data]]
+- [[Engenharia-de-Dados|Engenharia de Dados]]
 - [[Apache-Spark|Apache Spark]]
+- [[Data-Lake|Data Lake]]
 
 ## Referências
 

@@ -1,20 +1,21 @@
 ---
-title: MapReduce
+title: Apache Iceberg
 aliases:
-  - MapReduce
+  - Apache Iceberg
 type: glossario
 status: rascunho
 created: 2026-07-13
 tags:
-  - big-data
-  - processamento-distribuido
-  - conceito
+  - lakehouse
+  - table-format
+  - iceberg
+  - tecnologia
 ---
 
-# MapReduce
+# Apache Iceberg
 
 > [!abstract] Definição
-> Adicione aqui uma definição objetiva para **MapReduce**.
+> Adicione aqui uma definição objetiva para **Apache Iceberg**.
 
 ## Contexto
 
@@ -33,7 +34,9 @@ Explique por que esse conceito é importante para a [[Engenharia-de-Dados|Engenh
 
 ## Relações com outros conceitos
 
-- [[Big-Data|Big Data]]
+- [[Data-Lake|Data Lake]]
+- [[Lakehouse]]
+- [[Trino]]
 - [[Apache-Spark|Apache Spark]]
 
 ## Referências

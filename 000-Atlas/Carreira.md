@@ -418,7 +418,7 @@ Você está evoluindo quando:
 - [[Tecnologias]]
 - [[Arquiteturas]]
 - [[Projeto Integrador]]
-- [[Engenheiro de Dados]]
+- [[Engenheiro-de-Dados|Engenheiro de Dados]]
 - [[DataOps]]
 
 ---

@@ -18,7 +18,7 @@ tags:
 
 ## Contexto
 
-Explique por que esse conceito é importante para a [[Engenharia de Dados]].
+Explique por que esse conceito é importante para a [[Engenharia-de-Dados|Engenharia de Dados]].
 
 ## Características principais
 
@@ -34,8 +34,8 @@ Explique por que esse conceito é importante para a [[Engenharia de Dados]].
 ## Relações com outros conceitos
 
 - [[ERP]]
-- [[Data Warehouse]]
-- [[Pipeline de Dados]]
+- [[Data-Warehouse|Data Warehouse]]
+- [[Pipeline-de-Dados|Pipeline de Dados]]
 
 ## Referências
 

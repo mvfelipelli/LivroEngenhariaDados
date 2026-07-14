@@ -1,20 +1,20 @@
 ---
-title: MapReduce
+title: Apache Spark
 aliases:
-  - MapReduce
+  - Apache Spark
 type: glossario
 status: rascunho
 created: 2026-07-13
 tags:
-  - big-data
   - processamento-distribuido
-  - conceito
+  - spark
+  - tecnologia
 ---
 
-# MapReduce
+# Apache Spark
 
 > [!abstract] Definição
-> Adicione aqui uma definição objetiva para **MapReduce**.
+> Adicione aqui uma definição objetiva para **Apache Spark**.
 
 ## Contexto
 
@@ -34,7 +34,9 @@ Explique por que esse conceito é importante para a [[Engenharia-de-Dados|Engenh
 ## Relações com outros conceitos
 
 - [[Big-Data|Big Data]]
-- [[Apache-Spark|Apache Spark]]
+- [[Pipeline-de-Dados|Pipeline de Dados]]
+- [[Data-Lake|Data Lake]]
+- [[Apache-Iceberg|Apache Iceberg]]
 
 ## Referências
 

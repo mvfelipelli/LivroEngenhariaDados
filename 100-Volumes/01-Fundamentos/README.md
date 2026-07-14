@@ -163,10 +163,10 @@ Ao concluir este volume você terá desenvolvido:
 
 - [[SQL]]
 - [[Python]]
-- [[Apache Spark]]
+- [[Apache-Spark|Apache Spark]]
 - [[PostgreSQL]]
-- [[Apache Airflow]]
-- [[Apache Iceberg]]
+- [[Apache-Airflow|Apache Airflow]]
+- [[Apache-Iceberg|Apache Iceberg]]
 - [[Trino]]
 
 ---
@@ -175,15 +175,15 @@ Ao concluir este volume você terá desenvolvido:
 
 Conceitos utilizados neste volume:
 
-- [[Pipeline de Dados]]
+- [[Pipeline-de-Dados|Pipeline de Dados]]
 - [[ETL]]
 - [[ELT]]
-- [[Data Warehouse]]
-- [[Data Lake]]
+- [[Data-Warehouse|Data Warehouse]]
+- [[Data-Lake|Data Lake]]
 - [[Lakehouse]]
 - [[Batch]]
 - [[Streaming]]
-- [[Qualidade de Dados]]
+- [[Qualidade-de-Dados|Qualidade de Dados]]
 
 ---
 

@@ -18,7 +18,7 @@ tags:
 
 ## Contexto
 
-Explique por que esse conceito é importante para a [[Engenharia de Dados]].
+Explique por que esse conceito é importante para a [[Engenharia-de-Dados|Engenharia de Dados]].
 
 ## Características principais
 
@@ -33,8 +33,8 @@ Explique por que esse conceito é importante para a [[Engenharia de Dados]].
 
 ## Relações com outros conceitos
 
-- [[Apache Iceberg]]
-- [[Data Lake]]
+- [[Apache-Iceberg|Apache Iceberg]]
+- [[Data-Lake|Data Lake]]
 - [[Lakehouse]]
 
 ## Referências

@@ -113,7 +113,7 @@ Sempre utilizar os mesmos termos.
 
 ## Nomes de Arquivos
 
-Utilizar:
+Para documentos editoriais do Vault — Atlas, Wiki, volumes, módulos e capítulos — utilizar:
 
 * números de dois dígitos;
 * palavras separadas por hífen;
@@ -141,6 +141,8 @@ Meu Arquivo.md
 
 capitulo1.md
 ```
+
+Arquivos de infraestrutura e governança podem preservar convenções exigidas por suas ferramentas, como `PROJECT_STATUS.md`, `PULL_REQUEST_TEMPLATE.md` e arquivos internos do GitHub. Essa exceção não se aplica ao conteúdo editorial.
 
 ---
 
@@ -336,9 +338,9 @@ Evitar HTML.
 Sempre utilizar:
 
 ```text
-[[Apache Spark]]
+[[Apache-Spark|Apache Spark]]
 
-[[Data Warehouse]]
+[[Data-Warehouse|Data Warehouse]]
 
 [[PostgreSQL]]
 ```

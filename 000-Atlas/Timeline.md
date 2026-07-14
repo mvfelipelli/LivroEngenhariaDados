@@ -355,8 +355,8 @@ Nos próximos anos espera-se crescimento de:
 - [[Tecnologias]]
 - [[Roadmap]]
 - [[Carreira]]
-- [[Apache Spark]]
-- [[Apache Iceberg]]
+- [[Apache-Spark|Apache Spark]]
+- [[Apache-Iceberg|Apache Iceberg]]
 - [[Data Mesh]]
 
 ---

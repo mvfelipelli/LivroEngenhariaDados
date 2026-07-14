@@ -173,9 +173,9 @@ Sempre utilizar Wikilinks do Obsidian.
 Exemplo:
 
 ```text
-[[Data Lake]]
+[[Data-Lake|Data Lake]]
 
-[[Apache Spark]]
+[[Apache-Spark|Apache Spark]]
 
 [[Normalização]]
 ```

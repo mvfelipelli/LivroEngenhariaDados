@@ -1,20 +1,20 @@
 ---
-title: MapReduce
+title: Data Lake
 aliases:
-  - MapReduce
+  - Data Lake
 type: glossario
 status: rascunho
 created: 2026-07-13
 tags:
-  - big-data
-  - processamento-distribuido
-  - conceito
+  - data-lake
+  - armazenamento
+  - arquitetura
 ---
 
-# MapReduce
+# Data Lake
 
 > [!abstract] Definição
-> Adicione aqui uma definição objetiva para **MapReduce**.
+> Adicione aqui uma definição objetiva para **Data Lake**.
 
 ## Contexto
 
@@ -33,8 +33,9 @@ Explique por que esse conceito é importante para a [[Engenharia-de-Dados|Engenh
 
 ## Relações com outros conceitos
 
-- [[Big-Data|Big Data]]
-- [[Apache-Spark|Apache Spark]]
+- [[Data-Warehouse|Data Warehouse]]
+- [[Lakehouse]]
+- [[Apache-Iceberg|Apache Iceberg]]
 
 ## Referências
 

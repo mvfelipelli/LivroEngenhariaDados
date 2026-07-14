@@ -1,20 +1,20 @@
 ---
-title: MapReduce
+title: Engenheiro de Dados
 aliases:
-  - MapReduce
+  - Engenheiro de Dados
 type: glossario
 status: rascunho
 created: 2026-07-13
 tags:
-  - big-data
-  - processamento-distribuido
-  - conceito
+  - engenharia-dados
+  - carreira
+  - profissao
 ---
 
-# MapReduce
+# Engenheiro de Dados
 
 > [!abstract] Definição
-> Adicione aqui uma definição objetiva para **MapReduce**.
+> Adicione aqui uma definição objetiva para **Engenheiro de Dados**.
 
 ## Contexto
 
@@ -33,8 +33,9 @@ Explique por que esse conceito é importante para a [[Engenharia-de-Dados|Engenh
 
 ## Relações com outros conceitos
 
-- [[Big-Data|Big Data]]
-- [[Apache-Spark|Apache Spark]]
+- [[Engenharia-de-Dados|Engenharia de Dados]]
+- [[Pipeline-de-Dados|Pipeline de Dados]]
+- [[DataOps]]
 
 ## Referências
 

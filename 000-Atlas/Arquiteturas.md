@@ -126,7 +126,7 @@ Suportar sistemas transacionais.
 
 ---
 
-## [[Data Warehouse]]
+## [[Data-Warehouse|Data Warehouse]]
 
 ### Objetivo
 
@@ -148,7 +148,7 @@ Centralizar dados para análises corporativas.
 
 ---
 
-## [[Data Lake]]
+## [[Data-Lake|Data Lake]]
 
 ### Objetivo
 
@@ -185,7 +185,7 @@ Combinar as vantagens do Data Lake com o Data Warehouse.
 
 ### Tecnologias
 
-- [[Apache Iceberg]]
+- [[Apache-Iceberg|Apache Iceberg]]
 - Delta Lake
 - Apache Hudi
 
@@ -386,8 +386,8 @@ A decisão depende de fatores como:
 
 ## Conceitos
 
-- [[Data Warehouse]]
-- [[Data Lake]]
+- [[Data-Warehouse|Data Warehouse]]
+- [[Data-Lake|Data Lake]]
 - [[Lakehouse]]
 - [[Data Mesh]]
 - [[Data Fabric]]
@@ -399,9 +399,9 @@ A decisão depende de fatores como:
 
 ## Tecnologias
 
-- [[Apache Spark]]
-- [[Apache Airflow]]
-- [[Apache Iceberg]]
+- [[Apache-Spark|Apache Spark]]
+- [[Apache-Airflow|Apache Airflow]]
+- [[Apache-Iceberg|Apache Iceberg]]
 - [[Trino]]
 - [[PostgreSQL]]
 

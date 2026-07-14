@@ -294,7 +294,7 @@ Sempre utilizar Wikilinks do Obsidian.
 Exemplo:
 
 ```text
-[[Apache Spark]]
+[[Apache-Spark|Apache Spark]]
 
 [[SQL]]
 
@@ -339,6 +339,8 @@ Exemplo:
 Evitar espaços.
 
 Evitar caracteres especiais.
+
+Esta convenção é obrigatória para documentos editoriais do Atlas, da Wiki e dos volumes. Arquivos de governança ou integração podem seguir nomes reservados pelas ferramentas que os utilizam.
 
 ---
 

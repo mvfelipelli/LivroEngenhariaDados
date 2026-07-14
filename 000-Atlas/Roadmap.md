@@ -485,7 +485,7 @@ ARQ --> PRO
 # 🔗 Veja Também
 
 - [[MOC]]
-- [[Guia Editorial]]
+- [[Guia-Editorial|Guia Editorial]]
 - [[Arquiteturas]]
 - [[Tecnologias]]
 - [[Carreira]]

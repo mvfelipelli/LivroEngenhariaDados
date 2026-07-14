@@ -196,9 +196,9 @@ O estudo deve seguir essa ordem.
 
 - [[Arquiteturas]]
 
-- [[Data Warehouse]]
+- [[Data-Warehouse|Data Warehouse]]
 
-- [[Data Lake]]
+- [[Data-Lake|Data Lake]]
 
 - [[Lakehouse]]
 
@@ -240,7 +240,7 @@ O estudo deve seguir essa ordem.
 
 ## Processamento
 
-- [[Apache Spark]]
+- [[Apache-Spark|Apache Spark]]
 
 - [[Apache Flink]]
 
@@ -258,13 +258,13 @@ O estudo deve seguir essa ordem.
 
 ## Orquestração
 
-- [[Apache Airflow]]
+- [[Apache-Airflow|Apache Airflow]]
 
 ---
 
 ## Armazenamento
 
-- [[Apache Iceberg]]
+- [[Apache-Iceberg|Apache Iceberg]]
 
 - [[Apache Parquet]]
 
@@ -286,11 +286,11 @@ O estudo deve seguir essa ordem.
 
 # 🧠 Conceitos Fundamentais
 
-- [[Engenharia de Dados]]
+- [[Engenharia-de-Dados|Engenharia de Dados]]
 
-- [[Engenheiro de Dados]]
+- [[Engenheiro-de-Dados|Engenheiro de Dados]]
 
-- [[Pipeline de Dados]]
+- [[Pipeline-de-Dados|Pipeline de Dados]]
 
 - [[ETL]]
 
@@ -298,11 +298,11 @@ O estudo deve seguir essa ordem.
 
 - [[DataOps]]
 
-- [[Data Lake]]
+- [[Data-Lake|Data Lake]]
 
 - [[Lakehouse]]
 
-- [[Qualidade de Dados]]
+- [[Qualidade-de-Dados|Qualidade de Dados]]
 
 - [[Governança de Dados]]
 
@@ -392,7 +392,7 @@ Inclui:
 
 # 📖 Guias
 
-- [[Guia Editorial]]
+- [[Guia-Editorial|Guia Editorial]]
 
 ---
 
@@ -424,15 +424,15 @@ Todos os conceitos estão em:
 
 - [[Python]]
 
-- [[Apache Spark]]
+- [[Apache-Spark|Apache Spark]]
 
-- [[Apache Airflow]]
+- [[Apache-Airflow|Apache Airflow]]
 
 ---
 
 ## Trabalho com BI
 
-- [[Data Warehouse]]
+- [[Data-Warehouse|Data Warehouse]]
 
 - [[Modelagem Dimensional]]
 
@@ -442,21 +442,21 @@ Todos os conceitos estão em:
 
 ## Quero trabalhar com Big Data
 
-- [[Apache Spark]]
+- [[Apache-Spark|Apache Spark]]
 
 - [[Lakehouse]]
 
-- [[Apache Iceberg]]
+- [[Apache-Iceberg|Apache Iceberg]]
 
 ---
 
 ## Quero trabalhar com IA
 
-- [[Pipeline de Dados]]
+- [[Pipeline-de-Dados|Pipeline de Dados]]
 
 - [[Lakehouse]]
 
-- [[Qualidade de Dados]]
+- [[Qualidade-de-Dados|Qualidade de Dados]]
 
 - [[Feature Store]]
 
@@ -498,7 +498,7 @@ D --> E
 
 # 📌 Veja Também
 
-- [[Guia Editorial]]
+- [[Guia-Editorial|Guia Editorial]]
 
 - [[Roadmap]]
 

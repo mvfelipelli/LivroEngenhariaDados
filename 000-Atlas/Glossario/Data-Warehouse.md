@@ -1,20 +1,20 @@
 ---
-title: MapReduce
+title: Data Warehouse
 aliases:
-  - MapReduce
+  - Data Warehouse
 type: glossario
 status: rascunho
 created: 2026-07-13
 tags:
-  - big-data
-  - processamento-distribuido
-  - conceito
+  - data-warehouse
+  - analytics
+  - arquitetura
 ---
 
-# MapReduce
+# Data Warehouse
 
 > [!abstract] Definição
-> Adicione aqui uma definição objetiva para **MapReduce**.
+> Adicione aqui uma definição objetiva para **Data Warehouse**.
 
 ## Contexto
 
@@ -33,8 +33,10 @@ Explique por que esse conceito é importante para a [[Engenharia-de-Dados|Engenh
 
 ## Relações com outros conceitos
 
-- [[Big-Data|Big Data]]
-- [[Apache-Spark|Apache Spark]]
+- [[ETL]]
+- [[ELT]]
+- [[Data-Lake|Data Lake]]
+- [[Business Intelligence]]
 
 ## Referências
 

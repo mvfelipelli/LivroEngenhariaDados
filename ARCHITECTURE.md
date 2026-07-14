@@ -362,7 +362,7 @@ Sempre que um conceito já existir:
 Utilizar:
 
 ```text id="5yx8fj"
-[[Apache Spark]]
+[[Apache-Spark|Apache Spark]]
 ```
 
 Em vez de repetir a definição.

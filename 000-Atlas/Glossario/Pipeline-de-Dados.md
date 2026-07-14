@@ -1,20 +1,20 @@
 ---
-title: MapReduce
+title: Pipeline de Dados
 aliases:
-  - MapReduce
+  - Pipeline de Dados
 type: glossario
 status: rascunho
 created: 2026-07-13
 tags:
-  - big-data
-  - processamento-distribuido
+  - pipeline
+  - integracao-dados
   - conceito
 ---
 
-# MapReduce
+# Pipeline de Dados
 
 > [!abstract] Definição
-> Adicione aqui uma definição objetiva para **MapReduce**.
+> Adicione aqui uma definição objetiva para **Pipeline de Dados**.
 
 ## Contexto
 
@@ -33,8 +33,10 @@ Explique por que esse conceito é importante para a [[Engenharia-de-Dados|Engenh
 
 ## Relações com outros conceitos
 
-- [[Big-Data|Big Data]]
-- [[Apache-Spark|Apache Spark]]
+- [[Engenharia-de-Dados|Engenharia de Dados]]
+- [[ETL]]
+- [[ELT]]
+- [[Apache-Airflow|Apache Airflow]]
 
 ## Referências
 

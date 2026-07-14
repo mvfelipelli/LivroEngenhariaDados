@@ -192,7 +192,7 @@ Bastante presente em aplicações web.
 
 # Processamento
 
-## [[Apache Spark]]
+## [[Apache-Spark|Apache Spark]]
 
 ### Categoria
 
@@ -260,7 +260,7 @@ Ideal para Analytics.
 
 ---
 
-## [[Apache Iceberg]]
+## [[Apache-Iceberg|Apache Iceberg]]
 
 Formato de tabela para Lakehouse.
 
@@ -290,7 +290,7 @@ Outra tecnologia para Lakehouse.
 
 # Orquestração
 
-## [[Apache Airflow]]
+## [[Apache-Airflow|Apache Airflow]]
 
 ### Categoria
 
@@ -511,8 +511,8 @@ Kubernetes --> Projeto["Projeto Integrador"]
 
 ## Conceitos
 
-- [[Pipeline de Dados]]
-- [[Data Lake]]
+- [[Pipeline-de-Dados|Pipeline de Dados]]
+- [[Data-Lake|Data Lake]]
 - [[Lakehouse]]
 - [[DataOps]]
 

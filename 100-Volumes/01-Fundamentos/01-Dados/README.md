@@ -46,43 +46,43 @@ Ao concluir este módulo você será capaz de:
 
 # Estrutura
 
-1. [[01 - Objetivos]]
+1. [[01-Objetivos|01 - Objetivos]]
 
-2. [[03 - O que são Dados]]
+2. [[03-O-que-sao-Dados|03 - O que são Dados]]
 
-3. [[03 - O que são Dados]]
+3. [[03-O-que-sao-Dados|03 - O que são Dados]]
 
-4. [[04 - Características dos Dados]]
+4. [[04-Caracteristicas-dos-Dados|04 - Características dos Dados]]
 
-5. [[05 - Tipos de Dados]]
+5. [[05-Tipos-de-Dados|05 - Tipos de Dados]]
 
-6. [[06 - Estruturação dos Dados]]
+6. [[06-Estruturacao-dos-Dados|06 - Estruturação dos Dados]]
 
-7. [[07 - Ciclo de Vida dos Dados]]
+7. [[07-Ciclo-de-Vida-dos-Dados|07 - Ciclo de Vida dos Dados]]
 
-8. [[08 - Qualidade dos Dados]]
+8. [[08-Qualidade-dos-Dados|08 - Qualidade dos Dados]]
 
-9. [[09 - Metadados]]
+9. [[09-Metadados|09 - Metadados]]
 
-10. [[10 - Estudo de Caso]]
+10. [[10-Estudo-de-Caso|10 - Estudo de Caso]]
 
-11. [[11 - Resumo]]
+11. [[11-Resumo|11 - Resumo]]
 
-12. [[12 - Perguntas de Entrevista]]
+12. [[12-Perguntas-de-Entrevista|12 - Perguntas de Entrevista]]
 
-13. [[13 - Exercícios]]
+13. [[13-Exercicios|13 - Exercícios]]
 
-14. [[14 - Laboratório]]
+14. [[14-Laboratorio|14 - Laboratório]]
 
 ---
 
 # Conceitos relacionados
 
-- [[Engenharia de Dados]]
+- [[Engenharia-de-Dados|Engenharia de Dados]]
 
-- [[Pipeline de Dados]]
+- [[Pipeline-de-Dados|Pipeline de Dados]]
 
-- [[Qualidade de Dados]]
+- [[Qualidade-de-Dados|Qualidade de Dados]]
 
 - [[Metadados]]
 
