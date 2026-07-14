@@ -11,6 +11,9 @@ status: Em desenvolvimento
 tags:
   - entrevistas
   - revisão
+description: "Capítulo técnico sobre Perguntas de Entrevista na Formação em Engenharia de Dados."
+created: "2026-07-14"
+updated: "2026-07-14"
 ---
 
 [[100-Volumes/01-Fundamentos/01-Dados/README]] | [[11-Resumo|11 - Resumo]] | [[13-Exercicios|13 - Exercícios]]

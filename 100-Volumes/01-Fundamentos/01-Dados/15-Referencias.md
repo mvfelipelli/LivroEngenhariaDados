@@ -16,6 +16,9 @@ tags:
   - dados
   - qualidade-de-dados
   - metadados
+description: "Capítulo técnico sobre Referências do Módulo — Dados na Formação em Engenharia de Dados."
+created: "2026-07-14"
+updated: "2026-07-14"
 ---
 
 [[100-Volumes/01-Fundamentos/01-Dados/README]] | [[14-Laboratorio|14 - Laboratório]] | [[14-Solucao|14 - Solução]]

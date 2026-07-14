@@ -5,6 +5,10 @@ aliases:
 volume: 01
 type: volume
 status: Em desenvolvimento
+description: "Visão geral, objetivos e navegação de Volume 01 — Fundamentos da Engenharia de Dados."
+tags: []
+created: "2026-07-14"
+updated: "2026-07-14"
 ---
 
 # Volume 01 — Fundamentos da Engenharia de Dados

@@ -13,6 +13,7 @@ order: 06
 parent: "[[README]]"
 created: 2026-07-14
 updated: 2026-07-14
+description: "Capítulo técnico sobre Armazenamento de Dados na Formação em Engenharia de Dados."
 ---
 
 # 06 — Armazenamento de Dados

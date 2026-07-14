@@ -1,3 +1,12 @@
+---
+title: "Academia de Engenharia de Dados"
+description: "Visão geral, objetivos e navegação de Academia de Engenharia de Dados."
+tags: []
+aliases: []
+created: "2026-07-14"
+updated: "2026-07-14"
+---
+
 # Academia de Engenharia de Dados
 
 # Volume 00 — Introdução à Engenharia de Dados

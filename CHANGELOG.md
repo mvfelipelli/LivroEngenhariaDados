@@ -36,6 +36,8 @@ As alterações são classificadas nas seguintes categorias:
 * Templates de capítulo, estudo de caso, glossário, laboratório, projeto e tecnologia preenchidos e padronizados para o Obsidian.
 * Validador integrado com verificações de Markdown, YAML, nomenclatura, Wikilinks e estrutura dos módulos.
 * Workflow de CI adicionado para impor invariantes limpos e auditar, sem bloqueio temporário, a dívida histórica do Vault.
+* Normalização de frontmatter automatizada para documentos editoriais, preservando metadados existentes.
+* Validação de frontmatter promovida a etapa bloqueante do CI após eliminação das pendências de YAML.
 
 ## Planned
 

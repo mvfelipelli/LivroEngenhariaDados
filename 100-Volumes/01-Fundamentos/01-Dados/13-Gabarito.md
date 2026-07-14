@@ -10,6 +10,9 @@ status: Em desenvolvimento
 tags:
   - gabarito
   - exercícios
+description: "Capítulo técnico sobre Gabarito dos Exercícios na Formação em Engenharia de Dados."
+created: "2026-07-14"
+updated: "2026-07-14"
 ---
 
 [[13-Exercicios|13 - Exercícios]] | [[14-Laboratorio|14 - Laboratório]]

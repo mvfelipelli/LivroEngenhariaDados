@@ -8,6 +8,9 @@ status: Oficial
 tags:
   - arquitetura
   - atlas
+description: "Página de navegação e referência sobre Arquiteturas de Dados."
+created: "2026-07-14"
+updated: "2026-07-14"
 ---
 
 # Arquiteturas de Dados

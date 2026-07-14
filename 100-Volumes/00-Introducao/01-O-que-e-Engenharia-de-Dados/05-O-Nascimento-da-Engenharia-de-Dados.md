@@ -12,6 +12,9 @@ tags:
   - engenharia-de-dados
   - historia
   - fundamentos
+description: "Capítulo técnico sobre O Nascimento da Engenharia de Dados na Formação em Engenharia de Dados."
+created: "2026-07-14"
+updated: "2026-07-14"
 ---
 
 ← [[04-Evolucao-Historica|04 - Evolucao-Historica]]

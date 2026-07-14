@@ -10,6 +10,9 @@ tags:
   - big-data
 created: 2026-07-13
 status: Em desenvolvimento
+description: "Capítulo técnico sobre A Era dos Dados na Formação em Engenharia de Dados."
+aliases: []
+updated: "2026-07-14"
 ---
 
 ← [[02-Introducao]] | ↑ [[100-Volumes/00-Introducao/00-Apresentacao/README]] | → [[04-Evolucao-Historica]]

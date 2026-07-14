@@ -9,6 +9,8 @@ tags:
   - etl
   - integracao-dados
   - conceito
+description: "Definição e contexto de ETL na Engenharia de Dados."
+updated: "2026-07-14"
 ---
 
 # ETL

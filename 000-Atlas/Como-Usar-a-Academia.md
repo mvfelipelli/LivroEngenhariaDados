@@ -7,6 +7,10 @@ aliases:
 type: guide
 status: Oficial
 version: 1.0
+description: "Página de navegação e referência sobre Como Usar a Academia."
+tags: []
+created: "2026-07-14"
+updated: "2026-07-14"
 ---
 
 # Como Usar a Academia

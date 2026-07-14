@@ -11,6 +11,9 @@ status: Em desenvolvimento
 tags:
   - fundamentos
   - dados
+description: "Capítulo técnico sobre Características dos Dados na Formação em Engenharia de Dados."
+created: "2026-07-14"
+updated: "2026-07-14"
 ---
 
 [[100-Volumes/01-Fundamentos/01-Dados/README]] | [[03-O-que-sao-Dados|03 - O que são Dados]] | [[05-Tipos-de-Dados|05 - Tipos de Dados]]

@@ -12,6 +12,9 @@ tags:
   - lakehouse
 created: 2026-07-13
 status: Em desenvolvimento
+description: "Capítulo técnico sobre Evolução Histórica da Engenharia de Dados na Formação em Engenharia de Dados."
+aliases: []
+updated: "2026-07-14"
 ---
 
 ← [[03-A-Era-dos-Dados|A Era dos Dados]] | ↑ [[100-Volumes/00-Introducao/01-O-que-e-Engenharia-de-Dados/README|Índice do capítulo]] | → [[05-O-Nascimento-da-Engenharia-de-Dados|O Nascimento da Engenharia de Dados]]

@@ -12,6 +12,9 @@ tags:
   - fundamentos
   - dados
   - modelagem
+description: "Capítulo técnico sobre Estruturação dos Dados na Formação em Engenharia de Dados."
+created: "2026-07-14"
+updated: "2026-07-14"
 ---
 
 [[100-Volumes/01-Fundamentos/01-Dados/README]] | [[05-Tipos-de-Dados|05 - Tipos de Dados]] | [[07-Ciclo-de-Vida-dos-Dados|07 - Ciclo de Vida dos Dados]]

@@ -11,6 +11,9 @@ status: Em desenvolvimento
 tags:
   - resumo
   - revisão
+description: "Capítulo técnico sobre Resumo do Módulo na Formação em Engenharia de Dados."
+created: "2026-07-14"
+updated: "2026-07-14"
 ---
 
 [[100-Volumes/01-Fundamentos/01-Dados/README]] | [[10-Estudo-de-Caso|10 - Estudo de Caso]] | [[12-Perguntas-de-Entrevista|12 - Perguntas de Entrevista]]

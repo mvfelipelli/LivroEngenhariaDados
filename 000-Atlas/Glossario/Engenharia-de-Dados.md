@@ -9,6 +9,8 @@ tags:
   - engenharia-dados
   - fundamentos
   - conceito
+description: "Definição e contexto de Engenharia de Dados na Engenharia de Dados."
+updated: "2026-07-14"
 ---
 
 # Engenharia de Dados

@@ -9,6 +9,8 @@ tags:
   - query-engine
   - sql
   - tecnologia
+description: "Definição e contexto de Trino na Engenharia de Dados."
+updated: "2026-07-14"
 ---
 
 # Trino

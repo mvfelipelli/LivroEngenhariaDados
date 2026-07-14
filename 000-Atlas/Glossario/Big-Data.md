@@ -9,6 +9,8 @@ tags:
   - big-data
   - fundamentos
   - conceito
+description: "Definição e contexto de Big Data na Engenharia de Dados."
+updated: "2026-07-14"
 ---
 
 # Big Data

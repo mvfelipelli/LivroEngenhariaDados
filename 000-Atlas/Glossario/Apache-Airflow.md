@@ -9,6 +9,8 @@ tags:
   - orquestracao
   - airflow
   - tecnologia
+description: "Definição e contexto de Apache Airflow na Engenharia de Dados."
+updated: "2026-07-14"
 ---
 
 # Apache Airflow

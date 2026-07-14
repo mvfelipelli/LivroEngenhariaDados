@@ -15,6 +15,9 @@ tags:
   - laboratório
   - dados
   - projeto-integrador
+description: "Capítulo técnico sobre Solução do Laboratório 01 — Conhecendo os Dados da DataRetail S.A. na Formação em Engenharia de Dados."
+created: "2026-07-14"
+updated: "2026-07-14"
 ---
 
 [[14-Laboratorio|14 - Laboratório]] | [[13-Exercicios|13 - Exercícios]] | [[13-Gabarito|13 - Gabarito]]

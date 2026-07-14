@@ -19,6 +19,7 @@ IGNORED_DIRECTORIES = {
 CONTENT_DIRECTORIES = ("000-Atlas", "005-Wiki", "100-Volumes")
 FRONTMATTER_DIRECTORIES = ("000-Atlas", "005-Wiki", "050-Templates", "100-Volumes")
 REQUIRED_FRONTMATTER = {"title", "description", "tags", "aliases", "created", "updated"}
+FRONTMATTER_EXCLUDED_FILES = {"CHANGELOG.md", "SUMMARY.md"}
 AVAILABLE_CHECKS = ("markdown", "yaml", "names", "wikilinks", "modules")
 WIKILINK_PATTERN = re.compile(r"\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|[^\]]+)?\]\]")
 
@@ -92,7 +93,11 @@ def is_in_directories(path: Path, root: Path, directories: tuple[str, ...]) -> b
 def check_yaml(files: list[Path], root: Path) -> list[Issue]:
     issues: list[Issue] = []
     for path in files:
-        if path.stat().st_size == 0 or not is_in_directories(path, root, FRONTMATTER_DIRECTORIES):
+        if (
+            path.stat().st_size == 0
+            or path.name in FRONTMATTER_EXCLUDED_FILES
+            or not is_in_directories(path, root, FRONTMATTER_DIRECTORIES)
+        ):
             continue
         data, error = parse_frontmatter(path.read_text(encoding="utf-8"))
         if error:

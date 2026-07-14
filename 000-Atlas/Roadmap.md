@@ -6,6 +6,10 @@ aliases:
   - Trilha de Aprendizagem
 type: roadmap
 status: Oficial
+description: "Página de navegação e referência sobre Roadmap da Academia de Engenharia de Dados."
+tags: []
+created: "2026-07-14"
+updated: "2026-07-14"
 ---
 
 # Roadmap da Academia de Engenharia de Dados

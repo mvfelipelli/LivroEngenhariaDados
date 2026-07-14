@@ -6,6 +6,10 @@ aliases:
 type: guide
 status: Oficial
 version: 1.0
+description: "Página de navegação e referência sobre Guia Editorial da Academia de Engenharia de Dados."
+tags: []
+created: "2026-07-14"
+updated: "2026-07-14"
 ---
 
 # Guia Editorial da Academia de Engenharia de Dados

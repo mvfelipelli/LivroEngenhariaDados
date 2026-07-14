@@ -1,3 +1,12 @@
+---
+title: "Capítulo 01 — O que é Engenharia de Dados"
+description: "Visão geral, objetivos e navegação de Capítulo 01 — O que é Engenharia de Dados."
+tags: []
+aliases: []
+created: "2026-07-14"
+updated: "2026-07-14"
+---
+
 # Capítulo 01 — O que é Engenharia de Dados
 
 > "Os dados são o novo petróleo" tornou-se uma frase popular, mas incompleta. Dados, por si só, não possuem valor. O valor surge quando eles são coletados, organizados, transformados, disponibilizados e utilizados para apoiar decisões e criar produtos. É exatamente nesse contexto que nasce a Engenharia de Dados.

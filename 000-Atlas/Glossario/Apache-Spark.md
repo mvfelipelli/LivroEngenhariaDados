@@ -9,6 +9,8 @@ tags:
   - processamento-distribuido
   - spark
   - tecnologia
+description: "Definição e contexto de Apache Spark na Engenharia de Dados."
+updated: "2026-07-14"
 ---
 
 # Apache Spark

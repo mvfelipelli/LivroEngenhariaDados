@@ -11,6 +11,7 @@ order: 02
 parent: "[[README]]"
 created: 2026-07-14
 updated: 2026-07-14
+description: "Capítulo técnico sobre Introdução na Formação em Engenharia de Dados."
 ---
 
 # 02 — Introdução

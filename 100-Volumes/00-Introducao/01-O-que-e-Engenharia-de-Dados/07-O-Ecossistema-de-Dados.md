@@ -13,6 +13,9 @@ tags:
   - ecossistema
   - arquitetura
   - plataforma-de-dados
+description: "Capítulo técnico sobre O Ecossistema de Dados na Formação em Engenharia de Dados."
+created: "2026-07-14"
+updated: "2026-07-14"
 ---
 
 ← [[06-O-Papel-do-Engenheiro-de-Dados|O Papel do Engenheiro de Dados]]

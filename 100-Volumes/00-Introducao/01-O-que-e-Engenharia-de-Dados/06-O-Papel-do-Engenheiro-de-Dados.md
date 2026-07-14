@@ -13,6 +13,9 @@ tags:
   - carreira
   - fundamentos
   - data-engineer
+description: "Capítulo técnico sobre O Papel do Engenheiro de Dados na Formação em Engenharia de Dados."
+created: "2026-07-14"
+updated: "2026-07-14"
 ---
 
 ← [[05-O-Nascimento-da-Engenharia-de-Dados|O Nascimento da Engenharia de Dados]]

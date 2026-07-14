@@ -5,6 +5,10 @@ aliases:
   - Índice Geral
 type: moc
 status: Oficial
+description: "Página de navegação e referência sobre Mapa de Conteúdo da Academia."
+tags: []
+created: "2026-07-14"
+updated: "2026-07-14"
 ---
 
 # Mapa de Conteúdo da Academia de Engenharia de Dados

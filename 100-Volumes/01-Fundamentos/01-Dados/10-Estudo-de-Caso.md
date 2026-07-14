@@ -12,6 +12,9 @@ tags:
   - estudo-de-caso
   - projeto-integrador
   - dados
+description: "Capítulo técnico sobre Estudo de Caso — DataRetail S.A. na Formação em Engenharia de Dados."
+created: "2026-07-14"
+updated: "2026-07-14"
 ---
 
 [[100-Volumes/01-Fundamentos/01-Dados/README]] | [[09-Metadados|09 - Metadados]] | [[11-Resumo|11 - Resumo]]

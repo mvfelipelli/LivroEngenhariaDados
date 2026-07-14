@@ -9,6 +9,8 @@ tags:
   - big-data
   - processamento-distribuido
   - conceito
+description: "Definição e contexto de MapReduce na Engenharia de Dados."
+updated: "2026-07-14"
 ---
 
 # MapReduce

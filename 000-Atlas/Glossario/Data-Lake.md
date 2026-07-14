@@ -9,6 +9,8 @@ tags:
   - data-lake
   - armazenamento
   - arquitetura
+description: "Definição e contexto de Data Lake na Engenharia de Dados."
+updated: "2026-07-14"
 ---
 
 # Data Lake

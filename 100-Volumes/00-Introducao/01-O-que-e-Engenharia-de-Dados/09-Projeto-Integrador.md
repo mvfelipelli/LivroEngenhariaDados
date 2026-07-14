@@ -13,6 +13,9 @@ tags:
   - pratica
   - dataplatform
   - arquitetura
+description: "Capítulo técnico sobre Projeto Integrador da Academia na Formação em Engenharia de Dados."
+created: "2026-07-14"
+updated: "2026-07-14"
 ---
 
 ← [[08-Arquiteturas-Modernas|Arquiteturas Modernas]]

@@ -9,6 +9,8 @@ tags:
   - sistemas-corporativos
   - crm
   - conceito
+description: "Definição e contexto de CRM na Engenharia de Dados."
+updated: "2026-07-14"
 ---
 
 # CRM

@@ -9,6 +9,8 @@ tags:
   - pipeline
   - integracao-dados
   - conceito
+description: "Definição e contexto de Pipeline de Dados na Engenharia de Dados."
+updated: "2026-07-14"
 ---
 
 # Pipeline de Dados

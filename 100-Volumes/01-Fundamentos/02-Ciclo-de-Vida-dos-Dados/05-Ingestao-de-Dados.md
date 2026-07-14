@@ -13,6 +13,7 @@ order: 05
 parent: "[[README]]"
 created: 2026-07-14
 updated: 2026-07-14
+description: "Capítulo técnico sobre Ingestão de Dados na Formação em Engenharia de Dados."
 ---
 
 # 05 — Ingestão de Dados

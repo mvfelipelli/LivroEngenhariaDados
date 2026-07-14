@@ -10,6 +10,9 @@ tags:
   - carreira
   - roadmap
   - profissao
+description: "Página de navegação e referência sobre Carreira em Engenharia de Dados."
+created: "2026-07-14"
+updated: "2026-07-14"
 ---
 
 # Carreira em Engenharia de Dados

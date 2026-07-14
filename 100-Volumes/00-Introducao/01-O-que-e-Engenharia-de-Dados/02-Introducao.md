@@ -1,3 +1,12 @@
+---
+title: "02 - Introdução"
+description: "Capítulo técnico sobre 02 - Introdução na Formação em Engenharia de Dados."
+tags: []
+aliases: []
+created: "2026-07-14"
+updated: "2026-07-14"
+---
+
 # 02 - Introdução
 
 > *"Toda empresa é, em maior ou menor grau, uma empresa de dados. A diferença entre organizações líderes e seus concorrentes raramente está na quantidade de dados que possuem, mas na capacidade de transformá-los em decisões, produtos e vantagem competitiva."*

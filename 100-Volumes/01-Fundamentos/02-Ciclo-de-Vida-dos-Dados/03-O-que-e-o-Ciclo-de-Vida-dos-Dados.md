@@ -12,6 +12,7 @@ order: 03
 parent: "[[README]]"
 created: 2026-07-14
 updated: 2026-07-14
+description: "Capítulo técnico sobre O que é o Ciclo de Vida dos Dados na Formação em Engenharia de Dados."
 ---
 
 # 03 — O que é o Ciclo de Vida dos Dados

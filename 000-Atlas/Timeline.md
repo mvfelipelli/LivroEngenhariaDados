@@ -9,6 +9,9 @@ tags:
   - historia
   - timeline
   - engenharia-de-dados
+description: "Página de navegação e referência sobre Timeline da Engenharia de Dados."
+created: "2026-07-14"
+updated: "2026-07-14"
 ---
 
 # Timeline da Engenharia de Dados

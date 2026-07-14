@@ -9,6 +9,8 @@ tags:
   - data-warehouse
   - analytics
   - arquitetura
+description: "Definição e contexto de Data Warehouse na Engenharia de Dados."
+updated: "2026-07-14"
 ---
 
 # Data Warehouse

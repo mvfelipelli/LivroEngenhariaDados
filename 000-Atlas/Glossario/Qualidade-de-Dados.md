@@ -9,6 +9,8 @@ tags:
   - qualidade-dados
   - governanca
   - conceito
+description: "Definição e contexto de Qualidade de Dados na Engenharia de Dados."
+updated: "2026-07-14"
 ---
 
 # Qualidade de Dados

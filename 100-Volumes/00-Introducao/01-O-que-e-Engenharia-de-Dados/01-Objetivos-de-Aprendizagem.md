@@ -1,3 +1,12 @@
+---
+title: "01 - Objetivos de Aprendizagem"
+description: "Capítulo técnico sobre 01 - Objetivos de Aprendizagem na Formação em Engenharia de Dados."
+tags: []
+aliases: []
+created: "2026-07-14"
+updated: "2026-07-14"
+---
+
 # 01 - Objetivos de Aprendizagem
 
 > **"Aprender não significa apenas adquirir conhecimento, mas desenvolver competências capazes de resolver problemas reais."**

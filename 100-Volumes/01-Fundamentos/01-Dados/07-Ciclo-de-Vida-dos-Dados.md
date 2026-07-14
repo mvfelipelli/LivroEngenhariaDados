@@ -12,6 +12,9 @@ tags:
   - fundamentos
   - dados
   - ciclo-de-vida
+description: "Capítulo técnico sobre Ciclo de Vida dos Dados na Formação em Engenharia de Dados."
+created: "2026-07-14"
+updated: "2026-07-14"
 ---
 
 [[100-Volumes/01-Fundamentos/01-Dados/README]] | [[06-Estruturacao-dos-Dados|06 - Estruturação dos Dados]] | [[08-Qualidade-dos-Dados|08 - Qualidade dos Dados]]

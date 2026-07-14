@@ -9,6 +9,8 @@ tags:
   - engenharia-dados
   - carreira
   - profissao
+description: "Definição e contexto de Engenheiro de Dados na Engenharia de Dados."
+updated: "2026-07-14"
 ---
 
 # Engenheiro de Dados

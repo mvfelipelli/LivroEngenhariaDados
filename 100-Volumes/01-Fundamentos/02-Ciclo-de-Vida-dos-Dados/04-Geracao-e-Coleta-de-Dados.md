@@ -14,6 +14,7 @@ order: 04
 parent: "[[README]]"
 created: 2026-07-14
 updated: 2026-07-14
+description: "Capítulo técnico sobre Geração e Coleta de Dados na Formação em Engenharia de Dados."
 ---
 
 # 04 — Geração e Coleta de Dados

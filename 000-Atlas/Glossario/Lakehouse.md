@@ -9,6 +9,8 @@ tags:
   - lakehouse
   - arquitetura
   - conceito
+description: "Definição e contexto de Lakehouse na Engenharia de Dados."
+updated: "2026-07-14"
 ---
 
 # Lakehouse

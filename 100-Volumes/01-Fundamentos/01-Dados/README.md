@@ -6,6 +6,10 @@ module: 01
 volume: 01
 type: module
 status: Em desenvolvimento
+description: "Visão geral, objetivos e navegação de Módulo 01 — Dados."
+tags: []
+created: "2026-07-14"
+updated: "2026-07-14"
 ---
 
 # Módulo 01 — Dados

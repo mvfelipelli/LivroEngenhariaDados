@@ -15,6 +15,9 @@ tags:
   - data-warehouse
   - batch
   - streaming
+description: "Capítulo técnico sobre Arquiteturas Modernas de Dados na Formação em Engenharia de Dados."
+created: "2026-07-14"
+updated: "2026-07-14"
 ---
 
 ← [[07-O-Ecossistema-de-Dados|O Ecossistema de Dados]]

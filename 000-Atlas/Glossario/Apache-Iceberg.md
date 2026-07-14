@@ -10,6 +10,8 @@ tags:
   - table-format
   - iceberg
   - tecnologia
+description: "Definição e contexto de Apache Iceberg na Engenharia de Dados."
+updated: "2026-07-14"
 ---
 
 # Apache Iceberg

@@ -14,6 +14,7 @@ type: modulo
 status: em-desenvolvimento
 created: 2026-07-14
 updated: 2026-07-14
+description: "Visão geral, objetivos e navegação de Ciclo de Vida dos Dados."
 ---
 
 # Módulo 02 — Ciclo de Vida dos Dados
