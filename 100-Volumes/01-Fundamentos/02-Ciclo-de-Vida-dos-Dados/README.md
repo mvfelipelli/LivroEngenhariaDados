@@ -11,7 +11,7 @@ tags:
   - volume-01
   - modulo-02
 type: modulo
-status: em-desenvolvimento
+status: concluido
 created: 2026-07-14
 updated: 2026-07-16
 description: "Visão geral, objetivos e navegação de Ciclo de Vida dos Dados."

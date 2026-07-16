@@ -229,13 +229,11 @@ Status:
 
 Status:
 
-🚧 Em desenvolvimento
+✅ Concluído
 
-Os capítulos técnicos 01 a 09, o estudo de caso, o resumo e as perguntas de entrevista já foram produzidos.
+O módulo possui todos os capítulos técnicos e componentes obrigatórios concluídos.
 
-O módulo ainda não foi concluído.
-
-O próximo arquivo é `13-Exercicios.md`.
+O próximo trabalho é estruturar e iniciar o Módulo 03 — Bancos de Dados.
 
 ---
 
@@ -245,7 +243,7 @@ Concluir integralmente:
 
 **Volume 01 — Fundamentos**
 
-**Módulo 02 — Ciclo de Vida dos Dados**
+**Módulo 03 — Bancos de Dados**
 
 Após sua conclusão:
 

@@ -54,6 +54,11 @@ As alterações são classificadas nas seguintes categorias:
 * Estudo de caso do Módulo 02 desenvolvido com o ciclo completo dos dados de pedidos da DataRetail S.A., incluindo requisitos, controles, incidente e critérios de aceite.
 * Resumo do Módulo 02 adicionado com mapa conceitual, controles transversais, matriz de decisões, checklist e autoavaliação.
 * Perguntas de entrevista do Módulo 02 adicionadas em níveis progressivos, com respostas fundamentadas e cenários de diagnóstico e arquitetura.
+* Exercícios e gabarito do Módulo 02 adicionados com progressão conceitual, aplicação, incidentes e arquitetura.
+* Laboratório reproduzível em Python adicionado para ingestão, validação, deduplicação, publicação, quarentena e arquivamento.
+* Solução do laboratório validada quanto a contagens, integridade e idempotência.
+* Referências oficiais e bibliográficas do Módulo 02 consolidadas.
+* Módulo 02 — Ciclo de Vida dos Dados marcado como concluído.
 
 ## Planned
 

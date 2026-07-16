@@ -102,7 +102,7 @@ Status: 🚧 Em desenvolvimento
 | Módulo | Status |
 | ------ | ------ |
 | 01 — Dados | ✅ Concluído |
-| 02 — Ciclo de Vida dos Dados | 🚧 Em desenvolvimento |
+| 02 — Ciclo de Vida dos Dados | ✅ Concluído |
 | 03 — Bancos de Dados | ⏳ Planejado |
 | 04 — Modelagem | ⏳ Planejado |
 | 05 — ETL | ⏳ Planejado |
@@ -116,7 +116,7 @@ Status: 🚧 Em desenvolvimento
 
 ### Ponto de continuidade
 
-Os capítulos técnicos, o estudo de caso, o resumo e as perguntas de entrevista do Módulo 02 foram concluídos. O próximo conteúdo a ser produzido é `13-Exercicios.md`; depois dele, devem ser concluídos o gabarito, o laboratório, a solução e as referências.
+O Módulo 02 — Ciclo de Vida dos Dados foi concluído com todos os componentes obrigatórios. O próximo trabalho é estruturar e iniciar o Módulo 03 — Bancos de Dados, preservando o padrão editorial vigente.
 
 ---
 

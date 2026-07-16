@@ -117,14 +117,14 @@ Arquivos:
 
 Status:
 
-🚧 Em desenvolvimento
+✅ Concluído
 
 Situação:
 
 * README concluído.
-* Capítulos técnicos 01 a 09, estudo de caso, resumo e perguntas de entrevista desenvolvidos.
-* O próximo componente é `13-Exercicios.md`.
-* Módulo ainda não finalizado.
+* Capítulos técnicos 01 a 09 concluídos.
+* Estudo de caso, resumo e perguntas de entrevista concluídos.
+* Exercícios, gabarito, laboratório, solução e referências concluídos.
 
 ---
 
@@ -147,46 +147,18 @@ Volume 01
 
 ↓
 
-Módulo 02
+Módulo 03 — Bancos de Dados
 
 ↓
 
-Concluir todos os capítulos restantes
+Definir a estrutura do módulo
 
 ↓
 
-Estudo de Caso
-
-↓
-
-Resumo
-
-↓
-
-Perguntas de Entrevista
-
-↓
-
-Exercícios
-
-↓
-
-Gabarito
-
-↓
-
-Laboratório
-
-↓
-
-Solução
-
-↓
-
-Referências
+Produzir objetivos e introdução
 ```
 
-Após concluir esse módulo:
+Durante a evolução desse módulo:
 
 * atualizar este documento;
 * atualizar ROADMAP.md;
@@ -199,7 +171,7 @@ Após concluir esse módulo:
 
 ## Alta Prioridade
 
-* Concluir o Módulo 02.
+* Estruturar e iniciar o Módulo 03.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -298,7 +270,7 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Concluir integralmente o Módulo 02 — Ciclo de Vida dos Dados.**
+**Estruturar e iniciar o Módulo 03 — Bancos de Dados.**
 
 Após sua conclusão:
 
@@ -318,7 +290,7 @@ Após sua conclusão:
 | Documentação de governança criada | 🚧     |
 | Volume 01 iniciado                | ✅      |
 | Módulo 01 concluído               | ✅      |
-| Módulo 02 em desenvolvimento      | 🚧     |
+| Módulo 02 concluído               | ✅      |
 | Primeira versão pública           | ⏳      |
 
 ---
