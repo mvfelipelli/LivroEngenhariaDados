@@ -104,7 +104,7 @@ Status: 🚧 Em desenvolvimento
 | 01 — Dados | ✅ Concluído |
 | 02 — Ciclo de Vida dos Dados | ✅ Concluído |
 | 03 — Bancos de Dados | ✅ Concluído |
-| 04 — Modelagem | ⏳ Planejado |
+| 04 — Modelagem | 🚧 Em desenvolvimento |
 | 05 — ETL | ⏳ Planejado |
 | 06 — ELT | ⏳ Planejado |
 | 07 — Pipelines | ⏳ Planejado |
@@ -116,7 +116,7 @@ Status: 🚧 Em desenvolvimento
 
 ### Ponto de continuidade
 
-O Módulo 03 — Bancos de Dados foi concluído com todos os componentes obrigatórios. O próximo trabalho é estruturar e iniciar o Módulo 04 — Modelagem, preservando o padrão editorial vigente.
+O Módulo 04 — Modelagem foi iniciado com índice, objetivos e introdução. O próximo trabalho é desenvolver o capítulo 03 — O que é Modelagem de Dados.
 
 ---
 

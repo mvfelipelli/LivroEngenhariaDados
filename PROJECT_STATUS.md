@@ -143,6 +143,20 @@ Situação:
 
 ---
 
+### Módulo 04 — Modelagem
+
+Status:
+
+🚧 Em desenvolvimento
+
+Situação:
+
+* Estrutura e mapa conceitual definidos.
+* Objetivos e introdução concluídos.
+* Próximo arquivo: `03-O-que-e-Modelagem-de-Dados.md`.
+
+---
+
 ## Volumes 02 a 18
 
 Status:
@@ -166,7 +180,7 @@ Módulo 04 — Modelagem
 
 ↓
 
-Definir a estrutura do módulo
+Desenvolver o capítulo 03 — O que é Modelagem de Dados
 
 ↓
 
@@ -186,7 +200,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Módulo 04.
+* Desenvolver os capítulos técnicos do Módulo 04.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -285,7 +299,7 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 04 — Modelagem.**
+**Desenvolver o capítulo 03 — O que é Modelagem de Dados.**
 
 Após sua conclusão:
 

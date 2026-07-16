@@ -64,6 +64,7 @@ As alterações são classificadas nas seguintes categorias:
 * Laboratório reproduzível com SQLite adicionado e solução validada quanto a integridade, rollback, estoque e uso de índice.
 * Referências oficiais e bibliográficas do Módulo 03 consolidadas.
 * Módulo 03 — Bancos de Dados marcado como concluído.
+* Módulo 04 — Modelagem iniciado com índice, objetivos, mapa conceitual e introdução.
 
 ## Planned
 
