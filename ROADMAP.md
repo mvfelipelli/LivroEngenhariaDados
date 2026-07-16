@@ -116,7 +116,7 @@ Status: 🚧 Em desenvolvimento
 
 ### Ponto de continuidade
 
-O capítulo 03 — O que é Modelagem de Dados foi concluído. O próximo trabalho é desenvolver o capítulo 04 — Níveis Conceitual, Lógico e Físico.
+O capítulo 04 — Níveis Conceitual, Lógico e Físico foi concluído. O próximo trabalho é desenvolver o capítulo 05 — Entidades, Atributos e Relacionamentos.
 
 ---
 

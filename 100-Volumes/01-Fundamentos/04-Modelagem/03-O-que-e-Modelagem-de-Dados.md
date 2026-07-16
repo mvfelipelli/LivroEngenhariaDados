@@ -216,4 +216,4 @@ Desnormalização e duplicação sem evidência criam inconsistência e dificult
 
 ## Próximo Capítulo
 
-➡️ **04 — Níveis Conceitual, Lógico e Físico**
+➡️ [[04-Niveis-Conceitual-Logico-e-Fisico|04 — Níveis Conceitual, Lógico e Físico]]
