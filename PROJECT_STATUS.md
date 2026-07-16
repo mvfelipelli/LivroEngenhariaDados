@@ -366,6 +366,20 @@ Situação:
 
 ---
 
+### Módulo 07 — Segurança e Hardening Linux
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Risco, baselines, identidade, permissões, kernel e serviços concluídos.
+* Criptografia, segredos, patches, auditoria, incidentes e compliance concluídos.
+* Estudo de caso, revisão, exercícios e laboratório de baseline concluídos.
+
+---
+
 ## Volumes 03 a 18
 
 Status:
@@ -385,11 +399,11 @@ Volume 02
 
 ↓
 
-Módulo 07 — Segurança e Hardening Linux
+Módulo 08 — Operação de Plataformas de Dados no Linux
 
 ↓
 
-Aprofundar identidade, privilégios, autenticação, LSM, auditoria, criptografia e resposta
+Integrar implantação, serviços de dados, capacidade, backup, observabilidade e runbooks
 
 ↓
 
@@ -401,7 +415,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 07 do Volume 02.
+* iniciar o Módulo 08 do Volume 02.
 
 ---
 
@@ -409,7 +423,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Módulo 07 — Segurança e Hardening Linux.
+* Estruturar e iniciar o Módulo 08 — Operação de Plataformas de Dados no Linux.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -508,14 +522,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 07 — Segurança e Hardening Linux.**
+**Estruturar e iniciar o Módulo 08 — Operação de Plataformas de Dados no Linux.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 07 do Volume 02.
+4. Iniciar o Módulo 08 do Volume 02.
 
 ---
 

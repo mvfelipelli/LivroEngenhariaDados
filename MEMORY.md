@@ -371,7 +371,15 @@ Status:
 
 O módulo possui métodos USE e RED, CPU, memória, I/O, processos, profiling, tracing, incidentes, capacidade e laboratório reproduzível.
 
-O próximo trabalho é estruturar e iniciar o Módulo 07 — Segurança e Hardening Linux.
+#### Módulo 07 — Segurança e Hardening Linux
+
+Status:
+
+✅ Concluído
+
+O módulo possui risco, baselines, identidade, permissões, kernel, rede, criptografia, auditoria, incidentes e laboratório reproduzível.
+
+O próximo trabalho é estruturar e iniciar o Módulo 08 — Operação de Plataformas de Dados no Linux.
 
 ---
 
@@ -381,7 +389,7 @@ Estruturar e iniciar:
 
 **Volume 02 — Linux**
 
-**Módulo 07 — Segurança e Hardening Linux**
+**Módulo 08 — Operação de Plataformas de Dados no Linux**
 
 Após sua conclusão:
 
