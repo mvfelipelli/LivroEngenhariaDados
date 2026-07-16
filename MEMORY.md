@@ -265,7 +265,15 @@ Status:
 
 O módulo possui raw, staging, marts, SQL modular, materializações, testes, linhagem, governança e laboratório reproduzível.
 
-O próximo trabalho é estruturar e iniciar o Módulo 07 — Pipelines.
+#### Módulo 07 — Pipelines
+
+Status:
+
+✅ Concluído
+
+O módulo possui DAGs, batch, streaming, orquestração, backfill, estado, idempotência, observabilidade, SLOs e laboratório reproduzível.
+
+O próximo trabalho é estruturar e iniciar o Módulo 08 — Arquiteturas.
 
 ---
 
@@ -275,7 +283,7 @@ Concluir integralmente:
 
 **Volume 01 — Fundamentos**
 
-**Módulo 07 — Pipelines**
+**Módulo 08 — Arquiteturas**
 
 Após sua conclusão:
 

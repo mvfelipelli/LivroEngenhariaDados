@@ -192,6 +192,20 @@ Situação:
 
 ---
 
+### Módulo 07 — Pipelines
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Componentes, dependências, DAGs, batch, streaming e orquestração concluídos.
+* Backfill, estado, idempotência, observabilidade, SLOs e evolução concluídos.
+* Estudo de caso, revisão, exercícios e laboratório concluídos.
+
+---
+
 ## Volumes 02 a 18
 
 Status:
@@ -211,11 +225,11 @@ Volume 01
 
 ↓
 
-Módulo 07 — Pipelines
+Módulo 08 — Arquiteturas
 
 ↓
 
-Definir a estrutura do módulo
+Definir fundamentos, estilos, trade-offs e decisões arquiteturais
 
 ↓
 
@@ -334,7 +348,7 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 07 — Pipelines.**
+**Estruturar e iniciar o Módulo 08 — Arquiteturas.**
 
 Após sua conclusão:
 
@@ -359,6 +373,7 @@ Após sua conclusão:
 | Módulo 04 concluído               | ✅      |
 | Módulo 05 concluído               | ✅      |
 | Módulo 06 concluído               | ✅      |
+| Módulo 07 concluído               | ✅      |
 | Primeira versão pública           | ⏳      |
 
 ---

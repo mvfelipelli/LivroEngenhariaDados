@@ -86,6 +86,10 @@ As alterações são classificadas nas seguintes categorias:
 * Estudo de caso, revisão, entrevistas, exercícios e gabarito do Módulo 06 adicionados.
 * Laboratório ELT em Python e SQLite adicionado com deduplicação por versão, mart, testes e rebuild.
 * Referências do Módulo 06 consolidadas e módulo marcado como concluído.
+* Módulo 07 — Pipelines desenvolvido com DAGs, batch, streaming, orquestração, estado, confiabilidade e SLOs.
+* Estudo de caso, resumo, entrevistas, exercícios e gabarito do Módulo 07 adicionados.
+* Laboratório de pipeline em Python e SQLite adicionado com executor de DAG, quarentena, auditoria, upsert e reconciliação.
+* Referências do Módulo 07 consolidadas e módulo marcado como concluído.
 
 ## Planned
 
