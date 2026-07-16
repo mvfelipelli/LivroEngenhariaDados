@@ -153,7 +153,8 @@ Situação:
 
 * Estrutura e mapa conceitual definidos.
 * Objetivos e introdução concluídos.
-* Próximo arquivo: `03-O-que-e-Modelagem-de-Dados.md`.
+* Capítulo 03 — O que é Modelagem de Dados concluído.
+* Próximo arquivo: `04-Niveis-Conceitual-Logico-e-Fisico.md`.
 
 ---
 
@@ -180,7 +181,7 @@ Módulo 04 — Modelagem
 
 ↓
 
-Desenvolver o capítulo 03 — O que é Modelagem de Dados
+Desenvolver o capítulo 04 — Níveis Conceitual, Lógico e Físico
 
 ↓
 
@@ -299,7 +300,7 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Desenvolver o capítulo 03 — O que é Modelagem de Dados.**
+**Desenvolver o capítulo 04 — Níveis Conceitual, Lógico e Físico.**
 
 Após sua conclusão:
 

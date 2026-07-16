@@ -31,7 +31,7 @@ description: "Fundamentos para representar domínios, regras, relacionamentos e 
 
 - [[01-Objetivos]]
 - [[02-Introducao]]
-- 03 — O que é Modelagem de Dados
+- [[03-O-que-e-Modelagem-de-Dados]]
 - 04 — Níveis Conceitual, Lógico e Físico
 - 05 — Entidades, Atributos e Relacionamentos
 - 06 — Chaves, Cardinalidade e Integridade

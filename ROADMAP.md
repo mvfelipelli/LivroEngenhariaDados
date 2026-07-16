@@ -116,7 +116,7 @@ Status: 🚧 Em desenvolvimento
 
 ### Ponto de continuidade
 
-O Módulo 04 — Modelagem foi iniciado com índice, objetivos e introdução. O próximo trabalho é desenvolver o capítulo 03 — O que é Modelagem de Dados.
+O capítulo 03 — O que é Modelagem de Dados foi concluído. O próximo trabalho é desenvolver o capítulo 04 — Níveis Conceitual, Lógico e Físico.
 
 ---
 

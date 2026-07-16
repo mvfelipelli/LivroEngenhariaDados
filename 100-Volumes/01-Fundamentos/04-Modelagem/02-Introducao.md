@@ -103,4 +103,4 @@ Modelagem conecta linguagem de negócio, estrutura de dados e comportamento dos 
 
 ## Próximo Capítulo
 
-➡️ **03 — O que é Modelagem de Dados**
+➡️ [[03-O-que-e-Modelagem-de-Dados|03 — O que é Modelagem de Dados]]

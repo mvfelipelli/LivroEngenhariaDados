@@ -65,6 +65,7 @@ As alterações são classificadas nas seguintes categorias:
 * Referências oficiais e bibliográficas do Módulo 03 consolidadas.
 * Módulo 03 — Bancos de Dados marcado como concluído.
 * Módulo 04 — Modelagem iniciado com índice, objetivos, mapa conceitual e introdução.
+* Capítulo 03 do Módulo 04 desenvolvido com abstração, escopo, processo, participantes, validação e critérios de qualidade da Modelagem de Dados.
 
 ## Planned
 
