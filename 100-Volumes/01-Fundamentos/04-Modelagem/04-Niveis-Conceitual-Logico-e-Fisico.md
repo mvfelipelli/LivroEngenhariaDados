@@ -234,4 +234,4 @@ Tabelas legadas podem refletir otimizações, limitações e débitos histórico
 
 ## Próximo Capítulo
 
-➡️ **05 — Entidades, Atributos e Relacionamentos**
+➡️ [[05-Entidades-Atributos-e-Relacionamentos|05 — Entidades, Atributos e Relacionamentos]]

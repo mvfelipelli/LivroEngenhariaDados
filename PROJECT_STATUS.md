@@ -155,7 +155,8 @@ Situação:
 * Objetivos e introdução concluídos.
 * Capítulo 03 — O que é Modelagem de Dados concluído.
 * Capítulo 04 — Níveis Conceitual, Lógico e Físico concluído.
-* Próximo arquivo: `05-Entidades-Atributos-e-Relacionamentos.md`.
+* Capítulo 05 — Entidades, Atributos e Relacionamentos concluído.
+* Próximo arquivo: `06-Chaves-Cardinalidade-e-Integridade.md`.
 
 ---
 
@@ -182,7 +183,7 @@ Módulo 04 — Modelagem
 
 ↓
 
-Desenvolver o capítulo 05 — Entidades, Atributos e Relacionamentos
+Desenvolver o capítulo 06 — Chaves, Cardinalidade e Integridade
 
 ↓
 
@@ -301,7 +302,7 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Desenvolver o capítulo 05 — Entidades, Atributos e Relacionamentos.**
+**Desenvolver o capítulo 06 — Chaves, Cardinalidade e Integridade.**
 
 Após sua conclusão:
 

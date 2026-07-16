@@ -67,6 +67,7 @@ As alterações são classificadas nas seguintes categorias:
 * Módulo 04 — Modelagem iniciado com índice, objetivos, mapa conceitual e introdução.
 * Capítulo 03 do Módulo 04 desenvolvido com abstração, escopo, processo, participantes, validação e critérios de qualidade da Modelagem de Dados.
 * Capítulo 04 do Módulo 04 desenvolvido com níveis conceitual, lógico e físico, transformação, rastreabilidade e exemplo SQL da DataRetail S.A.
+* Capítulo 05 do Módulo 04 desenvolvido com entidades, atributos, relacionamentos, associações temporais e entregas parciais da DataRetail S.A.
 
 ## Planned
 

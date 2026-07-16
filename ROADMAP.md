@@ -116,7 +116,7 @@ Status: 🚧 Em desenvolvimento
 
 ### Ponto de continuidade
 
-O capítulo 04 — Níveis Conceitual, Lógico e Físico foi concluído. O próximo trabalho é desenvolver o capítulo 05 — Entidades, Atributos e Relacionamentos.
+O capítulo 05 — Entidades, Atributos e Relacionamentos foi concluído. O próximo trabalho é desenvolver o capítulo 06 — Chaves, Cardinalidade e Integridade.
 
 ---
 
