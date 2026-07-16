@@ -100,6 +100,11 @@ As alterações são classificadas nas seguintes categorias:
 * Estudo de caso, revisão, entrevistas, exercícios e gabarito do Módulo 09 adicionados.
 * Laboratório em Python e SQLite adicionado com métricas, quarentena, gate e persistência idempotente.
 * Referências do Módulo 09 consolidadas e módulo marcado como concluído.
+* Módulo 10 — Governança desenvolvido com princípios, modelo operacional, ownership, domínios, políticas e controles.
+* Metadados, catálogo, linhagem, privacidade, retenção, conformidade, maturidade e federação consolidados.
+* Estudo de caso, revisão, entrevistas, exercícios e gabarito do Módulo 10 adicionados.
+* Laboratório em Python e SQLite adicionado com policy as code, avaliação de ativos e evidências idempotentes.
+* Referências do Módulo 10 consolidadas e módulo marcado como concluído.
 
 ## Planned
 

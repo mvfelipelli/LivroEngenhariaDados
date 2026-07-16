@@ -110,13 +110,13 @@ Status: 🚧 Em desenvolvimento
 | 07 — Pipelines | ✅ Concluído |
 | 08 — Arquiteturas | ✅ Concluído |
 | 09 — Qualidade | ✅ Concluído |
-| 10 — Governança | ⏳ Planejado |
+| 10 — Governança | ✅ Concluído |
 | 11 — Observabilidade | ⏳ Planejado |
 | 12 — Conceitos Modernos | ⏳ Planejado |
 
 ### Ponto de continuidade
 
-O Módulo 09 — Qualidade foi concluído com todos os componentes obrigatórios. O próximo trabalho é estruturar e iniciar o Módulo 10 — Governança.
+O Módulo 10 — Governança foi concluído com todos os componentes obrigatórios. O próximo trabalho é estruturar e iniciar o Módulo 11 — Observabilidade.
 
 ---
 

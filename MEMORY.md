@@ -289,7 +289,15 @@ Status:
 
 O módulo possui dimensões, profiling, contratos, testes, quality gates, SLOs, incidentes, responsabilidades e laboratório reproduzível.
 
-O próximo trabalho é estruturar e iniciar o Módulo 10 — Governança.
+#### Módulo 10 — Governança
+
+Status:
+
+✅ Concluído
+
+O módulo possui princípios, modelo operacional, papéis, políticas, metadados, catálogo, linhagem, privacidade, retenção e laboratório reproduzível.
+
+O próximo trabalho é estruturar e iniciar o Módulo 11 — Observabilidade.
 
 ---
 
@@ -299,7 +307,7 @@ Concluir integralmente:
 
 **Volume 01 — Fundamentos**
 
-**Módulo 10 — Governança**
+**Módulo 11 — Observabilidade**
 
 Após sua conclusão:
 

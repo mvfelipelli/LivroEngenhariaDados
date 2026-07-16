@@ -234,6 +234,20 @@ Situação:
 
 ---
 
+### Módulo 10 — Governança
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Fundamentos, princípios, modelo operacional, papéis e domínios concluídos.
+* Políticas, controles, catálogo, linhagem, privacidade, retenção e federação concluídos.
+* Estudo de caso, revisão, exercícios e laboratório concluídos.
+
+---
+
 ## Volumes 02 a 18
 
 Status:
@@ -253,11 +267,11 @@ Volume 01
 
 ↓
 
-Módulo 10 — Governança
+Módulo 11 — Observabilidade
 
 ↓
 
-Definir princípios, papéis, políticas, metadados e controles de governança
+Definir sinais, telemetria, linhagem operacional, SLOs e resposta a incidentes
 
 ↓
 
@@ -277,7 +291,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Módulo 10.
+* Estruturar e iniciar o Módulo 11.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -376,7 +390,7 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 10 — Governança.**
+**Estruturar e iniciar o Módulo 11 — Observabilidade.**
 
 Após sua conclusão:
 
@@ -404,6 +418,7 @@ Após sua conclusão:
 | Módulo 07 concluído               | ✅      |
 | Módulo 08 concluído               | ✅      |
 | Módulo 09 concluído               | ✅      |
+| Módulo 10 concluído               | ✅      |
 | Primeira versão pública           | ⏳      |
 
 ---
