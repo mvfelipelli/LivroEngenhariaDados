@@ -217,7 +217,7 @@ O volume possui dez módulos estruturados. Há conteúdo parcial, especialmente 
 
 Status:
 
-🚧 Em desenvolvimento
+✅ Concluído
 
 #### Módulo 01 — Dados
 
@@ -305,17 +305,23 @@ Status:
 
 O módulo possui logs, métricas, traces, saúde dos dados, linhagem operacional, SLOs, incidentes, runbooks e laboratório reproduzível.
 
-O próximo trabalho é estruturar e iniciar o Módulo 12 — Conceitos Modernos.
+#### Módulo 12 — Conceitos Modernos
+
+Status:
+
+✅ Concluído
+
+O módulo possui produtos de dados, contratos, plataforma self-service, arquitetura evolutiva, Mesh, Fabric, Lakehouse, DataOps, FinOps, IA e laboratório reproduzível.
+
+O Volume 01 — Fundamentos está concluído. O próximo trabalho é estruturar e iniciar o Volume 02 — Linux.
 
 ---
 
 ## Próximo Marco
 
-Concluir integralmente:
+Estruturar e iniciar:
 
-**Volume 01 — Fundamentos**
-
-**Módulo 12 — Conceitos Modernos**
+**Volume 02 — Linux**
 
 Após sua conclusão:
 

@@ -111,6 +111,11 @@ As alterações são classificadas nas seguintes categorias:
 * Laboratório em Python e SQLite adicionado com correlação de spans, avaliação de SLO e incidente idempotente.
 * Referências do Módulo 11 consolidadas e módulo marcado como concluído.
 * Validador Markdown ajustado para processar arquivos em lotes e evitar o limite de linha de comando do Windows.
+* Módulo 12 — Conceitos Modernos desenvolvido com produtos de dados, contratos, plataforma self-service e arquitetura evolutiva.
+* Data Mesh, Data Fabric, Lakehouse, ativação, DataOps, FinOps, metadados ativos e IA responsável consolidados.
+* Estudo de caso, revisão, entrevistas, exercícios e gabarito do Módulo 12 adicionados.
+* Laboratório em Python e SQLite adicionado com guardrails de prontidão e evidências idempotentes.
+* Módulo 12 e Volume 01 — Fundamentos marcados como concluídos.
 
 ## Planned
 

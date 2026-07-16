@@ -88,7 +88,7 @@ Situação:
 
 Status:
 
-🚧 Em desenvolvimento
+✅ Concluído
 
 ### Módulo 01 — Dados
 
@@ -262,6 +262,20 @@ Situação:
 
 ---
 
+### Módulo 12 — Conceitos Modernos
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Produtos de dados, contratos, plataforma self-service e arquitetura evolutiva concluídos.
+* Mesh, Fabric, Lakehouse, ativação, DataOps, FinOps, metadados ativos e IA concluídos.
+* Estudo de caso, revisão, exercícios e laboratório concluídos.
+
+---
+
 ## Volumes 02 a 18
 
 Status:
@@ -277,15 +291,15 @@ Os diretórios, `README.md`, `SUMMARY.md` e `CHANGELOG.md` de cada volume existe
 O próximo trabalho oficial do projeto é:
 
 ```text id="jbcjjo"
-Volume 01
+Volume 02
 
 ↓
 
-Módulo 12 — Conceitos Modernos
+Linux
 
 ↓
 
-Consolidar paradigmas modernos, produtos de dados, contratos e arquitetura evolutiva
+Definir a estrutura inicial do volume e seu primeiro módulo
 
 ↓
 
@@ -297,7 +311,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o próximo módulo do Volume 01.
+* iniciar o primeiro módulo do Volume 02.
 
 ---
 
@@ -305,7 +319,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Módulo 12.
+* Estruturar e iniciar o Volume 02 — Linux.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -404,14 +418,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 12 — Conceitos Modernos.**
+**Estruturar e iniciar o Volume 02 — Linux.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o próximo módulo do Volume 01.
+4. Iniciar o primeiro módulo do Volume 02.
 
 ---
 
@@ -434,6 +448,8 @@ Após sua conclusão:
 | Módulo 09 concluído               | ✅      |
 | Módulo 10 concluído               | ✅      |
 | Módulo 11 concluído               | ✅      |
+| Módulo 12 concluído               | ✅      |
+| Volume 01 concluído               | ✅      |
 | Primeira versão pública           | ⏳      |
 
 ---

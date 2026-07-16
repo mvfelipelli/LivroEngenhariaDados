@@ -21,7 +21,7 @@ Seu propósito é registrar a estrutura vigente em `100-Volumes`, a ordem de est
 | Estrutura do Vault    | ✅ Concluída           |
 | Governança do Projeto | 🚧 Em consolidação    |
 | Volume 00             | 🚧 Em desenvolvimento |
-| Volume 01             | 🚧 Em desenvolvimento |
+| Volume 01             | ✅ Concluído |
 | Volumes 02 a 18       | ⏳ Estruturados        |
 
 ---
@@ -112,11 +112,11 @@ Status: 🚧 Em desenvolvimento
 | 09 — Qualidade | ✅ Concluído |
 | 10 — Governança | ✅ Concluído |
 | 11 — Observabilidade | ✅ Concluído |
-| 12 — Conceitos Modernos | ⏳ Planejado |
+| 12 — Conceitos Modernos | ✅ Concluído |
 
 ### Ponto de continuidade
 
-O Módulo 11 — Observabilidade foi concluído com todos os componentes obrigatórios. O próximo trabalho é estruturar e iniciar o Módulo 12 — Conceitos Modernos.
+O Módulo 12 — Conceitos Modernos e o Volume 01 — Fundamentos foram concluídos. O próximo trabalho é estruturar e iniciar o Volume 02 — Linux conforme a estrutura física oficial.
 
 ---
 
