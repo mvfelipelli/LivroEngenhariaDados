@@ -281,7 +281,15 @@ Status:
 
 O módulo possui requisitos, trade-offs, estilos, eventos, Warehouse, Lake, Lakehouse, Data Mesh, Data Fabric, ADRs e laboratório reproduzível.
 
-O próximo trabalho é estruturar e iniciar o Módulo 09 — Qualidade.
+#### Módulo 09 — Qualidade
+
+Status:
+
+✅ Concluído
+
+O módulo possui dimensões, profiling, contratos, testes, quality gates, SLOs, incidentes, responsabilidades e laboratório reproduzível.
+
+O próximo trabalho é estruturar e iniciar o Módulo 10 — Governança.
 
 ---
 
@@ -291,7 +299,7 @@ Concluir integralmente:
 
 **Volume 01 — Fundamentos**
 
-**Módulo 09 — Qualidade**
+**Módulo 10 — Governança**
 
 Após sua conclusão:
 

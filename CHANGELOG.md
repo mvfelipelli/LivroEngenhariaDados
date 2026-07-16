@@ -95,6 +95,11 @@ As alterações são classificadas nas seguintes categorias:
 * Estudo de caso, revisão, entrevistas, exercícios e gabarito do Módulo 08 adicionados.
 * Laboratório em Python e SQLite adicionado com matriz ponderada, fitness functions e persistência idempotente de ADR.
 * Referências do Módulo 08 consolidadas e módulo marcado como concluído.
+* Módulo 09 — Qualidade desenvolvido com dimensões, profiling, contratos, regras, testes e quality gates.
+* SLOs, incidentes, responsabilidades, governança da qualidade e melhoria contínua consolidados.
+* Estudo de caso, revisão, entrevistas, exercícios e gabarito do Módulo 09 adicionados.
+* Laboratório em Python e SQLite adicionado com métricas, quarentena, gate e persistência idempotente.
+* Referências do Módulo 09 consolidadas e módulo marcado como concluído.
 
 ## Planned
 

@@ -220,6 +220,20 @@ Situação:
 
 ---
 
+### Módulo 09 — Qualidade
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Fundamentos, dimensões, profiling, contratos e regras de negócio concluídos.
+* Testes, quality gates, SLOs, incidentes, responsabilidades e melhoria contínua concluídos.
+* Estudo de caso, revisão, exercícios e laboratório concluídos.
+
+---
+
 ## Volumes 02 a 18
 
 Status:
@@ -239,11 +253,11 @@ Volume 01
 
 ↓
 
-Módulo 09 — Qualidade
+Módulo 10 — Governança
 
 ↓
 
-Definir dimensões, contratos, testes e operação da qualidade de dados
+Definir princípios, papéis, políticas, metadados e controles de governança
 
 ↓
 
@@ -263,7 +277,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Módulo 09.
+* Estruturar e iniciar o Módulo 10.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -362,7 +376,7 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 09 — Qualidade.**
+**Estruturar e iniciar o Módulo 10 — Governança.**
 
 Após sua conclusão:
 
@@ -389,6 +403,7 @@ Após sua conclusão:
 | Módulo 06 concluído               | ✅      |
 | Módulo 07 concluído               | ✅      |
 | Módulo 08 concluído               | ✅      |
+| Módulo 09 concluído               | ✅      |
 | Primeira versão pública           | ⏳      |
 
 ---

@@ -109,14 +109,14 @@ Status: 🚧 Em desenvolvimento
 | 06 — ELT | ✅ Concluído |
 | 07 — Pipelines | ✅ Concluído |
 | 08 — Arquiteturas | ✅ Concluído |
-| 09 — Qualidade | ⏳ Planejado |
+| 09 — Qualidade | ✅ Concluído |
 | 10 — Governança | ⏳ Planejado |
 | 11 — Observabilidade | ⏳ Planejado |
 | 12 — Conceitos Modernos | ⏳ Planejado |
 
 ### Ponto de continuidade
 
-O Módulo 08 — Arquiteturas foi concluído com todos os componentes obrigatórios. O próximo trabalho é estruturar e iniciar o Módulo 09 — Qualidade.
+O Módulo 09 — Qualidade foi concluído com todos os componentes obrigatórios. O próximo trabalho é estruturar e iniciar o Módulo 10 — Governança.
 
 ---
 
