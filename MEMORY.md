@@ -379,7 +379,15 @@ Status:
 
 O módulo possui risco, baselines, identidade, permissões, kernel, rede, criptografia, auditoria, incidentes e laboratório reproduzível.
 
-O próximo trabalho é estruturar e iniciar o Módulo 08 — Operação de Plataformas de Dados no Linux.
+#### Módulo 08 — Operação de Plataformas de Dados no Linux
+
+Status:
+
+✅ Concluído
+
+O módulo integra SLOs, implantação, estado, backup, automação, observabilidade, incidentes, DR, capacidade e laboratório de prontidão.
+
+O Volume 02 — Linux está concluído. O próximo trabalho é estruturar e iniciar o Volume 03 — Git e GitHub.
 
 ---
 
@@ -387,9 +395,7 @@ O próximo trabalho é estruturar e iniciar o Módulo 08 — Operação de Plata
 
 Estruturar e iniciar:
 
-**Volume 02 — Linux**
-
-**Módulo 08 — Operação de Plataformas de Dados no Linux**
+**Volume 03 — Git e GitHub**
 
 Após sua conclusão:
 

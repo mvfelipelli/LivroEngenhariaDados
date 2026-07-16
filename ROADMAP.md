@@ -125,7 +125,7 @@ O Módulo 12 — Conceitos Modernos e o Volume 01 — Fundamentos foram concluí
 
 **Objetivo:** desenvolver competências de sistema operacional, automação e diagnóstico necessárias à engenharia de dados.
 
-Status: 🚧 Em desenvolvimento
+Status: ✅ Concluído
 
 ### Módulos
 
@@ -138,10 +138,11 @@ Status: 🚧 Em desenvolvimento
 | 05 — Contêineres e Isolamento no Linux | ✅ Concluído |
 | 06 — Desempenho, Troubleshooting e Observabilidade Linux | ✅ Concluído |
 | 07 — Segurança e Hardening Linux | ✅ Concluído |
+| 08 — Operação de Plataformas de Dados no Linux | ✅ Concluído |
 
 ### Ponto de continuidade
 
-O próximo trabalho é estruturar e iniciar o Módulo 08 — Operação de Plataformas de Dados no Linux.
+O Volume 02 — Linux está concluído. O próximo trabalho é estruturar e iniciar o Volume 03 — Git e GitHub.
 
 ---
 

@@ -26,6 +26,9 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Módulo 08 do Volume 02 desenvolvido com SLOs, implantação, backup, automação, monitoramento, DR e capacidade.
+* Estudo de caso da DataRetail S.A., revisão, exercícios, gabarito e referências operacionais adicionados.
+* Laboratório reproduzível de production readiness review adicionado e validado.
 * Módulo 07 do Volume 02 desenvolvido com risco, identidade, permissões, kernel, rede, criptografia, auditoria e incidentes.
 * Estudo de caso da DataRetail S.A., revisão, exercícios, gabarito e referências de hardening adicionados.
 * Laboratório reproduzível de auditoria declarativa de baseline adicionado e validado.
@@ -44,6 +47,7 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Changed
 
+* Volume 02 — Linux marcado como concluído e continuidade movida para o Volume 03 — Git e GitHub.
 * Volume 02 atualizado para marcar Segurança e Hardening Linux como concluído e apontar o Módulo 08 como próximo marco.
 * Volume 02 atualizado para marcar Desempenho e Observabilidade Linux como concluído e apontar o Módulo 07 como próximo marco.
 * Volume 02 atualizado para marcar Contêineres e Isolamento no Linux como concluído e apontar o Módulo 06 como próximo marco.

@@ -3,7 +3,7 @@ title: Linux
 aliases: [Volume Linux]
 tags: [linux, engenharia-de-dados, volume-02]
 type: volume
-status: em-desenvolvimento
+status: concluido
 created: 2026-07-16
 updated: 2026-07-16
 description: "Fundamentos e práticas de Linux para engenharia de dados."
@@ -22,10 +22,7 @@ Este volume desenvolve as competências de Linux necessárias para operar servid
 5. [[05-Containers-e-Isolamento-no-Linux/README|Contêineres e Isolamento no Linux]] — concluído.
 6. [[06-Desempenho-Troubleshooting-e-Observabilidade-Linux/README|Desempenho, Troubleshooting e Observabilidade Linux]] — concluído.
 7. [[07-Seguranca-e-Hardening-Linux/README|Segurança e Hardening Linux]] — concluído.
-7. [[07-Seguranca-e-Hardening-Linux/README|Segurança e Hardening Linux]] — concluído.
-6. [[06-Desempenho-Troubleshooting-e-Observabilidade-Linux/README|Desempenho, Troubleshooting e Observabilidade Linux]] — concluído.
-5. [[05-Containers-e-Isolamento-no-Linux/README|Contêineres e Isolamento no Linux]] — concluído.
-4. [[04-Redes-e-Conectividade-no-Linux/README|Redes e Conectividade no Linux]] — concluído.
+8. [[08-Operacao-de-Plataformas-de-Dados-no-Linux/README|Operação de Plataformas de Dados no Linux]] — concluído.
 
 > [!note]
 > O estudo começa pelo modelo do sistema e avança para práticas operacionais. Comandos são apresentados como instrumentos para compreender estado e comportamento.

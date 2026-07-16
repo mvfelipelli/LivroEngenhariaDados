@@ -380,6 +380,22 @@ Situação:
 
 ---
 
+### Módulo 08 — Operação de Plataformas de Dados no Linux
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* SLOs, implantação, estado, backup, automação e monitoramento concluídos.
+* Incidentes, DR, postmortems, capacidade, mudanças e custo concluídos.
+* Estudo de caso, revisão, exercícios e production readiness review concluídos.
+
+O Volume 02 — Linux está concluído.
+
+---
+
 ## Volumes 03 a 18
 
 Status:
@@ -395,15 +411,15 @@ Os diretórios, `README.md`, `SUMMARY.md` e `CHANGELOG.md` de cada volume existe
 O próximo trabalho oficial do projeto é:
 
 ```text id="jbcjjo"
-Volume 02
+Volume 03
 
 ↓
 
-Módulo 08 — Operação de Plataformas de Dados no Linux
+Git e GitHub
 
 ↓
 
-Integrar implantação, serviços de dados, capacidade, backup, observabilidade e runbooks
+Estruturar fundamentos de versionamento, commits, branches, colaboração e operação segura
 
 ↓
 
@@ -415,7 +431,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 08 do Volume 02.
+* iniciar o Volume 03 — Git e GitHub.
 
 ---
 
@@ -423,7 +439,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Módulo 08 — Operação de Plataformas de Dados no Linux.
+* Estruturar e iniciar o Volume 03 — Git e GitHub.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -522,14 +538,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 08 — Operação de Plataformas de Dados no Linux.**
+**Estruturar e iniciar o Volume 03 — Git e GitHub.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 08 do Volume 02.
+4. Iniciar o Volume 03 — Git e GitHub.
 
 ---
 

@@ -9,3 +9,5 @@
 - Módulo 05 — Contêineres e Isolamento no Linux concluído com laboratório de imagem em camadas determinística.
 - Módulo 06 — Desempenho, Troubleshooting e Observabilidade Linux concluído com laboratório de análise USE.
 - Módulo 07 — Segurança e Hardening Linux concluído com laboratório de auditoria de baseline.
+- Módulo 08 — Operação de Plataformas de Dados no Linux concluído com production readiness review.
+- Volume 02 — Linux concluído.

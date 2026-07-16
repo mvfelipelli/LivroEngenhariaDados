@@ -7,3 +7,4 @@
 - [[05-Containers-e-Isolamento-no-Linux/README|Módulo 05 — Contêineres e Isolamento no Linux]]
 - [[06-Desempenho-Troubleshooting-e-Observabilidade-Linux/README|Módulo 06 — Desempenho, Troubleshooting e Observabilidade Linux]]
 - [[07-Seguranca-e-Hardening-Linux/README|Módulo 07 — Segurança e Hardening Linux]]
+- [[08-Operacao-de-Plataformas-de-Dados-no-Linux/README|Módulo 08 — Operação de Plataformas de Dados no Linux]]
