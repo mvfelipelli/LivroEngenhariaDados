@@ -363,7 +363,15 @@ Status:
 
 O módulo possui namespaces, cgroups, imagens OCI, runtimes, volumes, redes, segurança, supply chain e laboratório determinístico.
 
-O próximo trabalho é estruturar e iniciar o Módulo 06 — Desempenho, Troubleshooting e Observabilidade Linux.
+#### Módulo 06 — Desempenho, Troubleshooting e Observabilidade Linux
+
+Status:
+
+✅ Concluído
+
+O módulo possui métodos USE e RED, CPU, memória, I/O, processos, profiling, tracing, incidentes, capacidade e laboratório reproduzível.
+
+O próximo trabalho é estruturar e iniciar o Módulo 07 — Segurança e Hardening Linux.
 
 ---
 
@@ -373,7 +381,7 @@ Estruturar e iniciar:
 
 **Volume 02 — Linux**
 
-**Módulo 06 — Desempenho, Troubleshooting e Observabilidade Linux**
+**Módulo 07 — Segurança e Hardening Linux**
 
 Após sua conclusão:
 

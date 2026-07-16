@@ -26,6 +26,9 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Módulo 06 do Volume 02 desenvolvido com USE, RED, CPU, memória, I/O, profiling, tracing, incidentes e capacidade.
+* Estudo de caso da DataRetail S.A., revisão, exercícios, gabarito e referências de performance adicionados.
+* Laboratório reproduzível de análise de snapshots e classificação de gargalo adicionado e validado.
 * Módulo 05 do Volume 02 desenvolvido com namespaces, cgroups, imagens OCI, runtimes, volumes, redes e segurança.
 * Estudo de caso da DataRetail S.A., revisão, exercícios, gabarito e referências de contêineres adicionados.
 * Laboratório reproduzível de camadas, whiteout e manifesto por digest adicionado e validado.
@@ -38,6 +41,7 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Changed
 
+* Volume 02 atualizado para marcar Desempenho e Observabilidade Linux como concluído e apontar o Módulo 07 como próximo marco.
 * Volume 02 atualizado para marcar Contêineres e Isolamento no Linux como concluído e apontar o Módulo 06 como próximo marco.
 * Volume 02 atualizado para marcar Redes e Conectividade no Linux como concluído e apontar o Módulo 05 como próximo marco.
 * Volume 02 atualizado para marcar Shell Script e Automação como concluído e apontar o Módulo 04 como próximo marco.

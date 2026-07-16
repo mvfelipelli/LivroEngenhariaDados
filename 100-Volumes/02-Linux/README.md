@@ -20,6 +20,8 @@ Este volume desenvolve as competências de Linux necessárias para operar servid
 3. [[03-Shell-Script-e-Automacao/README|Shell Script e Automação]] — concluído.
 4. [[04-Redes-e-Conectividade-no-Linux/README|Redes e Conectividade no Linux]] — concluído.
 5. [[05-Containers-e-Isolamento-no-Linux/README|Contêineres e Isolamento no Linux]] — concluído.
+6. [[06-Desempenho-Troubleshooting-e-Observabilidade-Linux/README|Desempenho, Troubleshooting e Observabilidade Linux]] — concluído.
+6. [[06-Desempenho-Troubleshooting-e-Observabilidade-Linux/README|Desempenho, Troubleshooting e Observabilidade Linux]] — concluído.
 5. [[05-Containers-e-Isolamento-no-Linux/README|Contêineres e Isolamento no Linux]] — concluído.
 4. [[04-Redes-e-Conectividade-no-Linux/README|Redes e Conectividade no Linux]] — concluído.
 

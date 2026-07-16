@@ -7,3 +7,4 @@
 - Módulo 03 — Shell Script e Automação concluído com laboratório Bash idempotente.
 - Módulo 04 — Redes e Conectividade no Linux concluído com laboratório local de DNS, TCP e HTTP.
 - Módulo 05 — Contêineres e Isolamento no Linux concluído com laboratório de imagem em camadas determinística.
+- Módulo 06 — Desempenho, Troubleshooting e Observabilidade Linux concluído com laboratório de análise USE.

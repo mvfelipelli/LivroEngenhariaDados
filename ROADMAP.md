@@ -136,10 +136,11 @@ Status: 🚧 Em desenvolvimento
 | 03 — Shell Script e Automação | ✅ Concluído |
 | 04 — Redes e Conectividade no Linux | ✅ Concluído |
 | 05 — Contêineres e Isolamento no Linux | ✅ Concluído |
+| 06 — Desempenho, Troubleshooting e Observabilidade Linux | ✅ Concluído |
 
 ### Ponto de continuidade
 
-O próximo trabalho é estruturar e iniciar o Módulo 06 — Desempenho, Troubleshooting e Observabilidade Linux.
+O próximo trabalho é estruturar e iniciar o Módulo 07 — Segurança e Hardening Linux.
 
 ---
 
