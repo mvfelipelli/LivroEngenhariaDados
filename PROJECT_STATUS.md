@@ -17,7 +17,7 @@
 | Idioma             | Português (Brasil)               |
 | Repositório        | LivroEngenhariaDados             |
 | Status Geral       | 🚧 Em desenvolvimento            |
-| Última atualização | 2026-07-14                     |
+| Última atualização | 2026-07-16                     |
 
 ---
 
@@ -122,8 +122,8 @@ Status:
 Situação:
 
 * README concluído.
-* Capítulos 01 a 06 desenvolvidos.
-* O capítulo `07-Processamento-de-Dados.md` existe, mas está vazio.
+* Capítulos 01 a 07 desenvolvidos.
+* O próximo capítulo é `08-Consumo-e-Compartilhamento.md`.
 * Módulo ainda não finalizado.
 
 ---

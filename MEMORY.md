@@ -231,11 +231,11 @@ Status:
 
 🚧 Em desenvolvimento
 
-Os capítulos iniciais já foram produzidos.
+Os capítulos 01 a 07 já foram produzidos.
 
 O módulo ainda não foi concluído.
 
-O próximo arquivo é `07-Processamento-de-Dados.md`, que já existe, mas está vazio.
+O próximo arquivo é `08-Consumo-e-Compartilhamento.md`.
 
 ---
 

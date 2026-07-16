@@ -48,6 +48,7 @@ As alterações são classificadas nas seguintes categorias:
 * Normalizadores Markdown ampliados para espaços finais, linhas excedentes, quebra final e hierarquia de títulos.
 * Dívida histórica de Markdown eliminada nos documentos do Vault.
 * Validação completa do Vault promovida a etapa bloqueante do CI.
+* Capítulo `07-Processamento-de-Dados.md` do Módulo 02 desenvolvido com fundamentos de transformação, ETL, ELT, batch, streaming e confiabilidade operacional.
 
 ## Planned
 
