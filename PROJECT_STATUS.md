@@ -310,6 +310,20 @@ Situação:
 
 ---
 
+### Módulo 03 — Shell Script e Automação
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Linguagem Bash, expansões, funções, erros, sinais e idempotência concluídos.
+* Texto, processos, testes, segurança, agendamento e operação concluídos.
+* Estudo de caso, revisão, exercícios e laboratório Bash idempotente concluídos.
+
+---
+
 ## Volumes 03 a 18
 
 Status:
@@ -329,11 +343,11 @@ Volume 02
 
 ↓
 
-Módulo 03 — Shell Script e Automação
+Módulo 04 — Redes e Conectividade no Linux
 
 ↓
 
-Aprofundar linguagem shell, funções, erros, testes e automação confiável
+Aprofundar redes, protocolos, resolução de nomes, segurança e diagnóstico
 
 ↓
 
@@ -345,7 +359,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 03 do Volume 02.
+* iniciar o Módulo 04 do Volume 02.
 
 ---
 
@@ -353,7 +367,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Módulo 03 — Shell Script e Automação.
+* Estruturar e iniciar o Módulo 04 — Redes e Conectividade no Linux.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -452,14 +466,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 03 — Shell Script e Automação.**
+**Estruturar e iniciar o Módulo 04 — Redes e Conectividade no Linux.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 03 do Volume 02.
+4. Iniciar o Módulo 04 do Volume 02.
 
 ---
 

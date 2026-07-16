@@ -17,7 +17,7 @@ Este volume desenvolve as competências de Linux necessárias para operar servid
 
 1. [[01-Fundamentos-do-Linux/README|Fundamentos do Linux]] — concluído.
 2. [[02-Administracao-do-Sistema-Linux/README|Administração do Sistema Linux]] — concluído.
-2. [[02-Administracao-do-Sistema-Linux/README|Administração do Sistema Linux]] — concluído.
+3. [[03-Shell-Script-e-Automacao/README|Shell Script e Automação]] — concluído.
 
 > [!note]
 > O estudo começa pelo modelo do sistema e avança para práticas operacionais. Comandos são apresentados como instrumentos para compreender estado e comportamento.

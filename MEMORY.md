@@ -339,7 +339,15 @@ Status:
 
 O módulo possui pacotes, systemd, armazenamento, mounts, rede, logs, backup, capacidade, hardening e laboratório Bash reproduzível.
 
-O próximo trabalho é estruturar e iniciar o Módulo 03 — Shell Script e Automação.
+#### Módulo 03 — Shell Script e Automação
+
+Status:
+
+✅ Concluído
+
+O módulo possui linguagem Bash, expansões, funções, tratamento de erros, idempotência, testes, segurança, operação e laboratório de ingestão reproduzível.
+
+O próximo trabalho é estruturar e iniciar o Módulo 04 — Redes e Conectividade no Linux.
 
 ---
 
@@ -349,7 +357,7 @@ Estruturar e iniciar:
 
 **Volume 02 — Linux**
 
-**Módulo 03 — Shell Script e Automação**
+**Módulo 04 — Redes e Conectividade no Linux**
 
 Após sua conclusão:
 

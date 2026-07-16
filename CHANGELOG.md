@@ -24,6 +24,16 @@ As alterações são classificadas nas seguintes categorias:
 
 ## [Unreleased]
 
+### Added
+
+* Módulo 03 do Volume 02 desenvolvido com fundamentos de Bash, expansões, funções, erros, idempotência, testes, segurança e operação.
+* Estudo de caso da DataRetail S.A., exercícios, gabarito e referências de Shell Script adicionados.
+* Laboratório reproduzível de ingestão Bash com validação, deduplicação, quarentena e publicação atômica adicionado.
+
+### Changed
+
+* Volume 02 atualizado para marcar Shell Script e Automação como concluído e apontar o Módulo 04 como próximo marco.
+
 ## Changed
 
 * Estrutura física de `100-Volumes` consolidada como fonte oficial para nomes e numeração dos volumes.

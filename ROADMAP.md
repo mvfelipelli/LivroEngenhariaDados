@@ -133,10 +133,11 @@ Status: 🚧 Em desenvolvimento
 | ------ | ------ |
 | 01 — Fundamentos do Linux | ✅ Concluído |
 | 02 — Administração do Sistema Linux | ✅ Concluído |
+| 03 — Shell Script e Automação | ✅ Concluído |
 
 ### Ponto de continuidade
 
-O próximo trabalho é estruturar e iniciar o Módulo 03 — Shell Script e Automação.
+O próximo trabalho é estruturar e iniciar o Módulo 04 — Redes e Conectividade no Linux.
 
 ---
 
