@@ -249,7 +249,15 @@ Status:
 
 O módulo possui modelagem conceitual, lógica, física, relacional e analítica, normalização, evolução, estudo de caso e laboratório reproduzível.
 
-O próximo trabalho é estruturar e iniciar o Módulo 05 — ETL.
+#### Módulo 05 — ETL
+
+Status:
+
+✅ Concluído
+
+O módulo possui extração, transformação, carga, incrementalidade, CDC, confiabilidade, testes, operação e laboratório reproduzível.
+
+O próximo trabalho é estruturar e iniciar o Módulo 06 — ELT.
 
 ---
 
@@ -259,7 +267,7 @@ Concluir integralmente:
 
 **Volume 01 — Fundamentos**
 
-**Módulo 05 — ETL**
+**Módulo 06 — ELT**
 
 Após sua conclusão:
 

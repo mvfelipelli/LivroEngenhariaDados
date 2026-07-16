@@ -78,6 +78,10 @@ As alterações são classificadas nas seguintes categorias:
 * Laboratório reproduzível de modelo operacional e analítico adicionado com solução SQLite.
 * Referências oficiais e bibliográficas do Módulo 04 consolidadas.
 * Módulo 04 — Modelagem marcado como concluído.
+* Módulo 05 — ETL desenvolvido com extração, transformação, carga, incrementalidade, CDC, idempotência, testes e operação.
+* Estudo de caso, resumo, perguntas de entrevista, exercícios e gabarito do Módulo 05 adicionados.
+* Laboratório incremental em Python e SQLite adicionado com watermark, quarentena, upsert, auditoria e idempotência.
+* Referências do Módulo 05 consolidadas e módulo marcado como concluído.
 
 ## Planned
 

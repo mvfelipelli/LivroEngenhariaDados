@@ -164,6 +164,20 @@ Situação:
 
 ---
 
+### Módulo 05 — ETL
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Extração, transformação, carga, incrementalidade e CDC concluídos.
+* Confiabilidade, idempotência, testes e operação concluídos.
+* Estudo de caso, revisão, exercícios e laboratório concluídos.
+
+---
+
 ## Volumes 02 a 18
 
 Status:
@@ -183,7 +197,7 @@ Volume 01
 
 ↓
 
-Módulo 05 — ETL
+Módulo 06 — ELT
 
 ↓
 
@@ -207,7 +221,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Módulo 05.
+* Estruturar e iniciar o Módulo 06.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -306,7 +320,7 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 05 — ETL.**
+**Estruturar e iniciar o Módulo 06 — ELT.**
 
 Após sua conclusão:
 
@@ -329,6 +343,7 @@ Após sua conclusão:
 | Módulo 02 concluído               | ✅      |
 | Módulo 03 concluído               | ✅      |
 | Módulo 04 concluído               | ✅      |
+| Módulo 05 concluído               | ✅      |
 | Primeira versão pública           | ⏳      |
 
 ---
