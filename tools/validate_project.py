@@ -213,29 +213,34 @@ def check_modules(root: Path) -> list[Issue]:
 def run_pymarkdown(files: list[Path], config: Path, root: Path) -> list[Issue]:
     if not files:
         return []
-    command = [
-        sys.executable,
-        "-m",
-        "pymarkdown",
-        "--config",
-        str(config),
-        "--enable-extensions",
-        "front-matter,markdown-tables,markdown-task-list-items",
-        "scan",
-        *map(str, files),
-    ]
-    result = subprocess.run(command, check=False, capture_output=True, text=True)
     issues: list[Issue] = []
     pattern = re.compile(r"^(.*?):(\d+):\d+:\s+(MD\d+):\s+(.*)$")
-    for line in (result.stdout + result.stderr).splitlines():
-        match = pattern.match(line)
-        if match:
-            path, number, rule, message = match.groups()
-            issues.append(Issue("markdown", Path(path), f"{rule}: {message}", int(number)))
-    if not issues:
-        if result.returncode != 0:
+
+    # Evita exceder o limite de comprimento da linha de comando no Windows
+    # à medida que o Vault cresce.
+    for start in range(0, len(files), 100):
+        batch = files[start:start + 100]
+        command = [
+            sys.executable,
+            "-m",
+            "pymarkdown",
+            "--config",
+            str(config),
+            "--enable-extensions",
+            "front-matter,markdown-tables,markdown-task-list-items",
+            "scan",
+            *map(str, batch),
+        ]
+        result = subprocess.run(command, check=False, capture_output=True, text=True)
+        batch_issues = 0
+        for line in (result.stdout + result.stderr).splitlines():
+            match = pattern.match(line)
+            if match:
+                path, number, rule, message = match.groups()
+                issues.append(Issue("markdown", Path(path), f"{rule}: {message}", int(number)))
+                batch_issues += 1
+        if result.returncode != 0 and batch_issues == 0:
             issues.append(Issue("markdown", root, "PyMarkdown falhou sem diagnóstico estruturado"))
-        return issues
 
     return issues
 

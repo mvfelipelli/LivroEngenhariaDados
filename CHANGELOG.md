@@ -105,6 +105,12 @@ As alterações são classificadas nas seguintes categorias:
 * Estudo de caso, revisão, entrevistas, exercícios e gabarito do Módulo 10 adicionados.
 * Laboratório em Python e SQLite adicionado com policy as code, avaliação de ativos e evidências idempotentes.
 * Referências do Módulo 10 consolidadas e módulo marcado como concluído.
+* Módulo 11 — Observabilidade desenvolvido com logs, métricas, traces, correlação e saúde operacional e dos dados.
+* Linhagem operacional, SLOs, alertas, dashboards, incidentes, runbooks, segurança e maturidade consolidados.
+* Estudo de caso, revisão, entrevistas, exercícios e gabarito do Módulo 11 adicionados.
+* Laboratório em Python e SQLite adicionado com correlação de spans, avaliação de SLO e incidente idempotente.
+* Referências do Módulo 11 consolidadas e módulo marcado como concluído.
+* Validador Markdown ajustado para processar arquivos em lotes e evitar o limite de linha de comando do Windows.
 
 ## Planned
 

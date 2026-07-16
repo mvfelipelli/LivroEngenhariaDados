@@ -111,12 +111,12 @@ Status: 🚧 Em desenvolvimento
 | 08 — Arquiteturas | ✅ Concluído |
 | 09 — Qualidade | ✅ Concluído |
 | 10 — Governança | ✅ Concluído |
-| 11 — Observabilidade | ⏳ Planejado |
+| 11 — Observabilidade | ✅ Concluído |
 | 12 — Conceitos Modernos | ⏳ Planejado |
 
 ### Ponto de continuidade
 
-O Módulo 10 — Governança foi concluído com todos os componentes obrigatórios. O próximo trabalho é estruturar e iniciar o Módulo 11 — Observabilidade.
+O Módulo 11 — Observabilidade foi concluído com todos os componentes obrigatórios. O próximo trabalho é estruturar e iniciar o Módulo 12 — Conceitos Modernos.
 
 ---
 

@@ -297,7 +297,15 @@ Status:
 
 O módulo possui princípios, modelo operacional, papéis, políticas, metadados, catálogo, linhagem, privacidade, retenção e laboratório reproduzível.
 
-O próximo trabalho é estruturar e iniciar o Módulo 11 — Observabilidade.
+#### Módulo 11 — Observabilidade
+
+Status:
+
+✅ Concluído
+
+O módulo possui logs, métricas, traces, saúde dos dados, linhagem operacional, SLOs, incidentes, runbooks e laboratório reproduzível.
+
+O próximo trabalho é estruturar e iniciar o Módulo 12 — Conceitos Modernos.
 
 ---
 
@@ -307,7 +315,7 @@ Concluir integralmente:
 
 **Volume 01 — Fundamentos**
 
-**Módulo 11 — Observabilidade**
+**Módulo 12 — Conceitos Modernos**
 
 Após sua conclusão:
 

@@ -248,6 +248,20 @@ Situação:
 
 ---
 
+### Módulo 11 — Observabilidade
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Fundamentos, logs, métricas, traces, correlação e saúde dos dados concluídos.
+* Linhagem operacional, SLOs, alertas, incidentes, runbooks e maturidade concluídos.
+* Estudo de caso, revisão, exercícios e laboratório concluídos.
+
+---
+
 ## Volumes 02 a 18
 
 Status:
@@ -267,11 +281,11 @@ Volume 01
 
 ↓
 
-Módulo 11 — Observabilidade
+Módulo 12 — Conceitos Modernos
 
 ↓
 
-Definir sinais, telemetria, linhagem operacional, SLOs e resposta a incidentes
+Consolidar paradigmas modernos, produtos de dados, contratos e arquitetura evolutiva
 
 ↓
 
@@ -291,7 +305,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Módulo 11.
+* Estruturar e iniciar o Módulo 12.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -390,7 +404,7 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 11 — Observabilidade.**
+**Estruturar e iniciar o Módulo 12 — Conceitos Modernos.**
 
 Após sua conclusão:
 
@@ -419,6 +433,7 @@ Após sua conclusão:
 | Módulo 08 concluído               | ✅      |
 | Módulo 09 concluído               | ✅      |
 | Módulo 10 concluído               | ✅      |
+| Módulo 11 concluído               | ✅      |
 | Primeira versão pública           | ⏳      |
 
 ---
