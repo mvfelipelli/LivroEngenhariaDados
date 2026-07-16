@@ -82,6 +82,10 @@ As alterações são classificadas nas seguintes categorias:
 * Estudo de caso, resumo, perguntas de entrevista, exercícios e gabarito do Módulo 05 adicionados.
 * Laboratório incremental em Python e SQLite adicionado com watermark, quarentena, upsert, auditoria e idempotência.
 * Referências do Módulo 05 consolidadas e módulo marcado como concluído.
+* Módulo 06 — ELT desenvolvido com raw, staging, marts, SQL modular, materializações, testes, linhagem, governança e custo.
+* Estudo de caso, revisão, entrevistas, exercícios e gabarito do Módulo 06 adicionados.
+* Laboratório ELT em Python e SQLite adicionado com deduplicação por versão, mart, testes e rebuild.
+* Referências do Módulo 06 consolidadas e módulo marcado como concluído.
 
 ## Planned
 

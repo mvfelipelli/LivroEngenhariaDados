@@ -178,6 +178,20 @@ Situação:
 
 ---
 
+### Módulo 06 — ELT
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Carga raw, transformações SQL, camadas e materializações concluídas.
+* Testes, linhagem, governança, segurança e custo concluídos.
+* Estudo de caso, revisão, exercícios e laboratório concluídos.
+
+---
+
 ## Volumes 02 a 18
 
 Status:
@@ -197,7 +211,7 @@ Volume 01
 
 ↓
 
-Módulo 06 — ELT
+Módulo 07 — Pipelines
 
 ↓
 
@@ -221,7 +235,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Módulo 06.
+* Estruturar e iniciar o Módulo 07.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -320,7 +334,7 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 06 — ELT.**
+**Estruturar e iniciar o Módulo 07 — Pipelines.**
 
 Após sua conclusão:
 
@@ -344,6 +358,7 @@ Após sua conclusão:
 | Módulo 03 concluído               | ✅      |
 | Módulo 04 concluído               | ✅      |
 | Módulo 05 concluído               | ✅      |
+| Módulo 06 concluído               | ✅      |
 | Primeira versão pública           | ⏳      |
 
 ---

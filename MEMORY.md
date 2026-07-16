@@ -257,7 +257,15 @@ Status:
 
 O módulo possui extração, transformação, carga, incrementalidade, CDC, confiabilidade, testes, operação e laboratório reproduzível.
 
-O próximo trabalho é estruturar e iniciar o Módulo 06 — ELT.
+#### Módulo 06 — ELT
+
+Status:
+
+✅ Concluído
+
+O módulo possui raw, staging, marts, SQL modular, materializações, testes, linhagem, governança e laboratório reproduzível.
+
+O próximo trabalho é estruturar e iniciar o Módulo 07 — Pipelines.
 
 ---
 
@@ -267,7 +275,7 @@ Concluir integralmente:
 
 **Volume 01 — Fundamentos**
 
-**Módulo 06 — ELT**
+**Módulo 07 — Pipelines**
 
 Após sua conclusão:
 

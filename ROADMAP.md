@@ -106,7 +106,7 @@ Status: 🚧 Em desenvolvimento
 | 03 — Bancos de Dados | ✅ Concluído |
 | 04 — Modelagem | ✅ Concluído |
 | 05 — ETL | ✅ Concluído |
-| 06 — ELT | ⏳ Planejado |
+| 06 — ELT | ✅ Concluído |
 | 07 — Pipelines | ⏳ Planejado |
 | 08 — Arquiteturas | ⏳ Planejado |
 | 09 — Qualidade | ⏳ Planejado |
@@ -116,7 +116,7 @@ Status: 🚧 Em desenvolvimento
 
 ### Ponto de continuidade
 
-O Módulo 05 — ETL foi concluído com todos os componentes obrigatórios. O próximo trabalho é estruturar e iniciar o Módulo 06 — ELT.
+O Módulo 06 — ELT foi concluído com todos os componentes obrigatórios. O próximo trabalho é estruturar e iniciar o Módulo 07 — Pipelines.
 
 ---
 
