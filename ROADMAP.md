@@ -116,7 +116,7 @@ Status: 🚧 Em desenvolvimento
 
 ### Ponto de continuidade
 
-O capítulo 05 — Entidades, Atributos e Relacionamentos foi concluído. O próximo trabalho é desenvolver o capítulo 06 — Chaves, Cardinalidade e Integridade.
+O capítulo 06 — Chaves, Cardinalidade e Integridade foi concluído. O próximo trabalho é desenvolver o capítulo 07 — Normalização e Dependências.
 
 ---
 

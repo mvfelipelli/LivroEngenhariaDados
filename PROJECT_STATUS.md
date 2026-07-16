@@ -156,7 +156,8 @@ Situação:
 * Capítulo 03 — O que é Modelagem de Dados concluído.
 * Capítulo 04 — Níveis Conceitual, Lógico e Físico concluído.
 * Capítulo 05 — Entidades, Atributos e Relacionamentos concluído.
-* Próximo arquivo: `06-Chaves-Cardinalidade-e-Integridade.md`.
+* Capítulo 06 — Chaves, Cardinalidade e Integridade concluído.
+* Próximo arquivo: `07-Normalizacao-e-Dependencias.md`.
 
 ---
 
@@ -183,7 +184,7 @@ Módulo 04 — Modelagem
 
 ↓
 
-Desenvolver o capítulo 06 — Chaves, Cardinalidade e Integridade
+Desenvolver o capítulo 07 — Normalização e Dependências
 
 ↓
 
@@ -302,7 +303,7 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Desenvolver o capítulo 06 — Chaves, Cardinalidade e Integridade.**
+**Desenvolver o capítulo 07 — Normalização e Dependências.**
 
 Após sua conclusão:
 

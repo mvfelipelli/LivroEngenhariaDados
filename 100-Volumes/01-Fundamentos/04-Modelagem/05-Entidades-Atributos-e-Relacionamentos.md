@@ -291,4 +291,4 @@ Em auto-relacionamentos ou múltiplas associações entre as mesmas entidades, p
 
 ## Próximo Capítulo
 
-➡️ **06 — Chaves, Cardinalidade e Integridade**
+➡️ [[06-Chaves-Cardinalidade-e-Integridade|06 — Chaves, Cardinalidade e Integridade]]
