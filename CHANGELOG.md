@@ -120,6 +120,10 @@ As alterações são classificadas nas seguintes categorias:
 * Módulo 01 — Fundamentos do Linux desenvolvido com kernel, shell, filesystem, permissões, processos, serviços e terminal.
 * Estudo de caso, revisão, entrevistas, exercícios e gabarito do primeiro módulo Linux adicionados.
 * Laboratório Bash adicionado com workspace temporário, permissões, manifesto SHA-256 e idempotência.
+* Módulo Linux 02 — Administração do Sistema desenvolvido com pacotes, systemd, armazenamento, rede e manutenção.
+* Logs, backup, recuperação, capacidade, hardening e automação administrativa consolidados.
+* Estudo de caso, revisão, entrevistas, exercícios e gabarito do Módulo Linux 02 adicionados.
+* Laboratório Bash adicionado com auditoria idempotente de configuração, mounts, backup e permissões.
 
 ## Planned
 

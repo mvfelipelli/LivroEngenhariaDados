@@ -296,6 +296,20 @@ Situação:
 
 ---
 
+### Módulo 02 — Administração do Sistema Linux
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Pacotes, atualizações, systemd, serviços, timers e journal concluídos.
+* Armazenamento, rede, logs, backup, capacidade, hardening e automação concluídos.
+* Estudo de caso, revisão, exercícios e laboratório Bash concluídos.
+
+---
+
 ## Volumes 03 a 18
 
 Status:
@@ -315,11 +329,11 @@ Volume 02
 
 ↓
 
-Módulo 02 — Administração do Sistema Linux
+Módulo 03 — Shell Script e Automação
 
 ↓
 
-Aprofundar pacotes, serviços, armazenamento, rede, logs e manutenção
+Aprofundar linguagem shell, funções, erros, testes e automação confiável
 
 ↓
 
@@ -331,7 +345,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 02 do Volume 02.
+* iniciar o Módulo 03 do Volume 02.
 
 ---
 
@@ -339,7 +353,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Módulo 02 — Administração do Sistema Linux.
+* Estruturar e iniciar o Módulo 03 — Shell Script e Automação.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -438,14 +452,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 02 — Administração do Sistema Linux.**
+**Estruturar e iniciar o Módulo 03 — Shell Script e Automação.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 02 do Volume 02.
+4. Iniciar o Módulo 03 do Volume 02.
 
 ---
 
@@ -472,6 +486,7 @@ Após sua conclusão:
 | Volume 01 concluído               | ✅      |
 | Volume 02 iniciado                | ✅      |
 | Módulo Linux 01 concluído         | ✅      |
+| Módulo Linux 02 concluído         | ✅      |
 | Primeira versão pública           | ⏳      |
 
 ---

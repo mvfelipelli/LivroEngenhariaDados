@@ -132,10 +132,11 @@ Status: 🚧 Em desenvolvimento
 | Módulo | Status |
 | ------ | ------ |
 | 01 — Fundamentos do Linux | ✅ Concluído |
+| 02 — Administração do Sistema Linux | ✅ Concluído |
 
 ### Ponto de continuidade
 
-O próximo trabalho é estruturar e iniciar o Módulo 02 — Administração do Sistema Linux.
+O próximo trabalho é estruturar e iniciar o Módulo 03 — Shell Script e Automação.
 
 ---
 
