@@ -13,7 +13,7 @@ updated: "2026-07-14"
 
 ---
 
-# Apresentação
+## Apresentação
 
 Bem-vindo ao primeiro capítulo da Academia de Engenharia de Dados.
 
@@ -27,7 +27,7 @@ Este capítulo não exige qualquer conhecimento prévio sobre Engenharia de Dado
 
 ---
 
-# Objetivos de Aprendizagem
+## Objetivos de Aprendizagem
 
 Ao concluir este capítulo, você será capaz de:
 
@@ -41,7 +41,7 @@ Ao concluir este capítulo, você será capaz de:
 
 ---
 
-# Estrutura do Capítulo
+## Estrutura do Capítulo
 
 Este capítulo está dividido nas seguintes seções:
 
@@ -68,24 +68,24 @@ Este capítulo está dividido nas seguintes seções:
 
 ---
 
-# Competências Desenvolvidas
+## Competências Desenvolvidas
 
 Ao finalizar este capítulo você terá desenvolvido as seguintes competências:
 
-## Conhecimento Conceitual
+### Conhecimento Conceitual
 
 - Evolução dos sistemas de informação
 - Conceitos fundamentais de Engenharia de Dados
 - Ecossistema moderno de dados
 - Arquiteturas contemporâneas
 
-## Visão Sistêmica
+### Visão Sistêmica
 
 - Compreensão do fluxo completo dos dados
 - Relação entre diferentes áreas da tecnologia
 - Papel das plataformas modernas de dados
 
-## Competências Profissionais
+### Competências Profissionais
 
 - Entendimento das responsabilidades do Engenheiro de Dados
 - Visão sobre carreira e especializações
@@ -93,7 +93,7 @@ Ao finalizar este capítulo você terá desenvolvido as seguintes competências:
 
 ---
 
-# Relação com os Próximos Volumes
+## Relação com os Próximos Volumes
 
 Este capítulo fornece a base conceitual necessária para todos os volumes seguintes.
 
@@ -122,7 +122,7 @@ Nos próximos módulos estudaremos como transformar esses conceitos em soluçõe
 
 ---
 
-# Convenções Utilizadas
+## Convenções Utilizadas
 
 Ao longo deste capítulo serão utilizados os seguintes elementos:
 
@@ -137,7 +137,7 @@ Ao longo deste capítulo serão utilizados os seguintes elementos:
 
 ---
 
-# Tempo Estimado
+## Tempo Estimado
 
 | Atividade | Tempo |
 |-----------|------:|
@@ -151,7 +151,7 @@ Tempo total estimado: **aproximadamente 4 horas**.
 
 ---
 
-# Pré-requisitos
+## Pré-requisitos
 
 Não há pré-requisitos técnicos para este capítulo.
 
@@ -159,7 +159,7 @@ Recomenda-se apenas curiosidade, disposição para aprender e interesse em compr
 
 ---
 
-# Próximo Arquivo
+## Próximo Arquivo
 
 ➡ **01-Objetivos-de-Aprendizagem.md**
 

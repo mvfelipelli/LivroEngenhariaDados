@@ -13,7 +13,7 @@ updated: "2026-07-14"
 
 ---
 
-# Introdução
+## Introdução
 
 Vivemos em uma era na qual praticamente todas as atividades humanas deixam rastros digitais.
 
@@ -27,7 +27,7 @@ Esse paradoxo deu origem a uma das áreas mais importantes da tecnologia moderna
 
 ---
 
-# Dados: o novo recurso estratégico
+## Dados: o novo recurso estratégico
 
 Durante grande parte do século XX, os principais ativos de uma organização eram considerados seus recursos físicos.
 
@@ -62,7 +62,7 @@ O verdadeiro diferencial está na capacidade de coletar, organizar, transformar 
 
 ---
 
-# O desafio do crescimento dos dados
+## O desafio do crescimento dos dados
 
 A quantidade de dados produzidos no mundo cresce em ritmo exponencial.
 
@@ -96,7 +96,7 @@ Essa diversidade exige novas arquiteturas e novas formas de processamento.
 
 ---
 
-# O problema não é armazenar
+## O problema não é armazenar
 
 Durante muitos anos acreditava-se que o principal desafio seria armazenar grandes volumes de informação.
 
@@ -120,7 +120,7 @@ O desafio passou a ser **transformar dados em um ativo confiável para o negóci
 
 ---
 
-# A Engenharia de Dados como disciplina
+## A Engenharia de Dados como disciplina
 
 A Engenharia de Dados surgiu justamente para resolver esse conjunto de desafios.
 
@@ -144,7 +144,7 @@ Em termos simples:
 
 ---
 
-# Muito além de ETL
+## Muito além de ETL
 
 Durante muitos anos o trabalho do Engenheiro de Dados foi associado quase exclusivamente à construção de processos de ETL (*Extract, Transform and Load*).
 
@@ -168,7 +168,7 @@ A Engenharia de Dados evoluiu de uma atividade operacional para uma disciplina e
 
 ---
 
-# Engenharia de Dados e transformação digital
+## Engenharia de Dados e transformação digital
 
 Quase toda iniciativa de transformação digital depende diretamente de dados.
 
@@ -189,7 +189,7 @@ Sem Engenharia de Dados, essas iniciativas tornam-se inviáveis ou extremamente 
 
 ---
 
-# Um exemplo prático
+## Um exemplo prático
 
 Imagine uma grande rede de varejo.
 
@@ -221,7 +221,7 @@ Exige integrar, transformar, validar e disponibilizar informações de forma con
 
 ---
 
-# O que estudaremos ao longo desta Academia
+## O que estudaremos ao longo desta Academia
 
 Durante esta formação construiremos, passo a passo, todos os componentes necessários para uma plataforma moderna de Engenharia de Dados.
 
@@ -248,7 +248,7 @@ Mais importante do que aprender ferramentas, você compreenderá os princípios 
 
 ---
 
-# Resumo
+## Resumo
 
 Neste capítulo vimos que os dados se tornaram um dos principais ativos estratégicos das organizações.
 
@@ -260,7 +260,7 @@ Nos próximos capítulos exploraremos como essa área evoluiu ao longo das últi
 
 ---
 
-# Próximo Arquivo
+## Próximo Arquivo
 
 ➡ **03-A-Era-dos-Dados.md**
 

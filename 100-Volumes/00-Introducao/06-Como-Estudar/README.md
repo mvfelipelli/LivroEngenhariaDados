@@ -9,4 +9,3 @@ updated: "2026-07-14"
 ---
 
 # 06-Como-Estudar
-

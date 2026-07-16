@@ -24,9 +24,9 @@ Explique por que esse conceito é importante para a [[Engenharia-de-Dados|Engenh
 
 ## Características principais
 
-- 
-- 
-- 
+- Conteúdo a adicionar.
+- Conteúdo a adicionar.
+- Conteúdo a adicionar.
 
 ## Exemplo prático
 
@@ -42,7 +42,7 @@ Explique por que esse conceito é importante para a [[Engenharia-de-Dados|Engenh
 
 ## Referências
 
-- 
+- Conteúdo a adicionar.
 
 ---
 

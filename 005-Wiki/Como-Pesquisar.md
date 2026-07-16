@@ -8,4 +8,3 @@ updated: "2026-07-14"
 ---
 
 # Como Pesquisar
-

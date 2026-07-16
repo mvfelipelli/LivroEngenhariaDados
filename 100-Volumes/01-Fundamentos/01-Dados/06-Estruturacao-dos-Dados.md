@@ -28,7 +28,7 @@ updated: "2026-07-14"
 
 ---
 
-# Objetivo
+## Objetivo
 
 Ao concluir este capítulo você será capaz de:
 
@@ -40,7 +40,7 @@ Ao concluir este capítulo você será capaz de:
 
 ---
 
-# Introdução
+## Introdução
 
 Imagine uma biblioteca onde todos os livros foram colocados aleatoriamente em uma única sala.
 
@@ -63,7 +63,7 @@ Estruturar dados significa organizá-los de forma que possam ser armazenados, co
 
 ---
 
-# O que significa estruturar dados?
+## O que significa estruturar dados?
 
 Estruturar dados consiste em definir como eles serão organizados.
 
@@ -80,11 +80,11 @@ Sem estrutura, grandes volumes de dados tornam-se difíceis de utilizar.
 
 ---
 
-# Estrutura lógica × Estrutura física
+## Estrutura lógica × Estrutura física
 
 É importante separar dois conceitos.
 
-## Estrutura lógica
+### Estrutura lógica
 
 Representa **como o negócio enxerga os dados**.
 
@@ -108,7 +108,7 @@ Essa estrutura independe da tecnologia utilizada.
 
 ---
 
-## Estrutura física
+### Estrutura física
 
 Representa **como os dados são armazenados**.
 
@@ -126,7 +126,7 @@ A estrutura física depende da arquitetura adotada.
 
 ---
 
-# Esquema (Schema)
+## Esquema (Schema)
 
 Um **schema** define a estrutura esperada dos dados.
 
@@ -153,11 +153,11 @@ Sempre que um novo registro é inserido, espera-se que siga essa definição.
 
 ---
 
-# Schema-on-Write × Schema-on-Read
+## Schema-on-Write × Schema-on-Read
 
 Uma das decisões arquiteturais mais importantes é definir quando o esquema será validado.
 
-## Schema-on-Write
+### Schema-on-Write
 
 O esquema é validado durante a gravação.
 
@@ -177,7 +177,7 @@ Desvantagens:
 
 ---
 
-## Schema-on-Read
+### Schema-on-Read
 
 O esquema é interpretado apenas durante a leitura.
 
@@ -198,7 +198,7 @@ Desvantagens:
 
 ---
 
-# Organização hierárquica
+## Organização hierárquica
 
 Os dados podem ser organizados em diferentes níveis.
 
@@ -224,7 +224,7 @@ Essa organização facilita governança, segurança e manutenção.
 
 ---
 
-# Formatos de armazenamento
+## Formatos de armazenamento
 
 Os dados podem ser armazenados em diversos formatos.
 
@@ -243,7 +243,7 @@ Cada formato possui objetivos específicos.
 
 ---
 
-# Organização em tabelas
+## Organização em tabelas
 
 Nos bancos relacionais os dados normalmente são organizados em tabelas.
 
@@ -267,7 +267,7 @@ Cada coluna representa um atributo.
 
 ---
 
-# Organização em documentos
+## Organização em documentos
 
 NoSQL normalmente utiliza documentos.
 
@@ -288,7 +288,7 @@ Observe que um único documento pode conter estruturas complexas.
 
 ---
 
-# Organização em arquivos
+## Organização em arquivos
 
 Nos Data Lakes os dados frequentemente são armazenados em arquivos.
 
@@ -308,7 +308,7 @@ Além do conteúdo, a organização dos diretórios também influencia o desempe
 
 ---
 
-# Particionamento
+## Particionamento
 
 Uma técnica amplamente utilizada consiste em dividir os dados em partições.
 
@@ -328,7 +328,7 @@ Isso permite que mecanismos como Spark e Trino leiam apenas os arquivos necessá
 
 ---
 
-# Conexão com a prática
+## Conexão com a prática
 
 Na DataRetail S.A., imagine que existam dois bilhões de registros de vendas.
 
@@ -340,7 +340,7 @@ Essa estratégia reduz drasticamente o tempo de execução e o custo computacion
 
 ---
 
-# Arquitetura em Foco
+## Arquitetura em Foco
 
 > [!example]
 >
@@ -362,7 +362,7 @@ Essa estratégia reduz drasticamente o tempo de execução e o custo computacion
 
 ---
 
-# Boas práticas
+## Boas práticas
 
 > [!tip]
 >
@@ -379,7 +379,7 @@ Essas decisões terão impacto durante toda a vida útil da plataforma.
 
 ---
 
-# Erros comuns
+## Erros comuns
 
 > [!warning]
 >
@@ -391,7 +391,7 @@ Essas decisões terão impacto durante toda a vida útil da plataforma.
 
 ---
 
-# Resumo Executivo
+## Resumo Executivo
 
 - Estruturar dados significa organizá-los para facilitar armazenamento, processamento e consulta.
 - Estrutura lógica representa o negócio; estrutura física representa a implementação.
@@ -401,7 +401,7 @@ Essas decisões terão impacto durante toda a vida útil da plataforma.
 
 ---
 
-# Conceitos-chave
+## Conceitos-chave
 
 - Estrutura Lógica
 - Estrutura Física
@@ -416,13 +416,13 @@ Essas decisões terão impacto durante toda a vida útil da plataforma.
 
 ---
 
-# Veja Também
+## Veja Também
 
-## Próximo capítulo
+### Próximo capítulo
 
 ➡️ [[07-Ciclo-de-Vida-dos-Dados|07 - Ciclo de Vida dos Dados]]
 
-## Atlas
+### Atlas
 
 - [[Data-Lake|Data Lake]]
 - [[Lakehouse]]
@@ -431,7 +431,7 @@ Essas decisões terão impacto durante toda a vida útil da plataforma.
 - [[100-Volumes/08-PostgreSQL/README|PostgreSQL]]
 - [[Pipeline-de-Dados|Pipeline de Dados]]
 
-## Volume
+### Volume
 
 - [[100-Volumes/01-Fundamentos/01-Dados/README]]
 

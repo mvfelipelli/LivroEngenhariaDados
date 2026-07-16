@@ -24,7 +24,7 @@ description: "Capítulo técnico sobre Geração e Coleta de Dados na Formação
 
 ---
 
-# Introdução
+## Introdução
 
 Nenhum dado surge espontaneamente.
 
@@ -50,7 +50,7 @@ A Engenharia de Dados normalmente não controla a geração dessas informações
 
 ---
 
-# O que significa gerar dados?
+## O que significa gerar dados?
 
 A geração de dados corresponde ao momento em que uma informação passa a existir de forma registrável.
 
@@ -80,7 +80,7 @@ Quanto melhor essa representação, maior será o valor produzido posteriormente
 
 ---
 
-# Dados não são o evento
+## Dados não são o evento
 
 Um erro comum é confundir o dado com o acontecimento.
 
@@ -121,13 +121,13 @@ Os registros podem ser muitos.
 
 ---
 
-# Fontes de geração de dados
+## Fontes de geração de dados
 
 As organizações modernas produzem dados a partir de inúmeras fontes.
 
 Entre as mais comuns destacam-se:
 
-## Sistemas transacionais
+### Sistemas transacionais
 
 São responsáveis pelas operações do negócio.
 
@@ -144,7 +144,7 @@ Esses sistemas normalmente representam a principal fonte de dados corporativos.
 
 ---
 
-## Aplicações Web
+### Aplicações Web
 
 Sites e portais registram continuamente informações como:
 
@@ -159,7 +159,7 @@ Esses dados são fundamentais para análises de comportamento dos usuários.
 
 ---
 
-## Aplicativos móveis
+### Aplicativos móveis
 
 Além das informações tradicionais, aplicativos podem registrar:
 
@@ -172,7 +172,7 @@ Além das informações tradicionais, aplicativos podem registrar:
 
 ---
 
-## Sensores (IoT)
+### Sensores (IoT)
 
 Dispositivos conectados produzem grandes volumes de dados continuamente.
 
@@ -190,7 +190,7 @@ Em muitos cenários esses dados são produzidos milhares de vezes por segundo.
 
 ---
 
-## Equipamentos industriais
+### Equipamentos industriais
 
 Máquinas industriais registram continuamente:
 
@@ -204,7 +204,7 @@ Esses dados são utilizados para manutenção preditiva e otimização da produ�
 
 ---
 
-## Redes sociais
+### Redes sociais
 
 Interações realizadas pelos usuários também geram dados.
 
@@ -219,7 +219,7 @@ Exemplos:
 
 ---
 
-## Fontes externas
+### Fontes externas
 
 Nem todos os dados são produzidos pela própria empresa.
 
@@ -236,11 +236,11 @@ Essas fontes costumam complementar os dados internos.
 
 ---
 
-# Dados estruturados e não estruturados
+## Dados estruturados e não estruturados
 
 As fontes produzem diferentes tipos de informação.
 
-## Dados estruturados
+### Dados estruturados
 
 Possuem organização previamente definida.
 
@@ -254,7 +254,7 @@ São facilmente armazenados em bancos relacionais.
 
 ---
 
-## Dados semiestruturados
+### Dados semiestruturados
 
 Possuem organização parcial.
 
@@ -268,7 +268,7 @@ Embora apresentem estrutura, ela pode variar entre registros.
 
 ---
 
-## Dados não estruturados
+### Dados não estruturados
 
 Não seguem um esquema fixo.
 
@@ -285,7 +285,7 @@ Esses dados normalmente exigem tratamentos específicos antes da análise.
 
 ---
 
-# O que é coleta de dados?
+## O que é coleta de dados?
 
 Depois de produzidos, os dados precisam ser capturados.
 
@@ -299,11 +299,11 @@ Enquanto a geração representa o nascimento do dado, a coleta representa sua pr
 
 ---
 
-# Formas de coleta
+## Formas de coleta
 
 Existem diferentes estratégias para capturar dados.
 
-## Entrada manual
+### Entrada manual
 
 Uma pessoa informa os dados diretamente em um sistema.
 
@@ -324,7 +324,7 @@ Desvantagem:
 
 ---
 
-## Captura automática
+### Captura automática
 
 Os próprios sistemas registram os eventos.
 
@@ -340,7 +340,7 @@ Exemplos:
 
 ---
 
-## Importação
+### Importação
 
 Dados produzidos anteriormente são incorporados ao ambiente.
 
@@ -354,7 +354,7 @@ Exemplos:
 
 ---
 
-## Integração entre sistemas
+### Integração entre sistemas
 
 Os dados são enviados diretamente entre aplicações.
 
@@ -370,7 +370,7 @@ Essa modalidade será aprofundada no módulo de Integração de Dados.
 
 ---
 
-# Qualidade começa aqui
+## Qualidade começa aqui
 
 > [!warning]
 > A qualidade dos dados não começa durante o processamento. Ela começa no momento em que os dados são gerados e coletados.
@@ -390,7 +390,7 @@ Quanto mais cedo esses problemas forem identificados, menor será seu impacto.
 
 ---
 
-# Boas práticas
+## Boas práticas
 
 Durante a geração e a coleta, algumas práticas são recomendadas.
 
@@ -407,7 +407,7 @@ Essas práticas facilitam as etapas seguintes do ciclo de vida.
 
 ---
 
-# Erros comuns
+## Erros comuns
 
 > [!failure]
 > Alguns dos problemas mais frequentes encontrados em projetos de Engenharia de Dados surgem logo nas primeiras etapas do ciclo.
@@ -427,7 +427,7 @@ Muitos desses problemas tornam-se difíceis — ou até impossíveis — de corr
 
 ---
 
-# Estudo de caso — DataRetail S.A.
+## Estudo de caso — DataRetail S.A.
 
 Considere a empresa fictícia **DataRetail S.A.**
 
@@ -466,7 +466,7 @@ Essas informações serão utilizadas nas próximas etapas do ciclo de vida.
 
 ---
 
-# Conexão com os próximos capítulos
+## Conexão com os próximos capítulos
 
 Neste capítulo estudamos como os dados são produzidos e capturados.
 
@@ -474,7 +474,7 @@ No próximo veremos como essas informações deixam seus sistemas de origem e pa
 
 ---
 
-# Resumo
+## Resumo
 
 Neste capítulo aprendemos que:
 
@@ -489,6 +489,6 @@ Esses conceitos serão fundamentais para compreender a próxima etapa: a ingest�
 
 ---
 
-# Próximo Capítulo
+## Próximo Capítulo
 
 ➡️ [[05-Ingestao-de-Dados]]

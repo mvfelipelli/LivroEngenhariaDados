@@ -44,6 +44,10 @@ As alterações são classificadas nas seguintes categorias:
 * Validador estrutural ajustado para exigir componentes obrigatórios somente de módulos declarados como concluídos.
 * Status do Módulo 01 — Dados e de seus documentos alinhado ao ROADMAP como concluído.
 * Validação estrutural de módulos concluídos promovida a etapa bloqueante do CI.
+* PyMarkdown configurado com extensões compatíveis com YAML frontmatter, tabelas e listas de tarefas do Obsidian.
+* Normalizadores Markdown ampliados para espaços finais, linhas excedentes, quebra final e hierarquia de títulos.
+* Dívida histórica de Markdown eliminada nos documentos do Vault.
+* Validação completa do Vault promovida a etapa bloqueante do CI.
 
 ## Planned
 

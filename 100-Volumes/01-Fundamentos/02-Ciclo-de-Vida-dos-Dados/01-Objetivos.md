@@ -21,7 +21,7 @@ description: "Capítulo técnico sobre Objetivos do Módulo na Formação em Eng
 
 ---
 
-# Objetivo Geral
+## Objetivo Geral
 
 Compreender o **Ciclo de Vida dos Dados**, identificando cada uma de suas etapas, seus objetivos, desafios e a forma como elas se conectam para transformar dados brutos em informações úteis para o negócio.
 
@@ -29,11 +29,11 @@ Ao final deste módulo, o leitor deverá ser capaz de enxergar qualquer ambiente
 
 ---
 
-# Objetivos Específicos
+## Objetivos Específicos
 
 Ao concluir este módulo, você será capaz de:
 
-## Compreender os fundamentos
+### Compreender os fundamentos
 
 - explicar o que é o Ciclo de Vida dos Dados;
 - entender por que esse conceito é central na Engenharia de Dados;
@@ -41,7 +41,7 @@ Ao concluir este módulo, você será capaz de:
 
 ---
 
-## Identificar as etapas do ciclo
+### Identificar as etapas do ciclo
 
 Você será capaz de reconhecer e descrever cada uma das etapas:
 
@@ -59,7 +59,7 @@ Além disso, compreenderá como essas etapas se relacionam entre si.
 
 ---
 
-## Entender os papéis envolvidos
+### Entender os papéis envolvidos
 
 Ao longo do ciclo, diferentes profissionais atuam sobre os dados.
 
@@ -76,7 +76,7 @@ Você compreenderá o papel de:
 
 ---
 
-## Relacionar o ciclo às arquiteturas modernas
+### Relacionar o ciclo às arquiteturas modernas
 
 Ao finalizar este módulo você compreenderá por que arquiteturas como:
 
@@ -90,7 +90,7 @@ existem para dar suporte ao ciclo completo dos dados.
 
 ---
 
-## Identificar riscos
+### Identificar riscos
 
 Você aprenderá a reconhecer problemas comuns, como:
 
@@ -106,17 +106,17 @@ Você aprenderá a reconhecer problemas comuns, como:
 
 ---
 
-## Relacionar teoria e prática
+### Relacionar teoria e prática
 
 Durante todo o módulo, os conceitos serão aplicados ao projeto integrador da **DataRetail S.A.**, permitindo visualizar como empresas reais lidam com o fluxo de dados em suas operações diárias.
 
 ---
 
-# Competências Desenvolvidas
+## Competências Desenvolvidas
 
 Ao concluir este módulo, espera-se que você desenvolva as seguintes competências.
 
-## Competências Técnicas
+### Competências Técnicas
 
 - compreender o fluxo completo dos dados;
 - identificar pontos críticos de um pipeline;
@@ -126,7 +126,7 @@ Ao concluir este módulo, espera-se que você desenvolva as seguintes competênc
 
 ---
 
-## Competências Analíticas
+### Competências Analíticas
 
 - analisar fluxos de informação;
 - identificar gargalos;
@@ -136,7 +136,7 @@ Ao concluir este módulo, espera-se que você desenvolva as seguintes competênc
 
 ---
 
-## Competências Profissionais
+### Competências Profissionais
 
 Ao longo deste módulo você desenvolverá uma visão sistêmica da Engenharia de Dados, habilidade essencial para profissionais que atuarão em projetos de:
 
@@ -150,7 +150,7 @@ Ao longo deste módulo você desenvolverá uma visão sistêmica da Engenharia d
 
 ---
 
-# O que você NÃO aprenderá neste módulo
+## O que você NÃO aprenderá neste módulo
 
 > [!note]
 > Este módulo é conceitual. O objetivo é construir uma base sólida antes da introdução das tecnologias específicas.
@@ -171,7 +171,7 @@ Essas tecnologias serão estudadas em profundidade nos módulos posteriores, qua
 
 ---
 
-# Ao concluir este módulo...
+## Ao concluir este módulo...
 
 Você será capaz de observar qualquer ambiente de dados — independentemente da tecnologia utilizada — e identificar:
 
@@ -188,7 +188,7 @@ Essa visão sistêmica será utilizada continuamente ao longo de toda a Formaç�
 
 ---
 
-# Próximo Capítulo
+## Próximo Capítulo
 
 No próximo capítulo iniciaremos a contextualização do tema, entendendo por que o Ciclo de Vida dos Dados se tornou um dos conceitos mais importantes da Engenharia de Dados moderna.
 

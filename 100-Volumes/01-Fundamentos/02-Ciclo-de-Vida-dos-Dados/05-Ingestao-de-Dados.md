@@ -23,7 +23,7 @@ description: "Capítulo técnico sobre Ingestão de Dados na Formação em Engen
 
 ---
 
-# Introdução
+## Introdução
 
 Imagine uma grande empresa de varejo.
 
@@ -44,7 +44,7 @@ Entretanto, para que possam gerar valor, precisam chegar até a plataforma de da
 
 ---
 
-# O que é ingestão de dados?
+## O que é ingestão de dados?
 
 > [!definition]
 >
@@ -56,7 +56,7 @@ Sem essa etapa, os dados permaneceriam isolados em seus sistemas de origem.
 
 ---
 
-# A posição da ingestão no ciclo de vida
+## A posição da ingestão no ciclo de vida
 
 A ingestão ocorre logo após a geração e a coleta dos dados.
 
@@ -80,7 +80,7 @@ Embora representada como uma única etapa, a ingestão pode envolver diversos pr
 
 ---
 
-# Objetivos da ingestão
+## Objetivos da ingestão
 
 Uma boa estratégia de ingestão deve permitir que os dados:
 
@@ -96,11 +96,11 @@ Em outros casos, a prioridade pode ser confiabilidade ou baixo custo.
 
 ---
 
-# Principais origens de dados
+## Principais origens de dados
 
 A ingestão normalmente ocorre a partir de diferentes fontes.
 
-## Sistemas transacionais
+### Sistemas transacionais
 
 - ERP
 - CRM
@@ -110,7 +110,7 @@ A ingestão normalmente ocorre a partir de diferentes fontes.
 
 ---
 
-## Bancos de dados
+### Bancos de dados
 
 Uma organização pode possuir dezenas ou centenas de bancos de dados diferentes.
 
@@ -118,7 +118,7 @@ Cada um deles pode fornecer informações para análises corporativas.
 
 ---
 
-## Arquivos
+### Arquivos
 
 Também é comum ingerir dados provenientes de:
 
@@ -132,7 +132,7 @@ Também é comum ingerir dados provenientes de:
 
 ---
 
-## APIs
+### APIs
 
 Muitas aplicações disponibilizam informações através de interfaces de programação.
 
@@ -146,7 +146,7 @@ Exemplos:
 
 ---
 
-## Sensores e dispositivos
+### Sensores e dispositivos
 
 Equipamentos IoT podem produzir informações continuamente.
 
@@ -154,7 +154,7 @@ Esses dados costumam exigir mecanismos especializados de ingestão devido ao gra
 
 ---
 
-# Principais destinos
+## Principais destinos
 
 Depois da ingestão, os dados podem ser enviados para diferentes ambientes.
 
@@ -173,11 +173,11 @@ A escolha depende da arquitetura adotada pela organização.
 
 ---
 
-# Modos de ingestão
+## Modos de ingestão
 
 Existem duas grandes formas de transportar dados.
 
-## Batch
+### Batch
 
 No processamento em lote, os dados são movimentados em intervalos previamente definidos.
 
@@ -200,14 +200,14 @@ Arquivo
 Plataforma de Dados
 ```
 
-### Vantagens
+#### Vantagens
 
 - simplicidade;
 - menor custo;
 - facilidade de controle;
 - adequado para grandes volumes.
 
-### Limitações
+#### Limitações
 
 Os dados não ficam imediatamente disponíveis.
 
@@ -215,7 +215,7 @@ Sempre existe algum atraso entre sua geração e seu consumo.
 
 ---
 
-## Streaming
+### Streaming
 
 Na ingestão contínua, os dados são enviados praticamente no momento em que são produzidos.
 
@@ -240,13 +240,13 @@ Exemplos de utilização:
 - fraude bancária;
 - rastreamento de veículos.
 
-### Vantagens
+#### Vantagens
 
 - baixa latência;
 - atualização quase imediata;
 - suporte a aplicações em tempo real.
 
-### Desafios
+#### Desafios
 
 - maior complexidade;
 - monitoramento contínuo;
@@ -254,11 +254,11 @@ Exemplos de utilização:
 
 ---
 
-# ETL e ELT
+## ETL e ELT
 
 Durante a ingestão é comum ouvir dois termos bastante conhecidos.
 
-## ETL
+### ETL
 
 **Extract → Transform → Load**
 
@@ -282,7 +282,7 @@ Destino
 
 ---
 
-## ELT
+### ELT
 
 **Extract → Load → Transform**
 
@@ -311,7 +311,7 @@ Transformação
 
 ---
 
-# Captura de alterações
+## Captura de alterações
 
 Nem sempre é necessário copiar todos os dados novamente.
 
@@ -332,7 +332,7 @@ Essa abordagem reduz:
 
 ---
 
-# Confiabilidade da ingestão
+## Confiabilidade da ingestão
 
 Uma boa ingestão precisa ser confiável.
 
@@ -348,7 +348,7 @@ Esses requisitos tornam a ingestão muito mais do que uma simples cópia de arqu
 
 ---
 
-# Boas práticas
+## Boas práticas
 
 Durante o projeto de uma ingestão, recomenda-se:
 
@@ -363,7 +363,7 @@ Durante o projeto de uma ingestão, recomenda-se:
 
 ---
 
-# Erros comuns
+## Erros comuns
 
 > [!failure]
 > A ingestão é uma das etapas onde mais ocorrem problemas em plataformas de dados.
@@ -382,7 +382,7 @@ Esses problemas costumam gerar impactos em todas as etapas posteriores do ciclo 
 
 ---
 
-# Estudo de caso — DataRetail S.A.
+## Estudo de caso — DataRetail S.A.
 
 Após cada venda realizada nas lojas da DataRetail S.A., os dados precisam ser enviados para a plataforma corporativa.
 
@@ -414,7 +414,7 @@ O objetivo da ingestão é garantir que eles cheguem corretamente ao ambiente de
 
 ---
 
-# Conexão com os próximos capítulos
+## Conexão com os próximos capítulos
 
 Depois de ingeridos, os dados precisam ser armazenados de forma organizada, segura e eficiente.
 
@@ -422,7 +422,7 @@ No próximo capítulo estudaremos as principais estratégias de armazenamento e 
 
 ---
 
-# Resumo
+## Resumo
 
 Neste capítulo aprendemos que:
 
@@ -437,6 +437,6 @@ Esses conceitos servirão de base para o entendimento das arquiteturas modernas 
 
 ---
 
-# Próximo Capítulo
+## Próximo Capítulo
 
 ➡️ [[06-Armazenamento-de-Dados]]

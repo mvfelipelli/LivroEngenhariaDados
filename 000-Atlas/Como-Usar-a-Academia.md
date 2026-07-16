@@ -20,7 +20,7 @@ updated: "2026-07-14"
 
 ---
 
-# Bem-vindo!
+## Bem-vindo!
 
 Parabéns!
 
@@ -32,7 +32,7 @@ Todo o conteúdo foi desenvolvido para funcionar de forma integrada no **Obsidia
 
 ---
 
-# Objetivos da Academia
+## Objetivos da Academia
 
 Ao concluir todos os volumes você será capaz de:
 
@@ -45,7 +45,7 @@ Ao concluir todos os volumes você será capaz de:
 
 ---
 
-# Estrutura da Academia
+## Estrutura da Academia
 
 A Academia está organizada em áreas especializadas.
 
@@ -70,9 +70,9 @@ Cada pasta possui um objetivo específico.
 
 ---
 
-# O que existe em cada pasta?
+## O que existe em cada pasta?
 
-## 000-Atlas
+### 000-Atlas
 
 É o coração da Academia.
 
@@ -91,7 +91,7 @@ Sempre que surgir uma dúvida conceitual, consulte primeiro o Atlas.
 
 ---
 
-## 001-Dashboard
+### 001-Dashboard
 
 Página inicial da Academia.
 
@@ -104,7 +104,7 @@ Aqui estarão disponíveis:
 
 ---
 
-## 005-Wiki
+### 005-Wiki
 
 Páginas institucionais.
 
@@ -117,7 +117,7 @@ Exemplos:
 
 ---
 
-## 010-Biblioteca
+### 010-Biblioteca
 
 Reúne as melhores referências externas.
 
@@ -132,7 +132,7 @@ Inclui:
 
 ---
 
-## 020-Laboratorios
+### 020-Laboratorios
 
 Todos os exercícios práticos da Academia.
 
@@ -142,7 +142,7 @@ Sempre execute os laboratórios antes de avançar para o próximo assunto.
 
 ---
 
-## 030-Projetos
+### 030-Projetos
 
 Contém os projetos completos desenvolvidos durante a jornada.
 
@@ -154,7 +154,7 @@ Ao longo dos volumes essa plataforma evoluirá continuamente.
 
 ---
 
-## 040-Certificacoes
+### 040-Certificacoes
 
 Material complementar para certificações.
 
@@ -168,7 +168,7 @@ Exemplos:
 
 ---
 
-## 050-Templates
+### 050-Templates
 
 Modelos reutilizados pela Academia.
 
@@ -182,7 +182,7 @@ Inclui:
 
 ---
 
-## 060-Assets
+### 060-Assets
 
 Arquivos utilizados em toda a documentação.
 
@@ -196,7 +196,7 @@ Exemplos:
 
 ---
 
-## 070-Anotacoes
+### 070-Anotacoes
 
 Espaço reservado para suas anotações pessoais.
 
@@ -208,7 +208,7 @@ Crie notas próprias nesta pasta e conecte-as utilizando Wikilinks.
 
 ---
 
-## 080-Inbox
+### 080-Inbox
 
 Área temporária.
 
@@ -223,7 +223,7 @@ Revise essa pasta periodicamente.
 
 ---
 
-## 090-Arquivados
+### 090-Arquivados
 
 Conteúdo antigo ou descontinuado.
 
@@ -233,7 +233,7 @@ Apenas o arquivamos.
 
 ---
 
-## 100-Volumes
+### 100-Volumes
 
 Contém todo o conteúdo didático.
 
@@ -241,7 +241,7 @@ Cada volume representa uma etapa da jornada.
 
 ---
 
-## tools
+### tools
 
 Ferramentas utilizadas para administrar a Academia.
 
@@ -254,7 +254,7 @@ Exemplos:
 
 ---
 
-# Como estudar
+## Como estudar
 
 Recomendamos seguir sempre este fluxo.
 
@@ -282,7 +282,7 @@ E --> F
 
 ---
 
-# Como utilizar os Wikilinks
+## Como utilizar os Wikilinks
 
 Sempre que encontrar algo assim:
 
@@ -298,7 +298,7 @@ Caso a nota ainda não exista, ela será criada futuramente.
 
 ---
 
-# Como utilizar o Graph View
+## Como utilizar o Graph View
 
 O Graph View permite visualizar toda a rede de conhecimento da Academia.
 
@@ -311,7 +311,7 @@ Recomendação:
 
 ---
 
-# Como utilizar o Backlinks
+## Como utilizar o Backlinks
 
 Sempre consulte os backlinks.
 
@@ -333,7 +333,7 @@ Isso ajuda a compreender o contexto de utilização.
 
 ---
 
-# Como utilizar o Atlas
+## Como utilizar o Atlas
 
 O Atlas funciona como uma enciclopédia.
 
@@ -348,7 +348,7 @@ Esse processo reforça o aprendizado.
 
 ---
 
-# Como utilizar a Biblioteca
+## Como utilizar a Biblioteca
 
 A Biblioteca reúne referências externas de alta qualidade.
 
@@ -360,7 +360,7 @@ Sempre que desejar aprofundar um tema:
 
 ---
 
-# Como utilizar os Laboratórios
+## Como utilizar os Laboratórios
 
 Os laboratórios foram projetados para serem executados em sequência.
 
@@ -370,7 +370,7 @@ Cada um reforça os conceitos apresentados nos capítulos.
 
 ---
 
-# Como utilizar o Projeto Integrador
+## Como utilizar o Projeto Integrador
 
 Todo novo conhecimento será aplicado na **DataRetail Platform**.
 
@@ -387,9 +387,9 @@ Ao concluir a Academia você terá desenvolvido uma plataforma moderna contendo:
 
 ---
 
-# Convenções utilizadas
+## Convenções utilizadas
 
-## Arquivos
+### Arquivos
 
 ```text
 01 - Introdução.md
@@ -399,7 +399,7 @@ Ao concluir a Academia você terá desenvolvido uma plataforma moderna contendo:
 
 ---
 
-## Laboratórios
+### Laboratórios
 
 ```text
 Lab 001
@@ -409,7 +409,7 @@ Lab 003
 
 ---
 
-## Estudos de Caso
+### Estudos de Caso
 
 Sempre utilizarão a empresa fictícia:
 
@@ -419,11 +419,11 @@ Isso garante continuidade entre os volumes.
 
 ---
 
-# Recursos do Obsidian utilizados
+## Recursos do Obsidian utilizados
 
 Esta Academia utiliza intensivamente os recursos do Obsidian.
 
-## Wikilinks
+### Wikilinks
 
 ```markdown
 [[Apache-Spark|Apache Spark]]
@@ -431,13 +431,13 @@ Esta Academia utiliza intensivamente os recursos do Obsidian.
 
 ---
 
-## Backlinks
+### Backlinks
 
 Permitem descobrir onde um conceito é utilizado.
 
 ---
 
-## Mermaid
+### Mermaid
 
 Diagramas são escritos diretamente em Markdown.
 
@@ -457,7 +457,7 @@ Trino --> Airflow
 
 ---
 
-## Callouts
+### Callouts
 
 Utilizamos os seguintes padrões:
 
@@ -487,7 +487,7 @@ Utilizamos os seguintes padrões:
 
 ---
 
-# Boas práticas
+## Boas práticas
 
 ✔ Estude na sequência dos volumes.
 
@@ -503,7 +503,7 @@ Utilizamos os seguintes padrões:
 
 ---
 
-# O que evitar
+## O que evitar
 
 ❌ Estudar apenas tecnologias.
 
@@ -517,7 +517,7 @@ Utilizamos os seguintes padrões:
 
 ---
 
-# Jornada de Evolução
+## Jornada de Evolução
 
 ```mermaid
 flowchart LR
@@ -540,7 +540,7 @@ P --> E
 
 ---
 
-# Quando terminar a Academia
+## Quando terminar a Academia
 
 Você terá construído:
 
@@ -554,7 +554,7 @@ Mais importante: terá desenvolvido a capacidade de aprender continuamente, acom
 
 ---
 
-# Veja Também
+## Veja Também
 
 - [[MOC]]
 - [[Guia-Editorial|Guia Editorial]]

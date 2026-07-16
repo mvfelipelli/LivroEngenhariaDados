@@ -12,71 +12,37 @@ assignees: mvfelipelli
 
 \---
 
-
-
 \# Novo Capítulo
-
-
 
 \## Volume
 
-
-
 Ex.:
-
-
 
 Volume 01 — Fundamentos
 
-
-
 \---
-
-
 
 \## Módulo
 
-
-
 Ex.:
-
-
 
 Módulo 02 — Ciclo de Vida dos Dados
 
-
-
 \---
-
-
 
 \## Capítulo
 
-
-
 Informe o nome do capítulo.
 
-
-
 \---
-
-
 
 \## Objetivo
 
-
-
 O que este capítulo deve ensinar?
-
-
 
 \---
 
-
-
 \## Conteúdo esperado
-
-
 
 \- Conceitos
 
@@ -90,15 +56,8 @@ O que este capítulo deve ensinar?
 
 \- Resumo
 
-
-
 \---
-
-
 
 \## Observações
 
-
-
 Informações adicionais.
-

@@ -26,7 +26,7 @@ updated: "2026-07-14"
 
 ---
 
-# Objetivo
+## Objetivo
 
 Este capítulo apresenta uma visão geral do módulo **Dados**, contextualizando sua importância para a Engenharia de Dados e preparando o estudante para os conceitos que serão desenvolvidos nos próximos capítulos.
 
@@ -39,7 +39,7 @@ Ao final desta leitura você compreenderá:
 
 ---
 
-# Por que começar pelos dados?
+## Por que começar pelos dados?
 
 Imagine tentar construir uma casa sem conhecer os materiais que serão utilizados.
 
@@ -55,7 +55,7 @@ Todas as tecnologias estudadas ao longo desta Academia existem para resolver pro
 
 ---
 
-# A importância dos dados na transformação digital
+## A importância dos dados na transformação digital
 
 Vivemos em uma sociedade orientada por dados.
 
@@ -77,7 +77,7 @@ Esses registros, quando tratados corretamente, tornam-se um dos ativos mais vali
 
 ---
 
-# O desafio moderno
+## O desafio moderno
 
 Produzir dados nunca foi um problema.
 
@@ -94,7 +94,7 @@ Responder a essas perguntas é justamente o papel da Engenharia de Dados.
 
 ---
 
-# O papel do Engenheiro de Dados
+## O papel do Engenheiro de Dados
 
 Um Engenheiro de Dados não trabalha apenas com bancos de dados.
 
@@ -110,7 +110,7 @@ Isso inclui:
 
 ---
 
-# A Engenharia de Dados como disciplina
+## A Engenharia de Dados como disciplina
 
 A Engenharia de Dados combina conhecimentos de diversas áreas.
 
@@ -135,7 +135,7 @@ Ao longo da Academia estudaremos todas elas de forma integrada.
 
 ---
 
-# Como este módulo está organizado
+## Como este módulo está organizado
 
 Este módulo foi dividido em pequenos capítulos, cada um dedicado a um conceito específico.
 
@@ -160,7 +160,7 @@ Essa organização facilita a navegação no Obsidian, favorece revisões rápid
 
 ---
 
-# Conexão com a prática
+## Conexão com a prática
 
 Embora este módulo seja conceitual, seus conteúdos serão aplicados continuamente ao longo da Academia.
 
@@ -176,7 +176,7 @@ Ao compreender corretamente o conceito de dados, ficará muito mais fácil enten
 
 ---
 
-# Estudo de caso introdutório
+## Estudo de caso introdutório
 
 Imagine uma rede nacional de supermercados.
 
@@ -198,7 +198,7 @@ Ao longo da Academia utilizaremos a empresa fictícia **DataRetail S.A.** para d
 
 ---
 
-# Boas práticas
+## Boas práticas
 
 > [!tip]
 >
@@ -208,7 +208,7 @@ Ao longo da Academia utilizaremos a empresa fictícia **DataRetail S.A.** para d
 
 ---
 
-# Erros comuns
+## Erros comuns
 
 > [!warning]
 >
@@ -220,7 +220,7 @@ Ao longo da Academia utilizaremos a empresa fictícia **DataRetail S.A.** para d
 
 ---
 
-# Resumo Executivo
+## Resumo Executivo
 
 - Dados são o ponto de partida de toda solução de Engenharia de Dados.
 - A Engenharia de Dados surgiu para lidar com o crescimento da complexidade e do volume de dados.
@@ -229,7 +229,7 @@ Ao longo da Academia utilizaremos a empresa fictícia **DataRetail S.A.** para d
 
 ---
 
-# Conceitos-chave
+## Conceitos-chave
 
 - Dados
 - Plataforma de Dados
@@ -240,20 +240,20 @@ Ao longo da Academia utilizaremos a empresa fictícia **DataRetail S.A.** para d
 
 ---
 
-# Veja Também
+## Veja Também
 
-## Próximo capítulo
+### Próximo capítulo
 
 ➡️ [[03-O-que-sao-Dados|03 - O que são Dados]]
 
-## Atlas
+### Atlas
 
 - [[Engenharia-de-Dados|Engenharia de Dados]]
 - [[Pipeline-de-Dados|Pipeline de Dados]]
 - [[Arquiteturas]]
 - [[Tecnologias]]
 
-## Volume
+### Volume
 
 - [[100-Volumes/01-Fundamentos/01-Dados/README]]
 

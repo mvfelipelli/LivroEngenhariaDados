@@ -27,7 +27,7 @@ updated: "2026-07-14"
 
 ---
 
-# Objetivo
+## Objetivo
 
 Este capítulo reúne perguntas frequentemente utilizadas em entrevistas para vagas de Engenharia de Dados, Analytics e Ciência de Dados.
 
@@ -38,28 +38,28 @@ O objetivo não é decorar respostas, mas verificar se você consegue explicar o
 
 ---
 
-# Nível 1 — Fundamentos
+## Nível 1 — Fundamentos
 
-## 1. O que é um dado?
+### 1. O que é um dado?
 
-### O entrevistador deseja avaliar
+#### O entrevistador deseja avaliar
 
 - compreensão do conceito de dado;
 - capacidade de diferenciar dado de informação.
 
-### Resposta esperada
+#### Resposta esperada
 
 Um dado é o registro de um fato, evento ou característica da realidade. Isoladamente, possui pouco significado. Quando contextualizado e interpretado, pode gerar informação e conhecimento.
 
 ---
 
-## 2. Qual a diferença entre dado e informação?
+### 2. Qual a diferença entre dado e informação?
 
-### O entrevistador deseja avaliar
+#### O entrevistador deseja avaliar
 
 Se o candidato compreende a transformação dos dados em valor.
 
-### Resposta esperada
+#### Resposta esperada
 
 Dados são registros brutos.
 
@@ -81,19 +81,19 @@ A loja vendeu 350 produtos ontem.
 
 ---
 
-## 3. O que é Engenharia de Dados?
+### 3. O que é Engenharia de Dados?
 
-### Resposta esperada
+#### Resposta esperada
 
 É a disciplina responsável por projetar, construir e manter plataformas capazes de coletar, armazenar, transformar e disponibilizar dados para consumo por aplicações, análises e modelos de inteligência artificial.
 
 ---
 
-# Nível 2 — Características dos Dados
+## Nível 2 — Características dos Dados
 
-## 4. Quais são os 5 Vs do Big Data?
+### 4. Quais são os 5 Vs do Big Data?
 
-### Resposta esperada
+#### Resposta esperada
 
 - Volume
 - Velocidade
@@ -101,25 +101,25 @@ A loja vendeu 350 produtos ontem.
 - Veracidade
 - Valor
 
-### Pergunta complementar
+#### Pergunta complementar
 
 Qual deles costuma representar o maior desafio na sua experiência?
 
 ---
 
-## 5. Por que a variedade dos dados aumenta a complexidade da plataforma?
+### 5. Por que a variedade dos dados aumenta a complexidade da plataforma?
 
-### Resposta esperada
+#### Resposta esperada
 
 Porque diferentes formatos exigem diferentes mecanismos de armazenamento, processamento e consulta.
 
 ---
 
-# Nível 3 — Tipos de Dados
+## Nível 3 — Tipos de Dados
 
-## 6. Qual a diferença entre dados estruturados e semiestruturados?
+### 6. Qual a diferença entre dados estruturados e semiestruturados?
 
-### Resposta esperada
+#### Resposta esperada
 
 Dados estruturados seguem um esquema rígido.
 
@@ -127,7 +127,7 @@ Dados semiestruturados possuem organização parcial, permitindo maior flexibili
 
 ---
 
-## 7. Cite exemplos de dados não estruturados.
+### 7. Cite exemplos de dados não estruturados.
 
 Exemplos esperados:
 
@@ -139,19 +139,19 @@ Exemplos esperados:
 
 ---
 
-# Nível 4 — Estruturação
+## Nível 4 — Estruturação
 
-## 8. O que é um schema?
+### 8. O que é um schema?
 
-### Resposta esperada
+#### Resposta esperada
 
 É a definição da estrutura dos dados, incluindo campos, tipos, restrições e relacionamentos.
 
 ---
 
-## 9. Explique Schema-on-Write e Schema-on-Read.
+### 9. Explique Schema-on-Write e Schema-on-Read.
 
-### Resposta esperada
+#### Resposta esperada
 
 Schema-on-Write valida os dados antes da gravação.
 
@@ -159,9 +159,9 @@ Schema-on-Read interpreta o esquema apenas durante a leitura.
 
 ---
 
-# Nível 5 — Ciclo de Vida
+## Nível 5 — Ciclo de Vida
 
-## 10. Quais são as etapas do ciclo de vida dos dados?
+### 10. Quais são as etapas do ciclo de vida dos dados?
 
 Resposta esperada:
 
@@ -176,7 +176,7 @@ Resposta esperada:
 
 ---
 
-## 11. Em qual etapa a Engenharia de Dados atua mais fortemente?
+### 11. Em qual etapa a Engenharia de Dados atua mais fortemente?
 
 Resposta esperada
 
@@ -184,9 +184,9 @@ Embora participe de todas as etapas, a Engenharia de Dados concentra grande part
 
 ---
 
-# Nível 6 — Qualidade
+## Nível 6 — Qualidade
 
-## 12. O que significa qualidade dos dados?
+### 12. O que significa qualidade dos dados?
 
 Resposta esperada
 
@@ -194,7 +194,7 @@ Resposta esperada
 
 ---
 
-## 13. Cite pelo menos quatro dimensões da qualidade.
+### 13. Cite pelo menos quatro dimensões da qualidade.
 
 Exemplos:
 
@@ -207,7 +207,7 @@ Exemplos:
 
 ---
 
-## 14. Como você trataria registros duplicados?
+### 14. Como você trataria registros duplicados?
 
 O entrevistador deseja avaliar raciocínio.
 
@@ -221,9 +221,9 @@ Uma boa resposta deve mencionar:
 
 ---
 
-# Nível 7 — Metadados
+## Nível 7 — Metadados
 
-## 15. O que são metadados?
+### 15. O que são metadados?
 
 Resposta esperada
 
@@ -231,7 +231,7 @@ São informações que descrevem os próprios dados.
 
 ---
 
-## 16. Qual a importância dos metadados?
+### 16. Qual a importância dos metadados?
 
 Resposta esperada
 
@@ -246,9 +246,9 @@ Facilitam:
 
 ---
 
-# Perguntas de Cenário
+## Perguntas de Cenário
 
-## 17. Você recebeu um arquivo CSV com 15 milhões de registros.
+### 17. Você recebeu um arquivo CSV com 15 milhões de registros.
 
 O que avaliaria antes de carregá-lo?
 
@@ -267,7 +267,7 @@ Uma boa resposta pode incluir:
 
 ---
 
-## 18. Um dashboard apresenta números diferentes do ERP.
+### 18. Um dashboard apresenta números diferentes do ERP.
 
 Como investigaria?
 
@@ -284,7 +284,7 @@ Exemplo:
 
 ---
 
-## 19. Como decidir entre PostgreSQL e Data Lake?
+### 19. Como decidir entre PostgreSQL e Data Lake?
 
 Resposta esperada
 
@@ -296,7 +296,7 @@ Grandes volumes heterogêneos normalmente utilizam Data Lakes.
 
 ---
 
-## 20. O que você faria primeiro ao iniciar um projeto de Engenharia de Dados?
+### 20. O que você faria primeiro ao iniciar um projeto de Engenharia de Dados?
 
 Uma boa resposta deve mencionar:
 
@@ -310,7 +310,7 @@ Uma boa resposta deve mencionar:
 
 ---
 
-# Perguntas Avançadas
+## Perguntas Avançadas
 
 Essas perguntas costumam aparecer em vagas Pleno e Sênior.
 
@@ -323,7 +323,7 @@ Essas perguntas costumam aparecer em vagas Pleno e Sênior.
 
 ---
 
-# Autoavaliação
+## Autoavaliação
 
 Marque as perguntas que você consegue responder sem consultar o material.
 
@@ -340,7 +340,7 @@ Marque as perguntas que você consegue responder sem consultar o material.
 
 ---
 
-# Dicas para entrevistas
+## Dicas para entrevistas
 
 > [!tip]
 >
@@ -354,13 +354,13 @@ Marque as perguntas que você consegue responder sem consultar o material.
 
 ---
 
-# Veja Também
+## Veja Também
 
-## Próximo capítulo
+### Próximo capítulo
 
 ➡️ [[13-Exercicios|13 - Exercícios]]
 
-## Revisão
+### Revisão
 
 - [[11-Resumo|11 - Resumo]]
 - [[03-O-que-sao-Dados|03 - O que são Dados]]

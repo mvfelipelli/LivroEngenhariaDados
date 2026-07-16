@@ -31,7 +31,7 @@ updated: "2026-07-14"
 
 ---
 
-# 📖 Visão Geral
+## 📖 Visão Geral
 
 Depois de compreender como surgiu a Engenharia de Dados, é natural surgir uma pergunta:
 
@@ -53,7 +53,7 @@ Neste capítulo conheceremos essa profissão em detalhes.
 
 ---
 
-# 🎯 Objetivos de Aprendizagem
+## 🎯 Objetivos de Aprendizagem
 
 Ao concluir este capítulo você será capaz de:
 
@@ -66,7 +66,7 @@ Ao concluir este capítulo você será capaz de:
 
 ---
 
-# O Engenheiro de Dados na Organização
+## O Engenheiro de Dados na Organização
 
 Imagine uma empresa moderna.
 
@@ -120,7 +120,7 @@ Embora outras equipes utilizem os dados, é a Engenharia de Dados que normalment
 
 ---
 
-# Muito além de mover dados
+## Muito além de mover dados
 
 Uma visão simplificada costuma resumir o trabalho do Engenheiro de Dados à criação de pipelines.
 
@@ -143,11 +143,11 @@ Em muitos projetos, ele participa desde a definição da arquitetura até a oper
 
 ---
 
-# Principais responsabilidades
+## Principais responsabilidades
 
 Embora variem conforme a empresa, algumas responsabilidades aparecem na maioria das organizações.
 
-## Construção de pipelines
+### Construção de pipelines
 
 Projetar pipelines capazes de transportar dados entre diferentes sistemas.
 
@@ -160,7 +160,7 @@ Os pipelines devem ser:
 
 ---
 
-## Integração de sistemas
+### Integração de sistemas
 
 Conectar fontes distintas.
 
@@ -177,7 +177,7 @@ Por exemplo:
 
 ---
 
-## Modelagem
+### Modelagem
 
 Projetar estruturas que facilitem consultas e análises.
 
@@ -191,7 +191,7 @@ Isso inclui conhecimentos de:
 
 ---
 
-## Processamento
+### Processamento
 
 Desenvolver transformações utilizando ferramentas como:
 
@@ -202,7 +202,7 @@ Desenvolver transformações utilizando ferramentas como:
 
 ---
 
-## Garantia de qualidade
+### Garantia de qualidade
 
 Implementar validações para detectar problemas antes que os dados sejam consumidos.
 
@@ -216,7 +216,7 @@ Exemplos:
 
 ---
 
-## Observabilidade
+### Observabilidade
 
 Monitorar continuamente:
 
@@ -230,7 +230,7 @@ Um pipeline executado com sucesso não significa necessariamente que os dados es
 
 ---
 
-## Segurança
+### Segurança
 
 Controlar:
 
@@ -244,7 +244,7 @@ Dados representam um dos ativos mais valiosos das organizações.
 
 ---
 
-## Governança
+### Governança
 
 Contribuir para:
 
@@ -256,7 +256,7 @@ Contribuir para:
 
 ---
 
-# 💼 Um dia na vida de um Engenheiro de Dados
+## 💼 Um dia na vida de um Engenheiro de Dados
 
 > [!example] Rotina típica
 
@@ -325,7 +325,7 @@ Valida indicadores de qualidade e encerra o expediente.
 
 ---
 
-# Trabalhando em equipe
+## Trabalhando em equipe
 
 Ao contrário do que muitos imaginam, o Engenheiro de Dados raramente trabalha isolado.
 
@@ -363,7 +363,7 @@ O Engenheiro de Dados atua como facilitador para que todas possam utilizar infor
 
 ---
 
-# O que NÃO faz um Engenheiro de Dados
+## O que NÃO faz um Engenheiro de Dados
 
 Existem diversas atividades relacionadas aos dados, mas que normalmente pertencem a outras funções.
 
@@ -392,7 +392,7 @@ Entretanto, compreender essas diferenças ajuda a entender o posicionamento da E
 
 ---
 
-## Continuação
+### Continuação
 
 Na próxima parte deste capítulo estudaremos:
 
@@ -411,7 +411,7 @@ Na próxima parte deste capítulo estudaremos:
 ---
 ---
 
-# 🛠️ Competências Técnicas
+## 🛠️ Competências Técnicas
 
 Não existe uma tecnologia única que defina um Engenheiro de Dados.
 
@@ -427,7 +427,7 @@ As competências técnicas podem ser agrupadas em grandes áreas.
 
 ---
 
-## Bancos de Dados
+### Bancos de Dados
 
 Todo Engenheiro de Dados trabalha diariamente com bancos de dados.
 
@@ -452,7 +452,7 @@ Mais importante do que conhecer um produto específico é compreender os conceit
 
 ---
 
-## SQL
+### SQL
 
 O SQL continua sendo uma das habilidades mais importantes da profissão.
 
@@ -472,7 +472,7 @@ Espera-se que um Engenheiro de Dados domine:
 
 ---
 
-## Programação
+### Programação
 
 Embora SQL seja fundamental, ele não resolve todos os problemas.
 
@@ -498,7 +498,7 @@ Outras linguagens também aparecem em determinados cenários:
 
 ---
 
-## Processamento Distribuído
+### Processamento Distribuído
 
 À medida que o volume de dados cresce, torna-se necessário distribuir o processamento.
 
@@ -518,7 +518,7 @@ Ferramentas comuns incluem:
 
 ---
 
-## Armazenamento
+### Armazenamento
 
 Também é importante compreender diferentes formas de armazenamento.
 
@@ -540,7 +540,7 @@ fazem parte do cotidiano da área.
 
 ---
 
-## Orquestração
+### Orquestração
 
 Pipelines modernos possuem dependências.
 
@@ -555,7 +555,7 @@ Uma das ferramentas mais utilizadas é o [[Apache-Airflow|Apache Airflow]].
 
 ---
 
-## Computação em Nuvem
+### Computação em Nuvem
 
 Grande parte das plataformas atuais utiliza Cloud.
 
@@ -575,7 +575,7 @@ Mais importante do que decorar serviços específicos é compreender conceitos c
 
 ---
 
-# 🤝 Competências Comportamentais
+## 🤝 Competências Comportamentais
 
 As competências técnicas são essenciais.
 
@@ -587,7 +587,7 @@ Por isso, competências comportamentais fazem enorme diferença.
 
 ---
 
-## Comunicação
+### Comunicação
 
 O Engenheiro de Dados precisa conversar com:
 
@@ -604,7 +604,7 @@ Saber adaptar a comunicação é uma habilidade valiosa.
 
 ---
 
-## Pensamento Analítico
+### Pensamento Analítico
 
 Grande parte do trabalho consiste em investigar problemas.
 
@@ -619,7 +619,7 @@ O profissional precisa formular hipóteses e validá-las utilizando evidências.
 
 ---
 
-## Organização
+### Organização
 
 Pipelines normalmente possuem centenas de etapas.
 
@@ -632,7 +632,7 @@ Sem organização surgem:
 
 ---
 
-## Curiosidade
+### Curiosidade
 
 A tecnologia evolui rapidamente.
 
@@ -648,7 +648,7 @@ Quem permanece curioso adapta-se melhor.
 
 ---
 
-## Colaboração
+### Colaboração
 
 A Engenharia de Dados dificilmente é uma atividade individual.
 
@@ -664,7 +664,7 @@ Ajudam outros membros da equipe.
 
 ---
 
-# 🧰 Ferramentas Utilizadas
+## 🧰 Ferramentas Utilizadas
 
 Uma plataforma moderna pode reunir dezenas de tecnologias.
 
@@ -716,7 +716,7 @@ Mas precisa compreender como elas se relacionam.
 
 ---
 
-# 👥 Relação com Outras Profissões
+## 👥 Relação com Outras Profissões
 
 Uma dúvida comum é:
 
@@ -737,7 +737,7 @@ Na prática existe colaboração constante entre essas funções.
 
 ---
 
-# 📈 Evolução da Carreira
+## 📈 Evolução da Carreira
 
 Uma carreira típica pode evoluir conforme abaixo.
 
@@ -778,7 +778,7 @@ Com o tempo aumenta também a responsabilidade sobre:
 
 ---
 
-# 🏢 Estudo de Caso — DataRetail S.A.
+## 🏢 Estudo de Caso — DataRetail S.A.
 
 Imagine que a DataRetail iniciou um projeto para integrar informações provenientes de:
 
@@ -811,7 +811,7 @@ Foi uma plataforma reutilizável.
 
 ---
 
-# 💡 Boas Práticas
+## 💡 Boas Práticas
 
 > [!tip]
 > Sempre versione seus pipelines.
@@ -830,7 +830,7 @@ Foi uma plataforma reutilizável.
 
 ---
 
-# ⚠️ Erros Comuns
+## ⚠️ Erros Comuns
 
 > [!warning]
 > Escrever pipelines sem testes.
@@ -849,7 +849,7 @@ Foi uma plataforma reutilizável.
 
 ---
 
-# 🧠 Conceitos-chave
+## 🧠 Conceitos-chave
 
 - [[Engenheiro-de-Dados|Engenheiro de Dados]]
 - [[Pipeline-de-Dados|Pipeline de Dados]]
@@ -864,7 +864,7 @@ Foi uma plataforma reutilizável.
 
 ---
 
-# 🎤 Perguntas Frequentes de Entrevista
+## 🎤 Perguntas Frequentes de Entrevista
 
 1. O que faz um Engenheiro de Dados no dia a dia?
 2. Qual a diferença entre ETL e ELT?
@@ -877,15 +877,15 @@ Foi uma plataforma reutilizável.
 
 ---
 
-# 📝 Exercícios
+## 📝 Exercícios
 
-## Exercício 1
+### Exercício 1
 
 Liste cinco responsabilidades de um Engenheiro de Dados e explique por que cada uma é importante.
 
 ---
 
-## Exercício 2
+### Exercício 2
 
 Pesquise três vagas para Engenheiro de Dados e identifique:
 
@@ -897,7 +897,7 @@ Compare os resultados.
 
 ---
 
-## Exercício 3
+### Exercício 3
 
 Desenhe uma arquitetura simples contendo:
 
@@ -911,7 +911,7 @@ Explique o papel do Engenheiro de Dados em cada etapa.
 
 ---
 
-# 📚 Leituras Recomendadas
+## 📚 Leituras Recomendadas
 
 - Documentação oficial do PostgreSQL
 - Documentação oficial do Apache Spark
@@ -921,7 +921,7 @@ Explique o papel do Engenheiro de Dados em cada etapa.
 
 ---
 
-# 🔗 Veja Também
+## 🔗 Veja Também
 
 - [[Engenharia-de-Dados|Engenharia de Dados]]
 - [[Pipeline-de-Dados|Pipeline de Dados]]
@@ -936,7 +936,7 @@ Explique o papel do Engenheiro de Dados em cada etapa.
 
 ---
 
-# 📖 Resumo
+## 📖 Resumo
 
 O Engenheiro de Dados é responsável por construir e manter plataformas que permitem transformar dados brutos em informações confiáveis para toda a organização.
 
@@ -948,14 +948,15 @@ Além do domínio técnico, competências como comunicação, organização, col
 
 ---
 
-## Navegação
+### Navegação
 
 ← [[05-O-Nascimento-da-Engenharia-de-Dados|05 - O Nascimento da Engenharia de Dados]]
 
 ↑ [[100-Volumes/00-Introducao/01-O-que-e-Engenharia-de-Dados/README]]
 
 → [[07-O-Ecossistema-de-Dados|07 - O Ecossistema de Dados]]
-## Navegação
+
+### Navegação
 
 ← [[05-O-Nascimento-da-Engenharia-de-Dados|05 - O Nascimento da Engenharia de Dados]]
 

@@ -20,7 +20,7 @@ updated: "2026-07-14"
 
 ---
 
-# 📖 Objetivo
+## 📖 Objetivo
 
 Este documento apresenta todas as tecnologias estudadas na Academia.
 
@@ -35,7 +35,7 @@ Este documento funciona como um catálogo central da plataforma de conhecimento.
 
 ---
 
-# 🗺️ Mapa Geral
+## 🗺️ Mapa Geral
 
 ```mermaid
 flowchart TD
@@ -91,48 +91,48 @@ end
 
 ---
 
-# Linguagens
+## Linguagens
 
-## [[100-Volumes/04-SQL/README|SQL]]
+### [[100-Volumes/04-SQL/README|SQL]]
 
-### Categoria
+#### Categoria
 
 Linguagem de consulta.
 
-### Função
+#### Função
 
 Consultar, transformar e manipular dados.
 
-### Onde aparece
+#### Onde aparece
 
 - PostgreSQL
 - Trino
 - Spark SQL
 - Data Warehouse
 
-### Volume
+#### Volume
 
 **04 — SQL**
 
 ---
 
-## [[100-Volumes/06-Python/README|Python]]
+### [[100-Volumes/06-Python/README|Python]]
 
-### Categoria
+#### Categoria
 
 Linguagem de programação.
 
-### Função
+#### Função
 
 Automação, processamento e integração.
 
-### Volume
+#### Volume
 
 **06 — Python**
 
 ---
 
-## Scala
+### Scala
 
 Utilizada principalmente em ambientes Spark.
 
@@ -140,13 +140,13 @@ Volume complementar.
 
 ---
 
-## Java
+### Java
 
 Muito utilizada em aplicações distribuídas e algumas ferramentas do ecossistema Hadoop.
 
 ---
 
-## Bash
+### Bash
 
 Automação em Linux.
 
@@ -154,54 +154,54 @@ Volume 02.
 
 ---
 
-# Bancos de Dados
+## Bancos de Dados
 
-## [[100-Volumes/08-PostgreSQL/README|PostgreSQL]]
+### [[100-Volumes/08-PostgreSQL/README|PostgreSQL]]
 
-### Categoria
+#### Categoria
 
 Banco Relacional.
 
-### Utilização
+#### Utilização
 
 - OLTP
 - Data Warehouse
 - Metadados
 - Catálogos
 
-### Volume
+#### Volume
 
 **08 — PostgreSQL**
 
 ---
 
-## SQL Server
+### SQL Server
 
 Banco relacional corporativo.
 
 ---
 
-## Oracle Database
+### Oracle Database
 
 Muito utilizado em grandes empresas.
 
 ---
 
-## MySQL
+### MySQL
 
 Bastante presente em aplicações web.
 
 ---
 
-# Processamento
+## Processamento
 
-## [[Apache-Spark|Apache Spark]]
+### [[Apache-Spark|Apache Spark]]
 
-### Categoria
+#### Categoria
 
 Processamento distribuído.
 
-### Utilização
+#### Utilização
 
 - ETL
 - ELT
@@ -209,43 +209,43 @@ Processamento distribuído.
 - Streaming
 - Machine Learning
 
-### Volume
+#### Volume
 
 **07 — Apache Spark**
 
 ---
 
-## Apache Flink
+### Apache Flink
 
 Especializado em Streaming.
 
 ---
 
-## dbt
+### dbt
 
 Ferramenta para transformação de dados utilizando SQL.
 
 ---
 
-# Consulta Distribuída
+## Consulta Distribuída
 
-## [[Trino]]
+### [[Trino]]
 
-### Categoria
+#### Categoria
 
 Motor SQL distribuído.
 
-### Função
+#### Função
 
 Consultar dados em múltiplas fontes.
 
-### Volume
+#### Volume
 
 **10 — Trino**
 
 ---
 
-## DuckDB
+### DuckDB
 
 Banco analítico embarcado.
 
@@ -253,9 +253,9 @@ Muito útil para análises locais.
 
 ---
 
-# Armazenamento
+## Armazenamento
 
-## Apache Parquet
+### Apache Parquet
 
 Formato colunar.
 
@@ -263,7 +263,7 @@ Ideal para Analytics.
 
 ---
 
-## [[Apache-Iceberg|Apache Iceberg]]
+### [[Apache-Iceberg|Apache Iceberg]]
 
 Formato de tabela para Lakehouse.
 
@@ -273,65 +273,65 @@ Recursos:
 - Time Travel
 - Evolução de esquema
 
-### Volume
+#### Volume
 
 **09 — Lakehouse**
 
 ---
 
-## Delta Lake
+### Delta Lake
 
 Alternativa ao Iceberg.
 
 ---
 
-## Apache Hudi
+### Apache Hudi
 
 Outra tecnologia para Lakehouse.
 
 ---
 
-# Orquestração
+## Orquestração
 
-## [[Apache-Airflow|Apache Airflow]]
+### [[Apache-Airflow|Apache Airflow]]
 
-### Categoria
+#### Categoria
 
 Orquestrador.
 
-### Função
+#### Função
 
 Gerenciar pipelines.
 
-### Volume
+#### Volume
 
 **11 — Apache Airflow**
 
 ---
 
-# Streaming
+## Streaming
 
-## Apache Kafka
+### Apache Kafka
 
 Broker de eventos.
 
 Utilizado para Streaming.
 
-### Volume
+#### Volume
 
 **14 — Streaming**
 
 ---
 
-## Apache Pulsar
+### Apache Pulsar
 
 Alternativa ao Kafka.
 
 ---
 
-# Cloud
+## Cloud
 
-## AWS
+### AWS
 
 Principais serviços:
 
@@ -343,7 +343,7 @@ Principais serviços:
 
 ---
 
-## Microsoft Azure
+### Microsoft Azure
 
 Principais serviços:
 
@@ -353,7 +353,7 @@ Principais serviços:
 
 ---
 
-## Google Cloud Platform
+### Google Cloud Platform
 
 Principais serviços:
 
@@ -363,43 +363,43 @@ Principais serviços:
 
 ---
 
-# Ferramentas de Qualidade
+## Ferramentas de Qualidade
 
-## Great Expectations
+### Great Expectations
 
 Validação de qualidade de dados.
 
 ---
 
-## Soda
+### Soda
 
 Monitoramento de qualidade.
 
 ---
 
-# Observabilidade
+## Observabilidade
 
-## OpenLineage
+### OpenLineage
 
 Linhagem de dados.
 
 ---
 
-## Prometheus
+### Prometheus
 
 Métricas.
 
 ---
 
-## Grafana
+### Grafana
 
 Dashboards operacionais.
 
 ---
 
-# Containers
+## Containers
 
-## Docker
+### Docker
 
 Empacotamento de aplicações.
 
@@ -407,7 +407,7 @@ Volume 16.
 
 ---
 
-## Kubernetes
+### Kubernetes
 
 Orquestração de containers.
 
@@ -415,21 +415,21 @@ Volume 16.
 
 ---
 
-# Infraestrutura
+## Infraestrutura
 
-## Terraform
+### Terraform
 
 Infraestrutura como Código.
 
 ---
 
-## Ansible
+### Ansible
 
 Automação de servidores.
 
 ---
 
-# Organização por Camada
+## Organização por Camada
 
 | Camada | Tecnologias |
 |---------|-------------|
@@ -445,7 +445,7 @@ Automação de servidores.
 
 ---
 
-# Relação com os Volumes
+## Relação com os Volumes
 
 | Volume | Tecnologias |
 |---------|-------------|
@@ -466,7 +466,7 @@ Automação de servidores.
 
 ---
 
-# Critérios para inclusão
+## Critérios para inclusão
 
 Uma tecnologia somente fará parte da Academia quando atender a pelo menos um dos critérios:
 
@@ -478,7 +478,7 @@ Uma tecnologia somente fará parte da Academia quando atender a pelo menos um do
 
 ---
 
-# Evolução da Plataforma
+## Evolução da Plataforma
 
 ```mermaid
 flowchart LR
@@ -502,9 +502,9 @@ Kubernetes --> Projeto["Projeto Integrador"]
 
 ---
 
-# 🔗 Veja Também
+## 🔗 Veja Também
 
-## Atlas
+### Atlas
 
 - [[MOC]]
 - [[Arquiteturas]]
@@ -512,7 +512,7 @@ Kubernetes --> Projeto["Projeto Integrador"]
 - [[Carreira]]
 - [[Timeline]]
 
-## Conceitos
+### Conceitos
 
 - [[Pipeline-de-Dados|Pipeline de Dados]]
 - [[Data-Lake|Data Lake]]
@@ -521,7 +521,7 @@ Kubernetes --> Projeto["Projeto Integrador"]
 
 ---
 
-# 📖 Resumo
+## 📖 Resumo
 
 A Engenharia de Dados utiliza um ecossistema amplo de tecnologias.
 

@@ -28,7 +28,7 @@ updated: "2026-07-14"
 
 ---
 
-# Introdução
+## Introdução
 
 Ao estudar a história da tecnologia é comum imaginar que novas profissões surgem a partir da criação de uma ferramenta inovadora.
 
@@ -50,7 +50,7 @@ Essas tecnologias apareceram **porque já existiam problemas que não podiam mai
 
 ---
 
-# Antes da Engenharia de Dados
+## Antes da Engenharia de Dados
 
 Durante muitos anos as organizações possuíam poucos sistemas.
 
@@ -100,7 +100,7 @@ Durante muitos anos isso foi suficiente.
 
 ---
 
-# O crescimento começou a acelerar
+## O crescimento começou a acelerar
 
 A internet mudou completamente esse cenário.
 
@@ -152,11 +152,11 @@ Mas o maior problema não era apenas o volume.
 
 ---
 
-# O verdadeiro problema
+## O verdadeiro problema
 
 As empresas passaram a enfrentar diversos desafios simultaneamente.
 
-## Integração
+### Integração
 
 Os dados estavam espalhados em dezenas de sistemas.
 
@@ -170,7 +170,7 @@ Cada um utilizava:
 
 ---
 
-## Escalabilidade
+### Escalabilidade
 
 Processos que executavam durante 30 minutos passaram a levar:
 
@@ -182,7 +182,7 @@ Alguns sequer conseguiam terminar antes do início do próximo processamento.
 
 ---
 
-## Disponibilidade
+### Disponibilidade
 
 O negócio deixou de aceitar respostas apenas no dia seguinte.
 
@@ -195,7 +195,7 @@ Passou a exigir:
 
 ---
 
-## Qualidade
+### Qualidade
 
 Outro problema começou a aparecer.
 
@@ -211,7 +211,7 @@ A confiança nas informações começou a diminuir.
 
 ---
 
-## Custos
+### Custos
 
 Servidores maiores significavam custos maiores.
 
@@ -221,7 +221,7 @@ Era necessário mudar completamente a arquitetura.
 
 ---
 
-# A mudança de paradigma
+## A mudança de paradigma
 
 Até então o foco era o banco de dados.
 
@@ -253,7 +253,7 @@ Passaram a exigir profissionais capazes de projetar todo esse fluxo.
 
 ---
 
-# O nascimento da profissão
+## O nascimento da profissão
 
 Foi nesse contexto que começou a surgir aquilo que hoje chamamos de **Engenharia de Dados**.
 
@@ -280,7 +280,7 @@ Passou a trabalhar com plataformas completas.
 
 ---
 
-# De Analista de BI para Engenheiro de Dados
+## De Analista de BI para Engenheiro de Dados
 
 Muitos dos primeiros Engenheiros de Dados vieram de áreas como:
 
@@ -325,7 +325,7 @@ Isso acontece porque a profissão é naturalmente multidisciplinar.
 
 ---
 
-# Muito além do ETL
+## Muito além do ETL
 
 Durante muitos anos acreditou-se que Engenharia de Dados era apenas desenvolver processos de ETL.
 
@@ -355,7 +355,8 @@ Passa a construir plataformas.
 > Enquanto o primeiro normalmente está preocupado em mover dados entre sistemas, o segundo projeta, implementa e evolui toda a plataforma responsável por esse fluxo.
 
 ---
-# A consolidação da Engenharia de Dados
+
+## A consolidação da Engenharia de Dados
 
 O crescimento dos dados explica por que novas tecnologias foram necessárias, mas não explica sozinho a consolidação da Engenharia de Dados como uma disciplina própria.
 
@@ -378,7 +379,7 @@ Essa mudança aproximou definitivamente a [[Engenharia-de-Dados|Engenharia de Da
 
 ---
 
-# A influência da Engenharia de Software
+## A influência da Engenharia de Software
 
 Durante muito tempo, processos de dados foram desenvolvidos como scripts independentes.
 
@@ -423,7 +424,7 @@ Passou a ser construir uma solução:
 
 ---
 
-# O surgimento do DataOps
+## O surgimento do DataOps
 
 Com a expansão das plataformas de dados, tornou-se necessário aplicar práticas de automação e operação contínua ao ciclo de vida dos pipelines.
 
@@ -470,7 +471,7 @@ Uma equipe pode aplicar seus princípios utilizando diferentes tecnologias.
 
 ---
 
-# A computação em nuvem
+## A computação em nuvem
 
 Outro fator decisivo para a consolidação da Engenharia de Dados foi a expansão da Computação em Nuvem.
 
@@ -525,7 +526,7 @@ O Engenheiro de Dados passou a precisar compreender não apenas o processamento,
 
 ---
 
-# A separação entre armazenamento e processamento
+## A separação entre armazenamento e processamento
 
 Em arquiteturas tradicionais, o banco de dados armazenava e processava as informações.
 
@@ -570,7 +571,7 @@ Essa arquitetura também facilita escalar processamento e armazenamento de manei
 
 ---
 
-# Apache Spark e o processamento distribuído moderno
+## Apache Spark e o processamento distribuído moderno
 
 O [[Apache-Spark|Apache Spark]] teve papel importante na consolidação da Engenharia de Dados moderna.
 
@@ -625,7 +626,7 @@ A tecnologia precisa fazer parte de uma arquitetura que considere:
 
 ---
 
-# Do Data Lake ao Lakehouse
+## Do Data Lake ao Lakehouse
 
 Os Data Lakes tornaram possível armazenar grandes volumes de dados em formatos diversos e com custo reduzido.
 
@@ -667,7 +668,7 @@ Esses recursos ampliaram novamente o campo de atuação do Engenheiro de Dados.
 
 ---
 
-# O crescimento da orquestração
+## O crescimento da orquestração
 
 À medida que os pipelines cresceram, tornou-se impraticável executar processos manualmente ou apenas com agendamentos isolados.
 
@@ -710,7 +711,7 @@ A orquestração transformou conjuntos de scripts em fluxos operacionais control
 
 ---
 
-# Observabilidade de dados
+## Observabilidade de dados
 
 O monitoramento tradicional verifica se servidores, aplicações e processos estão funcionando.
 
@@ -751,7 +752,7 @@ A observabilidade procura responder não apenas se o pipeline executou, mas se o
 
 ---
 
-# Qualidade como responsabilidade contínua
+## Qualidade como responsabilidade contínua
 
 Em arquiteturas antigas, a qualidade dos dados era frequentemente tratada somente ao final do processo.
 
@@ -795,7 +796,7 @@ A [[Qualidade-de-Dados|Qualidade de Dados]] pode envolver dimensões como:
 
 ---
 
-# A ascensão dos produtos de dados
+## A ascensão dos produtos de dados
 
 Outra mudança importante foi tratar conjuntos de dados como produtos internos.
 
@@ -828,7 +829,7 @@ Essa abordagem aumenta a responsabilidade sobre o dado e reduz a criação de at
 
 ---
 
-# A Inteligência Artificial ampliou a demanda
+## A Inteligência Artificial ampliou a demanda
 
 O crescimento de Machine Learning e Inteligência Artificial ampliou ainda mais a necessidade de Engenharia de Dados.
 
@@ -869,7 +870,7 @@ Sem uma base confiável, modelos sofisticados podem produzir resultados incorret
 
 ---
 
-# A disciplina moderna
+## A disciplina moderna
 
 A Engenharia de Dados moderna pode ser entendida como a convergência de várias áreas.
 
@@ -912,49 +913,49 @@ O que os une é a responsabilidade de construir e manter o fluxo confiável dos 
 
 ---
 
-# Como reconhecer uma solução de Engenharia de Dados
+## Como reconhecer uma solução de Engenharia de Dados
 
 Uma solução madura apresenta, em diferentes níveis, as seguintes características:
 
-## Automatização
+### Automatização
 
 Os processos não dependem de execução manual frequente.
 
-## Reprodutibilidade
+### Reprodutibilidade
 
 A mesma entrada e as mesmas regras devem produzir resultados previsíveis.
 
-## Idempotência
+### Idempotência
 
 A repetição controlada de uma execução não deve gerar duplicidade ou corrupção.
 
-## Observabilidade
+### Observabilidade
 
 A equipe consegue identificar falhas técnicas e problemas nos dados.
 
-## Escalabilidade
+### Escalabilidade
 
 A solução consegue acompanhar o crescimento do volume ou da demanda.
 
-## Segurança
+### Segurança
 
 Acesso, armazenamento e transmissão são controlados.
 
-## Qualidade
+### Qualidade
 
 Existem regras explícitas e verificáveis sobre o dado.
 
-## Documentação
+### Documentação
 
 Origem, regras, responsáveis e consumidores são conhecidos.
 
-## Manutenibilidade
+### Manutenibilidade
 
 Alterações podem ser realizadas sem depender exclusivamente do autor original.
 
 ---
 
-# Engenharia de Dados não é uma ferramenta
+## Engenharia de Dados não é uma ferramenta
 
 É comum definir profissionais com base nas tecnologias que utilizam:
 
@@ -982,7 +983,7 @@ Os problemas fundamentais permanecem:
 
 ---
 
-# Estudo de caso — A transformação da DataRetail S.A.
+## Estudo de caso — A transformação da DataRetail S.A.
 
 A [[030-Projetos/DataRetail Platform/README|DataRetail S.A.]] começou com uma arquitetura simples.
 
@@ -1099,7 +1100,7 @@ A profissão nasceu, dentro da DataRetail, porque os dados se tornaram essenciai
 
 ---
 
-# A Engenharia de Dados como função estratégica
+## A Engenharia de Dados como função estratégica
 
 Inicialmente, muitas empresas enxergavam a equipe de dados como uma área de suporte responsável por relatórios e cargas.
 
@@ -1122,7 +1123,7 @@ A Engenharia de Dados tornou-se estratégica porque os dados passaram a fazer pa
 
 ---
 
-# Veja também
+## Veja também
 
 - [[Engenharia-de-Dados|Engenharia de Dados]]
 - [[Engenheiro-de-Dados|Engenheiro de Dados]]
@@ -1154,7 +1155,7 @@ A Engenharia de Dados tornou-se estratégica porque os dados passaram a fazer pa
 >
 > O Engenheiro de Dados é responsável por transformar fluxos fragmentados em sistemas confiáveis, automatizados, escaláveis e operáveis.
 
-# Verifique sua compreensão
+## Verifique sua compreensão
 
 1. Como a Engenharia de Software influenciou a Engenharia de Dados?
 2. O que é DataOps e qual problema procura resolver?
@@ -1169,20 +1170,21 @@ A Engenharia de Dados tornou-se estratégica porque os dados passaram a fazer pa
 
 ---
 
-## Navegação
+### Navegação
 
 ← [[04-Evolucao-Historica|Evolução histórica]]
 
 ↑ [[100-Volumes/00-Introducao/01-O-que-e-Engenharia-de-Dados/README|Índice do capítulo]]
 
 → [[06-O-Papel-do-Engenheiro-de-Dados|O papel do Engenheiro de Dados]]
-## Continuação
+
+### Continuação
 
 Na próxima parte deste capítulo veremos como conceitos como DataOps, Computação em Nuvem, [[Apache-Spark|Apache Spark]], [[Lakehouse]] e Inteligência Artificial consolidaram definitivamente a Engenharia de Dados como uma disciplina própria da computação.
 
 ---
 
-## Navegação
+### Navegação
 
 ← [[04-Evolucao-Historica|Evolução Histórica]]
 

@@ -27,7 +27,7 @@ updated: "2026-07-14"
 
 ---
 
-# Objetivo
+## Objetivo
 
 Ao concluir este capítulo você será capaz de:
 
@@ -39,7 +39,7 @@ Ao concluir este capítulo você será capaz de:
 
 ---
 
-# Por que estudar dados?
+## Por que estudar dados?
 
 Toda decisão baseada em evidências começa com dados.
 
@@ -55,7 +55,7 @@ Sem informação, as decisões tornam-se baseadas apenas em intuição.
 
 ---
 
-# O que é um dado?
+## O que é um dado?
 
 Um **dado** é o registro de um fato, evento ou característica, armazenado de forma que possa ser processado, consultado e utilizado posteriormente.
 
@@ -65,7 +65,7 @@ Seu valor aumenta quando é combinado com outros dados, interpretado dentro de u
 
 ---
 
-## Exemplos
+### Exemplos
 
 | Situação    | Dado               |
 | ----------- | ------------------ |
@@ -83,13 +83,13 @@ O significado surge quando eles são analisados em conjunto.
 
 ---
 
-# Dado × Informação
+## Dado × Informação
 
 Uma das confusões mais comuns é considerar dados e informações como sinônimos.
 
 Eles não são.
 
-## Dado
+### Dado
 
 É um registro bruto.
 
@@ -103,7 +103,7 @@ Esse valor isolado não informa praticamente nada.
 
 ---
 
-## Informação
+### Informação
 
 Quando o dado recebe contexto, ele passa a transmitir significado.
 
@@ -123,7 +123,7 @@ O dado foi contextualizado.
 
 ---
 
-# Da Informação ao Conhecimento
+## Da Informação ao Conhecimento
 
 A Engenharia de Dados fornece os dados.
 
@@ -147,25 +147,25 @@ I --> K
 K --> W
 ```
 
-## Dados
+### Dados
 
 Registros brutos.
 
-## Informação
+### Informação
 
 Dados organizados e contextualizados.
 
-## Conhecimento
+### Conhecimento
 
 Capacidade de interpretar informações e identificar padrões.
 
-## Sabedoria
+### Sabedoria
 
 Uso do conhecimento para tomar decisões estratégicas.
 
 ---
 
-# Exemplos do cotidiano
+## Exemplos do cotidiano
 
 Imagine um supermercado.
 
@@ -193,7 +193,7 @@ Quando analisados em conjunto, permitem responder perguntas como:
 
 ---
 
-# Dados no mundo real
+## Dados no mundo real
 
 Hoje praticamente todas as atividades humanas geram dados.
 
@@ -214,7 +214,7 @@ Cada interação pode produzir milhares de novos registros.
 
 ---
 
-# O crescimento dos dados
+## O crescimento dos dados
 
 A quantidade de dados produzida pela humanidade cresce continuamente.
 
@@ -231,7 +231,7 @@ Esse crescimento tornou inviável o processamento utilizando apenas bancos de da
 
 ---
 
-# O papel da Engenharia de Dados
+## O papel da Engenharia de Dados
 
 A Engenharia de Dados existe para garantir que os dados possam ser utilizados de maneira eficiente.
 
@@ -248,7 +248,7 @@ Em outras palavras, o Engenheiro de Dados cria a infraestrutura necessária para
 
 ---
 
-# Estudo de Caso — DataRetail S.A.
+## Estudo de Caso — DataRetail S.A.
 
 A DataRetail possui:
 
@@ -275,7 +275,7 @@ Ao longo da Academia utilizaremos esse cenário para aplicar os conceitos estuda
 
 ---
 
-# Boas práticas
+## Boas práticas
 
 > [!tip]
 >
@@ -291,7 +291,7 @@ Essas perguntas orientam o desenho de qualquer solução de Engenharia de Dados.
 
 ---
 
-# Erros comuns
+## Erros comuns
 
 > [!warning]
 >
@@ -303,7 +303,7 @@ Essas perguntas orientam o desenho de qualquer solução de Engenharia de Dados.
 
 ---
 
-# Resumo Executivo
+## Resumo Executivo
 
 - Dados são registros de fatos, eventos ou características.
 - Dados isolados possuem pouco significado.
@@ -313,7 +313,7 @@ Essas perguntas orientam o desenho de qualquer solução de Engenharia de Dados.
 
 ---
 
-# Conceitos-chave
+## Conceitos-chave
 
 - Dado
 - Informação
@@ -325,19 +325,19 @@ Essas perguntas orientam o desenho de qualquer solução de Engenharia de Dados.
 
 ---
 
-# Veja Também
+## Veja Também
 
-## Próximo capítulo
+### Próximo capítulo
 
 ➡️ [[04-Caracteristicas-dos-Dados|04 - Características dos Dados]]
 
-## Atlas
+### Atlas
 
 - [[Engenharia-de-Dados|Engenharia de Dados]]
 - [[Pipeline-de-Dados|Pipeline de Dados]]
 - [[Qualidade-de-Dados|Qualidade de Dados]]
 
-## Volume
+### Volume
 
 - [[100-Volumes/01-Fundamentos/01-Dados/README]]
 

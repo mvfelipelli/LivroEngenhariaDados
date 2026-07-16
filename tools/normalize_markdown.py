@@ -8,8 +8,20 @@ from pathlib import Path
 def normalize_file(path: Path, apply_changes: bool) -> int:
     original = path.read_text(encoding="utf-8")
 
+    # Preserva placeholders intencionalmente vazios.
+    if not original.strip():
+        if original and apply_changes:
+            path.write_text("", encoding="utf-8", newline="\n")
+        return 1 if original else 0
+
     # Normaliza finais de linha.
     content = original.replace("\r\n", "\n").replace("\r", "\n")
+
+    # Remove espaços e tabulações no final das linhas.
+    content = "\n".join(line.rstrip(" \t") for line in content.split("\n"))
+
+    # Torna explícitos placeholders de listas que estavam vazios.
+    content = re.sub(r"(?m)^-$", "- Conteúdo a adicionar.", content)
 
     # Remove linhas em branco excedentes.
     content = re.sub(r"\n{3,}", "\n\n", content)

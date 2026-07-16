@@ -26,7 +26,7 @@ updated: "2026-07-14"
 
 ---
 
-# Objetivo
+## Objetivo
 
 Este capítulo reúne exercícios para consolidar os conceitos estudados no módulo **Dados**.
 
@@ -34,9 +34,9 @@ Os exercícios foram organizados em níveis crescentes de dificuldade.
 
 ---
 
-# Nível 1 — Fixação
+## Nível 1 — Fixação
 
-## Exercício 1
+### Exercício 1
 
 Defina com suas próprias palavras:
 
@@ -46,13 +46,13 @@ Defina com suas próprias palavras:
 
 ---
 
-## Exercício 2
+### Exercício 2
 
 Explique por que dados e informação não são sinônimos.
 
 ---
 
-## Exercício 3
+### Exercício 3
 
 Complete a tabela.
 
@@ -64,7 +64,7 @@ Complete a tabela.
 
 ---
 
-## Exercício 4
+### Exercício 4
 
 Quais são os cinco Vs do Big Data?
 
@@ -72,9 +72,9 @@ Explique cada um em uma frase.
 
 ---
 
-# Nível 2 — Compreensão
+## Nível 2 — Compreensão
 
-## Exercício 5
+### Exercício 5
 
 Classifique os seguintes exemplos.
 
@@ -90,7 +90,7 @@ Classifique os seguintes exemplos.
 
 ---
 
-## Exercício 6
+### Exercício 6
 
 Explique a diferença entre:
 
@@ -101,15 +101,15 @@ Quando cada abordagem costuma ser utilizada?
 
 ---
 
-## Exercício 7
+### Exercício 7
 
 Descreva todas as etapas do ciclo de vida dos dados.
 
 ---
 
-# Nível 3 — Aplicação
+## Nível 3 — Aplicação
 
-## Exercício 8
+### Exercício 8
 
 Você recebeu um arquivo contendo:
 
@@ -133,7 +133,7 @@ Responda:
 
 ---
 
-## Exercício 9
+### Exercício 9
 
 Considere as seguintes fontes.
 
@@ -149,7 +149,7 @@ Preencha a tabela classificando os dados.
 
 ---
 
-## Exercício 10
+### Exercício 10
 
 Explique quais metadados você registraria para uma tabela chamada:
 
@@ -159,9 +159,9 @@ clientes
 
 ---
 
-# Nível 4 — Projeto
+## Nível 4 — Projeto
 
-## Exercício 11
+### Exercício 11
 
 Você foi contratado pela DataRetail S.A.
 
@@ -178,7 +178,7 @@ Elabore uma tabela contendo:
 
 ---
 
-## Exercício 12
+### Exercício 12
 
 Escolha três conjuntos de dados do seu cotidiano.
 
@@ -199,9 +199,9 @@ Para cada conjunto responda:
 
 ---
 
-# Nível 5 — Arquitetura
+## Nível 5 — Arquitetura
 
-## Exercício 13
+### Exercício 13
 
 A empresa pretende armazenar:
 
@@ -226,7 +226,7 @@ Explique apenas seu raciocínio.
 
 ---
 
-## Exercício 14
+### Exercício 14
 
 Analise o cenário.
 
@@ -259,7 +259,7 @@ Responda:
 
 ---
 
-# Desafio
+## Desafio
 
 A DataRetail possui:
 
@@ -281,31 +281,31 @@ Descreva:
 
 ---
 
-# Questões para Discussão
+## Questões para Discussão
 
 Não existe resposta única.
 
 Discuta com colegas ou registre sua opinião.
 
-## Questão 1
+### Questão 1
 
 Todo dado precisa ser armazenado?
 
 ---
 
-## Questão 2
+### Questão 2
 
 Vale a pena manter histórico infinito?
 
 ---
 
-## Questão 3
+### Questão 3
 
 É melhor corrigir dados na origem ou durante o pipeline?
 
 ---
 
-## Questão 4
+### Questão 4
 
 Qual dimensão da qualidade costuma gerar mais problemas nas empresas?
 
@@ -313,7 +313,7 @@ Justifique.
 
 ---
 
-# Autoavaliação
+## Autoavaliação
 
 Avalie seu nível de confiança.
 
@@ -328,7 +328,7 @@ Avalie seu nível de confiança.
 
 ---
 
-# Critérios de Conclusão
+## Critérios de Conclusão
 
 Considere este módulo concluído quando você conseguir:
 
@@ -339,7 +339,7 @@ Considere este módulo concluído quando você conseguir:
 
 ---
 
-# Veja Também
+## Veja Também
 
 ➡️ [[14-Laboratorio|14 - Laboratório]]
 

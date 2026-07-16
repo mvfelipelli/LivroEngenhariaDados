@@ -213,10 +213,18 @@ def check_modules(root: Path) -> list[Issue]:
 def run_pymarkdown(files: list[Path], config: Path, root: Path) -> list[Issue]:
     if not files:
         return []
-    command = [sys.executable, "-m", "pymarkdown", "--config", str(config), "scan", *map(str, files)]
+    command = [
+        sys.executable,
+        "-m",
+        "pymarkdown",
+        "--config",
+        str(config),
+        "--enable-extensions",
+        "front-matter,markdown-tables,markdown-task-list-items",
+        "scan",
+        *map(str, files),
+    ]
     result = subprocess.run(command, check=False, capture_output=True, text=True)
-    if result.returncode == 0:
-        return []
     issues: list[Issue] = []
     pattern = re.compile(r"^(.*?):(\d+):\d+:\s+(MD\d+):\s+(.*)$")
     for line in (result.stdout + result.stderr).splitlines():
@@ -225,7 +233,35 @@ def run_pymarkdown(files: list[Path], config: Path, root: Path) -> list[Issue]:
             path, number, rule, message = match.groups()
             issues.append(Issue("markdown", Path(path), f"{rule}: {message}", int(number)))
     if not issues:
-        issues.append(Issue("markdown", root, "PyMarkdown falhou sem diagnóstico estruturado"))
+        if result.returncode != 0:
+            issues.append(Issue("markdown", root, "PyMarkdown falhou sem diagnóstico estruturado"))
+        return issues
+
+    return issues
+
+
+def check_multiple_h1(files: list[Path]) -> list[Issue]:
+    issues: list[Issue] = []
+    for path in files:
+        in_frontmatter = False
+        in_fence = False
+        h1_lines: list[int] = []
+        for number, line in enumerate(path.read_text(encoding="utf-8").splitlines(), start=1):
+            if number == 1 and line.strip() == "---":
+                in_frontmatter = True
+                continue
+            if in_frontmatter:
+                if line.strip() == "---":
+                    in_frontmatter = False
+                continue
+            stripped = line.lstrip()
+            if stripped.startswith("```") or stripped.startswith("~~~"):
+                in_fence = not in_fence
+                continue
+            if not in_fence and re.match(r"^#\s+", line):
+                h1_lines.append(number)
+        for number in h1_lines[1:]:
+            issues.append(Issue("markdown", path, "mais de um título H1 no documento", number))
     return issues
 
 
@@ -265,7 +301,7 @@ def main() -> None:
     results: dict[str, list[Issue]] = {}
     for check in args.checks:
         if check == "markdown":
-            results[check] = run_pymarkdown(files, config, root)
+            results[check] = run_pymarkdown(files, config, root) + check_multiple_h1(files)
         elif check == "yaml":
             results[check] = check_yaml(files, root)
         elif check == "names":

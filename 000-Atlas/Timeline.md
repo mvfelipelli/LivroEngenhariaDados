@@ -21,7 +21,7 @@ updated: "2026-07-14"
 
 ---
 
-# 📖 Objetivo
+## 📖 Objetivo
 
 Este documento apresenta uma visão histórica da evolução da Engenharia de Dados.
 
@@ -34,7 +34,7 @@ Seu objetivo é ajudar o leitor a compreender:
 
 ---
 
-# 🕰️ Linha do Tempo Geral
+## 🕰️ Linha do Tempo Geral
 
 ```mermaid
 timeline
@@ -58,9 +58,9 @@ timeline
 
 ---
 
-# Década de 1970
+## Década de 1970
 
-## Bancos Relacionais
+### Bancos Relacionais
 
 A publicação do modelo relacional por **Edgar F. Codd** revolucionou o armazenamento de dados.
 
@@ -82,9 +82,9 @@ Tecnologias:
 
 ---
 
-# Década de 1980
+## Década de 1980
 
-## SQL
+### SQL
 
 O SQL tornou-se o padrão para acesso a bancos relacionais.
 
@@ -102,9 +102,9 @@ Tecnologias populares:
 
 ---
 
-# Década de 1990
+## Década de 1990
 
-## Data Warehouse
+### Data Warehouse
 
 Com o crescimento dos sistemas corporativos surgiu a necessidade de consolidar informações.
 
@@ -122,9 +122,9 @@ Autores de referência:
 
 ---
 
-# Década de 2000
+## Década de 2000
 
-## Business Intelligence
+### Business Intelligence
 
 As empresas passaram a utilizar dados para apoiar decisões.
 
@@ -138,9 +138,9 @@ Ferramentas populares:
 
 ---
 
-# 2004
+## 2004
 
-## MapReduce
+### MapReduce
 
 O Google publicou um artigo descrevendo uma nova abordagem para processamento distribuído.
 
@@ -148,9 +148,9 @@ Esse trabalho inspirou diversas tecnologias posteriores.
 
 ---
 
-# 2006
+## 2006
 
-## Hadoop
+### Hadoop
 
 O ecossistema Hadoop permitiu processar grandes volumes de dados utilizando hardware comum.
 
@@ -163,9 +163,9 @@ Componentes clássicos:
 
 ---
 
-# 2008
+## 2008
 
-## Data Lake
+### Data Lake
 
 Organizações passaram a armazenar dados em larga escala sem exigir modelagem prévia.
 
@@ -177,9 +177,9 @@ Características:
 
 ---
 
-# Década de 2010
+## Década de 2010
 
-## NoSQL
+### NoSQL
 
 Novos modelos de armazenamento surgiram para atender aplicações distribuídas.
 
@@ -192,9 +192,9 @@ Exemplos:
 
 ---
 
-# 2014
+## 2014
 
-## Apache Spark
+### Apache Spark
 
 Spark tornou o processamento distribuído muito mais acessível.
 
@@ -210,9 +210,9 @@ Principais recursos:
 
 ---
 
-# 2017
+## 2017
 
-## Apache Iceberg
+### Apache Iceberg
 
 Introduziu tabelas transacionais para Data Lakes.
 
@@ -225,9 +225,9 @@ Recursos:
 
 ---
 
-# 2019
+## 2019
 
-## Lakehouse
+### Lakehouse
 
 A arquitetura Lakehouse passou a combinar características do Data Lake e do Data Warehouse.
 
@@ -239,9 +239,9 @@ Principais tecnologias:
 
 ---
 
-# Década de 2020
+## Década de 2020
 
-## Data Mesh
+### Data Mesh
 
 Mudança de paradigma organizacional.
 
@@ -249,7 +249,7 @@ Dados passam a ser tratados como produtos de domínio.
 
 ---
 
-## DataOps
+### DataOps
 
 Aplicação de princípios DevOps às plataformas de dados.
 
@@ -262,7 +262,7 @@ Características:
 
 ---
 
-## Inteligência Artificial Generativa
+### Inteligência Artificial Generativa
 
 O crescimento dos Grandes Modelos de Linguagem (LLMs) aumentou significativamente a demanda por plataformas de dados de alta qualidade.
 
@@ -270,7 +270,7 @@ A Engenharia de Dados tornou-se ainda mais estratégica.
 
 ---
 
-# Evolução das Arquiteturas
+## Evolução das Arquiteturas
 
 ```mermaid
 flowchart LR
@@ -296,7 +296,7 @@ LH --> DM
 
 ---
 
-# Evolução das Ferramentas
+## Evolução das Ferramentas
 
 | Período | Tecnologias predominantes |
 |----------|---------------------------|
@@ -310,7 +310,7 @@ LH --> DM
 
 ---
 
-# Grandes Personalidades
+## Grandes Personalidades
 
 | Nome | Contribuição |
 |------|--------------|
@@ -323,7 +323,7 @@ LH --> DM
 
 ---
 
-# Tendências
+## Tendências
 
 Nos próximos anos espera-se crescimento de:
 
@@ -338,7 +338,7 @@ Nos próximos anos espera-se crescimento de:
 
 ---
 
-# Relação com a Academia
+## Relação com a Academia
 
 | Volume | Período histórico relacionado |
 |---------|-------------------------------|
@@ -352,7 +352,7 @@ Nos próximos anos espera-se crescimento de:
 
 ---
 
-# 🔗 Veja Também
+## 🔗 Veja Também
 
 - [[Arquiteturas]]
 - [[Tecnologias]]
@@ -364,7 +364,7 @@ Nos próximos anos espera-se crescimento de:
 
 ---
 
-# 📖 Resumo
+## 📖 Resumo
 
 A Engenharia de Dados é resultado da evolução contínua das arquiteturas, das necessidades de negócio e das tecnologias de processamento de dados.
 

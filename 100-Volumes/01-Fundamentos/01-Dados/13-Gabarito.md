@@ -26,39 +26,39 @@ updated: "2026-07-14"
 
 ---
 
-# Exercício 1
+## Exercício 1
 
-## Defina
+### Defina
 
-### Dado
+#### Dado
 
 Registro bruto de um fato, evento ou característica da realidade.
 
-### Informação
+#### Informação
 
 Dados organizados e contextualizados.
 
-### Conhecimento
+#### Conhecimento
 
 Interpretação da informação para apoiar decisões.
 
 ---
 
-# Exercício 2
+## Exercício 2
 
-## Diferença entre dado e informação
+### Diferença entre dado e informação
 
 Um dado isolado possui pouco significado.
 
 Exemplo:
 
-```
+```text
 350
 ```
 
 Informação:
 
-```
+```text
 A loja vendeu 350 produtos ontem.
 ```
 
@@ -66,7 +66,7 @@ A informação acrescenta contexto ao dado.
 
 ---
 
-# Exercício 3
+## Exercício 3
 
 | Conceito | Resposta esperada |
 |-----------|------------------|
@@ -76,9 +76,9 @@ A informação acrescenta contexto ao dado.
 
 ---
 
-# Exercício 4
+## Exercício 4
 
-## Os 5 Vs
+### Os 5 Vs
 
 | V | Significado |
 |---|-------------|
@@ -90,9 +90,9 @@ A informação acrescenta contexto ao dado.
 
 ---
 
-# Exercício 5
+## Exercício 5
 
-## Classificação
+### Classificação
 
 | Exemplo | Estruturado | Semiestruturado | Não Estruturado |
 |----------|:-----------:|:---------------:|:---------------:|
@@ -106,9 +106,9 @@ A informação acrescenta contexto ao dado.
 
 ---
 
-# Exercício 6
+## Exercício 6
 
-## Schema-on-Write
+### Schema-on-Write
 
 O esquema é validado durante a gravação.
 
@@ -118,14 +118,14 @@ Exemplo:
 - SQL Server
 - Oracle
 
-### Vantagens
+#### Vantagens
 
 - maior consistência;
 - consultas otimizadas.
 
 ---
 
-## Schema-on-Read
+### Schema-on-Read
 
 O esquema é aplicado apenas durante a leitura.
 
@@ -135,16 +135,16 @@ Exemplos:
 - Apache Spark;
 - Hadoop.
 
-### Vantagens
+#### Vantagens
 
 - maior flexibilidade;
 - ingestão simplificada.
 
 ---
 
-# Exercício 7
+## Exercício 7
 
-## Ciclo de Vida dos Dados
+### Ciclo de Vida dos Dados
 
 Ordem correta:
 
@@ -159,29 +159,29 @@ Ordem correta:
 
 ---
 
-# Exercício 8
+## Exercício 8
 
-## Problemas encontrados
+### Problemas encontrados
 
 - CPF ausente;
 - e-mail inválido;
 - registros duplicados;
 - cidades padronizadas incorretamente.
 
-### Tratamento esperado
+#### Tratamento esperado
 
 - validação de CPF;
 - validação de e-mail;
 - deduplicação;
 - padronização dos municípios.
 
-### Etapa recomendada
+#### Etapa recomendada
 
 Durante a ingestão ou processamento do pipeline.
 
 ---
 
-# Exercício 9
+## Exercício 9
 
 | Fonte | Classificação |
 |--------|---------------|
@@ -193,9 +193,9 @@ Durante a ingestão ou processamento do pipeline.
 
 ---
 
-# Exercício 10
+## Exercício 10
 
-## Metadados esperados
+### Metadados esperados
 
 Uma boa resposta deve conter:
 
@@ -211,9 +211,9 @@ Uma boa resposta deve conter:
 
 ---
 
-# Exercício 11
+## Exercício 11
 
-## Inventário
+### Inventário
 
 A resposta deve incluir, para cada sistema:
 
@@ -230,7 +230,7 @@ O importante é justificar.
 
 ---
 
-# Exercício 12
+## Exercício 12
 
 O aluno deve demonstrar capacidade de analisar dados do cotidiano.
 
@@ -243,9 +243,9 @@ Uma boa resposta identifica:
 
 ---
 
-# Exercício 13
+## Exercício 13
 
-## Arquitetura
+### Arquitetura
 
 Uma boa solução deve contemplar:
 
@@ -281,20 +281,20 @@ Caso sejam utilizadas, exemplos válidos incluem:
 
 ---
 
-# Exercício 14
+## Exercício 14
 
-## Resposta esperada
+### Resposta esperada
 
-### Dados
+#### Dados
 
 - CRM
 - PostgreSQL
 
-### Metadados
+#### Metadados
 
 Todos os componentes possuem metadados.
 
-### Validação
+#### Validação
 
 Principalmente entre:
 
@@ -302,13 +302,13 @@ Principalmente entre:
 - Python
 - PostgreSQL
 
-### Monitoramento
+#### Monitoramento
 
 Todo o pipeline deve ser monitorado.
 
 ---
 
-# Desafio
+## Desafio
 
 Não existe resposta única.
 
@@ -324,7 +324,7 @@ Uma boa solução deve abordar:
 
 ---
 
-# Questões para Discussão
+## Questões para Discussão
 
 Essas questões têm caráter reflexivo.
 
@@ -336,7 +336,7 @@ O importante é fundamentar tecnicamente as decisões.
 
 ---
 
-# Critérios de Avaliação
+## Critérios de Avaliação
 
 | Critério | Excelente |
 |----------|-----------|
@@ -348,7 +348,7 @@ O importante é fundamentar tecnicamente as decisões.
 
 ---
 
-# Autoavaliação
+## Autoavaliação
 
 Considere que você domina este módulo quando consegue responder corretamente, sem consultar o material, pelo menos:
 
@@ -358,7 +358,7 @@ Considere que você domina este módulo quando consegue responder corretamente, 
 
 ---
 
-# Próximo passo
+## Próximo passo
 
 Após concluir este gabarito, realize o laboratório.
 

@@ -28,7 +28,7 @@ updated: "2026-07-14"
 
 ---
 
-# Objetivo
+## Objetivo
 
 Neste estudo de caso você acompanhará a primeira etapa da construção da plataforma de dados da **DataRetail S.A.**
 
@@ -43,7 +43,7 @@ Ao final deste capítulo você será capaz de:
 
 ---
 
-# Conhecendo a empresa
+## Conhecendo a empresa
 
 A **DataRetail S.A.** é uma empresa fictícia do setor varejista com atuação nacional.
 
@@ -60,27 +60,27 @@ Todos esses canais produzem dados continuamente.
 
 ---
 
-# Panorama da operação
+## Panorama da operação
 
-## Clientes
+### Clientes
 
 - mais de **8 milhões** de clientes cadastrados;
 
-## Produtos
+### Produtos
 
 - aproximadamente **500 mil produtos**;
 
-## Pedidos
+### Pedidos
 
 - cerca de **1,8 milhão de pedidos por dia**;
 
-## Eventos
+### Eventos
 
 - aproximadamente **70 milhões de eventos diários** gerados pelo site e aplicativo.
 
 ---
 
-# Fontes de Dados
+## Fontes de Dados
 
 A empresa utiliza diversos sistemas.
 
@@ -99,11 +99,11 @@ Cada sistema possui seu próprio banco de dados e suas próprias regras.
 
 ---
 
-# Primeiros desafios
+## Primeiros desafios
 
 Com o crescimento da empresa, surgiram diversos problemas.
 
-## Dados duplicados
+### Dados duplicados
 
 O mesmo cliente aparece várias vezes.
 
@@ -116,7 +116,7 @@ Exemplo:
 
 ---
 
-## Dados incompletos
+### Dados incompletos
 
 | CPF | Nome | E-mail |
 |------|------|---------|
@@ -124,7 +124,7 @@ Exemplo:
 
 ---
 
-## Dados inconsistentes
+### Dados inconsistentes
 
 CRM
 
@@ -140,7 +140,7 @@ Cliente Inativo
 
 ---
 
-## Dados espalhados
+### Dados espalhados
 
 Cada departamento mantém sua própria base.
 
@@ -172,7 +172,7 @@ Não existe integração.
 
 ---
 
-# O desafio da Engenharia de Dados
+## O desafio da Engenharia de Dados
 
 A diretoria estabelece um objetivo:
 
@@ -189,11 +189,11 @@ Essa plataforma deverá:
 
 ---
 
-# Primeira análise
+## Primeira análise
 
 Como Engenheiro de Dados, sua equipe inicia respondendo algumas perguntas.
 
-## Quais dados existem?
+### Quais dados existem?
 
 - clientes;
 - produtos;
@@ -207,7 +207,7 @@ Como Engenheiro de Dados, sua equipe inicia respondendo algumas perguntas.
 
 ---
 
-## Como esses dados são classificados?
+### Como esses dados são classificados?
 
 | Tipo | Exemplos |
 |--------|-----------|
@@ -217,7 +217,7 @@ Como Engenheiro de Dados, sua equipe inicia respondendo algumas perguntas.
 
 ---
 
-## Como é o ciclo de vida?
+### Como é o ciclo de vida?
 
 ```mermaid
 flowchart LR
@@ -235,10 +235,9 @@ flowchart LR
     SPARK --> DASHBOARD
 ```
 
-
 ---
 
-# Problemas identificados
+## Problemas identificados
 
 Durante a análise inicial foram encontrados:
 
@@ -252,41 +251,41 @@ Durante a análise inicial foram encontrados:
 
 ---
 
-# Avaliando a qualidade
+## Avaliando a qualidade
 
 Algumas perguntas orientam a investigação.
 
-## Precisão
+### Precisão
 
 Os dados representam corretamente a realidade?
 
 ---
 
-## Completude
+### Completude
 
 Existem campos obrigatórios ausentes?
 
 ---
 
-## Consistência
+### Consistência
 
 Os mesmos clientes aparecem com informações diferentes?
 
 ---
 
-## Atualidade
+### Atualidade
 
 Os dados estão sincronizados entre os sistemas?
 
 ---
 
-## Unicidade
+### Unicidade
 
 Existem registros duplicados?
 
 ---
 
-# Metadados necessários
+## Metadados necessários
 
 Para cada tabela será necessário registrar:
 
@@ -302,7 +301,7 @@ Sem essas informações a governança será comprometida.
 
 ---
 
-# Primeiras decisões arquiteturais
+## Primeiras decisões arquiteturais
 
 Após a análise, a equipe propõe:
 
@@ -320,7 +319,7 @@ Essas tecnologias serão estudadas detalhadamente nos próximos volumes.
 
 ---
 
-# Reflexão
+## Reflexão
 
 Observe que ainda **não escrevemos uma única linha de código**.
 
@@ -337,7 +336,7 @@ Esse é exatamente o papel de um Engenheiro de Dados no início de um projeto.
 
 ---
 
-# O que será construído na Academia?
+## O que será construído na Academia?
 
 Ao longo dos próximos volumes, a plataforma da DataRetail evoluirá gradualmente.
 
@@ -373,7 +372,7 @@ Cada novo volume adicionará componentes e funcionalidades a essa arquitetura.
 
 ---
 
-# Lições aprendidas
+## Lições aprendidas
 
 Este estudo de caso mostrou que:
 
@@ -385,17 +384,17 @@ Este estudo de caso mostrou que:
 
 ---
 
-# Veja Também
+## Veja Também
 
-## Próximo capítulo
+### Próximo capítulo
 
 ➡️ [[11-Resumo|11 - Resumo]]
 
-## Projeto Integrador
+### Projeto Integrador
 
 - [[030-Projetos/DataRetail Platform/README]]
 
-## Atlas
+### Atlas
 
 - [[Pipeline-de-Dados|Pipeline de Dados]]
 - [[Data-Lake|Data Lake]]

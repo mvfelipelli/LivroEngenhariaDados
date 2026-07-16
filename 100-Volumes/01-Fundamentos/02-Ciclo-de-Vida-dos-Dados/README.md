@@ -24,7 +24,7 @@ description: "Visão geral, objetivos e navegação de Ciclo de Vida dos Dados."
 
 ---
 
-# Objetivos do módulo
+## Objetivos do módulo
 
 Ao concluir este módulo você será capaz de:
 
@@ -39,7 +39,7 @@ Ao concluir este módulo você será capaz de:
 
 ---
 
-# Por que estudar o Ciclo de Vida dos Dados?
+## Por que estudar o Ciclo de Vida dos Dados?
 
 Uma organização não trabalha apenas com bancos de dados.
 
@@ -70,18 +70,18 @@ Esse entendimento permitirá enxergar cada ferramenta como parte de um processo 
 
 ---
 
-# Estrutura do módulo
+## Estrutura do módulo
 
 Este módulo está organizado em uma sequência lógica.
 
-## Parte Conceitual
+### Parte Conceitual
 
 - [[01-Objetivos]]
 - [[02-Introducao]]
 
 ---
 
-## Fundamentos
+### Fundamentos
 
 - [[03-O-que-e-o-Ciclo-de-Vida-dos-Dados]]
 - [[04-Geracao-e-Coleta-de-Dados]]
@@ -93,13 +93,13 @@ Este módulo está organizado em uma sequência lógica.
 
 ---
 
-## Aplicação
+### Aplicação
 
 - 10-Estudo-de-Caso-DataRetail
 
 ---
 
-## Revisão
+### Revisão
 
 - [[11-Resumo]]
 - [[12-Perguntas-de-Entrevista]]
@@ -111,7 +111,7 @@ Este módulo está organizado em uma sequência lógica.
 
 ---
 
-# O ciclo de vida em uma visão geral
+## O ciclo de vida em uma visão geral
 
 ```mermaid
 flowchart LR
@@ -138,7 +138,7 @@ Os dados podem retornar para etapas anteriores, ser reprocessados, enriquecidos 
 
 ---
 
-# Relação com os próximos módulos
+## Relação com os próximos módulos
 
 Este módulo prepara o terreno para diversos assuntos que serão aprofundados posteriormente.
 
@@ -153,7 +153,7 @@ Este módulo prepara o terreno para diversos assuntos que serão aprofundados po
 
 ---
 
-# Projeto Integrador
+## Projeto Integrador
 
 Durante este módulo continuaremos utilizando a empresa fictícia **DataRetail S.A.**
 
@@ -163,7 +163,7 @@ Essa abordagem permitirá conectar todos os conceitos apresentados com situaçõ
 
 ---
 
-# Ao final deste módulo
+## Ao final deste módulo
 
 Você compreenderá que a Engenharia de Dados não consiste apenas em construir pipelines ou bancos de dados.
 

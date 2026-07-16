@@ -18,7 +18,7 @@ updated: "2026-07-14"
 
 ---
 
-# 📖 Bem-vindo à Academia
+## 📖 Bem-vindo à Academia
 
 Este é o ponto central de navegação da Academia de Engenharia de Dados.
 
@@ -36,7 +36,7 @@ Sempre que estiver perdido, volte para este mapa.
 
 ---
 
-# 🧭 Como utilizar a Academia
+## 🧭 Como utilizar a Academia
 
 A Academia foi organizada em quatro grandes áreas.
 
@@ -60,11 +60,11 @@ O estudo deve seguir essa ordem.
 
 ---
 
-# 📚 Volumes da Academia
+## 📚 Volumes da Academia
 
-## Volume 00
+### Volume 00
 
-### Introdução
+#### Introdução
 
 - [[100-Volumes/00-Introducao/00-Apresentacao/README|Apresentação]]
 
@@ -88,115 +88,115 @@ O estudo deve seguir essa ordem.
 
 ---
 
-## Volume 01
+### Volume 01
 
 [[01-Fundamentos/README]]
 
 ---
 
-## Volume 02
+### Volume 02
 
 [[02-Linux/README]]
 
 ---
 
-## Volume 03
+### Volume 03
 
 [[03-Git-e-GitHub/README]]
 
 ---
 
-## Volume 04
+### Volume 04
 
 [[04-SQL/README]]
 
 ---
 
-## Volume 05
+### Volume 05
 
 [[05-Modelagem-de-Dados/README]]
 
 ---
 
-## Volume 06
+### Volume 06
 
 [[06-Python/README]]
 
 ---
 
-## Volume 07
+### Volume 07
 
 [[07-Apache-Spark/README]]
 
 ---
 
-## Volume 08
+### Volume 08
 
 [[08-PostgreSQL/README]]
 
 ---
 
-## Volume 09
+### Volume 09
 
 [[09-Lakehouse/README]]
 
 ---
 
-## Volume 10
+### Volume 10
 
 [[10-Trino/README]]
 
 ---
 
-## Volume 11
+### Volume 11
 
 [[11-Apache-Airflow/README]]
 
 ---
 
-## Volume 12
+### Volume 12
 
 [[12-Qualidade-de-Dados/README]]
 
 ---
 
-## Volume 13
+### Volume 13
 
 [[13-Observabilidade/README]]
 
 ---
 
-## Volume 14
+### Volume 14
 
 [[14-Streaming/README]]
 
 ---
 
-## Volume 15
+### Volume 15
 
 [[15-Cloud/README]]
 
 ---
 
-## Volume 16
+### Volume 16
 
 [[16-DataOps-e-DevOps/README]]
 
 ---
 
-## Volume 17
+### Volume 17
 
 [[17-Arquiteturas-Avancadas/README]]
 
 ---
 
-## Volume 18
+### Volume 18
 
 [[18-Projeto-Integrador/README]]
 
 ---
 
-# 🏛️ Arquiteturas
+## 🏛️ Arquiteturas
 
 - [[Arquiteturas]]
 
@@ -216,9 +216,9 @@ O estudo deve seguir essa ordem.
 
 ---
 
-# 💻 Tecnologias
+## 💻 Tecnologias
 
-## Linguagens
+### Linguagens
 
 - [[100-Volumes/04-SQL/README|SQL]]
 
@@ -230,7 +230,7 @@ O estudo deve seguir essa ordem.
 
 ---
 
-## Bancos de Dados
+### Bancos de Dados
 
 - [[100-Volumes/08-PostgreSQL/README|PostgreSQL]]
 
@@ -242,7 +242,7 @@ O estudo deve seguir essa ordem.
 
 ---
 
-## Processamento
+### Processamento
 
 - [[Apache-Spark|Apache Spark]]
 
@@ -252,7 +252,7 @@ O estudo deve seguir essa ordem.
 
 ---
 
-## Consulta
+### Consulta
 
 - [[Trino]]
 
@@ -260,13 +260,13 @@ O estudo deve seguir essa ordem.
 
 ---
 
-## Orquestração
+### Orquestração
 
 - [[Apache-Airflow|Apache Airflow]]
 
 ---
 
-## Armazenamento
+### Armazenamento
 
 - [[Apache-Iceberg|Apache Iceberg]]
 
@@ -278,7 +278,7 @@ O estudo deve seguir essa ordem.
 
 ---
 
-## Cloud
+### Cloud
 
 - AWS
 
@@ -288,7 +288,7 @@ O estudo deve seguir essa ordem.
 
 ---
 
-# 🧠 Conceitos Fundamentais
+## 🧠 Conceitos Fundamentais
 
 - [[Engenharia-de-Dados|Engenharia de Dados]]
 
@@ -316,7 +316,7 @@ O estudo deve seguir essa ordem.
 
 ---
 
-# 🔬 Laboratórios
+## 🔬 Laboratórios
 
 Todos os laboratórios ficam em:
 
@@ -346,7 +346,7 @@ Principais categorias:
 
 ---
 
-# 🏢 Projeto Integrador
+## 🏢 Projeto Integrador
 
 Projeto oficial da Academia.
 
@@ -360,7 +360,7 @@ Localização:
 
 ---
 
-# 🎓 Certificações
+## 🎓 Certificações
 
 Material complementar.
 
@@ -384,7 +384,7 @@ Inclui:
 
 ---
 
-# 📈 Roadmaps
+## 📈 Roadmaps
 
 - [[Roadmap]]
 
@@ -394,13 +394,13 @@ Inclui:
 
 ---
 
-# 📖 Guias
+## 📖 Guias
 
 - [[Guia-Editorial|Guia Editorial]]
 
 ---
 
-# 📚 Glossário
+## 📚 Glossário
 
 Todos os conceitos estão em:
 
@@ -410,9 +410,9 @@ Todos os conceitos estão em:
 
 ---
 
-# 🔎 Navegação por Perfil
+## 🔎 Navegação por Perfil
 
-## Estou começando
+### Estou começando
 
 1. [[100-Volumes/00-Introducao/00-Apresentacao/README]]
 
@@ -422,7 +422,7 @@ Todos os conceitos estão em:
 
 ---
 
-## Sou Desenvolvedor
+### Sou Desenvolvedor
 
 - [[100-Volumes/04-SQL/README|SQL]]
 
@@ -434,7 +434,7 @@ Todos os conceitos estão em:
 
 ---
 
-## Trabalho com BI
+### Trabalho com BI
 
 - [[Data-Warehouse|Data Warehouse]]
 
@@ -444,7 +444,7 @@ Todos os conceitos estão em:
 
 ---
 
-## Quero trabalhar com Big Data
+### Quero trabalhar com Big Data
 
 - [[Apache-Spark|Apache Spark]]
 
@@ -454,7 +454,7 @@ Todos os conceitos estão em:
 
 ---
 
-## Quero trabalhar com IA
+### Quero trabalhar com IA
 
 - [[Pipeline-de-Dados|Pipeline de Dados]]
 
@@ -466,7 +466,7 @@ Todos os conceitos estão em:
 
 ---
 
-# 🚀 Evolução na Academia
+## 🚀 Evolução na Academia
 
 ```mermaid
 flowchart LR
@@ -492,7 +492,7 @@ D --> E
 
 ---
 
-# 📊 Progresso
+## 📊 Progresso
 
 > [!info]
 >
@@ -500,7 +500,7 @@ D --> E
 
 ---
 
-# 📌 Veja Também
+## 📌 Veja Também
 
 - [[Guia-Editorial|Guia Editorial]]
 
@@ -513,4 +513,3 @@ D --> E
 - [[Carreira]]
 
 - [[Timeline]]
-

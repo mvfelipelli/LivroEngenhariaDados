@@ -27,7 +27,7 @@ updated: "2026-07-14"
 
 ---
 
-# Objetivo
+## Objetivo
 
 Ao concluir este capítulo você será capaz de:
 
@@ -38,7 +38,7 @@ Ao concluir este capítulo você será capaz de:
 
 ---
 
-# Introdução
+## Introdução
 
 Nem todos os dados são iguais.
 
@@ -60,7 +60,7 @@ Por isso, antes de aprender ferramentas, precisamos compreender as propriedades 
 
 ---
 
-# O que caracteriza um conjunto de dados?
+## O que caracteriza um conjunto de dados?
 
 Quando um Engenheiro de Dados recebe uma nova fonte de dados, normalmente as primeiras perguntas são:
 
@@ -77,9 +77,9 @@ Essas respostas influenciam diretamente a arquitetura da solução.
 
 ---
 
-# Principais características
+## Principais características
 
-## Volume
+### Volume
 
 Volume representa a quantidade de dados armazenados ou produzidos.
 
@@ -98,7 +98,7 @@ Quanto maior o volume, maior a necessidade de processamento distribuído.
 
 ---
 
-## Velocidade
+### Velocidade
 
 Velocidade representa a rapidez com que os dados são produzidos.
 
@@ -114,7 +114,7 @@ Quando a velocidade é elevada, normalmente utilizamos arquiteturas de streaming
 
 ---
 
-## Variedade
+### Variedade
 
 Os dados podem assumir diferentes formatos.
 
@@ -134,7 +134,7 @@ Quanto maior a variedade, maior a complexidade da integração.
 
 ---
 
-## Veracidade
+### Veracidade
 
 Nem todos os dados são corretos.
 
@@ -150,7 +150,7 @@ Garantir veracidade é uma das responsabilidades da Engenharia de Dados.
 
 ---
 
-## Valor
+### Valor
 
 Dados somente possuem valor quando ajudam na tomada de decisão.
 
@@ -160,7 +160,7 @@ Um dos papéis do Engenheiro de Dados é garantir que os dados disponíveis poss
 
 ---
 
-# Os 5 Vs do Big Data
+## Os 5 Vs do Big Data
 
 As características apresentadas anteriormente deram origem ao modelo conhecido como **5 Vs do Big Data**.
 
@@ -178,11 +178,11 @@ Esses cinco conceitos continuam sendo utilizados para avaliar plataformas modern
 
 ---
 
-# Outras características importantes
+## Outras características importantes
 
 Com a evolução das plataformas de dados, outras propriedades passaram a ser igualmente relevantes.
 
-## Volatilidade
+### Volatilidade
 
 Quanto tempo o dado permanece válido?
 
@@ -193,7 +193,7 @@ Exemplos:
 
 ---
 
-## Temporalidade
+### Temporalidade
 
 Todo dado possui um instante de criação.
 
@@ -207,7 +207,7 @@ Essas informações permitem reconstruir o histórico de eventos.
 
 ---
 
-## Sensibilidade
+### Sensibilidade
 
 Alguns dados exigem proteção adicional.
 
@@ -223,7 +223,7 @@ Esses dados estão sujeitos a legislações como a LGPD.
 
 ---
 
-## Granularidade
+### Granularidade
 
 Refere-se ao nível de detalhe armazenado.
 
@@ -241,7 +241,7 @@ Quanto maior a granularidade, maior a flexibilidade analítica.
 
 ---
 
-# Como essas características influenciam a arquitetura?
+## Como essas características influenciam a arquitetura?
 
 ```mermaid
 flowchart LR
@@ -267,7 +267,7 @@ Cada característica influencia diretamente a escolha das tecnologias utilizadas
 
 ---
 
-# Conexão com a prática
+## Conexão com a prática
 
 Imagine que a DataRetail S.A. decidiu lançar um marketplace.
 
@@ -294,7 +294,7 @@ Agora precisa lidar com:
 
 ---
 
-# Estudo de Caso — DataRetail S.A.
+## Estudo de Caso — DataRetail S.A.
 
 A seguir estão algumas fontes de dados da empresa.
 
@@ -312,7 +312,7 @@ A Engenharia de Dados consiste justamente em combinar diferentes tecnologias par
 
 ---
 
-# Boas práticas
+## Boas práticas
 
 > [!tip]
 >
@@ -331,7 +331,7 @@ Essas respostas orientarão praticamente todas as decisões técnicas.
 
 ---
 
-# Erros comuns
+## Erros comuns
 
 > [!warning]
 >
@@ -343,7 +343,7 @@ Essas respostas orientarão praticamente todas as decisões técnicas.
 
 ---
 
-# Resumo Executivo
+## Resumo Executivo
 
 - Dados possuem características próprias.
 - Essas características determinam como serão armazenados, processados e disponibilizados.
@@ -353,7 +353,7 @@ Essas respostas orientarão praticamente todas as decisões técnicas.
 
 ---
 
-# Conceitos-chave
+## Conceitos-chave
 
 - Volume
 - Velocidade
@@ -367,13 +367,13 @@ Essas respostas orientarão praticamente todas as decisões técnicas.
 
 ---
 
-# Veja Também
+## Veja Também
 
-## Próximo capítulo
+### Próximo capítulo
 
 ➡️ [[05-Tipos-de-Dados|05 - Tipos de Dados]]
 
-## Atlas
+### Atlas
 
 - [[Big-Data|Big Data]]
 - [[Qualidade-de-Dados|Qualidade de Dados]]
@@ -381,7 +381,7 @@ Essas respostas orientarão praticamente todas as decisões técnicas.
 - [[Lakehouse]]
 - [[Apache-Spark|Apache Spark]]
 
-## Volume
+### Volume
 
 - [[100-Volumes/01-Fundamentos/01-Dados/README]]
 

@@ -27,7 +27,7 @@ updated: "2026-07-14"
 
 ---
 
-# Objetivo
+## Objetivo
 
 Este capítulo reúne os principais conceitos estudados no módulo **Dados**, servindo como material de revisão rápida antes de seguir para os próximos módulos da Academia.
 
@@ -35,7 +35,7 @@ Ao final desta revisão você deverá ser capaz de explicar os principais concei
 
 ---
 
-# Mapa Mental do Módulo
+## Mapa Mental do Módulo
 
 ```mermaid
 mindmap
@@ -83,7 +83,7 @@ mindmap
 
 ---
 
-# O que são Dados?
+## O que são Dados?
 
 Dados são registros de fatos, eventos ou características que representam elementos da realidade.
 
@@ -95,7 +95,7 @@ Quando interpretados, geram conhecimento.
 
 ---
 
-# Dados × Informação × Conhecimento
+## Dados × Informação × Conhecimento
 
 ```mermaid
 flowchart LR
@@ -111,7 +111,7 @@ flowchart LR
 
 ---
 
-# Os 5 Vs do Big Data
+## Os 5 Vs do Big Data
 
 Os cinco Vs representam características fundamentais dos dados modernos.
 
@@ -125,7 +125,7 @@ Os cinco Vs representam características fundamentais dos dados modernos.
 
 ---
 
-# Classificação dos Dados
+## Classificação dos Dados
 
 | Tipo | Exemplos |
 |-------|----------|
@@ -135,7 +135,7 @@ Os cinco Vs representam características fundamentais dos dados modernos.
 
 ---
 
-# Estruturação dos Dados
+## Estruturação dos Dados
 
 Uma boa estrutura influencia diretamente:
 
@@ -154,7 +154,7 @@ Principais conceitos:
 
 ---
 
-# Ciclo de Vida dos Dados
+## Ciclo de Vida dos Dados
 
 ```mermaid
 flowchart LR
@@ -174,7 +174,7 @@ Cada etapa possui desafios próprios e exige tecnologias específicas.
 
 ---
 
-# Qualidade dos Dados
+## Qualidade dos Dados
 
 As principais dimensões estudadas foram:
 
@@ -189,7 +189,7 @@ As principais dimensões estudadas foram:
 
 ---
 
-# Metadados
+## Metadados
 
 Metadados descrevem os dados.
 
@@ -207,7 +207,7 @@ São fundamentais para governança e descoberta de dados.
 
 ---
 
-# A Plataforma da DataRetail
+## A Plataforma da DataRetail
 
 Durante este módulo iniciamos a construção da arquitetura da DataRetail S.A.
 
@@ -231,7 +231,7 @@ Nos próximos volumes essa arquitetura será construída passo a passo.
 
 ---
 
-# Conceitos que você deve dominar
+## Conceitos que você deve dominar
 
 Antes de avançar, confirme que consegue explicar:
 
@@ -250,7 +250,7 @@ Se alguma resposta ainda gerar dúvidas, revise o capítulo correspondente.
 
 ---
 
-# Relação com os próximos volumes
+## Relação com os próximos volumes
 
 Os conceitos aprendidos neste módulo serão utilizados continuamente.
 
@@ -269,7 +269,7 @@ Os conceitos aprendidos neste módulo serão utilizados continuamente.
 
 ---
 
-# Checklist de Aprendizagem
+## Checklist de Aprendizagem
 
 Marque os itens quando se sentir confortável.
 
@@ -285,13 +285,13 @@ Marque os itens quando se sentir confortável.
 
 ---
 
-# Veja Também
+## Veja Também
 
-## Próximo capítulo
+### Próximo capítulo
 
 ➡️ [[12-Perguntas-de-Entrevista|12 - Perguntas de Entrevista]]
 
-## Revisar
+### Revisar
 
 - [[03-O-que-sao-Dados|03 - O que são Dados]]
 - [[04-Caracteristicas-dos-Dados|04 - Características dos Dados]]

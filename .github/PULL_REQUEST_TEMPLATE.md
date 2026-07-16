@@ -1,14 +1,8 @@
 \# Pull Request
 
-
-
 \## Tipo da alteração
 
-
-
 Marque uma ou mais opções.
-
-
 
 \- \[ ] Novo capítulo
 
@@ -28,55 +22,29 @@ Marque uma ou mais opções.
 
 \- \[ ] Outro
 
-
-
 \---
-
-
 
 \## Objetivo
 
-
-
 Descreva claramente o objetivo desta alteração.
 
-
-
 \---
-
-
 
 \## Arquivos modificados
 
-
-
 Liste os principais arquivos alterados.
 
-
+\-
 
 \-
 
-
-
 \-
-
-
-
-\-
-
-
 
 \---
 
-
-
 \## Checklist
 
-
-
 Confirme antes de solicitar a revisão.
-
-
 
 \- \[ ] O conteúdo segue o EDITORIAL.md
 
@@ -96,39 +64,20 @@ Confirme antes de solicitar a revisão.
 
 \- \[ ] O CHANGELOG foi atualizado (quando necessário)
 
-
-
 \---
-
-
 
 \## Referências
 
-
-
 Liste referências utilizadas, quando aplicável.
 
-
+\-
 
 \-
 
-
-
 \-
-
-
-
-\-
-
-
 
 \---
 
-
-
 \## Observações
 
-
-
 Inclua qualquer informação adicional relevante para a revisão.
-

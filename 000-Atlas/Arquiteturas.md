@@ -20,7 +20,7 @@ updated: "2026-07-14"
 
 ---
 
-# 📖 Objetivo
+## 📖 Objetivo
 
 Este documento apresenta uma visão integrada das principais arquiteturas utilizadas na Engenharia de Dados.
 
@@ -30,7 +30,7 @@ Ao longo dos volumes, retornaremos continuamente a este documento para compreend
 
 ---
 
-# 🗺️ Mapa Geral
+## 🗺️ Mapa Geral
 
 ```mermaid
 flowchart LR
@@ -60,7 +60,7 @@ Nenhuma substitui completamente as demais.
 
 ---
 
-# Linha do Tempo
+## Linha do Tempo
 
 | Década | Arquitetura predominante |
 |----------|--------------------------|
@@ -73,7 +73,7 @@ Nenhuma substitui completamente as demais.
 
 ---
 
-# Famílias Arquiteturais
+## Famílias Arquiteturais
 
 ```mermaid
 mindmap
@@ -100,49 +100,49 @@ mindmap
 
 ---
 
-# Arquiteturas Fundamentais
+## Arquiteturas Fundamentais
 
-## Banco Relacional
+### Banco Relacional
 
-### Objetivo
+#### Objetivo
 
 Suportar sistemas transacionais.
 
-### Exemplos
+#### Exemplos
 
 - PostgreSQL
 - SQL Server
 - Oracle
 - MySQL
 
-### Melhor utilização
+#### Melhor utilização
 
 - ERP
 - CRM
 - Sistemas Financeiros
 - Sistemas Operacionais
 
-### Limitações
+#### Limitações
 
 - Escalabilidade horizontal limitada
 - Pouco adequado para grandes volumes analíticos
 
 ---
 
-## [[Data-Warehouse|Data Warehouse]]
+### [[Data-Warehouse|Data Warehouse]]
 
-### Objetivo
+#### Objetivo
 
 Centralizar dados para análises corporativas.
 
-### Características
+#### Características
 
 - Dados estruturados
 - Alta qualidade
 - Histórico
 - Modelagem dimensional
 
-### Melhor utilização
+#### Melhor utilização
 
 - BI
 - Dashboards
@@ -151,13 +151,13 @@ Centralizar dados para análises corporativas.
 
 ---
 
-## [[Data-Lake|Data Lake]]
+### [[Data-Lake|Data Lake]]
 
-### Objetivo
+#### Objetivo
 
 Armazenar dados em larga escala com flexibilidade.
 
-### Tipos de dados
+#### Tipos de dados
 
 - CSV
 - JSON
@@ -167,32 +167,32 @@ Armazenar dados em larga escala com flexibilidade.
 - Logs
 - Eventos
 
-### Vantagens
+#### Vantagens
 
 - Escalabilidade
 - Baixo custo
 - Flexibilidade
 
-### Riscos
+#### Riscos
 
 - Data Swamp
 - Falta de governança
 
 ---
 
-## [[Lakehouse]]
+### [[Lakehouse]]
 
-### Objetivo
+#### Objetivo
 
 Combinar as vantagens do Data Lake com o Data Warehouse.
 
-### Tecnologias
+#### Tecnologias
 
 - [[Apache-Iceberg|Apache Iceberg]]
 - Delta Lake
 - Apache Hudi
 
-### Recursos
+#### Recursos
 
 - ACID
 - Time Travel
@@ -202,13 +202,13 @@ Combinar as vantagens do Data Lake com o Data Warehouse.
 
 ---
 
-## Data Mesh
+### Data Mesh
 
-### Objetivo
+#### Objetivo
 
 Distribuir responsabilidade sobre os dados para os domínios de negócio.
 
-### Princípios
+#### Princípios
 
 - Dados como produto
 - Domínio responsável
@@ -217,13 +217,13 @@ Distribuir responsabilidade sobre os dados para os domínios de negócio.
 
 ---
 
-## Data Fabric
+### Data Fabric
 
-### Objetivo
+#### Objetivo
 
 Conectar diferentes plataformas através de automação, metadados e integração inteligente.
 
-### Características
+#### Características
 
 - Integração entre ambientes
 - Catálogo unificado
@@ -232,11 +232,11 @@ Conectar diferentes plataformas através de automação, metadados e integraçã
 
 ---
 
-# Arquiteturas de Processamento
+## Arquiteturas de Processamento
 
-## Batch
+### Batch
 
-### Características
+#### Características
 
 - Processamento periódico
 - Baixa complexidade
@@ -251,9 +251,9 @@ Exemplos:
 
 ---
 
-## [[100-Volumes/14-Streaming/README|Streaming]]
+### [[100-Volumes/14-Streaming/README|Streaming]]
 
-### Características
+#### Características
 
 - Processamento contínuo
 - Baixa latência
@@ -268,9 +268,9 @@ Exemplos:
 
 ---
 
-# Arquiteturas de Integração
+## Arquiteturas de Integração
 
-## [[ETL]]
+### [[ETL]]
 
 ```text
 Extrair
@@ -286,7 +286,7 @@ Carregar
 
 ---
 
-## [[ELT]]
+### [[ELT]]
 
 ```text
 Extrair
@@ -302,7 +302,7 @@ Transformar
 
 ---
 
-## CDC
+### CDC
 
 Capture apenas alterações.
 
@@ -310,7 +310,7 @@ Muito utilizado para replicação de bancos de dados.
 
 ---
 
-## Event Driven
+### Event Driven
 
 Integração baseada em eventos.
 
@@ -318,7 +318,7 @@ Muito utilizada em microsserviços.
 
 ---
 
-# Comparativo Geral
+## Comparativo Geral
 
 | Arquitetura | Estruturado | Não Estruturado | Escalabilidade | Governança |
 |-------------|-------------|-----------------|----------------|------------|
@@ -330,7 +330,7 @@ Muito utilizada em microsserviços.
 
 ---
 
-# Tecnologias por Arquitetura
+## Tecnologias por Arquitetura
 
 | Arquitetura | Tecnologias |
 |-------------|-------------|
@@ -345,7 +345,7 @@ Muito utilizada em microsserviços.
 
 ---
 
-# 🏗️ Como escolher uma arquitetura?
+## 🏗️ Como escolher uma arquitetura?
 
 Não existe uma resposta universal.
 
@@ -364,7 +364,7 @@ A decisão depende de fatores como:
 
 ---
 
-# Relação com os Volumes da Academia
+## Relação com os Volumes da Academia
 
 | Volume | Arquiteturas abordadas |
 |---------|------------------------|
@@ -378,16 +378,16 @@ A decisão depende de fatores como:
 
 ---
 
-# 🔗 Veja Também
+## 🔗 Veja Também
 
-## Atlas
+### Atlas
 
 - [[MOC]]
 - [[Roadmap]]
 - [[Tecnologias]]
 - [[Timeline]]
 
-## Conceitos
+### Conceitos
 
 - [[Data-Warehouse|Data Warehouse]]
 - [[Data-Lake|Data Lake]]
@@ -400,7 +400,7 @@ A decisão depende de fatores como:
 - [[ELT]]
 - CDC
 
-## Tecnologias
+### Tecnologias
 
 - [[Apache-Spark|Apache Spark]]
 - [[Apache-Airflow|Apache Airflow]]
@@ -410,7 +410,7 @@ A decisão depende de fatores como:
 
 ---
 
-# 📖 Resumo
+## 📖 Resumo
 
 As arquiteturas de dados evoluíram continuamente para responder ao crescimento do volume, da variedade e da velocidade dos dados.
 

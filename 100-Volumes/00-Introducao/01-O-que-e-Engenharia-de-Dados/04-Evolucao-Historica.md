@@ -26,7 +26,7 @@ updated: "2026-07-14"
 
 ---
 
-# 📖 Introdução
+## 📖 Introdução
 
 A Engenharia de Dados não surgiu de forma repentina.
 
@@ -41,7 +41,7 @@ Entender essa evolução é fundamental para compreender por que utilizamos hoje
 
 ---
 
-# 🕰️ Linha do Tempo
+## 🕰️ Linha do Tempo
 
 ```mermaid
 timeline
@@ -79,7 +79,7 @@ Cada uma dessas fases transformou completamente a forma como armazenamos, proces
 
 ---
 
-# 🖥️ Primeira Era — Bancos Relacionais
+## 🖥️ Primeira Era — Bancos Relacionais
 
 Na década de 1970, o modelo relacional revolucionou a computação.
 
@@ -99,7 +99,7 @@ O modelo relacional introduziu conceitos que permanecem fundamentais até hoje:
 
 ---
 
-# 🏢 Segunda Era — Sistemas Corporativos
+## 🏢 Segunda Era — Sistemas Corporativos
 
 Nas décadas de 1980 e 1990, as empresas passaram a informatizar seus processos internos.
 
@@ -125,7 +125,7 @@ Como consequência:
 
 ---
 
-# 📊 Terceira Era — Data Warehouse
+## 📊 Terceira Era — Data Warehouse
 
 Para resolver o problema da fragmentação dos dados surgiu o conceito de [[Data-Warehouse|Data Warehouse]].
 
@@ -150,7 +150,7 @@ Durante muitos anos essa foi a principal atividade dos profissionais de dados.
 
 ---
 
-# 🌐 Quarta Era — Big Data
+## 🌐 Quarta Era — Big Data
 
 Com a popularização da internet, do comércio eletrônico e das redes sociais, o crescimento do volume de dados tornou-se exponencial.
 
@@ -169,7 +169,7 @@ Embora revolucionário para a época, o modelo baseado em [[MapReduce]] apresent
 
 ---
 
-# ⚡ Quinta Era — Apache Spark
+## ⚡ Quinta Era — Apache Spark
 
 Em resposta às limitações do Hadoop, surgiu o [[Apache-Spark|Apache Spark]].
 
@@ -188,7 +188,7 @@ Atualmente o Spark é uma das principais plataformas utilizadas em Engenharia de
 
 ---
 
-# 🪣 Sexta Era — Data Lakes
+## 🪣 Sexta Era — Data Lakes
 
 À medida que o custo do armazenamento diminuiu, surgiu uma nova estratégia.
 
@@ -211,7 +211,7 @@ Essa abordagem aumentou a flexibilidade, mas trouxe novos desafios relacionados 
 
 ---
 
-# 🏛️ Sétima Era — Lakehouse
+## 🏛️ Sétima Era — Lakehouse
 
 Os Lakehouses representam uma evolução dos Data Lakes.
 
@@ -236,7 +236,7 @@ foram criadas para fornecer recursos como:
 
 ---
 
-# ☁️ O Presente e o Futuro
+## ☁️ O Presente e o Futuro
 
 Hoje as plataformas de dados evoluem rapidamente.
 
@@ -256,7 +256,7 @@ Ela tornou-se um componente estratégico para praticamente todas as organizaçõ
 
 ---
 
-# 🏢 Estudo de Caso — DataRetail S.A.
+## 🏢 Estudo de Caso — DataRetail S.A.
 
 Imagine que a DataRetail nasceu em 1995.
 
@@ -288,7 +288,7 @@ Esse comportamento é observado em milhares de empresas ao redor do mundo.
 
 ---
 
-# 🔗 Veja Também
+## 🔗 Veja Também
 
 - [[Engenharia-de-Dados|Engenharia de Dados]]
 - [[Engenheiro-de-Dados|Engenheiro de Dados]]
@@ -304,6 +304,7 @@ Esse comportamento é observado em milhares de empresas ao redor do mundo.
 ---
 
 > [!summary]
+>
 > ## Resumo
 >
 > A Engenharia de Dados é resultado de décadas de evolução tecnológica.
@@ -314,7 +315,7 @@ Esse comportamento é observado em milhares de empresas ao redor do mundo.
 
 ---
 
-## Navegação
+### Navegação
 
 ← [[03-A-Era-dos-Dados|A Era dos Dados]]
 

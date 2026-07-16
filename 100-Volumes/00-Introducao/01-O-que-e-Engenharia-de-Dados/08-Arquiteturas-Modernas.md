@@ -33,7 +33,7 @@ updated: "2026-07-14"
 
 ---
 
-# 📖 Visão Geral
+## 📖 Visão Geral
 
 Nos capítulos anteriores conhecemos os componentes que formam uma plataforma moderna de dados.
 
@@ -51,7 +51,7 @@ Neste capítulo estudaremos sua evolução, vantagens, limitações e quando cad
 
 ---
 
-# 🎯 Objetivos
+## 🎯 Objetivos
 
 Ao concluir este capítulo você será capaz de:
 
@@ -63,7 +63,7 @@ Ao concluir este capítulo você será capaz de:
 
 ---
 
-# 🗺️ Mapa do capítulo
+## 🗺️ Mapa do capítulo
 
 1. O que é Arquitetura de Dados
 2. Evolução das Arquiteturas
@@ -77,7 +77,7 @@ Ao concluir este capítulo você será capaz de:
 
 ---
 
-# O que é uma Arquitetura de Dados?
+## O que é uma Arquitetura de Dados?
 
 Arquitetura de Dados é a forma como uma organização estrutura seus dados, processos e tecnologias para atender às necessidades do negócio.
 
@@ -96,7 +96,7 @@ Uma boa arquitetura procura equilibrar diferentes fatores, como desempenho, cust
 
 ---
 
-# A evolução das arquiteturas
+## A evolução das arquiteturas
 
 A evolução das plataformas de dados pode ser resumida da seguinte forma.
 
@@ -127,7 +127,7 @@ Ao mesmo tempo, introduziu novos desafios.
 
 ---
 
-# Comparativo Geral
+## Comparativo Geral
 
 | Arquitetura | Objetivo principal | Melhor cenário |
 |-------------|-------------------|----------------|
@@ -143,7 +143,7 @@ Existe apenas a mais adequada ao problema.
 
 ---
 
-# 🏛️ Data Warehouse
+## 🏛️ Data Warehouse
 
 O Data Warehouse consolidou dados provenientes de diferentes sistemas em um único ambiente analítico.
 
@@ -154,14 +154,14 @@ Seu foco principal é:
 - histórico;
 - indicadores.
 
-## Vantagens
+### Vantagens
 
 - dados altamente organizados;
 - excelente desempenho para BI;
 - forte governança;
 - qualidade elevada.
 
-## Limitações
+### Limitações
 
 - custo elevado;
 - menor flexibilidade;
@@ -182,7 +182,7 @@ DW --> BI
 
 ---
 
-# 🌊 Data Lake
+## 🌊 Data Lake
 
 O Data Lake surgiu para armazenar grandes volumes de dados praticamente em seu formato original.
 
@@ -196,13 +196,13 @@ Ele aceita:
 - documentos;
 - eventos.
 
-## Vantagens
+### Vantagens
 
 - baixo custo;
 - alta escalabilidade;
 - enorme flexibilidade.
 
-## Limitações
+### Limitações
 
 - governança mais complexa;
 - risco de Data Swamp;
@@ -223,7 +223,7 @@ DL --> CONSUMO["Múltiplos consumidores"]
 
 ---
 
-# 🏛️🌊 Lakehouse
+## 🏛️🌊 Lakehouse
 
 O Lakehouse procura combinar o melhor dos dois mundos.
 
@@ -241,7 +241,7 @@ Do Data Lake herda:
 
 Tecnologias como [[Apache-Iceberg|Apache Iceberg]] tornaram essa abordagem extremamente popular.
 
-## Vantagens
+### Vantagens
 
 - arquitetura unificada;
 - armazenamento econômico;
@@ -270,7 +270,7 @@ DW --> LH
 
 ---
 
-# ⚖️ Comparação
+## ⚖️ Comparação
 
 | Característica | Data Warehouse | Data Lake | Lakehouse |
 |----------------|---------------|-----------|------------|
@@ -283,7 +283,7 @@ DW --> LH
 
 ---
 
-# 💡 Arquitetura é compromisso
+## 💡 Arquitetura é compromisso
 
 Toda arquitetura envolve escolhas.
 
@@ -306,7 +306,7 @@ Um arquiteto de dados precisa compreender esses compromissos antes de decidir.
 
 ---
 
-# 📦 Processamento Batch × Streaming
+## 📦 Processamento Batch × Streaming
 
 Uma das decisões arquiteturais mais importantes em uma plataforma de dados é definir **quando** os dados serão processados.
 
@@ -325,7 +325,7 @@ Essa decisão afeta diretamente:
 
 ---
 
-# Processamento Batch
+## Processamento Batch
 
 No processamento em lote, os dados são acumulados durante um período e processados posteriormente.
 
@@ -349,14 +349,14 @@ SRC --> BATCH
 BATCH --> DW
 ```
 
-## Características
+### Características
 
 - processamento programado;
 - maior eficiência para grandes volumes;
 - menor custo operacional;
 - arquitetura mais simples.
 
-### Exemplos
+#### Exemplos
 
 - fechamento financeiro;
 - faturamento mensal;
@@ -365,7 +365,7 @@ BATCH --> DW
 
 ---
 
-## Vantagens
+### Vantagens
 
 - simplicidade;
 - previsibilidade;
@@ -374,7 +374,7 @@ BATCH --> DW
 
 ---
 
-## Desvantagens
+### Desvantagens
 
 - maior latência;
 - informações não ficam disponíveis imediatamente;
@@ -382,7 +382,7 @@ BATCH --> DW
 
 ---
 
-# Processamento Streaming
+## Processamento Streaming
 
 No streaming os dados são processados conforme chegam.
 
@@ -401,13 +401,13 @@ EVENTO --> STREAM
 STREAM --> CONS
 ```
 
-## Características
+### Características
 
 - baixa latência;
 - processamento contínuo;
 - atualização praticamente imediata.
 
-### Exemplos
+#### Exemplos
 
 - PIX;
 - monitoramento de fraude;
@@ -417,7 +417,7 @@ STREAM --> CONS
 
 ---
 
-## Vantagens
+### Vantagens
 
 - informações atualizadas;
 - resposta rápida;
@@ -425,7 +425,7 @@ STREAM --> CONS
 
 ---
 
-## Desvantagens
+### Desvantagens
 
 - arquitetura mais complexa;
 - monitoramento mais sofisticado;
@@ -434,7 +434,7 @@ STREAM --> CONS
 
 ---
 
-# Comparação
+## Comparação
 
 | Característica | Batch | Streaming |
 |---------------|-------|-----------|
@@ -446,18 +446,18 @@ STREAM --> CONS
 
 ---
 
-# 🏗️ Decisão de Arquitetura
+## 🏗️ Decisão de Arquitetura
 
-## Situação
+### Situação
 
 Uma rede varejista atualiza dashboards de vendas apenas uma vez por dia.
 
-## Alternativas
+### Alternativas
 
 - Streaming
 - Batch
 
-## Análise
+### Análise
 
 Os usuários aceitam visualizar os indicadores apenas na manhã seguinte.
 
@@ -465,11 +465,11 @@ Não existem requisitos de tempo real.
 
 O volume de dados é elevado.
 
-## Decisão
+### Decisão
 
 Adotar processamento Batch.
 
-## Consequências
+### Consequências
 
 - menor custo;
 - menor complexidade;
@@ -480,13 +480,13 @@ Adotar processamento Batch.
 
 ---
 
-# 🏛️ Arquiteturas Centralizadas × Distribuídas
+## 🏛️ Arquiteturas Centralizadas × Distribuídas
 
 Outra decisão importante é onde os dados serão organizados.
 
 Historicamente surgiram dois modelos.
 
-## Arquitetura Centralizada
+### Arquitetura Centralizada
 
 Todos os dados ficam concentrados em uma plataforma única.
 
@@ -509,13 +509,13 @@ RH --> DW
 FIN --> DW
 ```
 
-### Vantagens
+#### Vantagens
 
 - padronização;
 - governança simplificada;
 - visão única dos dados.
 
-### Limitações
+#### Limitações
 
 - gargalos;
 - dependência de uma única equipe;
@@ -523,7 +523,7 @@ FIN --> DW
 
 ---
 
-## Arquitetura Distribuída
+### Arquitetura Distribuída
 
 Cada domínio mantém responsabilidade sobre seus próprios dados.
 
@@ -551,7 +551,7 @@ Esse conceito evoluiu para o que conhecemos como **Data Mesh**.
 
 ---
 
-# 🌐 Data Mesh
+## 🌐 Data Mesh
 
 O Data Mesh propõe que cada domínio seja responsável pelos próprios produtos de dados.
 
@@ -597,7 +597,7 @@ Ela continua existindo, porém distribuída entre diferentes equipes.
 
 ---
 
-# Quando Data Mesh faz sentido?
+## Quando Data Mesh faz sentido?
 
 Essa arquitetura normalmente aparece em organizações que possuem:
 
@@ -615,7 +615,7 @@ Para pequenas empresas, frequentemente representa complexidade desnecessária.
 
 ---
 
-# 📊 Comparação entre arquiteturas
+## 📊 Comparação entre arquiteturas
 
 | Aspecto | Centralizada | Data Mesh |
 |---------|--------------|-----------|
@@ -627,30 +627,30 @@ Para pequenas empresas, frequentemente representa complexidade desnecessária.
 
 ---
 
-# 🏗️ Decisão de Arquitetura
+## 🏗️ Decisão de Arquitetura
 
-## Situação
+### Situação
 
 Uma empresa possui quatro áreas de negócio independentes e mais de 250 equipes de desenvolvimento.
 
 Cada área desenvolve seus próprios produtos digitais.
 
-## Alternativas
+### Alternativas
 
 - Plataforma Centralizada
 - Data Mesh
 
-## Análise
+### Análise
 
 A equipe central tornou-se um gargalo.
 
 Novas demandas levam meses para serem implementadas.
 
-## Decisão
+### Decisão
 
 Adotar gradualmente princípios de Data Mesh.
 
-## Consequências
+### Consequências
 
 - maior autonomia;
 - necessidade de forte governança;
@@ -659,7 +659,7 @@ Adotar gradualmente princípios de Data Mesh.
 
 ---
 
-# A arquitetura evolui com o negócio
+## A arquitetura evolui com o negócio
 
 Uma arquitetura adequada hoje pode não ser suficiente daqui a cinco anos.
 
@@ -695,7 +695,7 @@ Ela depende:
 
 ---
 
-# 🏢 Estudo de Caso — Evolução da DataRetail S.A.
+## 🏢 Estudo de Caso — Evolução da DataRetail S.A.
 
 A DataRetail iniciou suas operações utilizando um banco relacional único.
 
@@ -713,7 +713,7 @@ Cada mudança foi motivada por necessidades concretas do negócio, e não pela a
 
 ---
 
-# 💡 Boas Práticas
+## 💡 Boas Práticas
 
 > [!tip]
 > Escolha arquiteturas baseadas em requisitos do negócio, não em tendências.
@@ -732,7 +732,7 @@ Cada mudança foi motivada por necessidades concretas do negócio, e não pela a
 
 ---
 
-# ⚠️ Erros Comuns
+## ⚠️ Erros Comuns
 
 > [!warning]
 > Adotar streaming sem necessidade de negócio.
@@ -751,7 +751,7 @@ Cada mudança foi motivada por necessidades concretas do negócio, e não pela a
 
 ---
 
-# 🧠 Conceitos-chave
+## 🧠 Conceitos-chave
 
 - Arquitetura de Dados
 - [[Data-Warehouse|Data Warehouse]]
@@ -765,7 +765,7 @@ Cada mudança foi motivada por necessidades concretas do negócio, e não pela a
 
 ---
 
-# 🎤 Perguntas Frequentes de Entrevista
+## 🎤 Perguntas Frequentes de Entrevista
 
 1. Quando utilizar Batch em vez de Streaming?
 2. Quais problemas o Lakehouse procura resolver?
@@ -775,21 +775,21 @@ Cada mudança foi motivada por necessidades concretas do negócio, e não pela a
 
 ---
 
-# 📝 Exercícios
+## 📝 Exercícios
 
-## Exercício 1
+### Exercício 1
 
 Escolha uma empresa (varejo, banco, indústria ou saúde) e proponha uma arquitetura de dados adequada para ela. Justifique suas escolhas.
 
 ---
 
-## Exercício 2
+### Exercício 2
 
 Pesquise uma empresa conhecida (Netflix, Uber, Nubank, Mercado Livre, Spotify ou outra) e identifique quais padrões arquiteturais ela utiliza.
 
 ---
 
-## Exercício 3
+### Exercício 3
 
 Monte uma tabela comparando:
 
@@ -802,7 +802,7 @@ Inclua vantagens, limitações e casos de uso.
 
 ---
 
-# 📚 Leituras Recomendadas
+## 📚 Leituras Recomendadas
 
 - *Designing Data-Intensive Applications* — Martin Kleppmann
 - *Fundamentals of Data Engineering* — Joe Reis & Matt Housley
@@ -811,7 +811,7 @@ Inclua vantagens, limitações e casos de uso.
 
 ---
 
-# 🔗 Veja Também
+## 🔗 Veja Também
 
 - [[Data-Warehouse|Data Warehouse]]
 - [[Data-Lake|Data Lake]]
@@ -825,7 +825,7 @@ Inclua vantagens, limitações e casos de uso.
 
 ---
 
-# 📖 Resumo
+## 📖 Resumo
 
 As arquiteturas de dados evoluíram para acompanhar o crescimento das organizações e o aumento da complexidade dos dados.
 
@@ -835,7 +835,7 @@ Um bom Engenheiro de Dados ou Arquiteto de Dados toma decisões fundamentadas, c
 
 ---
 
-## Navegação
+### Navegação
 
 ← [[07-O-Ecossistema-de-Dados|07 - O Ecossistema de Dados]]
 

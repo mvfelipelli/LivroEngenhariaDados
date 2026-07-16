@@ -9,4 +9,3 @@ updated: "2026-07-14"
 ---
 
 # 05-Ambiente-da-Academia
-

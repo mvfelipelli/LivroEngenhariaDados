@@ -22,7 +22,7 @@ updated: "2026-07-14"
 
 ---
 
-# 📖 Objetivo
+## 📖 Objetivo
 
 Este documento apresenta a evolução profissional típica de um Engenheiro de Dados.
 
@@ -37,7 +37,7 @@ Cada organização possui sua própria estrutura, mas a progressão apresentada 
 
 ---
 
-# 🗺️ Visão Geral
+## 🗺️ Visão Geral
 
 ```mermaid
 flowchart LR
@@ -72,7 +72,7 @@ HEAD --> CDO
 
 ---
 
-# Evolução da carreira
+## Evolução da carreira
 
 A carreira não depende apenas do tempo de experiência.
 
@@ -82,13 +82,13 @@ Quanto maior o nível, menor a preocupação com tarefas específicas e maior a 
 
 ---
 
-# 👨‍🎓 Estagiário
+## 👨‍🎓 Estagiário
 
-## Objetivo
+### Objetivo
 
 Aprender os fundamentos.
 
-### Responsabilidades
+#### Responsabilidades
 
 - acompanhar profissionais experientes;
 - executar atividades supervisionadas;
@@ -96,7 +96,7 @@ Aprender os fundamentos.
 - aprender Python;
 - compreender pipelines.
 
-### Competências esperadas
+#### Competências esperadas
 
 - lógica;
 - curiosidade;
@@ -105,20 +105,20 @@ Aprender os fundamentos.
 
 ---
 
-# 👨‍💻 Engenheiro de Dados Júnior
+## 👨‍💻 Engenheiro de Dados Júnior
 
-## Objetivo
+### Objetivo
 
 Executar tarefas com supervisão.
 
-### Responsabilidades
+#### Responsabilidades
 
 - manutenção de pipelines;
 - consultas SQL;
 - pequenas automações;
 - documentação.
 
-### Conhecimentos
+#### Conhecimentos
 
 - SQL;
 - Git;
@@ -126,26 +126,26 @@ Executar tarefas com supervisão.
 - Python;
 - ETL.
 
-### Foco principal
+#### Foco principal
 
 Aprender.
 
 ---
 
-# 👨‍🔧 Engenheiro de Dados Pleno
+## 👨‍🔧 Engenheiro de Dados Pleno
 
-## Objetivo
+### Objetivo
 
 Implementar soluções completas.
 
-### Responsabilidades
+#### Responsabilidades
 
 - desenvolver pipelines;
 - revisar código;
 - otimizar consultas;
 - resolver incidentes.
 
-### Conhecimentos
+#### Conhecimentos
 
 - Spark;
 - PostgreSQL;
@@ -153,26 +153,26 @@ Implementar soluções completas.
 - Lakehouse;
 - modelagem.
 
-### Foco principal
+#### Foco principal
 
 Autonomia.
 
 ---
 
-# 👨‍🏭 Engenheiro de Dados Sênior
+## 👨‍🏭 Engenheiro de Dados Sênior
 
-## Objetivo
+### Objetivo
 
 Resolver problemas complexos.
 
-### Responsabilidades
+#### Responsabilidades
 
 - definir padrões;
 - liderar iniciativas técnicas;
 - apoiar equipes;
 - orientar profissionais.
 
-### Conhecimentos
+#### Conhecimentos
 
 - arquitetura;
 - performance;
@@ -180,13 +180,13 @@ Resolver problemas complexos.
 - governança;
 - cloud.
 
-### Foco principal
+#### Foco principal
 
 Tomada de decisão.
 
 ---
 
-# 🎓 Especialista
+## 🎓 Especialista
 
 O Especialista é referência técnica.
 
@@ -202,7 +202,7 @@ Nem sempre possui gestão de pessoas.
 
 ---
 
-# 🏛️ Arquiteto de Dados
+## 🏛️ Arquiteto de Dados
 
 O Arquiteto responde perguntas como:
 
@@ -217,7 +217,7 @@ Passa a ser projetar.
 
 ---
 
-# ⭐ Principal Engineer
+## ⭐ Principal Engineer
 
 Normalmente atua em toda a organização.
 
@@ -230,7 +230,7 @@ Responsabilidades:
 
 ---
 
-# 👥 Head de Dados
+## 👥 Head de Dados
 
 Passa a possuir responsabilidades gerenciais.
 
@@ -244,7 +244,7 @@ Exemplos:
 
 ---
 
-# 🏢 Chief Data Officer (CDO)
+## 🏢 Chief Data Officer (CDO)
 
 Responsável pela estratégia de dados da organização.
 
@@ -257,7 +257,7 @@ Seu foco é:
 
 ---
 
-# Competências por nível
+## Competências por nível
 
 | Competência | Júnior | Pleno | Sênior | Especialista |
 |------------|:------:|:------:|:-------:|:------------:|
@@ -270,7 +270,7 @@ Seu foco é:
 
 ---
 
-# Competências Técnicas
+## Competências Técnicas
 
 Ao longo da carreira espera-se evolução em:
 
@@ -289,7 +289,7 @@ Ao longo da carreira espera-se evolução em:
 
 ---
 
-# Competências Comportamentais
+## Competências Comportamentais
 
 Tão importantes quanto as competências técnicas.
 
@@ -304,28 +304,28 @@ Tão importantes quanto as competências técnicas.
 
 ---
 
-# 📚 Livros recomendados
+## 📚 Livros recomendados
 
-## Iniciante
+### Iniciante
 
 - Fundamentals of Data Engineering
 - Designing Data-Intensive Applications
 
-## Intermediário
+### Intermediário
 
 - Streaming Systems
 - Data Pipelines Pocket Reference
 
-## Avançado
+### Avançado
 
 - Building Evolutionary Architectures
 - Site Reliability Engineering
 
 ---
 
-# 🎓 Certificações
+## 🎓 Certificações
 
-## Iniciante
+### Iniciante
 
 - AWS Cloud Practitioner
 - Azure Fundamentals
@@ -333,7 +333,7 @@ Tão importantes quanto as competências técnicas.
 
 ---
 
-## Intermediário
+### Intermediário
 
 - Databricks Data Engineer Associate
 - AWS Data Engineer
@@ -341,7 +341,7 @@ Tão importantes quanto as competências técnicas.
 
 ---
 
-## Avançado
+### Avançado
 
 - Databricks Professional
 - Google Professional Data Engineer
@@ -349,9 +349,9 @@ Tão importantes quanto as competências técnicas.
 
 ---
 
-# Como utilizar a Academia
+## Como utilizar a Academia
 
-## Estou começando
+### Estou começando
 
 Volumes recomendados:
 
@@ -359,7 +359,7 @@ Volumes recomendados:
 
 ---
 
-## Já sou desenvolvedor
+### Já sou desenvolvedor
 
 Volumes:
 
@@ -367,7 +367,7 @@ Volumes:
 
 ---
 
-## Trabalho com BI
+### Trabalho com BI
 
 Volumes:
 
@@ -375,7 +375,7 @@ Volumes:
 
 ---
 
-## Quero migrar para Engenharia de Dados
+### Quero migrar para Engenharia de Dados
 
 Estude todos os volumes na sequência.
 
@@ -385,7 +385,7 @@ Construa o Projeto Integrador.
 
 ---
 
-# Relação com o Projeto Integrador
+## Relação com o Projeto Integrador
 
 Cada novo nível de carreira permitirá assumir responsabilidades diferentes no projeto.
 
@@ -399,7 +399,7 @@ Cada novo nível de carreira permitirá assumir responsabilidades diferentes no 
 
 ---
 
-# Indicadores de evolução
+## Indicadores de evolução
 
 Você está evoluindo quando:
 
@@ -415,7 +415,7 @@ Você está evoluindo quando:
 
 ---
 
-# 🔗 Veja Também
+## 🔗 Veja Também
 
 - [[Roadmap]]
 - [[Tecnologias]]
@@ -426,7 +426,7 @@ Você está evoluindo quando:
 
 ---
 
-# 📖 Resumo
+## 📖 Resumo
 
 A carreira em Engenharia de Dados é uma jornada de evolução contínua.
 

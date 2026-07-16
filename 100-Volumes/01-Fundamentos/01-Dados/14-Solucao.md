@@ -33,7 +33,7 @@ updated: "2026-07-14"
 
 ---
 
-# Objetivo da Solução
+## Objetivo da Solução
 
 Esta nota apresenta uma possível resolução para o primeiro laboratório da Academia.
 
@@ -49,7 +49,7 @@ A solução demonstra como um Engenheiro de Dados pode:
 
 ---
 
-# 1. Inventário das Fontes
+## 1. Inventário das Fontes
 
 Uma possível versão do inventário é apresentada abaixo.
 
@@ -62,7 +62,7 @@ Uma possível versão do inventário é apresentada abaixo.
 | PDV | Vendas, itens, descontos e pagamentos | Contínua | Muito alto | Alta |
 | Logística | Entregas, rotas, ocorrências e comprovantes | Diária e por evento | Alto | Alta |
 
-## Análise
+### Análise
 
 O inventário mostra que a DataRetail possui fontes com características diferentes.
 
@@ -74,7 +74,7 @@ A sensibilidade também varia. Informações de clientes, pagamentos e endereço
 
 ---
 
-# 2. Classificação dos Dados
+## 2. Classificação dos Dados
 
 | Fonte | Estruturado | Semiestruturado | Não estruturado |
 |---|:---:|:---:|:---:|
@@ -85,7 +85,7 @@ A sensibilidade também varia. Informações de clientes, pagamentos e endereço
 | PDV | ✅ |  |  |
 | Logística | ✅ | ✅ | ✅ |
 
-## Justificativa
+### Justificativa
 
 O ERP, o CRM e o PDV normalmente armazenam informações em tabelas relacionais.
 
@@ -104,9 +104,9 @@ A Logística pode combinar:
 
 ---
 
-# 3. Análise das Características
+## 3. Análise das Características
 
-## ERP
+### ERP
 
 - **Volume:** alto;
 - **Velocidade:** média;
@@ -115,7 +115,7 @@ A Logística pode combinar:
 - **Valor:** muito alto;
 - **Sensibilidade:** financeira e operacional.
 
-## CRM
+### CRM
 
 - **Volume:** médio;
 - **Velocidade:** média;
@@ -124,7 +124,7 @@ A Logística pode combinar:
 - **Valor:** alto;
 - **Sensibilidade:** dados pessoais protegidos pela LGPD.
 
-## Marketplace
+### Marketplace
 
 - **Volume:** alto;
 - **Velocidade:** alta;
@@ -133,7 +133,7 @@ A Logística pode combinar:
 - **Valor:** alto;
 - **Sensibilidade:** comercial e financeira.
 
-## Aplicativo
+### Aplicativo
 
 - **Volume:** muito alto;
 - **Velocidade:** muito alta;
@@ -142,7 +142,7 @@ A Logística pode combinar:
 - **Valor:** muito alto para comportamento e personalização;
 - **Sensibilidade:** pode conter localização e comportamento do usuário.
 
-## PDV
+### PDV
 
 - **Volume:** muito alto;
 - **Velocidade:** alta;
@@ -151,7 +151,7 @@ A Logística pode combinar:
 - **Valor:** crítico para o negócio;
 - **Sensibilidade:** financeira.
 
-## Logística
+### Logística
 
 - **Volume:** alto;
 - **Velocidade:** média a alta;
@@ -162,7 +162,7 @@ A Logística pode combinar:
 
 ---
 
-# 4. Ciclo de Vida de uma Venda Online
+## 4. Ciclo de Vida de uma Venda Online
 
 Uma possível representação é:
 
@@ -192,25 +192,25 @@ flowchart LR
     ARQUIVO --> DESCARTE
 ```
 
-## Descrição das etapas
+### Descrição das etapas
 
-### Geração
+#### Geração
 
 O cliente realiza uma compra e produz um novo evento de negócio.
 
-### Registro operacional
+#### Registro operacional
 
 O e-commerce e o ERP registram pedido, itens, pagamento e cliente.
 
-### Ingestão
+#### Ingestão
 
 Um pipeline transfere os registros para a plataforma analítica.
 
-### Armazenamento bruto
+#### Armazenamento bruto
 
 Os dados são preservados na camada Bronze, próximos do formato original.
 
-### Padronização
+#### Padronização
 
 Na camada Silver são aplicadas regras de:
 
@@ -220,11 +220,11 @@ Na camada Silver são aplicadas regras de:
 - validação;
 - integração.
 
-### Disponibilização
+#### Disponibilização
 
 Na camada Gold são produzidos indicadores e produtos de dados.
 
-### Consumo
+#### Consumo
 
 Os dados podem alimentar:
 
@@ -234,13 +234,13 @@ Os dados podem alimentar:
 - modelos analíticos;
 - campanhas.
 
-### Arquivamento e descarte
+#### Arquivamento e descarte
 
 Após o período de uso frequente, os dados podem ser arquivados e, posteriormente, excluídos ou anonimizados conforme as políticas de retenção.
 
 ---
 
-# 5. Problemas de Qualidade
+## 5. Problemas de Qualidade
 
 Conjunto analisado:
 
@@ -251,42 +251,42 @@ Conjunto analisado:
 |  | Maria | Rio de Janeiro | maria@email.com |
 | 99999999999 | Carlos |  |  |
 
-## Problemas encontrados
+### Problemas encontrados
 
-### Duplicidade
+#### Duplicidade
 
 O CPF `12345678901` aparece em dois registros.
 
-### Inconsistência
+#### Inconsistência
 
 O mesmo cliente possui dois nomes:
 
 - João Silva;
 - João da Silva.
 
-### E-mail inválido
+#### E-mail inválido
 
 O valor `joao@email` não possui formato completo.
 
-### CPF ausente
+#### CPF ausente
 
 O registro de Maria não possui CPF.
 
-### Cidade ausente
+#### Cidade ausente
 
 O registro de Carlos não possui cidade.
 
-### E-mail ausente
+#### E-mail ausente
 
 O registro de Carlos não possui e-mail.
 
-### CPF possivelmente inválido
+#### CPF possivelmente inválido
 
 O CPF `99999999999` deve ser submetido à validação de dígitos verificadores.
 
 ---
 
-# Regras de Qualidade Propostas
+## Regras de Qualidade Propostas
 
 | Regra | Dimensão |
 |---|---|
@@ -302,7 +302,7 @@ O CPF `99999999999` deve ser submetido à validação de dígitos verificadores.
 
 ---
 
-# Tratamento Proposto
+## Tratamento Proposto
 
 ```mermaid
 flowchart LR
@@ -336,7 +336,7 @@ Registros inválidos são direcionados para uma área de quarentena, mantendo:
 
 ---
 
-# 6. Metadados da Tabela `clientes`
+## 6. Metadados da Tabela `clientes`
 
 | Campo | Valor de referência |
 |---|---|
@@ -358,7 +358,7 @@ Registros inválidos são direcionados para uma área de quarentena, mantendo:
 | SLA | Atualização concluída até 15 minutos após a origem |
 | Regras de qualidade | CPF válido, unicidade, campos obrigatórios e e-mail válido |
 
-## Metadados das colunas
+### Metadados das colunas
 
 | Coluna | Tipo | Obrigatória | Sensibilidade | Descrição |
 |---|---|:---:|---|---|
@@ -373,7 +373,7 @@ Registros inválidos são direcionados para uma área de quarentena, mantendo:
 
 ---
 
-# 7. Arquitetura Inicial
+## 7. Arquitetura Inicial
 
 Uma proposta de alto nível:
 
@@ -419,25 +419,25 @@ flowchart LR
     GOLD --> IA
 ```
 
-## Componentes da arquitetura
+### Componentes da arquitetura
 
-### Fontes
+#### Fontes
 
 Sistemas que produzem os dados.
 
-### Ingestão
+#### Ingestão
 
 Responsável por capturar e transportar os dados para a plataforma.
 
-### Camada Bronze
+#### Camada Bronze
 
 Preserva os dados de origem, permitindo auditoria e reprocessamento.
 
-### Qualidade e Quarentena
+#### Qualidade e Quarentena
 
 Separa dados válidos de registros que precisam ser corrigidos.
 
-### Camada Silver
+#### Camada Silver
 
 Mantém dados:
 
@@ -446,19 +446,19 @@ Mantém dados:
 - integrados;
 - deduplicados.
 
-### Camada Gold
+#### Camada Gold
 
 Disponibiliza produtos de dados orientados a casos de uso.
 
-### Consumo
+#### Consumo
 
 Atende diferentes perfis e necessidades.
 
 ---
 
-# 8. Respostas às Decisões Arquiteturais
+## 8. Respostas às Decisões Arquiteturais
 
-## Por que nem todos os dados devem permanecer em bancos relacionais?
+### Por que nem todos os dados devem permanecer em bancos relacionais?
 
 Bancos relacionais são adequados para dados estruturados e transacionais, mas podem não ser a melhor opção para:
 
@@ -480,7 +480,7 @@ A decisão deve considerar o caso de uso.
 
 ---
 
-## Por que conhecer os dados é mais importante do que escolher uma tecnologia?
+### Por que conhecer os dados é mais importante do que escolher uma tecnologia?
 
 Uma ferramenta pode ser tecnicamente avançada e ainda assim inadequada ao problema.
 
@@ -500,7 +500,7 @@ A arquitetura deve resultar dos requisitos, e não da preferência por uma ferra
 
 ---
 
-## Quais riscos existem na situação atual?
+### Quais riscos existem na situação atual?
 
 Os principais riscos são:
 
@@ -519,7 +519,7 @@ Os principais riscos são:
 
 ---
 
-# 9. Documento de Entrega
+## 9. Documento de Entrega
 
 Uma entrega adequada pode conter a seguinte estrutura:
 
@@ -540,7 +540,7 @@ Uma entrega adequada pode conter a seguinte estrutura:
 
 ---
 
-# 10. Critérios de Avaliação Aplicados
+## 10. Critérios de Avaliação Aplicados
 
 | Critério | Evidência esperada |
 |---|---|
@@ -553,11 +553,11 @@ Uma entrega adequada pode conter a seguinte estrutura:
 
 ---
 
-# 11. Desafio Extra — Crescimento da Empresa
+## 11. Desafio Extra — Crescimento da Empresa
 
 A arquitetura proposta pode continuar válida conceitualmente, mas precisará evoluir.
 
-## Componentes que podem precisar de evolução
+### Componentes que podem precisar de evolução
 
 - ingestão paralela;
 - processamento distribuído;
@@ -569,7 +569,7 @@ A arquitetura proposta pode continuar válida conceitualmente, mas precisará ev
 - automação;
 - gestão de custos.
 
-## Novos desafios
+### Novos desafios
 
 - aumento do volume;
 - maior concorrência;
@@ -581,7 +581,7 @@ A arquitetura proposta pode continuar válida conceitualmente, mas precisará ev
 - recuperação após falhas;
 - qualidade em escala.
 
-## Recomendações
+### Recomendações
 
 1. Automatizar ingestões.
 2. Definir contratos de dados.
@@ -594,7 +594,7 @@ A arquitetura proposta pode continuar válida conceitualmente, mas precisará ev
 
 ---
 
-# Lições da Solução
+## Lições da Solução
 
 Este laboratório demonstra que um projeto de Engenharia de Dados deve começar pelo entendimento do ambiente.
 
@@ -613,7 +613,7 @@ Antes da implementação, é necessário:
 
 ---
 
-# Checklist da Solução
+## Checklist da Solução
 
 - [x] Fontes inventariadas
 - [x] Dados classificados
@@ -628,7 +628,7 @@ Antes da implementação, é necessário:
 
 ---
 
-# Próximos Passos no Projeto Integrador
+## Próximos Passos no Projeto Integrador
 
 A solução deve ser incorporada à documentação da [[030-Projetos/DataRetail Platform/README|DataRetail Platform]].
 
@@ -649,7 +649,7 @@ Os próximos volumes transformarão esta arquitetura conceitual em uma implement
 
 ---
 
-# Veja Também
+## Veja Também
 
 - [[14-Laboratorio|14 - Laboratório]]
 - [[13-Exercicios|13 - Exercícios]]

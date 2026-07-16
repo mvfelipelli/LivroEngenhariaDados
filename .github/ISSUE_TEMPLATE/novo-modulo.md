@@ -12,39 +12,21 @@ assignees: mvfelipelli
 
 \---
 
-
-
 \# Novo Módulo
-
-
 
 \## Volume
 
-
-
 \---
-
-
 
 \## Nome do módulo
 
-
-
 \---
-
-
 
 \## Objetivo
 
-
-
 \---
 
-
-
 \## Estrutura prevista
-
-
 
 \- README
 
@@ -70,11 +52,6 @@ assignees: mvfelipelli
 
 \- Referências
 
-
-
 \---
 
-
-
 \## Observações
-

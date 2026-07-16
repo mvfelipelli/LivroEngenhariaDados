@@ -32,7 +32,7 @@ updated: "2026-07-14"
 
 ---
 
-# Objetivo
+## Objetivo
 
 Esta nota reúne as principais referências utilizadas para aprofundar os assuntos apresentados no **Módulo 01 — Dados**.
 
@@ -46,7 +46,7 @@ As referências foram organizadas por tema e nível de prioridade, permitindo qu
 
 ---
 
-# Como utilizar esta lista
+## Como utilizar esta lista
 
 Não é necessário ler todas as referências antes de avançar.
 
@@ -70,7 +70,7 @@ A sequência recomendada é:
 
 ---
 
-# Prioridade de leitura
+## Prioridade de leitura
 
 | Prioridade | Objetivo |
 |---|---|
@@ -81,14 +81,14 @@ A sequência recomendada é:
 
 ---
 
-# Referências Essenciais
+## Referências Essenciais
 
-## Fundamentals of Data Engineering
+### Fundamentals of Data Engineering
 
-**Autores:** Joe Reis e Matt Housley  
+**Autores:** Joe Reis e Matt Housley
 **Editora:** O’Reilly Media
 
-### Temas relacionados
+#### Temas relacionados
 
 - ciclo de vida da Engenharia de Dados;
 - geração;
@@ -100,29 +100,29 @@ A sequência recomendada é:
 - governança;
 - DataOps.
 
-### Relação com o módulo
+#### Relação com o módulo
 
 Esta obra ajuda a compreender como as características dos dados influenciam o desenho de uma plataforma.
 
-### Notas relacionadas
+#### Notas relacionadas
 
 - Ciclo de Vida dos Dados
 - [[Pipeline-de-Dados|Pipeline de Dados]]
 - [[Engenharia-de-Dados|Engenharia de Dados]]
 - [[Arquiteturas]]
 
-### Prioridade
+#### Prioridade
 
 **Essencial**
 
 ---
 
-## Designing Data-Intensive Applications
+### Designing Data-Intensive Applications
 
-**Autor:** Martin Kleppmann  
+**Autor:** Martin Kleppmann
 **Editora:** O’Reilly Media
 
-### Temas relacionados
+#### Temas relacionados
 
 - confiabilidade;
 - escalabilidade;
@@ -133,29 +133,29 @@ Esta obra ajuda a compreender como as características dos dados influenciam o d
 - particionamento;
 - sistemas de dados.
 
-### Relação com o módulo
+#### Relação com o módulo
 
 A obra demonstra como as propriedades e limitações dos dados influenciam a construção de sistemas confiáveis.
 
-### Notas relacionadas
+#### Notas relacionadas
 
 - [[100-Volumes/01-Fundamentos/01-Dados/06-Estruturacao-dos-Dados|Estruturação dos Dados]]
 - Particionamento
 - Arquitetura de Dados
 - Sistemas Distribuídos
 
-### Prioridade
+#### Prioridade
 
 **Essencial**, com leitura progressiva.
 
 ---
 
-## DAMA-DMBOK
+### DAMA-DMBOK
 
-**Organização:** DAMA International  
+**Organização:** DAMA International
 **Título:** *DAMA-DMBOK: Data Management Body of Knowledge*
 
-### Temas relacionados
+#### Temas relacionados
 
 - governança de dados;
 - qualidade;
@@ -166,11 +166,11 @@ A obra demonstra como as propriedades e limitações dos dados influenciam a con
 - integração;
 - gerenciamento do ciclo de vida.
 
-### Relação com o módulo
+#### Relação com o módulo
 
 É uma das principais referências para conceitos corporativos de gestão de dados.
 
-### Notas relacionadas
+#### Notas relacionadas
 
 - Governança de Dados
 - [[Qualidade-de-Dados|Qualidade de Dados]]
@@ -179,15 +179,15 @@ A obra demonstra como as propriedades e limitações dos dados influenciam a con
 - Data Steward
 - Data Owner
 
-### Prioridade
+#### Prioridade
 
 **Essencial para governança e qualidade.**
 
 ---
 
-# Dados, Informação e Conhecimento
+## Dados, Informação e Conhecimento
 
-## The Data–Information–Knowledge–Wisdom Hierarchy
+### The Data–Information–Knowledge–Wisdom Hierarchy
 
 A hierarquia DIKW é utilizada para representar a progressão entre:
 
@@ -203,7 +203,7 @@ flowchart LR
     CONHECIMENTO --> SABEDORIA
 ```
 
-### Pontos de atenção
+#### Pontos de atenção
 
 A DIKW é útil como modelo didático, mas não deve ser tratada como uma sequência automática.
 
@@ -217,7 +217,7 @@ São necessários:
 - validação;
 - compreensão do negócio.
 
-### Notas relacionadas
+#### Notas relacionadas
 
 - [[100-Volumes/01-Fundamentos/01-Dados/03-O-que-sao-Dados|O que são Dados]]
 - Informação
@@ -226,7 +226,7 @@ São necessários:
 
 ---
 
-## Data and Information Quality
+### Data and Information Quality
 
 Obras e artigos sobre qualidade da informação ajudam a diferenciar:
 
@@ -235,7 +235,7 @@ Obras e artigos sobre qualidade da informação ajudam a diferenciar:
 - adequação ao uso;
 - confiança do consumidor.
 
-### Questão central
+#### Questão central
 
 > O dado é adequado para a finalidade em que será utilizado?
 
@@ -243,24 +243,24 @@ Essa pergunta deve orientar toda avaliação de qualidade.
 
 ---
 
-# Big Data e Características dos Dados
+## Big Data e Características dos Dados
 
-## Big Data: A Revolution That Will Transform How We Live, Work, and Think
+### Big Data: A Revolution That Will Transform How We Live, Work, and Think
 
 **Autores:** Viktor Mayer-Schönberger e Kenneth Cukier
 
-### Temas relacionados
+#### Temas relacionados
 
 - crescimento dos dados;
 - análise em larga escala;
 - impacto organizacional;
 - tomada de decisão orientada por dados.
 
-### Relação com o módulo
+#### Relação com o módulo
 
 Ajuda a contextualizar por que volume, variedade e velocidade alteraram a forma como organizações utilizam dados.
 
-### Notas relacionadas
+#### Notas relacionadas
 
 - [[Big-Data|Big Data]]
 - [[100-Volumes/01-Fundamentos/01-Dados/04-Caracteristicas-dos-Dados|Características dos Dados]]
@@ -270,7 +270,7 @@ Ajuda a contextualizar por que volume, variedade e velocidade alteraram a forma 
 
 ---
 
-## Os Vs do Big Data
+### Os Vs do Big Data
 
 A formulação mais conhecida inclui:
 
@@ -292,13 +292,13 @@ Outros modelos também adicionam características como:
 
 ---
 
-# Tipos e Estruturação dos Dados
+## Tipos e Estruturação dos Dados
 
-## Database System Concepts
+### Database System Concepts
 
 **Autores:** Abraham Silberschatz, Henry Korth e S. Sudarshan
 
-### Temas relacionados
+#### Temas relacionados
 
 - bancos de dados;
 - modelo relacional;
@@ -308,28 +308,28 @@ Outros modelos também adicionam características como:
 - organização física;
 - consultas.
 
-### Relação com o módulo
+#### Relação com o módulo
 
 Fornece a base teórica para compreender dados estruturados e bancos relacionais.
 
-### Notas relacionadas
+#### Notas relacionadas
 
 - Dados Estruturados
 - Banco de Dados
 - Schema
 - [[100-Volumes/08-PostgreSQL/README|PostgreSQL]]
 
-### Prioridade
+#### Prioridade
 
 **Recomendada**
 
 ---
 
-## Database Design for Mere Mortals
+### Database Design for Mere Mortals
 
 **Autor:** Michael J. Hernandez
 
-### Temas relacionados
+#### Temas relacionados
 
 - identificação de entidades;
 - atributos;
@@ -337,11 +337,11 @@ Fornece a base teórica para compreender dados estruturados e bancos relacionais
 - regras de negócio;
 - desenho lógico.
 
-### Relação com o módulo
+#### Relação com o módulo
 
 Ajuda a compreender como os dados são organizados antes da implementação física.
 
-### Notas relacionadas
+#### Notas relacionadas
 
 - Estrutura Lógica
 - [[100-Volumes/05-Modelagem-de-Dados/README|Modelagem de Dados]]
@@ -350,9 +350,9 @@ Ajuda a compreender como os dados são organizados antes da implementação fís
 
 ---
 
-## Documentação do JSON
+### Documentação do JSON
 
-### Temas relacionados
+#### Temas relacionados
 
 - documentos;
 - objetos;
@@ -360,7 +360,7 @@ Ajuda a compreender como os dados são organizados antes da implementação fís
 - valores;
 - estruturas semiestruturadas.
 
-### Aplicações
+#### Aplicações
 
 - APIs;
 - eventos;
@@ -368,7 +368,7 @@ Ajuda a compreender como os dados são organizados antes da implementação fís
 - integrações;
 - mensageria.
 
-### Notas relacionadas
+#### Notas relacionadas
 
 - JSON
 - Dados Semiestruturados
@@ -377,9 +377,9 @@ Ajuda a compreender como os dados são organizados antes da implementação fís
 
 ---
 
-## Especificação XML
+### Especificação XML
 
-### Temas relacionados
+#### Temas relacionados
 
 - documentos hierárquicos;
 - elementos;
@@ -387,7 +387,7 @@ Ajuda a compreender como os dados são organizados antes da implementação fís
 - namespaces;
 - validação por schema.
 
-### Notas relacionadas
+#### Notas relacionadas
 
 - XML
 - Dados Semiestruturados
@@ -395,13 +395,13 @@ Ajuda a compreender como os dados são organizados antes da implementação fís
 
 ---
 
-# Formatos de Dados
+## Formatos de Dados
 
-## Apache Parquet
+### Apache Parquet
 
 Formato colunar utilizado em cargas analíticas.
 
-### Características
+#### Características
 
 - armazenamento por coluna;
 - compressão;
@@ -409,31 +409,31 @@ Formato colunar utilizado em cargas analíticas.
 - leitura seletiva;
 - suporte a esquemas complexos.
 
-### Aplicações futuras
+#### Aplicações futuras
 
 - [[Apache-Spark|Apache Spark]];
 - [[Trino]];
 - [[Apache-Iceberg|Apache Iceberg]];
 - [[Lakehouse]].
 
-### Prioridade
+#### Prioridade
 
 **Consulta agora e aprofundamento no Volume 09.**
 
 ---
 
-## Apache Avro
+### Apache Avro
 
 Formato de serialização orientado a linhas.
 
-### Características
+#### Características
 
 - esquema explícito;
 - evolução de esquema;
 - uso frequente em integração e streaming;
 - representação binária compacta.
 
-### Notas relacionadas
+#### Notas relacionadas
 
 - Apache Avro
 - Schema Evolution
@@ -441,18 +441,18 @@ Formato de serialização orientado a linhas.
 
 ---
 
-## Apache ORC
+### Apache ORC
 
 Formato colunar utilizado em ecossistemas analíticos.
 
-### Características
+#### Características
 
 - compressão;
 - índices internos;
 - leitura seletiva;
 - otimização para consultas.
 
-### Notas relacionadas
+#### Notas relacionadas
 
 - ORC
 - Armazenamento Colunar
@@ -460,9 +460,9 @@ Formato colunar utilizado em ecossistemas analíticos.
 
 ---
 
-# Ciclo de Vida dos Dados
+## Ciclo de Vida dos Dados
 
-## Data Lifecycle Management
+### Data Lifecycle Management
 
 O gerenciamento do ciclo de vida considera:
 
@@ -475,7 +475,7 @@ O gerenciamento do ciclo de vida considera:
 - retenção;
 - descarte.
 
-### Perguntas orientadoras
+#### Perguntas orientadoras
 
 - Por quanto tempo os dados devem permanecer disponíveis?
 - Quando devem ser movidos para armazenamento mais econômico?
@@ -483,7 +483,7 @@ O gerenciamento do ciclo de vida considera:
 - Como realizar descarte seguro?
 - O dado pode ser anonimizado em vez de eliminado?
 
-### Notas relacionadas
+#### Notas relacionadas
 
 - Ciclo de Vida dos Dados
 - Retenção de Dados
@@ -493,7 +493,7 @@ O gerenciamento do ciclo de vida considera:
 
 ---
 
-## Records Management
+### Records Management
 
 Práticas de gestão de registros ajudam a definir:
 
@@ -508,13 +508,13 @@ Esses conceitos são especialmente importantes para ambientes regulados.
 
 ---
 
-# Qualidade dos Dados
+## Qualidade dos Dados
 
-## Data Quality: The Accuracy Dimension
+### Data Quality: The Accuracy Dimension
 
 **Autor:** Jack E. Olson
 
-### Temas relacionados
+#### Temas relacionados
 
 - precisão;
 - perfil dos dados;
@@ -522,7 +522,7 @@ Esses conceitos são especialmente importantes para ambientes regulados.
 - regras de validação;
 - melhoria da qualidade.
 
-### Notas relacionadas
+#### Notas relacionadas
 
 - [[Qualidade-de-Dados|Qualidade de Dados]]
 - Precisão
@@ -530,11 +530,11 @@ Esses conceitos são especialmente importantes para ambientes regulados.
 
 ---
 
-## Executing Data Quality Projects
+### Executing Data Quality Projects
 
 **Autor:** Danette McGilvray
 
-### Temas relacionados
+#### Temas relacionados
 
 - projetos de qualidade;
 - avaliação;
@@ -542,13 +542,13 @@ Esses conceitos são especialmente importantes para ambientes regulados.
 - melhoria contínua;
 - monitoramento.
 
-### Relação com o módulo
+#### Relação com o módulo
 
 Ajuda a transformar dimensões abstratas de qualidade em um processo operacional.
 
 ---
 
-## Data Quality Dimensions
+### Data Quality Dimensions
 
 As dimensões mais utilizadas na Academia são:
 
@@ -566,11 +566,11 @@ As dimensões mais utilizadas na Academia são:
 
 ---
 
-## ISO 8000
+### ISO 8000
 
 Família de normas relacionada à qualidade de dados e dados mestres.
 
-### Temas relacionados
+#### Temas relacionados
 
 - representação;
 - intercâmbio;
@@ -578,33 +578,33 @@ Família de normas relacionada à qualidade de dados e dados mestres.
 - dados mestres;
 - terminologia.
 
-### Prioridade
+#### Prioridade
 
 **Avançada**
 
 ---
 
-## ISO/IEC 25012
+### ISO/IEC 25012
 
 Modelo de qualidade de dados que descreve características para avaliação de dados em sistemas computacionais.
 
-### Utilidade
+#### Utilidade
 
 Pode ser usada como referência para estruturar critérios de avaliação mais formais.
 
-### Prioridade
+#### Prioridade
 
 **Avançada**
 
 ---
 
-# Metadados, Catálogo e Linhagem
+## Metadados, Catálogo e Linhagem
 
-## NISO — Understanding Metadata
+### NISO — Understanding Metadata
 
 Referência introdutória para compreender categorias e funções dos metadados.
 
-### Temas relacionados
+#### Temas relacionados
 
 - metadados descritivos;
 - estruturais;
@@ -612,13 +612,13 @@ Referência introdutória para compreender categorias e funções dos metadados.
 - preservação;
 - descoberta.
 
-### Relação com o módulo
+#### Relação com o módulo
 
 Amplia a visão além dos metadados puramente técnicos.
 
 ---
 
-## Data Catalog
+### Data Catalog
 
 Um catálogo de dados centraliza informações como:
 
@@ -632,7 +632,7 @@ Um catálogo de dados centraliza informações como:
 - consumidores;
 - políticas de acesso.
 
-### Tecnologias relacionadas
+#### Tecnologias relacionadas
 
 - DataHub;
 - OpenMetadata;
@@ -641,11 +641,11 @@ Um catálogo de dados centraliza informações como:
 
 ---
 
-## OpenLineage
+### OpenLineage
 
 Padrão aberto para coleta de metadados de execução e linhagem.
 
-### Conceitos principais
+#### Conceitos principais
 
 - job;
 - run;
@@ -654,7 +654,7 @@ Padrão aberto para coleta de metadados de execução e linhagem.
 - outputs;
 - eventos de execução.
 
-### Notas relacionadas
+#### Notas relacionadas
 
 - Data Lineage
 - OpenLineage
@@ -663,11 +663,11 @@ Padrão aberto para coleta de metadados de execução e linhagem.
 
 ---
 
-## Apache Atlas
+### Apache Atlas
 
 Plataforma de metadados e governança associada ao ecossistema de dados.
 
-### Recursos
+#### Recursos
 
 - classificação;
 - catálogo;
@@ -675,19 +675,19 @@ Plataforma de metadados e governança associada ao ecossistema de dados.
 - glossário de negócio;
 - integração com tecnologias do ecossistema.
 
-### Prioridade
+#### Prioridade
 
 **Consulta**
 
 ---
 
-# Governança, Segurança e Privacidade
+## Governança, Segurança e Privacidade
 
-## Lei Geral de Proteção de Dados — LGPD
+### Lei Geral de Proteção de Dados — LGPD
 
 A LGPD estabelece princípios e obrigações para o tratamento de dados pessoais no Brasil.
 
-### Assuntos relacionados ao módulo
+#### Assuntos relacionados ao módulo
 
 - dados pessoais;
 - dados pessoais sensíveis;
@@ -699,7 +699,7 @@ A LGPD estabelece princípios e obrigações para o tratamento de dados pessoais
 - eliminação;
 - direitos do titular.
 
-### Notas relacionadas
+#### Notas relacionadas
 
 - LGPD
 - Dados Pessoais
@@ -712,11 +712,11 @@ A LGPD estabelece princípios e obrigações para o tratamento de dados pessoais
 
 ---
 
-## Privacy by Design
+### Privacy by Design
 
 Princípio segundo o qual privacidade e proteção de dados devem ser consideradas desde o desenho da solução.
 
-### Aplicações em Engenharia de Dados
+#### Aplicações em Engenharia de Dados
 
 - minimização;
 - controle de acesso;
@@ -728,23 +728,23 @@ Princípio segundo o qual privacidade e proteção de dados devem ser considerad
 
 ---
 
-## NIST Privacy Framework
+### NIST Privacy Framework
 
 Estrutura para gerenciamento de riscos relacionados à privacidade.
 
-### Utilidade
+#### Utilidade
 
 Ajuda organizações a integrar proteção de dados aos processos de governança e segurança.
 
-### Prioridade
+#### Prioridade
 
 **Avançada**
 
 ---
 
-# Referências Técnicas para os Próximos Volumes
+## Referências Técnicas para os Próximos Volumes
 
-## PostgreSQL Documentation
+### PostgreSQL Documentation
 
 Será utilizada para estudar:
 
@@ -756,13 +756,13 @@ Será utilizada para estudar:
 - particionamento;
 - administração.
 
-### Volume relacionado
+#### Volume relacionado
 
 [[100-Volumes/08-PostgreSQL/README|Volume 08 — PostgreSQL]]
 
 ---
 
-## Apache Spark Documentation
+### Apache Spark Documentation
 
 Será utilizada para estudar:
 
@@ -773,13 +773,13 @@ Será utilizada para estudar:
 - qualidade;
 - particionamento.
 
-### Volume relacionado
+#### Volume relacionado
 
 [[100-Volumes/07-Apache-Spark/README|Volume 07 — Apache Spark]]
 
 ---
 
-## Apache Iceberg Documentation
+### Apache Iceberg Documentation
 
 Será utilizada para estudar:
 
@@ -790,13 +790,13 @@ Será utilizada para estudar:
 - evolução de particionamento;
 - time travel.
 
-### Volume relacionado
+#### Volume relacionado
 
 [[100-Volumes/09-Lakehouse/README|Volume 09 — Lakehouse]]
 
 ---
 
-## Trino Documentation
+### Trino Documentation
 
 Será utilizada para estudar:
 
@@ -806,13 +806,13 @@ Será utilizada para estudar:
 - otimização;
 - leitura de tabelas analíticas.
 
-### Volume relacionado
+#### Volume relacionado
 
 [[100-Volumes/10-Trino/README|Volume 10 — Trino]]
 
 ---
 
-## Apache Airflow Documentation
+### Apache Airflow Documentation
 
 Será utilizada para estudar:
 
@@ -824,13 +824,13 @@ Será utilizada para estudar:
 - monitoramento;
 - metadados operacionais.
 
-### Volume relacionado
+#### Volume relacionado
 
 [[100-Volumes/11-Apache-Airflow/README|Volume 11 — Apache Airflow]]
 
 ---
 
-# Referências do Projeto Integrador
+## Referências do Projeto Integrador
 
 O Projeto Integrador utilizará as referências deste módulo para documentar:
 
@@ -847,7 +847,7 @@ O Projeto Integrador utilizará as referências deste módulo para documentar:
 
 [[030-Projetos/DataRetail Platform/README|DataRetail Platform]]
 
-### Entregáveis relacionados
+#### Entregáveis relacionados
 
 - catálogo inicial de fontes;
 - dicionário de dados;
@@ -858,7 +858,7 @@ O Projeto Integrador utilizará as referências deste módulo para documentar:
 
 ---
 
-# Biblioteca da Academia
+## Biblioteca da Academia
 
 As referências principais deverão receber notas próprias na pasta:
 
@@ -879,7 +879,7 @@ Estrutura recomendada:
 └── Empresas/
 ```
 
-## Notas prioritárias
+### Notas prioritárias
 
 - Fundamentals of Data Engineering
 - Designing Data-Intensive Applications
@@ -894,7 +894,7 @@ Estrutura recomendada:
 
 ---
 
-# Modelo para registrar uma leitura
+## Modelo para registrar uma leitura
 
 Ao estudar uma referência, utilize a seguinte estrutura:
 
@@ -933,23 +933,23 @@ tags:
 
 ---
 
-# Ordem Recomendada de Estudo
+## Ordem Recomendada de Estudo
 
-## Agora
+### Agora
 
 1. Fundamentals of Data Engineering
 2. DAMA-DMBOK
 3. Referência introdutória sobre metadados
 4. Material introdutório sobre LGPD
 
-## Durante os volumes técnicos
+### Durante os volumes técnicos
 
 1. documentação oficial da tecnologia;
 2. capítulo correspondente da Academia;
 3. laboratório;
 4. aplicação no Projeto Integrador.
 
-## Para aprofundamento
+### Para aprofundamento
 
 1. Designing Data-Intensive Applications
 2. normas de qualidade;
@@ -959,7 +959,7 @@ tags:
 
 ---
 
-# Critérios de Seleção das Referências
+## Critérios de Seleção das Referências
 
 As referências incluídas na Academia devem atender a um ou mais dos seguintes critérios:
 
@@ -982,7 +982,7 @@ Deve-se evitar utilizar como fonte principal:
 
 ---
 
-# Checklist de Referências do Módulo
+## Checklist de Referências do Módulo
 
 - [ ] Consultei ao menos uma referência essencial.
 - [ ] Registrei minhas anotações.
@@ -995,7 +995,7 @@ Deve-se evitar utilizar como fonte principal:
 
 ---
 
-# Encerramento do Módulo
+## Encerramento do Módulo
 
 Com esta nota, o **Módulo 01 — Dados** possui a estrutura completa:
 
@@ -1019,27 +1019,27 @@ Com esta nota, o **Módulo 01 — Dados** possui a estrutura completa:
 
 ---
 
-# Veja Também
+## Veja Também
 
-## Módulo
+### Módulo
 
 - [[100-Volumes/01-Fundamentos/01-Dados/README]]
 - [[11-Resumo|11 - Resumo]]
 - [[14-Laboratorio|14 - Laboratório]]
 - [[14-Solucao|14 - Solução]]
 
-## Atlas
+### Atlas
 
 - [[000-Atlas/MOC]]
 - [[000-Atlas/Arquiteturas]]
 - [[000-Atlas/Tecnologias]]
 - [[000-Atlas/Guia-Editorial|Guia Editorial]]
 
-## Biblioteca
+### Biblioteca
 
 - [[010-Biblioteca/README]]
 
-## Projeto
+### Projeto
 
 - [[030-Projetos/DataRetail Platform/README]]
 
@@ -1047,4 +1047,3 @@ Com esta nota, o **Módulo 01 — Dados** possui a estrutura completa:
 
 > [!success]
 > O **Módulo 01 — Dados** está completo. Ele estabelece a base conceitual necessária para compreender fontes, armazenamento, processamento, qualidade, metadados e governança ao longo de toda a Academia.
-

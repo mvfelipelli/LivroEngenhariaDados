@@ -9,13 +9,13 @@ updated: "2026-07-14"
 
 # Academia de Engenharia de Dados
 
-# Volume 00 — Introdução à Engenharia de Dados
+## Volume 00 — Introdução à Engenharia de Dados
 
 > "Antes de aprender ferramentas, é preciso compreender o problema que elas resolvem."
 
 ---
 
-# Bem-vindo à Academia de Engenharia de Dados
+## Bem-vindo à Academia de Engenharia de Dados
 
 Seja bem-vindo à **Academia de Engenharia de Dados**.
 
@@ -27,7 +27,7 @@ Durante a formação, construiremos uma plataforma de dados completa, semelhante
 
 ---
 
-# Objetivos desta Etapa
+## Objetivos desta Etapa
 
 Ao concluir esta etapa você será capaz de:
 
@@ -40,7 +40,7 @@ Ao concluir esta etapa você será capaz de:
 
 ---
 
-# Estrutura da Etapa
+## Estrutura da Etapa
 
 Esta etapa está organizada em dez capítulos.
 
@@ -59,13 +59,13 @@ Esta etapa está organizada em dez capítulos.
 
 ---
 
-# Metodologia da Academia
+## Metodologia da Academia
 
 Toda a formação segue uma metodologia baseada em aprendizagem progressiva.
 
 Cada etapa possui uma estrutura padronizada.
 
-```
+```text
 Teoria
 
 ↓
@@ -105,7 +105,7 @@ Nosso objetivo não é apenas ensinar uma ferramenta, mas desenvolver competênc
 
 ---
 
-# Projeto Integrador
+## Projeto Integrador
 
 Durante toda a Academia construiremos uma plataforma moderna de Engenharia de Dados.
 
@@ -202,7 +202,7 @@ Ao final da Academia o aluno terá construído uma plataforma completa de dados.
 
 ---
 
-# Organização dos Volumes
+## Organização dos Volumes
 
 A Academia está dividida em dezoito volumes.
 
@@ -230,7 +230,7 @@ A Academia está dividida em dezoito volumes.
 
 ---
 
-# Pré-requisitos
+## Pré-requisitos
 
 Recomenda-se que o aluno possua:
 
@@ -243,7 +243,7 @@ Não é necessário conhecimento prévio em Engenharia de Dados.
 
 ---
 
-# Convenções Utilizadas
+## Convenções Utilizadas
 
 Ao longo da formação serão utilizados os seguintes padrões:
 
@@ -256,7 +256,7 @@ Ao longo da formação serão utilizados os seguintes padrões:
 
 ---
 
-# Material Complementar
+## Material Complementar
 
 Cada capítulo poderá conter:
 
@@ -271,7 +271,7 @@ Cada capítulo poderá conter:
 
 ---
 
-# Como Utilizar Este Material
+## Como Utilizar Este Material
 
 Recomenda-se seguir os capítulos na ordem apresentada.
 
@@ -283,7 +283,7 @@ Cada volume utiliza conhecimentos desenvolvidos nos anteriores.
 
 ---
 
-# Competências Desenvolvidas nesta Etapa
+## Competências Desenvolvidas nesta Etapa
 
 Ao concluir esta etapa você estará apto a:
 
@@ -295,6 +295,6 @@ Ao concluir esta etapa você estará apto a:
 
 ---
 
-# Próximo Capítulo
+## Próximo Capítulo
 
 ➡ **Capítulo 00 — Apresentação da Academia**

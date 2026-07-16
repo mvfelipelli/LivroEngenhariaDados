@@ -23,7 +23,7 @@ description: "Capítulo técnico sobre Armazenamento de Dados na Formação em E
 
 ---
 
-# Introdução
+## Introdução
 
 Imagine uma empresa que registra milhões de transações diariamente.
 
@@ -37,7 +37,7 @@ Ele garante que os dados permaneçam disponíveis durante o tempo necessário, p
 
 ---
 
-# O que é armazenamento de dados?
+## O que é armazenamento de dados?
 
 > [!definition]
 >
@@ -55,7 +55,7 @@ Ele deve garantir que os dados possam ser:
 
 ---
 
-# A posição do armazenamento no ciclo de vida
+## A posição do armazenamento no ciclo de vida
 
 O armazenamento ocorre logo após a ingestão.
 
@@ -81,7 +81,7 @@ Embora representado como uma única etapa, diferentes formas de armazenamento po
 
 ---
 
-# Por que armazenar dados?
+## Por que armazenar dados?
 
 Existem diversas razões para preservar dados.
 
@@ -101,7 +101,7 @@ Sem armazenamento adequado, praticamente nenhuma iniciativa de dados seria poss�
 
 ---
 
-# Persistência
+## Persistência
 
 Uma característica fundamental do armazenamento é a **persistência**.
 
@@ -115,13 +115,13 @@ Essa propriedade diferencia o armazenamento permanente da memória utilizada dur
 
 ---
 
-# Tipos de armazenamento
+## Tipos de armazenamento
 
 As organizações utilizam diferentes formas de armazenar dados.
 
 Cada uma atende necessidades específicas.
 
-## Bancos de Dados Relacionais
+### Bancos de Dados Relacionais
 
 Organizam informações em tabelas relacionadas entre si.
 
@@ -142,7 +142,7 @@ Exemplos de utilização:
 
 ---
 
-## Bancos de Dados Não Relacionais
+### Bancos de Dados Não Relacionais
 
 Conhecidos como bancos **NoSQL**, são utilizados quando a flexibilidade ou a escalabilidade são prioridades.
 
@@ -158,7 +158,7 @@ São amplamente utilizados em aplicações modernas e ambientes distribuídos.
 
 ---
 
-## Data Warehouse
+### Data Warehouse
 
 O Data Warehouse concentra dados estruturados voltados para análise.
 
@@ -174,7 +174,7 @@ Seu foco principal é apoiar decisões estratégicas.
 
 ---
 
-## Data Lake
+### Data Lake
 
 O Data Lake armazena grandes volumes de dados em seu formato original.
 
@@ -188,7 +188,7 @@ Seu objetivo é preservar os dados para diferentes usos futuros.
 
 ---
 
-## Lakehouse
+### Lakehouse
 
 O Lakehouse procura combinar características dos Data Lakes e dos Data Warehouses.
 
@@ -204,7 +204,7 @@ Nos módulos avançados estudaremos detalhadamente essa arquitetura.
 
 ---
 
-# Arquivos também armazenam dados
+## Arquivos também armazenam dados
 
 Nem todo armazenamento ocorre em bancos de dados.
 
@@ -227,7 +227,7 @@ Em plataformas modernas, esses arquivos normalmente ficam armazenados em sistema
 
 ---
 
-# Organização dos dados
+## Organização dos dados
 
 Armazenar dados não significa apenas gravá-los em disco.
 
@@ -246,7 +246,7 @@ Uma boa organização facilita:
 
 ---
 
-# Crescimento contínuo
+## Crescimento contínuo
 
 Uma característica importante do armazenamento é que seu volume tende a crescer continuamente.
 
@@ -260,7 +260,7 @@ Esse crescimento exige soluções escaláveis e políticas adequadas de gerencia
 
 ---
 
-# Segurança durante o armazenamento
+## Segurança durante o armazenamento
 
 Durante toda a permanência dos dados no ambiente corporativo, diversos controles devem ser aplicados.
 
@@ -280,7 +280,7 @@ Entre eles:
 
 ---
 
-# Boas práticas
+## Boas práticas
 
 Independentemente da tecnologia utilizada, algumas práticas são recomendadas.
 
@@ -297,7 +297,7 @@ Essas práticas aumentam a confiabilidade da plataforma.
 
 ---
 
-# Erros comuns
+## Erros comuns
 
 > [!failure]
 > Muitos problemas observados em plataformas de dados estão relacionados ao armazenamento inadequado.
@@ -317,7 +317,7 @@ Esses problemas tendem a aumentar significativamente os custos operacionais e di
 
 ---
 
-# Estudo de caso — DataRetail S.A.
+## Estudo de caso — DataRetail S.A.
 
 Após a ingestão dos dados provenientes dos sistemas de vendas, pagamentos e logística, a DataRetail S.A. precisa armazená-los de forma adequada.
 
@@ -355,7 +355,7 @@ Nesse cenário:
 
 ---
 
-# Conexão com os próximos módulos
+## Conexão com os próximos módulos
 
 O armazenamento é um dos pilares da Engenharia de Dados.
 
@@ -377,7 +377,7 @@ Todo esse conteúdo se apoia nos conceitos apresentados neste capítulo.
 
 ---
 
-# Resumo
+## Resumo
 
 Neste capítulo aprendemos que:
 
@@ -390,6 +390,6 @@ Neste capítulo aprendemos que:
 
 ---
 
-# Próximo Capítulo
+## Próximo Capítulo
 
 ➡️ [[07-Processamento-de-Dados]]

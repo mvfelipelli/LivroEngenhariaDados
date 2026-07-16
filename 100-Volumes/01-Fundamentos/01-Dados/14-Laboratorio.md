@@ -30,7 +30,7 @@ updated: "2026-07-14"
 
 ---
 
-# Objetivo
+## Objetivo
 
 Neste laboratório você assumirá o papel de um Engenheiro de Dados recém-integrado à equipe da **DataRetail S.A.**
 
@@ -42,7 +42,7 @@ O foco será desenvolver o raciocínio analítico e arquitetural.
 
 ---
 
-# Cenário
+## Cenário
 
 A DataRetail S.A. cresceu rapidamente.
 
@@ -61,7 +61,7 @@ Como consequência, os dados encontram-se distribuídos em diferentes plataforma
 
 ---
 
-# Situação Atual
+## Situação Atual
 
 Os sistemas existentes são:
 
@@ -76,7 +76,7 @@ Os sistemas existentes são:
 
 ---
 
-# Missão
+## Missão
 
 Você foi contratado para iniciar a construção da plataforma de Engenharia de Dados.
 
@@ -84,7 +84,7 @@ Antes de propor qualquer solução, precisa compreender o ambiente.
 
 ---
 
-# Atividade 1 — Inventário das Fontes
+## Atividade 1 — Inventário das Fontes
 
 Preencha a tabela abaixo.
 
@@ -99,7 +99,7 @@ Preencha a tabela abaixo.
 
 ---
 
-# Atividade 2 — Classificação dos Dados
+## Atividade 2 — Classificação dos Dados
 
 Classifique cada fonte.
 
@@ -114,7 +114,7 @@ Classifique cada fonte.
 
 ---
 
-# Atividade 3 — Características
+## Atividade 3 — Características
 
 Para cada fonte responda.
 
@@ -126,7 +126,7 @@ Para cada fonte responda.
 
 ---
 
-# Atividade 4 — Ciclo de Vida
+## Atividade 4 — Ciclo de Vida
 
 Escolha o processo de **venda online**.
 
@@ -162,7 +162,7 @@ Descreva cada etapa utilizando suas próprias palavras.
 
 ---
 
-# Atividade 5 — Problemas de Qualidade
+## Atividade 5 — Problemas de Qualidade
 
 Considere o seguinte conjunto de registros.
 
@@ -184,7 +184,7 @@ Quais regras de qualidade você implementaria?
 
 ---
 
-# Atividade 6 — Metadados
+## Atividade 6 — Metadados
 
 Projete os metadados da tabela **clientes**.
 
@@ -201,7 +201,7 @@ Complete.
 
 ---
 
-# Atividade 7 — Arquitetura Inicial
+## Atividade 7 — Arquitetura Inicial
 
 Sem utilizar nomes de ferramentas específicas, desenhe uma arquitetura contendo:
 
@@ -241,29 +241,29 @@ Personalize o diagrama conforme sua proposta.
 
 ---
 
-# Atividade 8 — Decisão Arquitetural
+## Atividade 8 — Decisão Arquitetural
 
 Explique.
 
-## Pergunta 1
+### Pergunta 1
 
 Por que nem todos os dados devem permanecer em bancos relacionais?
 
 ---
 
-## Pergunta 2
+### Pergunta 2
 
 Por que conhecer os dados é mais importante do que escolher uma tecnologia?
 
 ---
 
-## Pergunta 3
+### Pergunta 3
 
 Quais riscos você identificou na situação atual da DataRetail?
 
 ---
 
-# Entrega
+## Entrega
 
 Produza um documento contendo:
 
@@ -276,7 +276,7 @@ Produza um documento contendo:
 
 ---
 
-# Critérios de Avaliação
+## Critérios de Avaliação
 
 | Critério | Peso |
 |-----------|-----:|
@@ -289,7 +289,7 @@ Produza um documento contendo:
 
 ---
 
-# Desafio Extra ⭐
+## Desafio Extra ⭐
 
 A diretoria informa que a empresa pretende dobrar de tamanho nos próximos três anos.
 
@@ -301,7 +301,7 @@ Responda.
 
 ---
 
-# Conclusão
+## Conclusão
 
 Ao finalizar este laboratório você terá realizado a primeira atividade típica de um Engenheiro de Dados: compreender um ambiente antes de propor qualquer solução tecnológica.
 
@@ -309,7 +309,7 @@ Essa habilidade será utilizada repetidamente ao longo de toda a Academia.
 
 ---
 
-# Veja Também
+## Veja Também
 
 - [[10-Estudo-de-Caso|10 - Estudo de Caso]]
 - [[11-Resumo|11 - Resumo]]

@@ -40,6 +40,5 @@ jobs:
       - name: Validar templates
         run: python tools/validate_project.py 050-Templates --checks markdown,yaml,names,wikilinks
 
-      - name: Auditar dívida histórica do Vault
-        continue-on-error: true
+      - name: Validar Vault completo
         run: python tools/validate_project.py --max-issues 200

@@ -21,7 +21,7 @@ description: "Capítulo técnico sobre Introdução na Formação em Engenharia 
 
 ---
 
-# Muito além dos bancos de dados
+## Muito além dos bancos de dados
 
 Quando pensamos em Engenharia de Dados, é comum imaginar bancos de dados, consultas SQL, pipelines de ETL ou grandes plataformas analíticas.
 
@@ -51,7 +51,7 @@ Toda essa jornada constitui o **Ciclo de Vida dos Dados**.
 
 ---
 
-# Dados estão sempre em movimento
+## Dados estão sempre em movimento
 
 Uma das características mais importantes dos dados é que eles raramente permanecem estáticos.
 
@@ -74,7 +74,7 @@ A Engenharia de Dados é responsável por garantir que essa movimentação ocorr
 
 ---
 
-# O dado como ativo organizacional
+## O dado como ativo organizacional
 
 Nas últimas décadas, as organizações passaram a tratar os dados como um ativo estratégico.
 
@@ -89,7 +89,7 @@ Essa característica torna sua administração mais complexa e exige processos b
 
 ---
 
-# Por que estudar o ciclo de vida?
+## Por que estudar o ciclo de vida?
 
 Imagine um cliente realizando uma compra em um comércio eletrônico.
 
@@ -123,7 +123,7 @@ Cada etapa adiciona valor aos dados e permite que a empresa tome decisões mais 
 
 ---
 
-# Uma visão sistêmica
+## Uma visão sistêmica
 
 O principal objetivo deste módulo é desenvolver uma visão sistêmica sobre os dados.
 
@@ -144,7 +144,7 @@ Essas perguntas estarão presentes em praticamente todos os projetos de Engenhar
 
 ---
 
-# O papel da Engenharia de Dados
+## O papel da Engenharia de Dados
 
 A Engenharia de Dados atua como a disciplina responsável por construir e manter toda a infraestrutura necessária para que os dados percorram seu ciclo de vida com segurança, desempenho e confiabilidade.
 
@@ -164,7 +164,7 @@ Embora cada organização utilize tecnologias diferentes, os princípios permane
 
 ---
 
-# O Ciclo de Vida dos Dados
+## O Ciclo de Vida dos Dados
 
 De forma simplificada, podemos representar o ciclo de vida da seguinte maneira.
 
@@ -192,7 +192,7 @@ Ao longo dos próximos capítulos estudaremos detalhadamente cada uma delas.
 
 ---
 
-# Um exemplo prático
+## Um exemplo prático
 
 Considere uma rede de supermercados.
 
@@ -232,7 +232,7 @@ Embora simplificado, esse fluxo demonstra que os dados percorrem diversos ambien
 
 ---
 
-# O que veremos a seguir
+## O que veremos a seguir
 
 Nos próximos capítulos analisaremos cada etapa do ciclo de vida dos dados em detalhes.
 
@@ -243,7 +243,6 @@ Começaremos entendendo o conceito formal de **Ciclo de Vida dos Dados**, sua or
 
 ---
 
-# Próximo Capítulo
+## Próximo Capítulo
 
 ➡️ [[03-O-que-e-o-Ciclo-de-Vida-dos-Dados]]
-

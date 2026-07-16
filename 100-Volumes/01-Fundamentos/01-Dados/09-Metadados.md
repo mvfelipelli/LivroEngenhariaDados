@@ -28,7 +28,7 @@ updated: "2026-07-14"
 
 ---
 
-# Objetivo
+## Objetivo
 
 Ao concluir este capítulo você será capaz de:
 
@@ -40,7 +40,7 @@ Ao concluir este capítulo você será capaz de:
 
 ---
 
-# Introdução
+## Introdução
 
 Imagine encontrar um arquivo chamado:
 
@@ -64,7 +64,7 @@ Elas fazem parte dos **metadados**.
 
 ---
 
-# O que são Metadados?
+## O que são Metadados?
 
 Metadados são informações que descrevem outras informações.
 
@@ -81,7 +81,7 @@ Podemos resumir assim:
 
 ---
 
-# Por que metadados são importantes?
+## Por que metadados são importantes?
 
 Sem metadados, encontrar e interpretar informações torna-se muito mais difícil.
 
@@ -98,11 +98,11 @@ Essas informações são essenciais para a governança dos dados.
 
 ---
 
-# Tipos de Metadados
+## Tipos de Metadados
 
 Os metadados podem ser classificados em diferentes categorias.
 
-## Metadados Técnicos
+### Metadados Técnicos
 
 Descrevem aspectos estruturais e tecnológicos.
 
@@ -126,7 +126,7 @@ Exemplo:
 
 ---
 
-## Metadados de Negócio
+### Metadados de Negócio
 
 Descrevem o significado dos dados.
 
@@ -141,7 +141,7 @@ Esses metadados facilitam o entendimento entre áreas técnicas e de negócio.
 
 ---
 
-## Metadados Operacionais
+### Metadados Operacionais
 
 Descrevem como os dados são processados.
 
@@ -157,7 +157,7 @@ São amplamente utilizados em monitoramento e observabilidade.
 
 ---
 
-# Exemplo Completo
+## Exemplo Completo
 
 Considere a tabela:
 
@@ -186,7 +186,7 @@ Observe que os metadados descrevem a tabela, e não os registros individuais.
 
 ---
 
-# Metadados e Catálogo de Dados
+## Metadados e Catálogo de Dados
 
 Em plataformas modernas, os metadados são organizados em **Catálogos de Dados**.
 
@@ -202,7 +202,7 @@ Eles funcionam como um mecanismo de busca para os dados da organização.
 
 ---
 
-# Metadados e Linhagem
+## Metadados e Linhagem
 
 Outra aplicação importante é a **linhagem de dados** (*Data Lineage*).
 
@@ -234,7 +234,7 @@ Graças aos metadados, é possível saber:
 
 ---
 
-# Metadados e Governança
+## Metadados e Governança
 
 Os metadados são um dos pilares da governança de dados.
 
@@ -250,7 +250,7 @@ Sem metadados adequados, torna-se muito mais difícil garantir rastreabilidade e
 
 ---
 
-# Conexão com a prática
+## Conexão com a prática
 
 Na DataRetail S.A., existe uma tabela chamada `vendas`.
 
@@ -265,7 +265,7 @@ Com um catálogo de metadados, essas informações ficam disponíveis de forma c
 
 ---
 
-# Arquitetura em Foco
+## Arquitetura em Foco
 
 > [!example]
 > **Cenário**
@@ -282,7 +282,7 @@ Com um catálogo de metadados, essas informações ficam disponíveis de forma c
 
 ---
 
-# Tecnologias por etapa
+## Tecnologias por etapa
 
 | Necessidade | Exemplos de tecnologias |
 |--------------|------------------------|
@@ -296,7 +296,7 @@ Essas ferramentas serão estudadas em volumes específicos da Academia.
 
 ---
 
-# Boas práticas
+## Boas práticas
 
 > [!tip]
 >
@@ -308,7 +308,7 @@ Essas ferramentas serão estudadas em volumes específicos da Academia.
 
 ---
 
-# Erros comuns
+## Erros comuns
 
 > [!warning]
 >
@@ -320,7 +320,7 @@ Essas ferramentas serão estudadas em volumes específicos da Academia.
 
 ---
 
-# Resumo Executivo
+## Resumo Executivo
 
 - Metadados são informações que descrevem os dados.
 - Eles facilitam descoberta, entendimento, governança e auditoria.
@@ -330,7 +330,7 @@ Essas ferramentas serão estudadas em volumes específicos da Academia.
 
 ---
 
-# Conceitos-chave
+## Conceitos-chave
 
 - Metadados
 - Catálogo de Dados
@@ -342,13 +342,13 @@ Essas ferramentas serão estudadas em volumes específicos da Academia.
 
 ---
 
-# Veja Também
+## Veja Também
 
-## Próximo capítulo
+### Próximo capítulo
 
 ➡️ [[10-Estudo-de-Caso|10 - Estudo de Caso]]
 
-## Atlas
+### Atlas
 
 - Governança de Dados
 - [[Pipeline-de-Dados|Pipeline de Dados]]
@@ -356,7 +356,7 @@ Essas ferramentas serão estudadas em volumes específicos da Academia.
 - [[Apache-Airflow|Apache Airflow]]
 - [[Apache-Iceberg|Apache Iceberg]]
 
-## Volume
+### Volume
 
 - [[100-Volumes/01-Fundamentos/01-Dados/README]]
 

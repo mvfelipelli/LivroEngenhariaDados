@@ -14,7 +14,7 @@ status: Oficial
 
 ---
 
-# 📖 Objetivo
+## 📖 Objetivo
 
 A Biblioteca reúne as principais referências utilizadas durante toda a Academia.
 
@@ -33,7 +33,7 @@ Cada nota da Biblioteca possui:
 
 ---
 
-# Estrutura
+## Estrutura
 
 ```text
 010-Biblioteca/
@@ -59,9 +59,9 @@ Cada nota da Biblioteca possui:
 
 ---
 
-# 📚 Livros
+## 📚 Livros
 
-## Engenharia de Dados
+### Engenharia de Dados
 
 - Fundamentals of Data Engineering
 
@@ -75,7 +75,7 @@ Cada nota da Biblioteca possui:
 
 ---
 
-## SQL
+### SQL
 
 - SQL Performance Explained
 
@@ -83,13 +83,13 @@ Cada nota da Biblioteca possui:
 
 ---
 
-## PostgreSQL
+### PostgreSQL
 
 - PostgreSQL Internals
 
 ---
 
-## Arquitetura
+### Arquitetura
 
 - Clean Architecture
 
@@ -97,7 +97,7 @@ Cada nota da Biblioteca possui:
 
 ---
 
-# 📄 Papers
+## 📄 Papers
 
 Os artigos científicos que mudaram a Engenharia de Dados.
 
@@ -117,9 +117,9 @@ Os artigos científicos que mudaram a Engenharia de Dados.
 
 ---
 
-# 📖 Documentação Oficial
+## 📖 Documentação Oficial
 
-## Apache
+### Apache
 
 - Apache Spark Docs
 
@@ -133,19 +133,19 @@ Os artigos científicos que mudaram a Engenharia de Dados.
 
 ---
 
-## PostgreSQL
+### PostgreSQL
 
 - PostgreSQL Documentation
 
 ---
 
-## Trino
+### Trino
 
 - Trino Documentation
 
 ---
 
-## Cloud
+### Cloud
 
 - AWS Documentation
 
@@ -155,7 +155,7 @@ Os artigos científicos que mudaram a Engenharia de Dados.
 
 ---
 
-# 📝 Cheat Sheets
+## 📝 Cheat Sheets
 
 Material de consulta rápida.
 
@@ -173,7 +173,7 @@ Material de consulta rápida.
 
 ---
 
-# 🏢 Casos Reais
+## 🏢 Casos Reais
 
 Arquiteturas publicadas por empresas.
 
@@ -197,7 +197,7 @@ Arquiteturas publicadas por empresas.
 
 ---
 
-# 🏛️ Empresas
+## 🏛️ Empresas
 
 Empresas importantes no ecossistema.
 
@@ -217,7 +217,7 @@ Empresas importantes no ecossistema.
 
 ---
 
-# 🎥 Vídeos
+## 🎥 Vídeos
 
 Material complementar.
 
@@ -228,7 +228,7 @@ Material complementar.
 
 ---
 
-# Como utilizar
+## Como utilizar
 
 Sempre que um capítulo recomendar uma leitura adicional, ela será referenciada por meio desta Biblioteca.
 
@@ -244,7 +244,7 @@ Assim todo conhecimento permanece conectado.
 
 ---
 
-# Relação com a Academia
+## Relação com a Academia
 
 ```mermaid
 flowchart LR
@@ -270,7 +270,7 @@ Academia --> Projeto
 
 ---
 
-# Objetivo Final
+## Objetivo Final
 
 Ao concluir a Academia você terá construído uma biblioteca técnica pessoal contendo:
 
@@ -286,7 +286,7 @@ Ela continuará sendo útil muito depois do término do curso.
 
 ---
 
-# Veja Também
+## Veja Também
 
 - [[MOC]]
 - [[Roadmap]]

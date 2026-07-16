@@ -177,7 +177,7 @@ python tools/validate_project.py
 python tools/validate_project.py --checks yaml,names,wikilinks
 ```
 
-As verificações disponíveis são `markdown`, `yaml`, `names`, `wikilinks` e `modules`. Enquanto a dívida histórica estiver em correção, o CI bloqueia regressões de nomenclatura, frontmatter, Wikilinks, módulos concluídos e templates, além de publicar a auditoria completa como diagnóstico não bloqueante.
+As verificações disponíveis são `markdown`, `yaml`, `names`, `wikilinks` e `modules`. O CI executa a validação completa do Vault como etapa bloqueante, incluindo nomenclatura, frontmatter, Wikilinks, módulos concluídos, templates e conformidade Markdown.
 
 ---
 

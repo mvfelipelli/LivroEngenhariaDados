@@ -19,7 +19,7 @@ updated: "2026-07-14"
 
 ---
 
-# Objetivo
+## Objetivo
 
 Este documento define os padrões editoriais utilizados em toda a Academia de Engenharia de Dados.
 
@@ -36,11 +36,11 @@ Todo novo conteúdo deverá seguir este guia.
 
 ---
 
-# Filosofia da Academia
+## Filosofia da Academia
 
 A Academia foi construída sobre cinco pilares.
 
-## 1. Fundamentos antes de ferramentas
+### 1. Fundamentos antes de ferramentas
 
 Tecnologias mudam.
 
@@ -50,7 +50,7 @@ Sempre ensinaremos primeiro o conceito e somente depois a ferramenta.
 
 ---
 
-## 2. Obsidian First
+### 2. Obsidian First
 
 Todo o conteúdo é pensado para funcionar como uma Wiki.
 
@@ -64,7 +64,7 @@ Utilizamos:
 
 ---
 
-## 3. Aprendizado progressivo
+### 3. Aprendizado progressivo
 
 Cada volume reutiliza conceitos anteriores.
 
@@ -72,7 +72,7 @@ Nada é apresentado isoladamente.
 
 ---
 
-## 4. Prática contínua
+### 4. Prática contínua
 
 Todo conceito importante deve possuir:
 
@@ -82,7 +82,7 @@ Todo conceito importante deve possuir:
 
 ---
 
-## 5. Pensamento arquitetural
+### 5. Pensamento arquitetural
 
 O objetivo não é ensinar ferramentas.
 
@@ -90,7 +90,7 @@ O objetivo é ensinar como tomar decisões.
 
 ---
 
-# Estrutura da Academia
+## Estrutura da Academia
 
 ```text
 Engenharia de Dados/
@@ -118,7 +118,7 @@ tools/
 
 ---
 
-# Estrutura obrigatória de um capítulo
+## Estrutura obrigatória de um capítulo
 
 Todo capítulo deverá seguir esta ordem.
 
@@ -166,7 +166,7 @@ Navegação
 
 ---
 
-# Frontmatter
+## Frontmatter
 
 Todo capítulo utilizará YAML.
 
@@ -187,7 +187,7 @@ tags:
 
 ---
 
-# Títulos
+## Títulos
 
 Utilizar sempre:
 
@@ -199,7 +199,7 @@ Nunca iniciar diretamente pelo texto.
 
 ---
 
-# Visão Geral
+## Visão Geral
 
 Todo capítulo começa explicando:
 
@@ -209,7 +209,7 @@ Todo capítulo começa explicando:
 
 ---
 
-# Objetivos
+## Objetivos
 
 Devem utilizar verbos observáveis.
 
@@ -230,7 +230,7 @@ Evitar:
 
 ---
 
-# Mapa do capítulo
+## Mapa do capítulo
 
 Sempre apresentar os tópicos.
 
@@ -248,7 +248,7 @@ Exemplo.
 
 ---
 
-# Diagramas
+## Diagramas
 
 Utilizar Mermaid compatível com Obsidian.
 
@@ -265,7 +265,7 @@ Evitar recursos experimentais.
 
 ---
 
-# Wikilinks
+## Wikilinks
 
 Sempre utilizar.
 
@@ -283,11 +283,11 @@ Nunca utilizar texto simples quando existir uma nota correspondente.
 
 ---
 
-# Callouts
+## Callouts
 
 Padronização oficial.
 
-## Informação
+### Informação
 
 ```markdown
 > [!info]
@@ -295,7 +295,7 @@ Padronização oficial.
 
 ---
 
-## Dica
+### Dica
 
 ```markdown
 > [!tip]
@@ -303,7 +303,7 @@ Padronização oficial.
 
 ---
 
-## Importante
+### Importante
 
 ```markdown
 > [!important]
@@ -311,7 +311,7 @@ Padronização oficial.
 
 ---
 
-## Atenção
+### Atenção
 
 ```markdown
 > [!warning]
@@ -319,7 +319,7 @@ Padronização oficial.
 
 ---
 
-## Exemplo
+### Exemplo
 
 ```markdown
 > [!example]
@@ -327,7 +327,7 @@ Padronização oficial.
 
 ---
 
-## Resumo
+### Resumo
 
 ```markdown
 > [!summary]
@@ -335,7 +335,7 @@ Padronização oficial.
 
 ---
 
-## Exercício
+### Exercício
 
 ```markdown
 > [!question]
@@ -343,7 +343,7 @@ Padronização oficial.
 
 ---
 
-# Estudo de Caso
+## Estudo de Caso
 
 Sempre utilizar a empresa:
 
@@ -353,7 +353,7 @@ Ela evoluirá durante toda a Academia.
 
 ---
 
-# Decisões Arquiteturais
+## Decisões Arquiteturais
 
 Sempre que possível incluir.
 
@@ -375,7 +375,7 @@ Consequências
 
 ---
 
-# Comparações
+## Comparações
 
 Sempre utilizar tabelas.
 
@@ -386,7 +386,7 @@ Exemplo.
 
 ---
 
-# Código
+## Código
 
 Sempre utilizar blocos Markdown.
 
@@ -394,7 +394,7 @@ Nunca imagens de código.
 
 ---
 
-# Laboratórios
+## Laboratórios
 
 Os laboratórios não ficarão dentro dos capítulos.
 
@@ -408,7 +408,7 @@ Exemplo.
 
 ---
 
-# Projeto Integrador
+## Projeto Integrador
 
 Todo capítulo deverá indicar quando impactar o Projeto Integrador.
 
@@ -422,7 +422,7 @@ Utilizar.
 
 ---
 
-# Glossário
+## Glossário
 
 Sempre que surgir um conceito novo.
 
@@ -440,7 +440,7 @@ Posteriormente será criada a nota correspondente.
 
 ---
 
-# Mermaid
+## Mermaid
 
 Preferir diagramas simples.
 
@@ -450,7 +450,7 @@ Sem cruzamentos desnecessários.
 
 ---
 
-# Imagens
+## Imagens
 
 Preferencialmente SVG.
 
@@ -464,7 +464,7 @@ figura-01.png
 
 ---
 
-# Exercícios
+## Exercícios
 
 Misturar:
 
@@ -476,13 +476,13 @@ Misturar:
 
 ---
 
-# Perguntas de entrevista
+## Perguntas de entrevista
 
 Todo capítulo deverá possuir entre 5 e 15 perguntas.
 
 ---
 
-# Leituras recomendadas
+## Leituras recomendadas
 
 Priorizar:
 
@@ -492,7 +492,7 @@ Priorizar:
 
 ---
 
-# Nome dos arquivos
+## Nome dos arquivos
 
 Utilizar.
 
@@ -504,7 +504,7 @@ Sempre dois dígitos.
 
 ---
 
-# Convenção para laboratórios
+## Convenção para laboratórios
 
 ```text
 Lab 001
@@ -516,7 +516,7 @@ Lab 003
 
 ---
 
-# Convenção para estudos de caso
+## Convenção para estudos de caso
 
 Sempre:
 
@@ -526,7 +526,7 @@ DataRetail S.A.
 
 ---
 
-# Convenção para diagramas
+## Convenção para diagramas
 
 Todo diagrama deve responder uma pergunta.
 
@@ -534,7 +534,7 @@ Nunca inserir diagramas apenas para preencher espaço.
 
 ---
 
-# Revisão editorial
+## Revisão editorial
 
 Antes de concluir um volume verificar:
 
@@ -548,7 +548,7 @@ Antes de concluir um volume verificar:
 
 ---
 
-# Definição de pronto
+## Definição de pronto
 
 Um capítulo somente é considerado concluído quando:
 
@@ -565,7 +565,7 @@ Um capítulo somente é considerado concluído quando:
 
 ---
 
-# Missão da Academia
+## Missão da Academia
 
 A Academia de Engenharia de Dados tem como objetivo formar profissionais capazes de compreender, projetar, implementar e operar plataformas modernas de dados.
 

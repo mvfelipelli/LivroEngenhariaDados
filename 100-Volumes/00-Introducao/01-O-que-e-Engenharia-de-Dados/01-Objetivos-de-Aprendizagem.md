@@ -13,7 +13,7 @@ updated: "2026-07-14"
 
 ---
 
-# Introdução
+## Introdução
 
 Todo capítulo da Academia de Engenharia de Dados inicia com objetivos claros de aprendizagem.
 
@@ -23,17 +23,17 @@ Este documento apresenta os objetivos específicos deste capítulo, os conhecime
 
 ---
 
-# Objetivo Geral
+## Objetivo Geral
 
 Ao concluir este capítulo, o estudante compreenderá a origem, a evolução e a importância da Engenharia de Dados nas organizações modernas, sendo capaz de explicar seu papel dentro do ecossistema de dados e reconhecer os principais desafios enfrentados pelos profissionais da área.
 
 ---
 
-# Objetivos Específicos
+## Objetivos Específicos
 
 Ao final deste capítulo, você deverá ser capaz de:
 
-## Compreender a evolução dos dados
+### Compreender a evolução dos dados
 
 - Explicar como os sistemas de informação evoluíram nas últimas décadas.
 - Identificar os principais marcos tecnológicos da área de dados.
@@ -41,7 +41,7 @@ Ao final deste capítulo, você deverá ser capaz de:
 
 ---
 
-## Entender o nascimento da Engenharia de Dados
+### Entender o nascimento da Engenharia de Dados
 
 - Explicar por que surgiu a Engenharia de Dados.
 - Identificar os problemas que essa disciplina resolve.
@@ -49,7 +49,7 @@ Ao final deste capítulo, você deverá ser capaz de:
 
 ---
 
-## Conhecer o papel do Engenheiro de Dados
+### Conhecer o papel do Engenheiro de Dados
 
 - Identificar as responsabilidades do profissional.
 - Diferenciar atribuições técnicas e estratégicas.
@@ -57,7 +57,7 @@ Ao final deste capítulo, você deverá ser capaz de:
 
 ---
 
-## Compreender o ecossistema de dados
+### Compreender o ecossistema de dados
 
 Ao finalizar este capítulo você deverá conseguir diferenciar claramente:
 
@@ -72,7 +72,7 @@ Ao finalizar este capítulo você deverá conseguir diferenciar claramente:
 
 ---
 
-## Entender o ciclo de vida dos dados
+### Entender o ciclo de vida dos dados
 
 Você deverá ser capaz de explicar cada etapa do fluxo de dados:
 
@@ -87,7 +87,7 @@ Você deverá ser capaz de explicar cada etapa do fluxo de dados:
 
 ---
 
-## Desenvolver visão arquitetural
+### Desenvolver visão arquitetural
 
 Ao concluir este capítulo você deverá reconhecer os principais componentes de uma plataforma moderna de dados e compreender como eles se relacionam.
 
@@ -95,11 +95,11 @@ Essa visão será aprofundada ao longo dos próximos volumes.
 
 ---
 
-# Competências Desenvolvidas
+## Competências Desenvolvidas
 
 As competências deste capítulo estão organizadas em quatro dimensões.
 
-## 1. Conhecimento Conceitual
+### 1. Conhecimento Conceitual
 
 Você compreenderá:
 
@@ -110,7 +110,7 @@ Você compreenderá:
 
 ---
 
-## 2. Pensamento Sistêmico
+### 2. Pensamento Sistêmico
 
 Você desenvolverá a capacidade de:
 
@@ -120,7 +120,7 @@ Você desenvolverá a capacidade de:
 
 ---
 
-## 3. Visão de Negócio
+### 3. Visão de Negócio
 
 Você compreenderá que Engenharia de Dados não existe apenas para armazenar informações.
 
@@ -134,7 +134,7 @@ Seu principal objetivo é entregar dados confiáveis para apoiar:
 
 ---
 
-## 4. Desenvolvimento Profissional
+### 4. Desenvolvimento Profissional
 
 Ao concluir este capítulo você compreenderá:
 
@@ -144,9 +144,9 @@ Ao concluir este capítulo você compreenderá:
 
 ---
 
-# Competências Esperadas por Nível
+## Competências Esperadas por Nível
 
-## Ao final deste capítulo
+### Ao final deste capítulo
 
 Você deverá possuir uma visão introdutória sobre Engenharia de Dados.
 
@@ -156,7 +156,7 @@ O foco é compreender os conceitos fundamentais.
 
 ---
 
-## Após concluir a Academia
+### Após concluir a Academia
 
 Ao finalizar todos os volumes você será capaz de:
 
@@ -170,53 +170,53 @@ Ao finalizar todos os volumes você será capaz de:
 
 ---
 
-# Como este capítulo será estudado
+## Como este capítulo será estudado
 
 Durante este capítulo você encontrará diferentes tipos de conteúdo.
 
-## Conteúdo Conceitual
+### Conteúdo Conceitual
 
 Explicações detalhadas dos fundamentos.
 
 ---
 
-## Diagramas
+### Diagramas
 
 Fluxos arquiteturais para facilitar a compreensão.
 
 ---
 
-## Estudos de Caso
+### Estudos de Caso
 
 Exemplos inspirados em situações reais encontradas em empresas.
 
 ---
 
-## Boas Práticas
+### Boas Práticas
 
 Recomendações utilizadas por equipes experientes de Engenharia de Dados.
 
 ---
 
-## Erros Comuns
+### Erros Comuns
 
 Problemas frequentemente encontrados em projetos.
 
 ---
 
-## Exercícios
+### Exercícios
 
 Questões destinadas à fixação dos conceitos.
 
 ---
 
-## Leituras Complementares
+### Leituras Complementares
 
 Referências oficiais, livros e artigos recomendados.
 
 ---
 
-# Critérios de Conclusão
+## Critérios de Conclusão
 
 Considere este capítulo concluído quando você conseguir responder, sem consultar o material, às seguintes perguntas:
 
@@ -232,7 +232,7 @@ Se conseguir responder a essas perguntas com segurança, você estará preparado
 
 ---
 
-# Conexão com os Próximos Capítulos
+## Conexão com os Próximos Capítulos
 
 Os objetivos definidos neste documento serão alcançados ao longo das próximas seções deste capítulo.
 
@@ -250,7 +250,7 @@ Cada uma dessas seções contribuirá para consolidar os conhecimentos apresenta
 
 ---
 
-# Próximo Arquivo
+## Próximo Arquivo
 
 ➡ **02-Introducao.md**
 

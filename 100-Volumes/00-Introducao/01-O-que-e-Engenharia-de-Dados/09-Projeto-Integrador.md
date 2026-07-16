@@ -29,7 +29,7 @@ updated: "2026-07-14"
 
 ---
 
-# 📖 Visão Geral
+## 📖 Visão Geral
 
 Durante toda a Academia construiremos uma plataforma completa de Engenharia de Dados.
 
@@ -50,7 +50,7 @@ Essa plataforma será utilizada continuamente durante todo o curso.
 
 ---
 
-# 🎯 Objetivos
+## 🎯 Objetivos
 
 Ao concluir a Academia você será capaz de:
 
@@ -65,7 +65,7 @@ Ao concluir a Academia você será capaz de:
 
 ---
 
-# O cenário
+## O cenário
 
 Nossa empresa fictícia será novamente a **DataRetail S.A.**
 
@@ -85,7 +85,7 @@ Esses dados serão utilizados durante toda a Academia.
 
 ---
 
-# A plataforma final
+## A plataforma final
 
 Ao final do curso teremos uma arquitetura semelhante à seguinte.
 
@@ -159,7 +159,7 @@ Observe que praticamente todos os componentes estudados durante a Academia estar
 
 ---
 
-# Como o projeto evoluirá
+## Como o projeto evoluirá
 
 Cada volume adicionará novos recursos.
 
@@ -189,7 +189,7 @@ Ao final teremos uma plataforma funcional.
 
 ---
 
-# O papel do aluno
+## O papel do aluno
 
 Você não será apenas um estudante.
 
@@ -206,7 +206,7 @@ Essa mudança de perspectiva ajuda a compreender os desafios enfrentados por equ
 
 ---
 
-# Organização do projeto
+## Organização do projeto
 
 Toda a implementação ficará em:
 
@@ -219,7 +219,7 @@ Nos volumes seguintes criaremos automaticamente essa estrutura.
 
 ---
 
-# O que será desenvolvido
+## O que será desenvolvido
 
 Ao longo da Academia construiremos:
 
@@ -237,7 +237,7 @@ Cada entrega será incremental.
 
 ---
 
-# 💡 Boas práticas
+## 💡 Boas práticas
 
 > [!tip]
 > Nunca pule etapas do projeto.
@@ -253,7 +253,7 @@ Cada entrega será incremental.
 
 ---
 
-# ⚠️ Erros comuns
+## ⚠️ Erros comuns
 
 > [!warning]
 > Construir soluções sem planejamento.
@@ -266,7 +266,7 @@ Cada entrega será incremental.
 
 ---
 
-# 🧠 Conceitos-chave
+## 🧠 Conceitos-chave
 
 - Projeto Integrador
 - [[030-Projetos/DataRetail Platform/README|DataRetail Platform]]
@@ -276,7 +276,7 @@ Cada entrega será incremental.
 
 ---
 
-# 🎤 Perguntas para reflexão
+## 🎤 Perguntas para reflexão
 
 1. Por que desenvolver um único projeto durante toda a Academia?
 2. Quais vantagens existem em evoluir uma plataforma incrementalmente?
@@ -284,7 +284,7 @@ Cada entrega será incremental.
 
 ---
 
-# 📝 Exercício
+## 📝 Exercício
 
 Faça uma leitura de todos os capítulos do Volume 00.
 
@@ -299,13 +299,13 @@ Essas respostas serão revisitadas ao final da Academia.
 
 ---
 
-# 📚 Próximos passos
+## 📚 Próximos passos
 
 No próximo capítulo conheceremos o ambiente da Academia e iniciaremos a preparação do laboratório que será utilizado em todo o curso.
 
 ---
 
-## Navegação
+### Navegação
 
 ← [[08-Arquiteturas-Modernas|08 - Arquiteturas Modernas]]
 

@@ -19,7 +19,7 @@ updated: "2026-07-14"
 
 ---
 
-# 📖 Objetivo
+## 📖 Objetivo
 
 Este roadmap apresenta toda a trilha de aprendizagem da Academia.
 
@@ -29,7 +29,7 @@ O objetivo não é apenas ensinar tecnologias, mas desenvolver a capacidade de p
 
 ---
 
-# 🗺️ Visão Geral da Jornada
+## 🗺️ Visão Geral da Jornada
 
 ```mermaid
 flowchart TD
@@ -94,13 +94,13 @@ R --> S
 
 ---
 
-# 📚 Volume 00 — Introdução
+## 📚 Volume 00 — Introdução
 
-## Objetivo
+### Objetivo
 
 Apresentar a Engenharia de Dados como disciplina, profissão e ecossistema.
 
-## Você aprenderá
+### Você aprenderá
 
 - O que é Engenharia de Dados
 - Evolução histórica
@@ -111,19 +111,19 @@ Apresentar a Engenharia de Dados como disciplina, profissão e ecossistema.
 - Como estudar
 - Preparação do ambiente
 
-### Resultado esperado
+#### Resultado esperado
 
 Ao final deste volume, você compreenderá o panorama completo da área e estará preparado para iniciar os estudos técnicos.
 
 ---
 
-# 📚 Volume 01 — Fundamentos
+## 📚 Volume 01 — Fundamentos
 
-## Objetivo
+### Objetivo
 
 Construir a base conceitual da Engenharia de Dados.
 
-### Principais temas
+#### Principais temas
 
 - Dados
 - Informação
@@ -135,19 +135,19 @@ Construir a base conceitual da Engenharia de Dados.
 - Streaming
 - Arquiteturas de Dados
 
-### Projeto Integrador
+#### Projeto Integrador
 
 Modelagem inicial da plataforma da DataRetail.
 
 ---
 
-# 📚 Volume 02 — Linux
+## 📚 Volume 02 — Linux
 
-## Objetivo
+### Objetivo
 
 Aprender a operar ambientes Linux utilizados em plataformas de dados.
 
-### Principais temas
+#### Principais temas
 
 - Shell
 - Bash
@@ -158,19 +158,19 @@ Aprender a operar ambientes Linux utilizados em plataformas de dados.
 - Cron
 - Logs
 
-### Projeto Integrador
+#### Projeto Integrador
 
 Preparação do servidor Linux.
 
 ---
 
-# 📚 Volume 03 — Git e GitHub
+## 📚 Volume 03 — Git e GitHub
 
-## Objetivo
+### Objetivo
 
 Versionar código, pipelines e documentação.
 
-### Principais temas
+#### Principais temas
 
 - Git
 - Branches
@@ -179,19 +179,19 @@ Versionar código, pipelines e documentação.
 - GitHub
 - GitFlow
 
-### Projeto Integrador
+#### Projeto Integrador
 
 Criação do repositório oficial da plataforma.
 
 ---
 
-# 📚 Volume 04 — SQL
+## 📚 Volume 04 — SQL
 
-## Objetivo
+### Objetivo
 
 Dominar SQL para Engenharia de Dados.
 
-### Principais temas
+#### Principais temas
 
 - SELECT
 - JOIN
@@ -201,19 +201,19 @@ Dominar SQL para Engenharia de Dados.
 - Performance
 - Otimização
 
-### Projeto Integrador
+#### Projeto Integrador
 
 Primeiros pipelines SQL.
 
 ---
 
-# 📚 Volume 05 — Modelagem de Dados
+## 📚 Volume 05 — Modelagem de Dados
 
-## Objetivo
+### Objetivo
 
 Projetar modelos eficientes para armazenamento e análise.
 
-### Principais temas
+#### Principais temas
 
 - Modelagem Relacional
 - Modelo Dimensional
@@ -224,13 +224,13 @@ Projetar modelos eficientes para armazenamento e análise.
 
 ---
 
-# 📚 Volume 06 — Python
+## 📚 Volume 06 — Python
 
-## Objetivo
+### Objetivo
 
 Automatizar processos e construir pipelines.
 
-### Principais temas
+#### Principais temas
 
 - Python
 - Pandas
@@ -241,13 +241,13 @@ Automatizar processos e construir pipelines.
 
 ---
 
-# 📚 Volume 07 — Apache Spark
+## 📚 Volume 07 — Apache Spark
 
-## Objetivo
+### Objetivo
 
 Processamento distribuído em larga escala.
 
-### Principais temas
+#### Principais temas
 
 - DataFrames
 - Spark SQL
@@ -258,13 +258,13 @@ Processamento distribuído em larga escala.
 
 ---
 
-# 📚 Volume 08 — PostgreSQL
+## 📚 Volume 08 — PostgreSQL
 
-## Objetivo
+### Objetivo
 
 Administrar e otimizar bancos relacionais modernos.
 
-### Principais temas
+#### Principais temas
 
 - Administração
 - Índices
@@ -274,13 +274,13 @@ Administrar e otimizar bancos relacionais modernos.
 
 ---
 
-# 📚 Volume 09 — Lakehouse
+## 📚 Volume 09 — Lakehouse
 
-## Objetivo
+### Objetivo
 
 Construir plataformas modernas utilizando tabelas transacionais.
 
-### Principais temas
+#### Principais temas
 
 - Apache Iceberg
 - Parquet
@@ -290,13 +290,13 @@ Construir plataformas modernas utilizando tabelas transacionais.
 
 ---
 
-# 📚 Volume 10 — Trino
+## 📚 Volume 10 — Trino
 
-## Objetivo
+### Objetivo
 
 Consultar dados distribuídos utilizando SQL.
 
-### Principais temas
+#### Principais temas
 
 - Catálogo
 - Conectores
@@ -305,13 +305,13 @@ Consultar dados distribuídos utilizando SQL.
 
 ---
 
-# 📚 Volume 11 — Apache Airflow
+## 📚 Volume 11 — Apache Airflow
 
-## Objetivo
+### Objetivo
 
 Orquestrar pipelines de dados.
 
-### Principais temas
+#### Principais temas
 
 - DAGs
 - Operators
@@ -321,7 +321,7 @@ Orquestrar pipelines de dados.
 
 ---
 
-# 📚 Volume 12 — Qualidade de Dados
+## 📚 Volume 12 — Qualidade de Dados
 
 ### Temas
 
@@ -332,7 +332,7 @@ Orquestrar pipelines de dados.
 
 ---
 
-# 📚 Volume 13 — Observabilidade
+## 📚 Volume 13 — Observabilidade
 
 ### Temas
 
@@ -344,7 +344,7 @@ Orquestrar pipelines de dados.
 
 ---
 
-# 📚 Volume 14 — Streaming
+## 📚 Volume 14 — Streaming
 
 ### Temas
 
@@ -354,7 +354,7 @@ Orquestrar pipelines de dados.
 
 ---
 
-# 📚 Volume 15 — Cloud
+## 📚 Volume 15 — Cloud
 
 ### Temas
 
@@ -366,7 +366,7 @@ Orquestrar pipelines de dados.
 
 ---
 
-# 📚 Volume 16 — DataOps
+## 📚 Volume 16 — DataOps
 
 ### Temas
 
@@ -378,7 +378,7 @@ Orquestrar pipelines de dados.
 
 ---
 
-# 📚 Volume 17 — Arquiteturas Avançadas
+## 📚 Volume 17 — Arquiteturas Avançadas
 
 ### Temas
 
@@ -389,7 +389,7 @@ Orquestrar pipelines de dados.
 
 ---
 
-# 📚 Volume 18 — Projeto Integrador
+## 📚 Volume 18 — Projeto Integrador
 
 Todo o conhecimento adquirido será consolidado em uma plataforma completa.
 
@@ -407,7 +407,7 @@ Você implementará uma solução contendo:
 
 ---
 
-# 🏗️ Dependências entre os Volumes
+## 🏗️ Dependências entre os Volumes
 
 ```mermaid
 flowchart LR
@@ -435,7 +435,7 @@ DataOps --> Projeto
 
 ---
 
-# 🎯 Marcos da Jornada
+## 🎯 Marcos da Jornada
 
 | Marco | Resultado |
 |--------|-----------|
@@ -449,7 +449,7 @@ DataOps --> Projeto
 
 ---
 
-# 🧭 Como estudar
+## 🧭 Como estudar
 
 Recomenda-se seguir esta sequência para cada volume:
 
@@ -463,7 +463,7 @@ Recomenda-se seguir esta sequência para cada volume:
 
 ---
 
-# 📈 A evolução esperada
+## 📈 A evolução esperada
 
 ```mermaid
 flowchart LR
@@ -486,7 +486,7 @@ ARQ --> PRO
 
 ---
 
-# 🔗 Veja Também
+## 🔗 Veja Também
 
 - [[MOC]]
 - [[Guia-Editorial|Guia Editorial]]
@@ -498,7 +498,7 @@ ARQ --> PRO
 
 ---
 
-# 📖 Resumo
+## 📖 Resumo
 
 A Academia foi planejada para desenvolver competências de forma progressiva.
 

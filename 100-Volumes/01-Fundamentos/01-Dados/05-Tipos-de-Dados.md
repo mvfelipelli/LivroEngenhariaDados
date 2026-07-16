@@ -27,7 +27,7 @@ updated: "2026-07-14"
 
 ---
 
-# Objetivo
+## Objetivo
 
 Ao concluir este capítulo você será capaz de:
 
@@ -38,7 +38,7 @@ Ao concluir este capítulo você será capaz de:
 
 ---
 
-# Introdução
+## Introdução
 
 Quando falamos em "dados", normalmente imaginamos apenas tabelas contendo números e textos.
 
@@ -63,7 +63,7 @@ O desafio está em tratá-los adequadamente.
 
 ---
 
-# Classificações dos dados
+## Classificações dos dados
 
 Existem diversas formas de classificar os dados.
 
@@ -71,7 +71,7 @@ Neste capítulo utilizaremos as classificações mais importantes para Engenhari
 
 ---
 
-# Dados Estruturados
+## Dados Estruturados
 
 São dados organizados segundo um esquema previamente definido.
 
@@ -100,7 +100,7 @@ Exemplos:
 
 ---
 
-# Dados Semiestruturados
+## Dados Semiestruturados
 
 Possuem organização parcial.
 
@@ -138,7 +138,7 @@ Tecnologias comuns:
 
 ---
 
-# Dados Não Estruturados
+## Dados Não Estruturados
 
 Não possuem uma estrutura tabular.
 
@@ -157,7 +157,7 @@ São responsáveis por grande parte do crescimento dos Data Lakes.
 
 ---
 
-# Comparação
+## Comparação
 
 | Característica | Estruturado | Semiestruturado | Não Estruturado |
 |----------------|-------------|-----------------|-----------------|
@@ -168,7 +168,7 @@ São responsáveis por grande parte do crescimento dos Data Lakes.
 
 ---
 
-# Dados Mestres (Master Data)
+## Dados Mestres (Master Data)
 
 Representam entidades fundamentais do negócio.
 
@@ -184,7 +184,7 @@ São relativamente estáveis e utilizados por diversos sistemas.
 
 ---
 
-# Dados Transacionais
+## Dados Transacionais
 
 Representam eventos de negócio.
 
@@ -204,7 +204,7 @@ Características:
 
 ---
 
-# Dados Analíticos
+## Dados Analíticos
 
 São produzidos para apoiar análises e tomada de decisão.
 
@@ -220,7 +220,7 @@ Normalmente estão presentes em Data Warehouses e Lakehouses.
 
 ---
 
-# Dados de Referência
+## Dados de Referência
 
 São conjuntos relativamente pequenos utilizados para padronizar outros dados.
 
@@ -237,7 +237,7 @@ Mudam pouco ao longo do tempo.
 
 ---
 
-# Dados Históricos
+## Dados Históricos
 
 São registros preservados para consultas futuras.
 
@@ -252,7 +252,7 @@ Permitem análises temporais e auditorias.
 
 ---
 
-# Dados em Tempo Real
+## Dados em Tempo Real
 
 São produzidos continuamente.
 
@@ -269,7 +269,7 @@ Normalmente exigem arquiteturas de streaming.
 
 ---
 
-# Como essa classificação influencia a arquitetura?
+## Como essa classificação influencia a arquitetura?
 
 ```mermaid
 flowchart TD
@@ -299,7 +299,7 @@ Observe que diferentes tipos de dados normalmente levam a arquiteturas distintas
 
 ---
 
-# Conexão com a prática
+## Conexão com a prática
 
 Na DataRetail S.A., encontramos exemplos de praticamente todas essas categorias.
 
@@ -318,7 +318,7 @@ Uma plataforma moderna precisa integrar todos esses formatos em um único ecossi
 
 ---
 
-# Decisão Arquitetural
+## Decisão Arquitetural
 
 > [!example]
 > **Cenário**
@@ -335,7 +335,7 @@ Uma plataforma moderna precisa integrar todos esses formatos em um único ecossi
 
 ---
 
-# Boas práticas
+## Boas práticas
 
 > [!tip]
 >
@@ -349,7 +349,7 @@ Uma plataforma moderna precisa integrar todos esses formatos em um único ecossi
 
 ---
 
-# Erros comuns
+## Erros comuns
 
 > [!warning]
 >
@@ -361,7 +361,7 @@ Uma plataforma moderna precisa integrar todos esses formatos em um único ecossi
 
 ---
 
-# Resumo Executivo
+## Resumo Executivo
 
 - Nem todos os dados possuem a mesma natureza.
 - A classificação correta influencia diretamente a arquitetura da solução.
@@ -371,7 +371,7 @@ Uma plataforma moderna precisa integrar todos esses formatos em um único ecossi
 
 ---
 
-# Conceitos-chave
+## Conceitos-chave
 
 - Dados Estruturados
 - Dados Semiestruturados
@@ -385,13 +385,13 @@ Uma plataforma moderna precisa integrar todos esses formatos em um único ecossi
 
 ---
 
-# Veja Também
+## Veja Também
 
-## Próximo capítulo
+### Próximo capítulo
 
 ➡️ [[06-Estruturacao-dos-Dados|06 - Estruturação dos Dados]]
 
-## Atlas
+### Atlas
 
 - [[Data-Lake|Data Lake]]
 - [[Lakehouse]]
@@ -399,7 +399,7 @@ Uma plataforma moderna precisa integrar todos esses formatos em um único ecossi
 - [[Apache-Iceberg|Apache Iceberg]]
 - [[Apache-Spark|Apache Spark]]
 
-## Volume
+### Volume
 
 - [[100-Volumes/01-Fundamentos/01-Dados/README]]
 

@@ -15,7 +15,7 @@ status: Oficial
 
 ---
 
-# 👋 Bem-vindo!
+## 👋 Bem-vindo!
 
 Esta Academia foi desenvolvida para ensinar Engenharia de Dados de forma progressiva, prática e baseada em projetos reais.
 
@@ -31,9 +31,9 @@ Aqui você encontrará:
 
 ---
 
-# 🚀 Comece por aqui
+## 🚀 Comece por aqui
 
-## Primeira vez?
+### Primeira vez?
 
 Siga esta ordem.
 
@@ -45,7 +45,7 @@ Siga esta ordem.
 
 ---
 
-# 📊 Progresso da Academia
+## 📊 Progresso da Academia
 
 | Área | Status |
 |------|:------:|
@@ -60,7 +60,7 @@ Siga esta ordem.
 
 ---
 
-# 📚 Volumes
+## 📚 Volumes
 
 | Volume | Tema | Status |
 |---------|------|:------:|
@@ -86,9 +86,9 @@ Siga esta ordem.
 
 ---
 
-# 🏛 Atlas
+## 🏛 Atlas
 
-## Navegação rápida
+### Navegação rápida
 
 - [[000-Atlas/MOC]]
 - [[000-Atlas/Roadmap]]
@@ -100,13 +100,13 @@ Siga esta ordem.
 
 ---
 
-# 📖 Biblioteca
+## 📖 Biblioteca
 
 - [[010-Biblioteca/README]]
 
 ---
 
-# 🧪 Laboratórios
+## 🧪 Laboratórios
 
 - Fundamentos
 - Linux
@@ -120,7 +120,7 @@ Siga esta ordem.
 
 ---
 
-# 🏗 Projeto Integrador
+## 🏗 Projeto Integrador
 
 Projeto oficial da Academia
 
@@ -134,7 +134,7 @@ Localização
 
 ---
 
-# 🎓 Certificações
+## 🎓 Certificações
 
 - Databricks
 
@@ -148,7 +148,7 @@ Localização
 
 ---
 
-# 📈 Estatísticas
+## 📈 Estatísticas
 
 > [!info]
 
@@ -166,29 +166,29 @@ Estas estatísticas serão atualizadas automaticamente pela CLI da Academia.
 
 ---
 
-# 📝 Minha Área de Estudos
+## 📝 Minha Área de Estudos
 
 Utilize esta seção para registrar seu progresso.
 
-## Estou estudando
+### Estou estudando
 
--
+- Conteúdo a adicionar.
 
-## Próximo capítulo
+### Próximo capítulo
 
--
+- Conteúdo a adicionar.
 
-## Dificuldades
+### Dificuldades
 
--
+- Conteúdo a adicionar.
 
-## Revisar
+### Revisar
 
--
+- Conteúdo a adicionar.
 
 ---
 
-# 📅 Sessão Atual
+## 📅 Sessão Atual
 
 Data:
 
@@ -200,7 +200,7 @@ Conclusão:
 
 ---
 
-# 🎯 Objetivos da Semana
+## 🎯 Objetivos da Semana
 
 - [ ]
 
@@ -214,7 +214,7 @@ Conclusão:
 
 ---
 
-# 📌 Tarefas Pendentes
+## 📌 Tarefas Pendentes
 
 - [ ]
 
@@ -226,31 +226,31 @@ Conclusão:
 
 ---
 
-# 🧠 Conceitos Recentes
+## 🧠 Conceitos Recentes
 
 Adicione aqui os conceitos aprendidos durante a semana.
 
--
+- Conteúdo a adicionar.
 
--
+- Conteúdo a adicionar.
 
--
+- Conteúdo a adicionar.
 
 ---
 
-# ⭐ Favoritos
+## ⭐ Favoritos
 
 Coloque aqui os links mais utilizados.
 
--
+- Conteúdo a adicionar.
 
--
+- Conteúdo a adicionar.
 
--
+- Conteúdo a adicionar.
 
 ---
 
-# 🔥 Graph View
+## 🔥 Graph View
 
 Abra o Graph View regularmente.
 
@@ -258,7 +258,7 @@ Ele mostrará como os conceitos da Academia estão conectados.
 
 ---
 
-# 🚀 Fluxo recomendado
+## 🚀 Fluxo recomendado
 
 ```mermaid
 flowchart LR
@@ -288,45 +288,45 @@ Projeto --> Revisão
 
 ---
 
-# 📚 Acesso Rápido
+## 📚 Acesso Rápido
 
-## Atlas
+### Atlas
 
 [[000-Atlas/MOC]]
 
 ---
 
-## Roadmap
+### Roadmap
 
 [[000-Atlas/Roadmap]]
 
 ---
 
-## Projeto
+### Projeto
 
 [[030-Projetos/DataRetail Platform/README]]
 
 ---
 
-## Biblioteca
+### Biblioteca
 
 [[010-Biblioteca/README]]
 
 ---
 
-## Laboratórios
+### Laboratórios
 
 020-Laboratorios
 
 ---
 
-## Certificações
+### Certificações
 
 040-Certificacoes
 
 ---
 
-# 🏁 Missão
+## 🏁 Missão
 
 Construir conhecimento sólido em Engenharia de Dados por meio de fundamentos, prática, projetos reais e aprendizado contínuo.
 

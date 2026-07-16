@@ -28,7 +28,7 @@ updated: "2026-07-14"
 
 ---
 
-# Objetivo
+## Objetivo
 
 Ao concluir este capítulo você será capaz de:
 
@@ -40,7 +40,7 @@ Ao concluir este capítulo você será capaz de:
 
 ---
 
-# Introdução
+## Introdução
 
 Imagine um dashboard financeiro mostrando que a empresa faturou **R$ 120 milhões** no último mês.
 
@@ -60,7 +60,7 @@ Esse exemplo demonstra uma das principais responsabilidades da Engenharia de Dad
 
 ---
 
-# O que é Qualidade dos Dados?
+## O que é Qualidade dos Dados?
 
 Qualidade dos Dados é o conjunto de características que tornam um dado adequado para seu propósito.
 
@@ -74,7 +74,7 @@ Existe dado **adequado ao contexto**.
 
 ---
 
-# Por que a qualidade é importante?
+## Por que a qualidade é importante?
 
 Dados são utilizados por:
 
@@ -98,11 +98,11 @@ Exemplos:
 
 ---
 
-# As principais dimensões da qualidade
+## As principais dimensões da qualidade
 
 Embora existam diferentes modelos, algumas dimensões são amplamente aceitas.
 
-## Precisão (Accuracy)
+### Precisão (Accuracy)
 
 O dado representa corretamente a realidade?
 
@@ -112,7 +112,7 @@ Cliente cadastrado com CPF correto.
 
 ---
 
-## Completude (Completeness)
+### Completude (Completeness)
 
 Todos os dados necessários estão presentes?
 
@@ -129,7 +129,7 @@ Caso o endereço esteja ausente, a completude é reduzida.
 
 ---
 
-## Consistência (Consistency)
+### Consistência (Consistency)
 
 O mesmo dado possui o mesmo significado em diferentes sistemas?
 
@@ -151,7 +151,7 @@ Existe uma inconsistência.
 
 ---
 
-## Atualidade (Timeliness)
+### Atualidade (Timeliness)
 
 O dado está atualizado?
 
@@ -163,7 +163,7 @@ Pode não representar a situação atual.
 
 ---
 
-## Unicidade (Uniqueness)
+### Unicidade (Uniqueness)
 
 Cada entidade deve aparecer apenas uma vez.
 
@@ -178,7 +178,7 @@ O cliente foi duplicado.
 
 ---
 
-## Validade (Validity)
+### Validade (Validity)
 
 O dado respeita as regras estabelecidas?
 
@@ -200,7 +200,7 @@ ABC123
 
 ---
 
-# Resumo das dimensões
+## Resumo das dimensões
 
 | Dimensão | Pergunta principal |
 |-----------|--------------------|
@@ -213,7 +213,7 @@ ABC123
 
 ---
 
-# Problemas comuns
+## Problemas comuns
 
 Durante projetos de Engenharia de Dados encontramos frequentemente:
 
@@ -229,7 +229,7 @@ Esses problemas precisam ser identificados antes que os dados sejam consumidos.
 
 ---
 
-# Como garantir qualidade?
+## Como garantir qualidade?
 
 Qualidade não é uma atividade isolada.
 
@@ -255,7 +255,7 @@ A --> B --> C --> D --> E --> F
 
 ---
 
-# Conexão com a prática
+## Conexão com a prática
 
 Na DataRetail S.A., um cliente pode comprar pelo:
 
@@ -275,7 +275,7 @@ Sem regras de qualidade e padronização, torna-se difícil consolidar o histór
 
 ---
 
-# Arquitetura em Foco
+## Arquitetura em Foco
 
 > [!example]
 > **Cenário**
@@ -292,7 +292,7 @@ Sem regras de qualidade e padronização, torna-se difícil consolidar o histór
 
 ---
 
-# Tecnologias por etapa
+## Tecnologias por etapa
 
 | Atividade | Tecnologias |
 |------------|-------------|
@@ -306,7 +306,7 @@ Nos volumes futuros veremos como essas ferramentas implementam controles de qual
 
 ---
 
-# Boas práticas
+## Boas práticas
 
 > [!tip]
 >
@@ -318,7 +318,7 @@ Nos volumes futuros veremos como essas ferramentas implementam controles de qual
 
 ---
 
-# Erros comuns
+## Erros comuns
 
 > [!warning]
 >
@@ -330,7 +330,7 @@ Nos volumes futuros veremos como essas ferramentas implementam controles de qual
 
 ---
 
-# Resumo Executivo
+## Resumo Executivo
 
 - Qualidade dos dados é essencial para decisões confiáveis.
 - Ela deve ser tratada durante todo o ciclo de vida dos dados.
@@ -340,7 +340,7 @@ Nos volumes futuros veremos como essas ferramentas implementam controles de qual
 
 ---
 
-# Conceitos-chave
+## Conceitos-chave
 
 - Data Quality
 - Precisão
@@ -354,13 +354,13 @@ Nos volumes futuros veremos como essas ferramentas implementam controles de qual
 
 ---
 
-# Veja Também
+## Veja Também
 
-## Próximo capítulo
+### Próximo capítulo
 
 ➡️ [[09-Metadados|09 - Metadados]]
 
-## Atlas
+### Atlas
 
 - [[Qualidade-de-Dados|Qualidade de Dados]]
 - [[Pipeline-de-Dados|Pipeline de Dados]]
@@ -368,7 +368,7 @@ Nos volumes futuros veremos como essas ferramentas implementam controles de qual
 - [[Apache-Airflow|Apache Airflow]]
 - Governança de Dados
 
-## Volume
+### Volume
 
 - [[100-Volumes/01-Fundamentos/01-Dados/README]]
 

@@ -22,7 +22,7 @@ description: "Capítulo técnico sobre O que é o Ciclo de Vida dos Dados na For
 
 ---
 
-# Introdução
+## Introdução
 
 Toda organização produz dados continuamente.
 
@@ -36,7 +36,7 @@ Essa jornada é denominada **Ciclo de Vida dos Dados**.
 
 ---
 
-# Definição
+## Definição
 
 Podemos definir o Ciclo de Vida dos Dados como:
 
@@ -58,7 +58,7 @@ Ele também envolve aspectos como:
 
 ---
 
-# Uma analogia simples
+## Uma analogia simples
 
 Uma maneira intuitiva de compreender esse conceito é compará-lo ao ciclo de vida de um documento físico.
 
@@ -84,7 +84,7 @@ A diferença é que praticamente todas essas etapas acontecem de forma automatiz
 
 ---
 
-# Uma visão contínua
+## Uma visão contínua
 
 O termo "ciclo" pode sugerir um processo linear.
 
@@ -129,7 +129,7 @@ Observe que existem retornos para etapas anteriores, ilustrando que os dados pod
 
 ---
 
-# Por que esse conceito é importante?
+## Por que esse conceito é importante?
 
 A Engenharia de Dados não consiste apenas em mover informações entre sistemas.
 
@@ -148,11 +148,11 @@ Essas perguntas aparecem diariamente em projetos corporativos.
 
 ---
 
-# Os objetivos do Ciclo de Vida dos Dados
+## Os objetivos do Ciclo de Vida dos Dados
 
 A adoção de um ciclo de vida bem definido permite atingir diversos objetivos.
 
-## Organizar o fluxo dos dados
+### Organizar o fluxo dos dados
 
 Cada etapa possui responsabilidades claramente definidas.
 
@@ -160,7 +160,7 @@ Isso reduz ambiguidades e facilita a manutenção das plataformas.
 
 ---
 
-## Garantir qualidade
+### Garantir qualidade
 
 Ao longo do ciclo são executadas validações capazes de identificar:
 
@@ -172,7 +172,7 @@ Ao longo do ciclo são executadas validações capazes de identificar:
 
 ---
 
-## Aumentar a confiabilidade
+### Aumentar a confiabilidade
 
 Quando todas as etapas são monitoradas, torna-se possível confiar nas informações produzidas pela organização.
 
@@ -180,7 +180,7 @@ Essa confiança é essencial para relatórios, indicadores e modelos analíticos
 
 ---
 
-## Facilitar a governança
+### Facilitar a governança
 
 Cada conjunto de dados passa a possuir:
 
@@ -193,7 +193,7 @@ Cada conjunto de dados passa a possuir:
 
 ---
 
-## Atender requisitos legais
+### Atender requisitos legais
 
 Diversas legislações exigem controles sobre todo o ciclo de vida dos dados.
 
@@ -209,11 +209,11 @@ Independentemente da legislação aplicável, todas exigem algum nível de contr
 
 ---
 
-# Características do ciclo
+## Características do ciclo
 
 Embora existam diferentes modelos, praticamente todos compartilham algumas características fundamentais.
 
-## É contínuo
+### É contínuo
 
 Novos dados são produzidos continuamente.
 
@@ -221,7 +221,7 @@ O ciclo nunca termina enquanto a organização estiver em operação.
 
 ---
 
-## É iterativo
+### É iterativo
 
 Os dados podem retornar para etapas anteriores diversas vezes.
 
@@ -231,7 +231,7 @@ Um algoritmo de Machine Learning pode gerar novos atributos que serão novamente
 
 ---
 
-## É escalável
+### É escalável
 
 Uma pequena empresa pode processar milhares de registros por dia.
 
@@ -241,7 +241,7 @@ O conceito permanece exatamente o mesmo.
 
 ---
 
-## É independente de tecnologia
+### É independente de tecnologia
 
 O ciclo de vida existe independentemente da ferramenta utilizada.
 
@@ -264,7 +264,7 @@ Enquanto tecnologias mudam rapidamente, o ciclo de vida permanece praticamente i
 
 ---
 
-# As principais etapas
+## As principais etapas
 
 Embora existam pequenas variações entre autores, este livro utilizará o modelo apresentado abaixo.
 
@@ -283,7 +283,7 @@ Cada uma dessas etapas será estudada detalhadamente nos próximos capítulos.
 
 ---
 
-# O papel da Engenharia de Dados
+## O papel da Engenharia de Dados
 
 A Engenharia de Dados atua em praticamente todas as etapas do ciclo.
 
@@ -303,7 +303,7 @@ Por esse motivo, compreender o ciclo de vida é uma das primeiras competências 
 
 ---
 
-# Exemplo prático
+## Exemplo prático
 
 Considere uma compra realizada em uma loja virtual.
 
@@ -347,7 +347,7 @@ O Engenheiro de Dados é responsável por garantir que todo o restante funcione 
 
 ---
 
-# Pontos-chave
+## Pontos-chave
 
 > [!success]
 > Ao estudar Engenharia de Dados, procure sempre responder:
@@ -364,7 +364,7 @@ Essas perguntas resumem praticamente todo o conceito de Ciclo de Vida dos Dados.
 
 ---
 
-# Resumo
+## Resumo
 
 Neste capítulo apresentamos o conceito de Ciclo de Vida dos Dados e sua importância para a Engenharia de Dados.
 
@@ -376,6 +376,6 @@ Nos próximos capítulos iniciaremos o estudo detalhado de cada etapa, começand
 
 ---
 
-# Próximo Capítulo
+## Próximo Capítulo
 
 ➡️ [[04-Geracao-e-Coleta-de-Dados]]

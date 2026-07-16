@@ -24,7 +24,7 @@ updated: "2026-07-14"
 
 ---
 
-# 📖 Visão Geral
+## 📖 Visão Geral
 
 Durante milhares de anos a humanidade produziu informações em um ritmo relativamente lento.
 
@@ -64,7 +64,7 @@ E, paradoxalmente, nunca tivemos tanta dificuldade em transformá-los em conheci
 
 ---
 
-# 🌎 A Sociedade Orientada por Dados
+## 🌎 A Sociedade Orientada por Dados
 
 Vivemos na chamada **Data-Driven Society**.
 
@@ -89,7 +89,7 @@ Essa mudança alterou profundamente diversos setores.
 
 ---
 
-# 📈 O Crescimento Exponencial dos Dados
+## 📈 O Crescimento Exponencial dos Dados
 
 O crescimento da produção de dados não ocorre de forma linear.
 
@@ -132,13 +132,13 @@ Cada avanço tecnológico ampliou significativamente a quantidade de informaçõ
 
 ---
 
-# 📊 Os 5 Vs do Big Data
+## 📊 Os 5 Vs do Big Data
 
 À medida que o volume de dados aumentou, tornou-se evidente que o desafio não era apenas armazená-los.
 
 Surgiu então o conceito dos **5 Vs do Big Data**.
 
-## Volume
+### Volume
 
 Grandes quantidades de dados.
 
@@ -150,7 +150,7 @@ Exabytes.
 
 ---
 
-## Velocidade
+### Velocidade
 
 Dados sendo produzidos continuamente.
 
@@ -162,7 +162,7 @@ Sensores.
 
 ---
 
-## Variedade
+### Variedade
 
 Os dados deixaram de ser apenas tabelas.
 
@@ -179,7 +179,7 @@ Hoje trabalhamos com:
 
 ---
 
-## Veracidade
+### Veracidade
 
 Nem todo dado é confiável.
 
@@ -193,7 +193,7 @@ Esses problemas justificam a existência de processos de [[Qualidade-de-Dados|Qu
 
 ---
 
-## Valor
+### Valor
 
 O objetivo nunca foi armazenar dados.
 
@@ -204,9 +204,9 @@ O objetivo sempre foi gerar valor para o negócio.
 
 ---
 
-# 🏢 Estudo de Caso
+## 🏢 Estudo de Caso
 
-## DataRetail S.A.
+### DataRetail S.A.
 
 Imagine uma rede varejista presente em todo o país.
 
@@ -244,7 +244,7 @@ Responder essa pergunta exige integrar informações provenientes de diferentes 
 
 ---
 
-# ⚠️ O Novo Desafio
+## ⚠️ O Novo Desafio
 
 No passado o problema era:
 
@@ -266,7 +266,7 @@ Essas perguntas representam o dia a dia da [[Engenharia-de-Dados|Engenharia de D
 
 ---
 
-# 🔗 Conexões com os próximos capítulos
+## 🔗 Conexões com os próximos capítulos
 
 Nos próximos capítulos veremos como essa explosão de dados levou ao surgimento de novas tecnologias e arquiteturas.
 
@@ -274,7 +274,7 @@ Essas transformações culminaram no nascimento da profissão de [[Engenheiro-de
 
 ---
 
-# 📚 Veja Também
+## 📚 Veja Também
 
 - [[Engenharia-de-Dados|Engenharia de Dados]]
 - [[Big-Data|Big Data]]
@@ -288,6 +288,7 @@ Essas transformações culminaram no nascimento da profissão de [[Engenheiro-de
 ---
 
 > [!summary]
+>
 > ## Resumo
 >
 > A sociedade moderna produz dados em uma escala nunca antes observada.
@@ -298,7 +299,7 @@ Essas transformações culminaram no nascimento da profissão de [[Engenheiro-de
 
 ---
 
-## Navegação
+### Navegação
 
 ← [[02-Introducao|02 - Introducao]]
 
