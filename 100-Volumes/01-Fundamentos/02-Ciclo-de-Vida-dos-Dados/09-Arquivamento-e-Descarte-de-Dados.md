@@ -483,4 +483,4 @@ Neste capítulo aprendemos que:
 
 ## Próximo Capítulo
 
-➡️ 10 — Estudo de Caso: Ciclo de Vida na DataRetail S.A.
+➡️ [[10-Estudo-de-Caso-DataRetail|10 — Estudo de Caso: Ciclo de Vida na DataRetail S.A.]]

@@ -122,8 +122,8 @@ Status:
 Situação:
 
 * README concluído.
-* Capítulos técnicos 01 a 09 desenvolvidos.
-* O próximo componente é `10-Estudo-de-Caso-DataRetail.md`.
+* Capítulos técnicos 01 a 09 e estudo de caso desenvolvidos.
+* O próximo componente é `11-Resumo.md`.
 * Módulo ainda não finalizado.
 
 ---

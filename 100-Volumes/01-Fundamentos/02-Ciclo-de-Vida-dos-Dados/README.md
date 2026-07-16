@@ -95,7 +95,7 @@ Este módulo está organizado em uma sequência lógica.
 
 ### Aplicação
 
-- 10-Estudo-de-Caso-DataRetail
+- [[10-Estudo-de-Caso-DataRetail]]
 
 ---
 

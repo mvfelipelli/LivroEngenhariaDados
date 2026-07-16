@@ -116,7 +116,7 @@ Status: 🚧 Em desenvolvimento
 
 ### Ponto de continuidade
 
-Os capítulos técnicos 01 a 09 do Módulo 02 foram concluídos. O próximo conteúdo a ser produzido é `10-Estudo-de-Caso-DataRetail.md`; depois dele, devem ser concluídos os componentes de revisão e prática do módulo.
+Os capítulos técnicos 01 a 09 e o estudo de caso do Módulo 02 foram concluídos. O próximo conteúdo a ser produzido é `11-Resumo.md`; depois dele, devem ser concluídos os demais componentes de revisão e prática do módulo.
 
 ---
 

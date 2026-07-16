@@ -231,11 +231,11 @@ Status:
 
 🚧 Em desenvolvimento
 
-Os capítulos técnicos 01 a 09 já foram produzidos.
+Os capítulos técnicos 01 a 09 e o estudo de caso já foram produzidos.
 
 O módulo ainda não foi concluído.
 
-O próximo arquivo é `10-Estudo-de-Caso-DataRetail.md`.
+O próximo arquivo é `11-Resumo.md`.
 
 ---
 
