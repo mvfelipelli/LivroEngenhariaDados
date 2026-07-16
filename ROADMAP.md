@@ -116,7 +116,7 @@ Status: 🚧 Em desenvolvimento
 
 ### Ponto de continuidade
 
-Os capítulos técnicos, o estudo de caso e o resumo do Módulo 02 foram concluídos. O próximo conteúdo a ser produzido é `12-Perguntas-de-Entrevista.md`; depois dele, devem ser concluídos os demais componentes de revisão e prática do módulo.
+Os capítulos técnicos, o estudo de caso, o resumo e as perguntas de entrevista do Módulo 02 foram concluídos. O próximo conteúdo a ser produzido é `13-Exercicios.md`; depois dele, devem ser concluídos o gabarito, o laboratório, a solução e as referências.
 
 ---
 

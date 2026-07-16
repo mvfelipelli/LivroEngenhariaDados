@@ -122,8 +122,8 @@ Status:
 Situação:
 
 * README concluído.
-* Capítulos técnicos 01 a 09, estudo de caso e resumo desenvolvidos.
-* O próximo componente é `12-Perguntas-de-Entrevista.md`.
+* Capítulos técnicos 01 a 09, estudo de caso, resumo e perguntas de entrevista desenvolvidos.
+* O próximo componente é `13-Exercicios.md`.
 * Módulo ainda não finalizado.
 
 ---

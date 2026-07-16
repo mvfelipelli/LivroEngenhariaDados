@@ -231,11 +231,11 @@ Status:
 
 🚧 Em desenvolvimento
 
-Os capítulos técnicos 01 a 09, o estudo de caso e o resumo já foram produzidos.
+Os capítulos técnicos 01 a 09, o estudo de caso, o resumo e as perguntas de entrevista já foram produzidos.
 
 O módulo ainda não foi concluído.
 
-O próximo arquivo é `12-Perguntas-de-Entrevista.md`.
+O próximo arquivo é `13-Exercicios.md`.
 
 ---
 

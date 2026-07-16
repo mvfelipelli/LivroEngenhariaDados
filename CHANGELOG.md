@@ -53,6 +53,7 @@ As alterações são classificadas nas seguintes categorias:
 * Capítulo `09-Arquivamento-e-Descarte-de-Dados.md` desenvolvido com retenção, recuperação, legal hold, exclusão segura, backups e evidências de descarte.
 * Estudo de caso do Módulo 02 desenvolvido com o ciclo completo dos dados de pedidos da DataRetail S.A., incluindo requisitos, controles, incidente e critérios de aceite.
 * Resumo do Módulo 02 adicionado com mapa conceitual, controles transversais, matriz de decisões, checklist e autoavaliação.
+* Perguntas de entrevista do Módulo 02 adicionadas em níveis progressivos, com respostas fundamentadas e cenários de diagnóstico e arquitetura.
 
 ## Planned
 
