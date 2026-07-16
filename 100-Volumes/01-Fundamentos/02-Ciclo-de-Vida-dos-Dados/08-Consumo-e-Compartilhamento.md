@@ -607,4 +607,4 @@ Neste capítulo aprendemos que:
 
 ## Próximo Capítulo
 
-➡️ 09 — Arquivamento e Descarte de Dados
+➡️ [[09-Arquivamento-e-Descarte-de-Dados|09 — Arquivamento e Descarte de Dados]]

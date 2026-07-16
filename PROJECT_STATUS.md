@@ -122,8 +122,8 @@ Status:
 Situação:
 
 * README concluído.
-* Capítulos 01 a 08 desenvolvidos.
-* O próximo capítulo é `09-Arquivamento-e-Descarte-de-Dados.md`.
+* Capítulos técnicos 01 a 09 desenvolvidos.
+* O próximo componente é `10-Estudo-de-Caso-DataRetail.md`.
 * Módulo ainda não finalizado.
 
 ---

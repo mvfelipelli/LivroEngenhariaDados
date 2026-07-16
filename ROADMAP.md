@@ -116,7 +116,7 @@ Status: 🚧 Em desenvolvimento
 
 ### Ponto de continuidade
 
-Os capítulos `07-Processamento-de-Dados.md` e `08-Consumo-e-Compartilhamento.md` foram concluídos. O próximo conteúdo a ser produzido é `09-Arquivamento-e-Descarte-de-Dados.md`, no Módulo 02. Depois dele, devem ser concluídos os componentes obrigatórios do módulo.
+Os capítulos técnicos 01 a 09 do Módulo 02 foram concluídos. O próximo conteúdo a ser produzido é `10-Estudo-de-Caso-DataRetail.md`; depois dele, devem ser concluídos os componentes de revisão e prática do módulo.
 
 ---
 

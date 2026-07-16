@@ -89,7 +89,7 @@ Este módulo está organizado em uma sequência lógica.
 - [[06-Armazenamento-de-Dados]]
 - [[07-Processamento-de-Dados]]
 - [[08-Consumo-e-Compartilhamento]]
-- 09-Arquivamento-e-Descarte
+- [[09-Arquivamento-e-Descarte-de-Dados]]
 
 ---
 
