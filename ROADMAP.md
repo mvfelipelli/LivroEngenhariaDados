@@ -103,7 +103,7 @@ Status: 🚧 Em desenvolvimento
 | ------ | ------ |
 | 01 — Dados | ✅ Concluído |
 | 02 — Ciclo de Vida dos Dados | ✅ Concluído |
-| 03 — Bancos de Dados | ⏳ Planejado |
+| 03 — Bancos de Dados | ✅ Concluído |
 | 04 — Modelagem | ⏳ Planejado |
 | 05 — ETL | ⏳ Planejado |
 | 06 — ELT | ⏳ Planejado |
@@ -116,7 +116,7 @@ Status: 🚧 Em desenvolvimento
 
 ### Ponto de continuidade
 
-O Módulo 02 — Ciclo de Vida dos Dados foi concluído com todos os componentes obrigatórios. O próximo trabalho é estruturar e iniciar o Módulo 03 — Bancos de Dados, preservando o padrão editorial vigente.
+O Módulo 03 — Bancos de Dados foi concluído com todos os componentes obrigatórios. O próximo trabalho é estruturar e iniciar o Módulo 04 — Modelagem, preservando o padrão editorial vigente.
 
 ---
 

@@ -128,6 +128,21 @@ Situação:
 
 ---
 
+### Módulo 03 — Bancos de Dados
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Fundamentos, modelos e arquitetura interna concluídos.
+* Transações, concorrência, recuperação, índices e desempenho concluídos.
+* Estudo de caso, revisão, exercícios e perguntas de entrevista concluídos.
+* Laboratório SQLite, solução executável e referências concluídos.
+
+---
+
 ## Volumes 02 a 18
 
 Status:
@@ -147,7 +162,7 @@ Volume 01
 
 ↓
 
-Módulo 03 — Bancos de Dados
+Módulo 04 — Modelagem
 
 ↓
 
@@ -171,7 +186,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Módulo 03.
+* Estruturar e iniciar o Módulo 04.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -270,7 +285,7 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 03 — Bancos de Dados.**
+**Estruturar e iniciar o Módulo 04 — Modelagem.**
 
 Após sua conclusão:
 
@@ -291,6 +306,7 @@ Após sua conclusão:
 | Volume 01 iniciado                | ✅      |
 | Módulo 01 concluído               | ✅      |
 | Módulo 02 concluído               | ✅      |
+| Módulo 03 concluído               | ✅      |
 | Primeira versão pública           | ⏳      |
 
 ---

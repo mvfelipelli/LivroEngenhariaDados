@@ -233,7 +233,15 @@ Status:
 
 O módulo possui todos os capítulos técnicos e componentes obrigatórios concluídos.
 
-O próximo trabalho é estruturar e iniciar o Módulo 03 — Bancos de Dados.
+#### Módulo 03 — Bancos de Dados
+
+Status:
+
+✅ Concluído
+
+O módulo possui fundamentos, arquitetura interna, transações, concorrência, recuperação, índices, estudo de caso, exercícios e laboratório reproduzível com SQLite.
+
+O próximo trabalho é estruturar e iniciar o Módulo 04 — Modelagem.
 
 ---
 
@@ -243,7 +251,7 @@ Concluir integralmente:
 
 **Volume 01 — Fundamentos**
 
-**Módulo 03 — Bancos de Dados**
+**Módulo 04 — Modelagem**
 
 Após sua conclusão:
 

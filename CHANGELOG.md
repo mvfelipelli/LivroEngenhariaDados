@@ -59,6 +59,11 @@ As alterações são classificadas nas seguintes categorias:
 * Solução do laboratório validada quanto a contagens, integridade e idempotência.
 * Referências oficiais e bibliográficas do Módulo 02 consolidadas.
 * Módulo 02 — Ciclo de Vida dos Dados marcado como concluído.
+* Módulo 03 — Bancos de Dados desenvolvido com fundamentos, modelos, armazenamento interno, transações, concorrência, recuperação, índices e desempenho.
+* Estudo de caso da DataRetail S.A., resumo, perguntas de entrevista, exercícios e gabarito do Módulo 03 adicionados.
+* Laboratório reproduzível com SQLite adicionado e solução validada quanto a integridade, rollback, estoque e uso de índice.
+* Referências oficiais e bibliográficas do Módulo 03 consolidadas.
+* Módulo 03 — Bancos de Dados marcado como concluído.
 
 ## Planned
 
