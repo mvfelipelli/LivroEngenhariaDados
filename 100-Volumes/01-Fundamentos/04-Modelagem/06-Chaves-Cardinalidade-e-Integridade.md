@@ -335,4 +335,4 @@ Um relacionamento muitos-para-muitos inesperado multiplica linhas e valores agre
 
 ## Próximo Capítulo
 
-➡️ **07 — Normalização e Dependências**
+➡️ [[07-Normalizacao-e-Dependencias|07 — Normalização e Dependências]]

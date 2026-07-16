@@ -157,7 +157,8 @@ Situação:
 * Capítulo 04 — Níveis Conceitual, Lógico e Físico concluído.
 * Capítulo 05 — Entidades, Atributos e Relacionamentos concluído.
 * Capítulo 06 — Chaves, Cardinalidade e Integridade concluído.
-* Próximo arquivo: `07-Normalizacao-e-Dependencias.md`.
+* Capítulo 07 — Normalização e Dependências concluído.
+* Próximo arquivo: `08-Modelagem-Transacional-e-Analitica.md`.
 
 ---
 
@@ -184,7 +185,7 @@ Módulo 04 — Modelagem
 
 ↓
 
-Desenvolver o capítulo 07 — Normalização e Dependências
+Desenvolver o capítulo 08 — Modelagem Transacional e Analítica
 
 ↓
 
@@ -303,7 +304,7 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Desenvolver o capítulo 07 — Normalização e Dependências.**
+**Desenvolver o capítulo 08 — Modelagem Transacional e Analítica.**
 
 Após sua conclusão:
 

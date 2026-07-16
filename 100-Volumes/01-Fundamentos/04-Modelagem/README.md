@@ -35,7 +35,7 @@ description: "Fundamentos para representar domínios, regras, relacionamentos e 
 - [[04-Niveis-Conceitual-Logico-e-Fisico]]
 - [[05-Entidades-Atributos-e-Relacionamentos]]
 - [[06-Chaves-Cardinalidade-e-Integridade]]
-- 07 — Normalização e Dependências
+- [[07-Normalizacao-e-Dependencias]]
 - 08 — Modelagem Transacional e Analítica
 - 09 — Evolução, Trade-offs e Governança
 

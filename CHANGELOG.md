@@ -69,6 +69,7 @@ As alterações são classificadas nas seguintes categorias:
 * Capítulo 04 do Módulo 04 desenvolvido com níveis conceitual, lógico e físico, transformação, rastreabilidade e exemplo SQL da DataRetail S.A.
 * Capítulo 05 do Módulo 04 desenvolvido com entidades, atributos, relacionamentos, associações temporais e entregas parciais da DataRetail S.A.
 * Capítulo 06 do Módulo 04 desenvolvido com chaves, resolução de identidade, cardinalidade, integridade referencial e invariantes em Bancos de Dados e pipelines.
+* Capítulo 07 do Módulo 04 desenvolvido com dependências funcionais, formas normais, decomposição sem perda, preservação de dependências e desnormalização consciente.
 
 ## Planned
 
