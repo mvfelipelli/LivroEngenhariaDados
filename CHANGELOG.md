@@ -49,6 +49,7 @@ As alterações são classificadas nas seguintes categorias:
 * Dívida histórica de Markdown eliminada nos documentos do Vault.
 * Validação completa do Vault promovida a etapa bloqueante do CI.
 * Capítulo `07-Processamento-de-Dados.md` do Módulo 02 desenvolvido com fundamentos de transformação, ETL, ELT, batch, streaming e confiabilidade operacional.
+* Capítulo `08-Consumo-e-Compartilhamento.md` desenvolvido com produtos de dados, contratos, interfaces de consumo, níveis de serviço, segurança e privacidade.
 
 ## Planned
 

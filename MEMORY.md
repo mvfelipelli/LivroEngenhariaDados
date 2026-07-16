@@ -231,11 +231,11 @@ Status:
 
 🚧 Em desenvolvimento
 
-Os capítulos 01 a 07 já foram produzidos.
+Os capítulos 01 a 08 já foram produzidos.
 
 O módulo ainda não foi concluído.
 
-O próximo arquivo é `08-Consumo-e-Compartilhamento.md`.
+O próximo arquivo é `09-Arquivamento-e-Descarte-de-Dados.md`.
 
 ---
 

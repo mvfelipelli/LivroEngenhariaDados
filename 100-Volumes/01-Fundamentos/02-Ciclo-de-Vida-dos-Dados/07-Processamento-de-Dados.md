@@ -552,4 +552,4 @@ Neste capítulo aprendemos que:
 
 ## Próximo Capítulo
 
-➡️ 08 — Consumo e Compartilhamento
+➡️ [[08-Consumo-e-Compartilhamento|08 — Consumo e Compartilhamento]]

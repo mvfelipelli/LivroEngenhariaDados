@@ -116,7 +116,7 @@ Status: 🚧 Em desenvolvimento
 
 ### Ponto de continuidade
 
-O capítulo `07-Processamento-de-Dados.md` foi concluído. O próximo conteúdo a ser produzido é `08-Consumo-e-Compartilhamento.md`, no Módulo 02. Depois dele, devem ser concluídos os capítulos técnicos e os componentes obrigatórios do módulo.
+Os capítulos `07-Processamento-de-Dados.md` e `08-Consumo-e-Compartilhamento.md` foram concluídos. O próximo conteúdo a ser produzido é `09-Arquivamento-e-Descarte-de-Dados.md`, no Módulo 02. Depois dele, devem ser concluídos os componentes obrigatórios do módulo.
 
 ---
 

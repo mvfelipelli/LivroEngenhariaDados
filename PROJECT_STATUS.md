@@ -122,8 +122,8 @@ Status:
 Situação:
 
 * README concluído.
-* Capítulos 01 a 07 desenvolvidos.
-* O próximo capítulo é `08-Consumo-e-Compartilhamento.md`.
+* Capítulos 01 a 08 desenvolvidos.
+* O próximo capítulo é `09-Arquivamento-e-Descarte-de-Dados.md`.
 * Módulo ainda não finalizado.
 
 ---
