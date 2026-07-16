@@ -70,6 +70,10 @@ As alterações são classificadas nas seguintes categorias:
 * Capítulo 05 do Módulo 04 desenvolvido com entidades, atributos, relacionamentos, associações temporais e entregas parciais da DataRetail S.A.
 * Capítulo 06 do Módulo 04 desenvolvido com chaves, resolução de identidade, cardinalidade, integridade referencial e invariantes em Bancos de Dados e pipelines.
 * Capítulo 07 do Módulo 04 desenvolvido com dependências funcionais, formas normais, decomposição sem perda, preservação de dependências e desnormalização consciente.
+* Capítulo 08 do Módulo 04 desenvolvido com diferenças entre OLTP e OLAP, grão, fatos, dimensões, aditividade e histórico.
+* Capítulo 09 do Módulo 04 desenvolvido com compatibilidade, migração de schema, backfill, trade-offs e governança.
+* Estudo de caso da DataRetail S.A. adicionado com modelos operacional e analítico, entregas parciais, invariantes e testes de aceite.
+* Resumo e 28 perguntas de entrevista do Módulo 04 adicionados.
 
 ## Planned
 

@@ -158,7 +158,9 @@ Situação:
 * Capítulo 05 — Entidades, Atributos e Relacionamentos concluído.
 * Capítulo 06 — Chaves, Cardinalidade e Integridade concluído.
 * Capítulo 07 — Normalização e Dependências concluído.
-* Próximo arquivo: `08-Modelagem-Transacional-e-Analitica.md`.
+* Capítulos 08 — Modelagem Transacional e Analítica e 09 — Evolução, Trade-offs e Governança concluídos.
+* Estudo de caso, resumo e perguntas de entrevista concluídos.
+* Próximos arquivos: `13-Exercicios.md` e `13-Gabarito.md`.
 
 ---
 
@@ -185,7 +187,7 @@ Módulo 04 — Modelagem
 
 ↓
 
-Desenvolver o capítulo 08 — Modelagem Transacional e Analítica
+Desenvolver os exercícios e o gabarito do Módulo 04
 
 ↓
 
@@ -304,7 +306,7 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Desenvolver o capítulo 08 — Modelagem Transacional e Analítica.**
+**Desenvolver os exercícios e o gabarito do Módulo 04 — Modelagem.**
 
 Após sua conclusão:
 

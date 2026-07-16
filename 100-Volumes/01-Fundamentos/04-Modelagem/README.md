@@ -36,14 +36,14 @@ description: "Fundamentos para representar domínios, regras, relacionamentos e 
 - [[05-Entidades-Atributos-e-Relacionamentos]]
 - [[06-Chaves-Cardinalidade-e-Integridade]]
 - [[07-Normalizacao-e-Dependencias]]
-- 08 — Modelagem Transacional e Analítica
-- 09 — Evolução, Trade-offs e Governança
+- [[08-Modelagem-Transacional-e-Analitica]]
+- [[09-Evolucao-Trade-offs-e-Governanca]]
 
-### Aplicação e revisão planejada
+### Aplicação e revisão
 
-- 10 — Estudo de Caso DataRetail
-- 11 — Resumo
-- 12 — Perguntas de Entrevista
+- [[10-Estudo-de-Caso-DataRetail]]
+- [[11-Resumo]]
+- [[12-Perguntas-de-Entrevista]]
 - 13 — Exercícios
 - 13 — Gabarito
 - 14 — Laboratório

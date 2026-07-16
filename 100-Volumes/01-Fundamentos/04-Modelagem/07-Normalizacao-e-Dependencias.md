@@ -370,4 +370,4 @@ Formas normais tratam dependências específicas. Temporalidade, segurança, car
 
 ## Próximo Capítulo
 
-➡️ **08 — Modelagem Transacional e Analítica**
+➡️ [[08-Modelagem-Transacional-e-Analitica|08 — Modelagem Transacional e Analítica]]

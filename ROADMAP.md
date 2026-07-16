@@ -116,7 +116,7 @@ Status: 🚧 Em desenvolvimento
 
 ### Ponto de continuidade
 
-O capítulo 07 — Normalização e Dependências foi concluído. O próximo trabalho é desenvolver o capítulo 08 — Modelagem Transacional e Analítica.
+Os capítulos técnicos 08 e 09, o estudo de caso, o resumo e as perguntas de entrevista do Módulo 04 foram concluídos. O próximo trabalho é desenvolver os exercícios e o gabarito.
 
 ---
 
