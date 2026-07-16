@@ -273,7 +273,15 @@ Status:
 
 O módulo possui DAGs, batch, streaming, orquestração, backfill, estado, idempotência, observabilidade, SLOs e laboratório reproduzível.
 
-O próximo trabalho é estruturar e iniciar o Módulo 08 — Arquiteturas.
+#### Módulo 08 — Arquiteturas
+
+Status:
+
+✅ Concluído
+
+O módulo possui requisitos, trade-offs, estilos, eventos, Warehouse, Lake, Lakehouse, Data Mesh, Data Fabric, ADRs e laboratório reproduzível.
+
+O próximo trabalho é estruturar e iniciar o Módulo 09 — Qualidade.
 
 ---
 
@@ -283,7 +291,7 @@ Concluir integralmente:
 
 **Volume 01 — Fundamentos**
 
-**Módulo 08 — Arquiteturas**
+**Módulo 09 — Qualidade**
 
 Após sua conclusão:
 

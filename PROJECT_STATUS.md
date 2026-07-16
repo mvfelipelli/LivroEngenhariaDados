@@ -206,6 +206,20 @@ Situação:
 
 ---
 
+### Módulo 08 — Arquiteturas
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Requisitos, atributos de qualidade, trade-offs, estilos e componentes concluídos.
+* Batch, eventos, Warehouse, Lake, Lakehouse, Data Mesh e Data Fabric concluídos.
+* ADRs, evolução, estudo de caso, revisão, exercícios e laboratório concluídos.
+
+---
+
 ## Volumes 02 a 18
 
 Status:
@@ -225,11 +239,11 @@ Volume 01
 
 ↓
 
-Módulo 08 — Arquiteturas
+Módulo 09 — Qualidade
 
 ↓
 
-Definir fundamentos, estilos, trade-offs e decisões arquiteturais
+Definir dimensões, contratos, testes e operação da qualidade de dados
 
 ↓
 
@@ -249,7 +263,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Módulo 07.
+* Estruturar e iniciar o Módulo 09.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -348,7 +362,7 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 08 — Arquiteturas.**
+**Estruturar e iniciar o Módulo 09 — Qualidade.**
 
 Após sua conclusão:
 
@@ -374,6 +388,7 @@ Após sua conclusão:
 | Módulo 05 concluído               | ✅      |
 | Módulo 06 concluído               | ✅      |
 | Módulo 07 concluído               | ✅      |
+| Módulo 08 concluído               | ✅      |
 | Primeira versão pública           | ⏳      |
 
 ---

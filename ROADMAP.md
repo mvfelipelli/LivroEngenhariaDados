@@ -108,7 +108,7 @@ Status: 🚧 Em desenvolvimento
 | 05 — ETL | ✅ Concluído |
 | 06 — ELT | ✅ Concluído |
 | 07 — Pipelines | ✅ Concluído |
-| 08 — Arquiteturas | ⏳ Planejado |
+| 08 — Arquiteturas | ✅ Concluído |
 | 09 — Qualidade | ⏳ Planejado |
 | 10 — Governança | ⏳ Planejado |
 | 11 — Observabilidade | ⏳ Planejado |
@@ -116,7 +116,7 @@ Status: 🚧 Em desenvolvimento
 
 ### Ponto de continuidade
 
-O Módulo 07 — Pipelines foi concluído com todos os componentes obrigatórios. O próximo trabalho é estruturar e iniciar o Módulo 08 — Arquiteturas.
+O Módulo 08 — Arquiteturas foi concluído com todos os componentes obrigatórios. O próximo trabalho é estruturar e iniciar o Módulo 09 — Qualidade.
 
 ---
 

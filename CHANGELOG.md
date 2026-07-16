@@ -90,6 +90,11 @@ As alterações são classificadas nas seguintes categorias:
 * Estudo de caso, resumo, entrevistas, exercícios e gabarito do Módulo 07 adicionados.
 * Laboratório de pipeline em Python e SQLite adicionado com executor de DAG, quarentena, auditoria, upsert e reconciliação.
 * Referências do Módulo 07 consolidadas e módulo marcado como concluído.
+* Módulo 08 — Arquiteturas desenvolvido com requisitos, atributos de qualidade, estilos, eventos e arquiteturas analíticas.
+* Data Warehouse, Data Lake, Lakehouse, Data Mesh, Data Fabric, ADRs e evolução arquitetural consolidados.
+* Estudo de caso, revisão, entrevistas, exercícios e gabarito do Módulo 08 adicionados.
+* Laboratório em Python e SQLite adicionado com matriz ponderada, fitness functions e persistência idempotente de ADR.
+* Referências do Módulo 08 consolidadas e módulo marcado como concluído.
 
 ## Planned
 
