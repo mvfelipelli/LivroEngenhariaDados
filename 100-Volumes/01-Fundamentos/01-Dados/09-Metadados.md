@@ -7,7 +7,7 @@ volume: 01
 module: 01
 chapter: 09
 type: chapter
-status: Em desenvolvimento
+status: Concluído
 tags:
   - fundamentos
   - metadados

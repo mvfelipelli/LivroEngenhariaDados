@@ -41,6 +41,9 @@ As alterações são classificadas nas seguintes categorias:
 * Validador de Wikilinks ajustado à resolução por caminhos abreviados do Obsidian e a blocos de código.
 * Ferramenta adicionada para redirecionar Wikilinks a destinos existentes e remover vínculos sem página correspondente.
 * Validação de Wikilinks promovida a etapa bloqueante do CI após eliminação dos links sem destino.
+* Validador estrutural ajustado para exigir componentes obrigatórios somente de módulos declarados como concluídos.
+* Status do Módulo 01 — Dados e de seus documentos alinhado ao ROADMAP como concluído.
+* Validação estrutural de módulos concluídos promovida a etapa bloqueante do CI.
 
 ## Planned
 

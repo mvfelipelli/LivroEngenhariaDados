@@ -7,7 +7,7 @@ volume: 01
 module: 01
 chapter: 03
 type: chapter
-status: Em desenvolvimento
+status: Concluído
 tags:
   - fundamentos
   - dados
@@ -345,4 +345,3 @@ Essas perguntas orientam o desenho de qualquer solução de Engenharia de Dados.
 
 > [!summary]
 > Dados são registros de fatos ou eventos. Seu valor não está apenas no conteúdo, mas na capacidade de serem organizados, contextualizados e transformados em informação para apoiar decisões. Toda a Engenharia de Dados existe para tornar esse processo possível de forma escalável, confiável e eficiente.
-

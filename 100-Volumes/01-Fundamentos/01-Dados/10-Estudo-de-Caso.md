@@ -7,7 +7,7 @@ volume: 01
 module: 01
 chapter: 10
 type: case-study
-status: Em desenvolvimento
+status: Concluído
 tags:
   - estudo-de-caso
   - projeto-integrador

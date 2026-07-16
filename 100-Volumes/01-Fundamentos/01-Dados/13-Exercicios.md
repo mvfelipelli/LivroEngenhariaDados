@@ -6,7 +6,7 @@ volume: 01
 module: 01
 chapter: 13
 type: exercises
-status: Em desenvolvimento
+status: Concluído
 tags:
   - exercícios
   - revisão
@@ -351,4 +351,3 @@ Considere este módulo concluído quando você conseguir:
 
 > [!success]
 > Os exercícios deste módulo foram elaborados para desenvolver não apenas conhecimento conceitual, mas também a capacidade de analisar problemas, justificar decisões e pensar como um Engenheiro de Dados.
-

@@ -7,7 +7,7 @@ volume: 01
 module: 01
 chapter: 07
 type: chapter
-status: Em desenvolvimento
+status: Concluído
 tags:
   - fundamentos
   - dados
@@ -384,4 +384,3 @@ Perceba que uma única venda pode passar por diversas tecnologias ao longo de se
 
 > [!summary]
 > O ciclo de vida dos dados descreve a jornada completa que um dado percorre desde sua criação até seu descarte. Compreender esse ciclo é essencial para projetar plataformas escaláveis, reduzir custos, garantir conformidade regulatória e disponibilizar dados confiáveis para toda a organização.
-

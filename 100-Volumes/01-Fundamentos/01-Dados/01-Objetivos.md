@@ -6,7 +6,7 @@ volume: 01
 module: 01
 chapter: 01
 type: chapter
-status: Em desenvolvimento
+status: Concluído
 tags:
   - fundamentos
   - dados

@@ -34,6 +34,9 @@ jobs:
       - name: Validar Wikilinks
         run: python tools/validate_project.py --checks wikilinks
 
+      - name: Validar módulos concluídos
+        run: python tools/validate_project.py --checks modules
+
       - name: Validar templates
         run: python tools/validate_project.py 050-Templates --checks markdown,yaml,names,wikilinks
 

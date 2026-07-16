@@ -7,7 +7,7 @@ volume: 01
 module: 01
 chapter: 05
 type: chapter
-status: Em desenvolvimento
+status: Concluído
 tags:
   - fundamentos
   - dados
@@ -407,4 +407,3 @@ Uma plataforma moderna precisa integrar todos esses formatos em um único ecossi
 
 > [!summary]
 > A classificação dos dados é uma das primeiras atividades de um Engenheiro de Dados. Compreender a natureza dos dados permite escolher arquiteturas, tecnologias e estratégias de processamento adequadas, garantindo escalabilidade, desempenho e qualidade das soluções.
-

@@ -7,7 +7,7 @@ volume: 01
 module: 01
 chapter: 12
 type: interview
-status: Em desenvolvimento
+status: Concluído
 tags:
   - entrevistas
   - revisão

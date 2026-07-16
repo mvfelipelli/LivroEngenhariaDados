@@ -9,7 +9,7 @@ chapter: 14
 type: laboratory
 difficulty: Iniciante
 estimated_time: 90 minutos
-status: Em desenvolvimento
+status: Concluído
 tags:
   - laboratório
   - dados

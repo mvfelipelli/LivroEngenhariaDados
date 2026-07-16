@@ -6,7 +6,7 @@ volume: 01
 module: 01
 chapter: 13
 type: answer-key
-status: Em desenvolvimento
+status: Concluído
 tags:
   - gabarito
   - exercícios

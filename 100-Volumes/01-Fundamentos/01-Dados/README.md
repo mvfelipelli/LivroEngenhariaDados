@@ -5,7 +5,7 @@ aliases:
 module: 01
 volume: 01
 type: module
-status: Em desenvolvimento
+status: Concluído
 description: "Visão geral, objetivos e navegação de Módulo 01 — Dados."
 tags: []
 created: "2026-07-14"

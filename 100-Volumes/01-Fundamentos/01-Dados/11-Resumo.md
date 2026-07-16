@@ -7,7 +7,7 @@ volume: 01
 module: 01
 chapter: 11
 type: summary
-status: Em desenvolvimento
+status: Concluído
 tags:
   - resumo
   - revisão

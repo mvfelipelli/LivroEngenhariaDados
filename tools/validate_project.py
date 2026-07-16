@@ -164,7 +164,7 @@ def check_wikilinks(files: list[Path], root: Path) -> list[Issue]:
     return issues
 
 
-def active_module_directories(root: Path) -> list[Path]:
+def completed_module_directories(root: Path) -> list[Path]:
     volumes = root / "100-Volumes"
     modules: list[Path] = []
     if not volumes.exists():
@@ -175,8 +175,14 @@ def active_module_directories(root: Path) -> list[Path]:
         for module in volume.iterdir():
             if not module.is_dir() or not re.match(r"^\d{2}-", module.name):
                 continue
-            content = [path for path in module.glob("*.md") if path.name != "README.md" and path.stat().st_size]
-            if content:
+            readme = module / "README.md"
+            if not readme.exists() or not readme.stat().st_size:
+                continue
+            data, _ = parse_frontmatter(readme.read_text(encoding="utf-8"))
+            if not data or str(data.get("type", "")).casefold() not in {"module", "modulo", "módulo"}:
+                continue
+            status = str(data.get("status", "")).casefold().replace("í", "i").replace("-", " ")
+            if status in {"concluido", "completo", "concluida", "completa"}:
                 modules.append(module)
     return sorted(modules)
 
@@ -196,7 +202,7 @@ def check_modules(root: Path) -> list[Issue]:
         "Solução": r"^14-Solucao\.md$",
         "Referências": r"^15-Referencias\.md$",
     }
-    for module in active_module_directories(root):
+    for module in completed_module_directories(root):
         names = [path.name for path in module.glob("*.md") if path.stat().st_size]
         for label, pattern in required_patterns.items():
             if not any(re.match(pattern, name) for name in names):
