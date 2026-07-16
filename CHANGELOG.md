@@ -26,12 +26,16 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Módulo 04 do Volume 02 desenvolvido com camadas, enlace, IP, roteamento, transporte, DNS, namespaces, firewall e diagnóstico.
+* Estudo de caso da DataRetail S.A., revisão, exercícios, gabarito e referências de redes adicionados.
+* Laboratório reproduzível de resolução, socket TCP e HTTP em loopback adicionado e validado.
 * Módulo 03 do Volume 02 desenvolvido com fundamentos de Bash, expansões, funções, erros, idempotência, testes, segurança e operação.
 * Estudo de caso da DataRetail S.A., exercícios, gabarito e referências de Shell Script adicionados.
 * Laboratório reproduzível de ingestão Bash com validação, deduplicação, quarentena e publicação atômica adicionado.
 
 ### Changed
 
+* Volume 02 atualizado para marcar Redes e Conectividade no Linux como concluído e apontar o Módulo 05 como próximo marco.
 * Volume 02 atualizado para marcar Shell Script e Automação como concluído e apontar o Módulo 04 como próximo marco.
 
 ## Changed

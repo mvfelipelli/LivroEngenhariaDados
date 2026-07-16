@@ -324,6 +324,20 @@ Situação:
 
 ---
 
+### Módulo 04 — Redes e Conectividade no Linux
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Camadas, enlace, endereçamento, roteamento, TCP, UDP e DNS concluídos.
+* Namespaces, firewall, segurança, desempenho e diagnóstico concluídos.
+* Estudo de caso, revisão, exercícios e laboratório local de rede concluídos.
+
+---
+
 ## Volumes 03 a 18
 
 Status:
@@ -343,11 +357,11 @@ Volume 02
 
 ↓
 
-Módulo 04 — Redes e Conectividade no Linux
+Módulo 05 — Contêineres e Isolamento no Linux
 
 ↓
 
-Aprofundar redes, protocolos, resolução de nomes, segurança e diagnóstico
+Aprofundar namespaces, cgroups, imagens, runtime, segurança e operação
 
 ↓
 
@@ -359,7 +373,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 04 do Volume 02.
+* iniciar o Módulo 05 do Volume 02.
 
 ---
 
@@ -367,7 +381,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Módulo 04 — Redes e Conectividade no Linux.
+* Estruturar e iniciar o Módulo 05 — Contêineres e Isolamento no Linux.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -466,14 +480,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 04 — Redes e Conectividade no Linux.**
+**Estruturar e iniciar o Módulo 05 — Contêineres e Isolamento no Linux.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 04 do Volume 02.
+4. Iniciar o Módulo 05 do Volume 02.
 
 ---
 
