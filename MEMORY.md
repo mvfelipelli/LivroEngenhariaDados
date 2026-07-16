@@ -317,11 +317,31 @@ O Volume 01 — Fundamentos está concluído. O próximo trabalho é estruturar 
 
 ---
 
+### Volume 02 — Linux
+
+Status:
+
+🚧 Em desenvolvimento
+
+#### Módulo 01 — Fundamentos do Linux
+
+Status:
+
+✅ Concluído
+
+O módulo possui arquitetura do sistema, filesystem, permissões, processos, serviços, terminal, pipes, segurança e laboratório Bash reproduzível.
+
+O próximo trabalho é estruturar e iniciar o Módulo 02 — Administração do Sistema Linux.
+
+---
+
 ## Próximo Marco
 
 Estruturar e iniciar:
 
 **Volume 02 — Linux**
+
+**Módulo 02 — Administração do Sistema Linux**
 
 Após sua conclusão:
 

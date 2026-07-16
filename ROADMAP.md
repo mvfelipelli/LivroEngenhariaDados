@@ -22,7 +22,8 @@ Seu propósito é registrar a estrutura vigente em `100-Volumes`, a ordem de est
 | Governança do Projeto | 🚧 Em consolidação    |
 | Volume 00             | 🚧 Em desenvolvimento |
 | Volume 01             | ✅ Concluído |
-| Volumes 02 a 18       | ⏳ Estruturados        |
+| Volume 02             | 🚧 Em desenvolvimento |
+| Volumes 03 a 18       | ⏳ Estruturados        |
 
 ---
 
@@ -72,7 +73,7 @@ flowchart LR
 
 **Objetivo:** apresentar a profissão, o ecossistema de dados, a estrutura da academia e a preparação do ambiente de estudos.
 
-Status: 🚧 Em desenvolvimento
+Status: ✅ Concluído
 
 ### Módulos
 
@@ -116,7 +117,25 @@ Status: 🚧 Em desenvolvimento
 
 ### Ponto de continuidade
 
-O Módulo 12 — Conceitos Modernos e o Volume 01 — Fundamentos foram concluídos. O próximo trabalho é estruturar e iniciar o Volume 02 — Linux conforme a estrutura física oficial.
+O Módulo 12 — Conceitos Modernos e o Volume 01 — Fundamentos foram concluídos.
+
+---
+
+## Volume 02 — Linux
+
+**Objetivo:** desenvolver competências de sistema operacional, automação e diagnóstico necessárias à engenharia de dados.
+
+Status: 🚧 Em desenvolvimento
+
+### Módulos
+
+| Módulo | Status |
+| ------ | ------ |
+| 01 — Fundamentos do Linux | ✅ Concluído |
+
+### Ponto de continuidade
+
+O próximo trabalho é estruturar e iniciar o Módulo 02 — Administração do Sistema Linux.
 
 ---
 

@@ -276,7 +276,27 @@ Situação:
 
 ---
 
-## Volumes 02 a 18
+## Volume 02 — Linux
+
+Status:
+
+🚧 Em desenvolvimento
+
+### Módulo 01 — Fundamentos do Linux
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Arquitetura, kernel, shell, distribuições e filesystem concluídos.
+* Usuários, permissões, processos, serviços, terminal e segurança concluídos.
+* Estudo de caso, revisão, exercícios e laboratório Bash concluídos.
+
+---
+
+## Volumes 03 a 18
 
 Status:
 
@@ -295,11 +315,11 @@ Volume 02
 
 ↓
 
-Linux
+Módulo 02 — Administração do Sistema Linux
 
 ↓
 
-Definir a estrutura inicial do volume e seu primeiro módulo
+Aprofundar pacotes, serviços, armazenamento, rede, logs e manutenção
 
 ↓
 
@@ -311,7 +331,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o primeiro módulo do Volume 02.
+* iniciar o Módulo 02 do Volume 02.
 
 ---
 
@@ -319,7 +339,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Volume 02 — Linux.
+* Estruturar e iniciar o Módulo 02 — Administração do Sistema Linux.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -418,14 +438,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Volume 02 — Linux.**
+**Estruturar e iniciar o Módulo 02 — Administração do Sistema Linux.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o primeiro módulo do Volume 02.
+4. Iniciar o Módulo 02 do Volume 02.
 
 ---
 
@@ -450,6 +470,8 @@ Após sua conclusão:
 | Módulo 11 concluído               | ✅      |
 | Módulo 12 concluído               | ✅      |
 | Volume 01 concluído               | ✅      |
+| Volume 02 iniciado                | ✅      |
+| Módulo Linux 01 concluído         | ✅      |
 | Primeira versão pública           | ⏳      |
 
 ---

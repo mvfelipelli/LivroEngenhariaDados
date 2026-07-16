@@ -116,6 +116,10 @@ As alterações são classificadas nas seguintes categorias:
 * Estudo de caso, revisão, entrevistas, exercícios e gabarito do Módulo 12 adicionados.
 * Laboratório em Python e SQLite adicionado com guardrails de prontidão e evidências idempotentes.
 * Módulo 12 e Volume 01 — Fundamentos marcados como concluídos.
+* Volume 02 — Linux iniciado com README, sumário e histórico de alterações.
+* Módulo 01 — Fundamentos do Linux desenvolvido com kernel, shell, filesystem, permissões, processos, serviços e terminal.
+* Estudo de caso, revisão, entrevistas, exercícios e gabarito do primeiro módulo Linux adicionados.
+* Laboratório Bash adicionado com workspace temporário, permissões, manifesto SHA-256 e idempotência.
 
 ## Planned
 
