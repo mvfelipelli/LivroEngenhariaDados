@@ -401,4 +401,4 @@ O caso da DataRetail S.A. demonstra que:
 
 ## Próximo Capítulo
 
-➡️ 11 — Resumo do Módulo
+➡️ [[11-Resumo|11 — Resumo do Módulo]]
