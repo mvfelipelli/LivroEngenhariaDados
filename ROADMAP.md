@@ -104,7 +104,7 @@ Status: 🚧 Em desenvolvimento
 | 01 — Dados | ✅ Concluído |
 | 02 — Ciclo de Vida dos Dados | ✅ Concluído |
 | 03 — Bancos de Dados | ✅ Concluído |
-| 04 — Modelagem | 🚧 Em desenvolvimento |
+| 04 — Modelagem | ✅ Concluído |
 | 05 — ETL | ⏳ Planejado |
 | 06 — ELT | ⏳ Planejado |
 | 07 — Pipelines | ⏳ Planejado |
@@ -116,7 +116,7 @@ Status: 🚧 Em desenvolvimento
 
 ### Ponto de continuidade
 
-Os capítulos técnicos 08 e 09, o estudo de caso, o resumo e as perguntas de entrevista do Módulo 04 foram concluídos. O próximo trabalho é desenvolver os exercícios e o gabarito.
+O Módulo 04 — Modelagem foi concluído com todos os componentes obrigatórios. O próximo trabalho é estruturar e iniciar o Módulo 05 — ETL.
 
 ---
 

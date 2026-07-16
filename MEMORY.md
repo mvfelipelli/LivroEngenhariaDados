@@ -241,7 +241,15 @@ Status:
 
 O módulo possui fundamentos, arquitetura interna, transações, concorrência, recuperação, índices, estudo de caso, exercícios e laboratório reproduzível com SQLite.
 
-O próximo trabalho é estruturar e iniciar o Módulo 04 — Modelagem.
+#### Módulo 04 — Modelagem
+
+Status:
+
+✅ Concluído
+
+O módulo possui modelagem conceitual, lógica, física, relacional e analítica, normalização, evolução, estudo de caso e laboratório reproduzível.
+
+O próximo trabalho é estruturar e iniciar o Módulo 05 — ETL.
 
 ---
 
@@ -251,7 +259,7 @@ Concluir integralmente:
 
 **Volume 01 — Fundamentos**
 
-**Módulo 04 — Modelagem**
+**Módulo 05 — ETL**
 
 Após sua conclusão:
 

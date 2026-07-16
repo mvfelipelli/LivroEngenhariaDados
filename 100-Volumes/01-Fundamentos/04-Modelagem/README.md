@@ -3,7 +3,7 @@ title: Modelagem de Dados
 aliases: [Data Modeling, Modelagem]
 tags: [engenharia-de-dados, fundamentos, modelagem-de-dados, volume-01, modulo-04]
 type: modulo
-status: em-desenvolvimento
+status: concluido
 created: 2026-07-16
 updated: 2026-07-16
 description: "Fundamentos para representar domínios, regras, relacionamentos e necessidades de acesso por meio de modelos de dados."
@@ -44,11 +44,11 @@ description: "Fundamentos para representar domínios, regras, relacionamentos e 
 - [[10-Estudo-de-Caso-DataRetail]]
 - [[11-Resumo]]
 - [[12-Perguntas-de-Entrevista]]
-- 13 — Exercícios
-- 13 — Gabarito
-- 14 — Laboratório
-- 14 — Solução
-- 15 — Referências
+- [[13-Exercicios]]
+- [[13-Gabarito]]
+- [[14-Laboratorio]]
+- [[14-Solucao]]
+- [[15-Referencias]]
 
 ## Mapa conceitual
 

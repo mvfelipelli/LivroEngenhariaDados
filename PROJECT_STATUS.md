@@ -147,7 +147,7 @@ Situação:
 
 Status:
 
-🚧 Em desenvolvimento
+✅ Concluído
 
 Situação:
 
@@ -160,7 +160,7 @@ Situação:
 * Capítulo 07 — Normalização e Dependências concluído.
 * Capítulos 08 — Modelagem Transacional e Analítica e 09 — Evolução, Trade-offs e Governança concluídos.
 * Estudo de caso, resumo e perguntas de entrevista concluídos.
-* Próximos arquivos: `13-Exercicios.md` e `13-Gabarito.md`.
+* Exercícios, gabarito, laboratório, solução e referências concluídos.
 
 ---
 
@@ -183,11 +183,11 @@ Volume 01
 
 ↓
 
-Módulo 04 — Modelagem
+Módulo 05 — ETL
 
 ↓
 
-Desenvolver os exercícios e o gabarito do Módulo 04
+Definir a estrutura do módulo
 
 ↓
 
@@ -207,7 +207,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Desenvolver os capítulos técnicos do Módulo 04.
+* Estruturar e iniciar o Módulo 05.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -306,7 +306,7 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Desenvolver os exercícios e o gabarito do Módulo 04 — Modelagem.**
+**Estruturar e iniciar o Módulo 05 — ETL.**
 
 Após sua conclusão:
 
@@ -328,6 +328,7 @@ Após sua conclusão:
 | Módulo 01 concluído               | ✅      |
 | Módulo 02 concluído               | ✅      |
 | Módulo 03 concluído               | ✅      |
+| Módulo 04 concluído               | ✅      |
 | Primeira versão pública           | ⏳      |
 
 ---

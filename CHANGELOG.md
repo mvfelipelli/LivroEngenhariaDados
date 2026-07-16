@@ -74,6 +74,10 @@ As alterações são classificadas nas seguintes categorias:
 * Capítulo 09 do Módulo 04 desenvolvido com compatibilidade, migração de schema, backfill, trade-offs e governança.
 * Estudo de caso da DataRetail S.A. adicionado com modelos operacional e analítico, entregas parciais, invariantes e testes de aceite.
 * Resumo e 28 perguntas de entrevista do Módulo 04 adicionados.
+* Exercícios e gabarito do Módulo 04 adicionados com progressão conceitual e arquitetural.
+* Laboratório reproduzível de modelo operacional e analítico adicionado com solução SQLite.
+* Referências oficiais e bibliográficas do Módulo 04 consolidadas.
+* Módulo 04 — Modelagem marcado como concluído.
 
 ## Planned
 
