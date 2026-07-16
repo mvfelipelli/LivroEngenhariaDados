@@ -338,6 +338,20 @@ Situação:
 
 ---
 
+### Módulo 05 — Contêineres e Isolamento no Linux
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Namespaces, cgroups, imagens OCI, camadas e runtimes concluídos.
+* Volumes, redes, segurança, supply chain e operação concluídos.
+* Estudo de caso, revisão, exercícios e laboratório determinístico concluídos.
+
+---
+
 ## Volumes 03 a 18
 
 Status:
@@ -357,11 +371,11 @@ Volume 02
 
 ↓
 
-Módulo 05 — Contêineres e Isolamento no Linux
+Módulo 06 — Desempenho, Troubleshooting e Observabilidade Linux
 
 ↓
 
-Aprofundar namespaces, cgroups, imagens, runtime, segurança e operação
+Aprofundar método USE, CPU, memória, I/O, tracing, incidentes e capacity planning
 
 ↓
 
@@ -373,7 +387,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 05 do Volume 02.
+* iniciar o Módulo 06 do Volume 02.
 
 ---
 
@@ -381,7 +395,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Módulo 05 — Contêineres e Isolamento no Linux.
+* Estruturar e iniciar o Módulo 06 — Desempenho, Troubleshooting e Observabilidade Linux.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -480,14 +494,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 05 — Contêineres e Isolamento no Linux.**
+**Estruturar e iniciar o Módulo 06 — Desempenho, Troubleshooting e Observabilidade Linux.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 05 do Volume 02.
+4. Iniciar o Módulo 06 do Volume 02.
 
 ---
 

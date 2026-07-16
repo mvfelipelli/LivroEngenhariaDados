@@ -135,10 +135,11 @@ Status: 🚧 Em desenvolvimento
 | 02 — Administração do Sistema Linux | ✅ Concluído |
 | 03 — Shell Script e Automação | ✅ Concluído |
 | 04 — Redes e Conectividade no Linux | ✅ Concluído |
+| 05 — Contêineres e Isolamento no Linux | ✅ Concluído |
 
 ### Ponto de continuidade
 
-O próximo trabalho é estruturar e iniciar o Módulo 05 — Contêineres e Isolamento no Linux.
+O próximo trabalho é estruturar e iniciar o Módulo 06 — Desempenho, Troubleshooting e Observabilidade Linux.
 
 ---
 

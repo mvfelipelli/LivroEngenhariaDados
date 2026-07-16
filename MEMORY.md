@@ -355,7 +355,15 @@ Status:
 
 O módulo possui camadas, enlace, IP, roteamento, TCP, UDP, DNS, namespaces, firewall, diagnóstico e laboratório local reproduzível.
 
-O próximo trabalho é estruturar e iniciar o Módulo 05 — Contêineres e Isolamento no Linux.
+#### Módulo 05 — Contêineres e Isolamento no Linux
+
+Status:
+
+✅ Concluído
+
+O módulo possui namespaces, cgroups, imagens OCI, runtimes, volumes, redes, segurança, supply chain e laboratório determinístico.
+
+O próximo trabalho é estruturar e iniciar o Módulo 06 — Desempenho, Troubleshooting e Observabilidade Linux.
 
 ---
 
@@ -365,7 +373,7 @@ Estruturar e iniciar:
 
 **Volume 02 — Linux**
 
-**Módulo 05 — Contêineres e Isolamento no Linux**
+**Módulo 06 — Desempenho, Troubleshooting e Observabilidade Linux**
 
 Após sua conclusão:
 

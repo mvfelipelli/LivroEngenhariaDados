@@ -26,6 +26,9 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Módulo 05 do Volume 02 desenvolvido com namespaces, cgroups, imagens OCI, runtimes, volumes, redes e segurança.
+* Estudo de caso da DataRetail S.A., revisão, exercícios, gabarito e referências de contêineres adicionados.
+* Laboratório reproduzível de camadas, whiteout e manifesto por digest adicionado e validado.
 * Módulo 04 do Volume 02 desenvolvido com camadas, enlace, IP, roteamento, transporte, DNS, namespaces, firewall e diagnóstico.
 * Estudo de caso da DataRetail S.A., revisão, exercícios, gabarito e referências de redes adicionados.
 * Laboratório reproduzível de resolução, socket TCP e HTTP em loopback adicionado e validado.
@@ -35,6 +38,7 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Changed
 
+* Volume 02 atualizado para marcar Contêineres e Isolamento no Linux como concluído e apontar o Módulo 06 como próximo marco.
 * Volume 02 atualizado para marcar Redes e Conectividade no Linux como concluído e apontar o Módulo 05 como próximo marco.
 * Volume 02 atualizado para marcar Shell Script e Automação como concluído e apontar o Módulo 04 como próximo marco.
 
