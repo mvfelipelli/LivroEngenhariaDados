@@ -420,9 +420,9 @@ Você está evoluindo quando:
 - [[Roadmap]]
 - [[Tecnologias]]
 - [[Arquiteturas]]
-- [[Projeto Integrador]]
+- Projeto Integrador
 - [[Engenheiro-de-Dados|Engenheiro de Dados]]
-- [[DataOps]]
+- DataOps
 
 ---
 

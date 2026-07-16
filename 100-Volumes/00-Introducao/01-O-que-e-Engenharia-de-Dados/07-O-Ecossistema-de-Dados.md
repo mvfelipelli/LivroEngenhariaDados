@@ -743,14 +743,14 @@ A plataforma tornou-se um ativo estratégico.
 
 # 🧠 Conceitos-chave
 
-- [[Ecossistema de Dados]]
+- [[100-Volumes/00-Introducao/02-Ecossistema-de-Dados/README|Ecossistema de Dados]]
 - [[Pipeline-de-Dados|Pipeline de Dados]]
 - [[Data-Lake|Data Lake]]
 - [[Lakehouse]]
-- [[Produto de Dados]]
-- [[Governança de Dados]]
-- [[Catálogo de Dados]]
-- [[Observabilidade de Dados]]
+- Produto de Dados
+- Governança de Dados
+- Catálogo de Dados
+- Observabilidade de Dados
 - [[Apache-Airflow|Apache Airflow]]
 - [[Apache-Spark|Apache Spark]]
 
@@ -819,11 +819,11 @@ Explique por que Governança e Qualidade devem acompanhar toda a plataforma e n�
 - [[Pipeline-de-Dados|Pipeline de Dados]]
 - [[Data-Lake|Data Lake]]
 - [[Lakehouse]]
-- [[Governança de Dados]]
-- [[Catálogo de Dados]]
-- [[Produto de Dados]]
+- Governança de Dados
+- Catálogo de Dados
+- Produto de Dados
 - [[Qualidade-de-Dados|Qualidade de Dados]]
-- [[Observabilidade de Dados]]
+- Observabilidade de Dados
 - [[Apache-Spark|Apache Spark]]
 - [[Apache-Airflow|Apache Airflow]]
 

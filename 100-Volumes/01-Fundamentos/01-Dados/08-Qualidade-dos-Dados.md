@@ -366,7 +366,7 @@ Nos volumes futuros veremos como essas ferramentas implementam controles de qual
 - [[Pipeline-de-Dados|Pipeline de Dados]]
 - [[Apache-Spark|Apache Spark]]
 - [[Apache-Airflow|Apache Airflow]]
-- [[Governança de Dados]]
+- Governança de Dados
 
 ## Volume
 

@@ -106,7 +106,7 @@ Esta obra ajuda a compreender como as características dos dados influenciam o d
 
 ### Notas relacionadas
 
-- [[Ciclo de Vida dos Dados]]
+- Ciclo de Vida dos Dados
 - [[Pipeline-de-Dados|Pipeline de Dados]]
 - [[Engenharia-de-Dados|Engenharia de Dados]]
 - [[Arquiteturas]]
@@ -139,10 +139,10 @@ A obra demonstra como as propriedades e limitações dos dados influenciam a con
 
 ### Notas relacionadas
 
-- [[Estruturação dos Dados]]
-- [[Particionamento]]
-- [[Arquitetura de Dados]]
-- [[Sistemas Distribuídos]]
+- [[100-Volumes/01-Fundamentos/01-Dados/06-Estruturacao-dos-Dados|Estruturação dos Dados]]
+- Particionamento
+- Arquitetura de Dados
+- Sistemas Distribuídos
 
 ### Prioridade
 
@@ -172,12 +172,12 @@ A obra demonstra como as propriedades e limitações dos dados influenciam a con
 
 ### Notas relacionadas
 
-- [[Governança de Dados]]
+- Governança de Dados
 - [[Qualidade-de-Dados|Qualidade de Dados]]
-- [[Metadados]]
-- [[Catálogo de Dados]]
-- [[Data Steward]]
-- [[Data Owner]]
+- [[100-Volumes/01-Fundamentos/01-Dados/09-Metadados|Metadados]]
+- Catálogo de Dados
+- Data Steward
+- Data Owner
 
 ### Prioridade
 
@@ -219,10 +219,10 @@ São necessários:
 
 ### Notas relacionadas
 
-- [[O que são Dados]]
-- [[Informação]]
-- [[Conhecimento]]
-- [[Contexto]]
+- [[100-Volumes/01-Fundamentos/01-Dados/03-O-que-sao-Dados|O que são Dados]]
+- Informação
+- Conhecimento
+- Contexto
 
 ---
 
@@ -263,10 +263,10 @@ Ajuda a contextualizar por que volume, variedade e velocidade alteraram a forma 
 ### Notas relacionadas
 
 - [[Big-Data|Big Data]]
-- [[Características dos Dados]]
-- [[Volume]]
-- [[Velocidade]]
-- [[Variedade]]
+- [[100-Volumes/01-Fundamentos/01-Dados/04-Caracteristicas-dos-Dados|Características dos Dados]]
+- Volume
+- Velocidade
+- Variedade
 
 ---
 
@@ -314,10 +314,10 @@ Fornece a base teórica para compreender dados estruturados e bancos relacionais
 
 ### Notas relacionadas
 
-- [[Dados Estruturados]]
-- [[Banco de Dados]]
-- [[Schema]]
-- [[PostgreSQL]]
+- Dados Estruturados
+- Banco de Dados
+- Schema
+- [[100-Volumes/08-PostgreSQL/README|PostgreSQL]]
 
 ### Prioridade
 
@@ -343,10 +343,10 @@ Ajuda a compreender como os dados são organizados antes da implementação fís
 
 ### Notas relacionadas
 
-- [[Estrutura Lógica]]
-- [[Modelagem de Dados]]
-- [[Entidade]]
-- [[Atributo]]
+- Estrutura Lógica
+- [[100-Volumes/05-Modelagem-de-Dados/README|Modelagem de Dados]]
+- Entidade
+- Atributo
 
 ---
 
@@ -370,10 +370,10 @@ Ajuda a compreender como os dados são organizados antes da implementação fís
 
 ### Notas relacionadas
 
-- [[JSON]]
-- [[Dados Semiestruturados]]
-- [[API REST]]
-- [[Apache Kafka]]
+- JSON
+- Dados Semiestruturados
+- API REST
+- Apache Kafka
 
 ---
 
@@ -389,9 +389,9 @@ Ajuda a compreender como os dados são organizados antes da implementação fís
 
 ### Notas relacionadas
 
-- [[XML]]
-- [[Dados Semiestruturados]]
-- [[Schema]]
+- XML
+- Dados Semiestruturados
+- Schema
 
 ---
 
@@ -435,9 +435,9 @@ Formato de serialização orientado a linhas.
 
 ### Notas relacionadas
 
-- [[Apache Avro]]
-- [[Schema Evolution]]
-- [[Streaming]]
+- Apache Avro
+- Schema Evolution
+- [[100-Volumes/14-Streaming/README|Streaming]]
 
 ---
 
@@ -454,8 +454,8 @@ Formato colunar utilizado em ecossistemas analíticos.
 
 ### Notas relacionadas
 
-- [[ORC]]
-- [[Armazenamento Colunar]]
+- ORC
+- Armazenamento Colunar
 - [[Data-Lake|Data Lake]]
 
 ---
@@ -485,11 +485,11 @@ O gerenciamento do ciclo de vida considera:
 
 ### Notas relacionadas
 
-- [[Ciclo de Vida dos Dados]]
-- [[Retenção de Dados]]
-- [[Arquivamento]]
-- [[Descarte Seguro]]
-- [[LGPD]]
+- Ciclo de Vida dos Dados
+- Retenção de Dados
+- Arquivamento
+- Descarte Seguro
+- LGPD
 
 ---
 
@@ -525,8 +525,8 @@ Esses conceitos são especialmente importantes para ambientes regulados.
 ### Notas relacionadas
 
 - [[Qualidade-de-Dados|Qualidade de Dados]]
-- [[Precisão]]
-- [[Data Profiling]]
+- Precisão
+- Data Profiling
 
 ---
 
@@ -634,10 +634,10 @@ Um catálogo de dados centraliza informações como:
 
 ### Tecnologias relacionadas
 
-- [[DataHub]];
-- [[OpenMetadata]];
-- [[Apache Atlas]];
-- [[Microsoft Purview]].
+- DataHub;
+- OpenMetadata;
+- Apache Atlas;
+- Microsoft Purview.
 
 ---
 
@@ -656,10 +656,10 @@ Padrão aberto para coleta de metadados de execução e linhagem.
 
 ### Notas relacionadas
 
-- [[Data Lineage]]
-- [[OpenLineage]]
+- Data Lineage
+- OpenLineage
 - [[Apache-Airflow|Apache Airflow]]
-- [[Observabilidade de Dados]]
+- Observabilidade de Dados
 
 ---
 
@@ -701,11 +701,11 @@ A LGPD estabelece princípios e obrigações para o tratamento de dados pessoais
 
 ### Notas relacionadas
 
-- [[LGPD]]
-- [[Dados Pessoais]]
-- [[Dados Sensíveis]]
-- [[Anonimização]]
-- [[Retenção de Dados]]
+- LGPD
+- Dados Pessoais
+- Dados Sensíveis
+- Anonimização
+- Retenção de Dados
 
 > [!warning]
 > O conteúdo da Academia não substitui orientação jurídica especializada.
@@ -881,16 +881,16 @@ Estrutura recomendada:
 
 ## Notas prioritárias
 
-- [[Fundamentals of Data Engineering]]
-- [[Designing Data-Intensive Applications]]
-- [[DAMA-DMBOK]]
-- [[Apache Parquet Documentation]]
-- [[Apache Spark Documentation]]
-- [[PostgreSQL Documentation]]
-- [[Apache Iceberg Documentation]]
-- [[Trino Documentation]]
-- [[Apache Airflow Documentation]]
-- [[LGPD]]
+- Fundamentals of Data Engineering
+- Designing Data-Intensive Applications
+- DAMA-DMBOK
+- Apache Parquet Documentation
+- Apache Spark Documentation
+- PostgreSQL Documentation
+- Apache Iceberg Documentation
+- Trino Documentation
+- Apache Airflow Documentation
+- LGPD
 
 ---
 
@@ -937,8 +937,8 @@ tags:
 
 ## Agora
 
-1. [[Fundamentals of Data Engineering]]
-2. [[DAMA-DMBOK]]
+1. Fundamentals of Data Engineering
+2. DAMA-DMBOK
 3. Referência introdutória sobre metadados
 4. Material introdutório sobre LGPD
 
@@ -951,7 +951,7 @@ tags:
 
 ## Para aprofundamento
 
-1. [[Designing Data-Intensive Applications]]
+1. Designing Data-Intensive Applications
 2. normas de qualidade;
 3. padrões de metadados;
 4. artigos acadêmicos;

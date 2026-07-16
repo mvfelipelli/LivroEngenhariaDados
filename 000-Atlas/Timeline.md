@@ -360,7 +360,7 @@ Nos próximos anos espera-se crescimento de:
 - [[Carreira]]
 - [[Apache-Spark|Apache Spark]]
 - [[Apache-Iceberg|Apache Iceberg]]
-- [[Data Mesh]]
+- Data Mesh
 
 ---
 

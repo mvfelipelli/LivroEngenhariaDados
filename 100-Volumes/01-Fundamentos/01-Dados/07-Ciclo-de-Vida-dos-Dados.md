@@ -374,7 +374,7 @@ Perceba que uma única venda pode passar por diversas tecnologias ao longo de se
 - [[Apache-Spark|Apache Spark]]
 - [[Apache-Airflow|Apache Airflow]]
 - [[Qualidade-de-Dados|Qualidade de Dados]]
-- [[Governança de Dados]]
+- Governança de Dados
 
 ## Volume
 

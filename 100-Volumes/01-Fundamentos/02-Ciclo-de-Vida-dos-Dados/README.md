@@ -88,14 +88,14 @@ Este módulo está organizado em uma sequência lógica.
 - [[05-Ingestao-de-Dados]]
 - [[06-Armazenamento-de-Dados]]
 - [[07-Processamento-de-Dados]]
-- [[08-Consumo-e-Compartilhamento]]
-- [[09-Arquivamento-e-Descarte]]
+- 08-Consumo-e-Compartilhamento
+- 09-Arquivamento-e-Descarte
 
 ---
 
 ## Aplicação
 
-- [[10-Estudo-de-Caso-DataRetail]]
+- 10-Estudo-de-Caso-DataRetail
 
 ---
 

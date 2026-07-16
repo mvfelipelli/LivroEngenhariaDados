@@ -395,7 +395,7 @@ Uma plataforma moderna precisa integrar todos esses formatos em um único ecossi
 
 - [[Data-Lake|Data Lake]]
 - [[Lakehouse]]
-- [[PostgreSQL]]
+- [[100-Volumes/08-PostgreSQL/README|PostgreSQL]]
 - [[Apache-Iceberg|Apache Iceberg]]
 - [[Apache-Spark|Apache Spark]]
 

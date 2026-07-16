@@ -753,15 +753,15 @@ Cada mudança foi motivada por necessidades concretas do negócio, e não pela a
 
 # 🧠 Conceitos-chave
 
-- [[Arquitetura de Dados]]
+- Arquitetura de Dados
 - [[Data-Warehouse|Data Warehouse]]
 - [[Data-Lake|Data Lake]]
 - [[Lakehouse]]
-- [[Data Mesh]]
-- [[Batch]]
-- [[Streaming]]
-- [[Trade-off]]
-- [[Produto de Dados]]
+- Data Mesh
+- Batch
+- [[100-Volumes/14-Streaming/README|Streaming]]
+- Trade-off
+- Produto de Dados
 
 ---
 
@@ -816,12 +816,12 @@ Inclua vantagens, limitações e casos de uso.
 - [[Data-Warehouse|Data Warehouse]]
 - [[Data-Lake|Data Lake]]
 - [[Lakehouse]]
-- [[Data Mesh]]
-- [[Batch]]
-- [[Streaming]]
+- Data Mesh
+- Batch
+- [[100-Volumes/14-Streaming/README|Streaming]]
 - [[Apache-Spark|Apache Spark]]
 - [[Apache-Airflow|Apache Airflow]]
-- [[Arquitetura de Dados]]
+- Arquitetura de Dados
 
 ---
 

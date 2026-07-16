@@ -563,8 +563,8 @@ Mais importante: terá desenvolvido a capacidade de aprender continuamente, acom
 - [[Tecnologias]]
 - [[Carreira]]
 - [[Timeline]]
-- [[Biblioteca]]
-- [[Dashboard]]
+- Biblioteca
+- Dashboard
 
 ---
 

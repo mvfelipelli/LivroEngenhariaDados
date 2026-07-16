@@ -428,7 +428,7 @@ Essas decisões terão impacto durante toda a vida útil da plataforma.
 - [[Lakehouse]]
 - [[Apache-Iceberg|Apache Iceberg]]
 - [[Apache-Spark|Apache Spark]]
-- [[PostgreSQL]]
+- [[100-Volumes/08-PostgreSQL/README|PostgreSQL]]
 - [[Pipeline-de-Dados|Pipeline de Dados]]
 
 ## Volume

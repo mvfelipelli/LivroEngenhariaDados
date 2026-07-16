@@ -183,7 +183,7 @@ Projetar estruturas que facilitem consultas e análises.
 
 Isso inclui conhecimentos de:
 
-- [[Modelagem de Dados]];
+- [[100-Volumes/05-Modelagem-de-Dados/README|Modelagem de Dados]];
 - normalização;
 - dimensional;
 - modelagem analítica;
@@ -371,8 +371,8 @@ Por exemplo:
 
 | Atividade | Responsável Principal |
 |------------|----------------------|
-| Criar dashboards | [[Business Intelligence]] |
-| Desenvolver modelos preditivos | [[Ciência de Dados]] |
+| Criar dashboards | Business Intelligence |
+| Desenvolver modelos preditivos | Ciência de Dados |
 | Desenvolver aplicações web | Engenharia de Software |
 | Administrar infraestrutura corporativa | Infraestrutura |
 | Definir estratégia de negócio | Gestores |
@@ -443,7 +443,7 @@ Todo Engenheiro de Dados trabalha diariamente com bancos de dados.
 
 Os principais bancos utilizados atualmente incluem:
 
-- [[PostgreSQL]];
+- [[100-Volumes/08-PostgreSQL/README|PostgreSQL]];
 - SQL Server;
 - Oracle;
 - MySQL.
@@ -478,7 +478,7 @@ Embora SQL seja fundamental, ele não resolve todos os problemas.
 
 Também é esperado conhecimento em linguagens de programação.
 
-Atualmente, a mais utilizada é [[Python]].
+Atualmente, a mais utilizada é [[100-Volumes/06-Python/README|Python]].
 
 Ela é empregada para:
 
@@ -853,14 +853,14 @@ Foi uma plataforma reutilizável.
 
 - [[Engenheiro-de-Dados|Engenheiro de Dados]]
 - [[Pipeline-de-Dados|Pipeline de Dados]]
-- [[SQL]]
+- [[100-Volumes/04-SQL/README|SQL]]
 - [[Apache-Spark|Apache Spark]]
 - [[Apache-Airflow|Apache Airflow]]
 - [[Data-Lake|Data Lake]]
 - [[Lakehouse]]
 - [[Qualidade-de-Dados|Qualidade de Dados]]
-- [[Observabilidade de Dados]]
-- [[Computação em Nuvem]]
+- Observabilidade de Dados
+- Computação em Nuvem
 
 ---
 
@@ -929,10 +929,10 @@ Explique o papel do Engenheiro de Dados em cada etapa.
 - [[Lakehouse]]
 - [[Apache-Spark|Apache Spark]]
 - [[Apache-Airflow|Apache Airflow]]
-- [[PostgreSQL]]
-- [[SQL]]
+- [[100-Volumes/08-PostgreSQL/README|PostgreSQL]]
+- [[100-Volumes/04-SQL/README|SQL]]
 - [[Qualidade-de-Dados|Qualidade de Dados]]
-- [[Observabilidade de Dados]]
+- Observabilidade de Dados
 
 ---
 

@@ -371,7 +371,7 @@ A profissão ganhou identidade quando as organizações perceberam que não bast
 - segurança;
 - manutenção contínua.
 
-Essa mudança aproximou definitivamente a [[Engenharia-de-Dados|Engenharia de Dados]] da [[Engenharia de Software]].
+Essa mudança aproximou definitivamente a [[Engenharia-de-Dados|Engenharia de Dados]] da Engenharia de Software.
 
 > [!important]
 > Um pipeline não deixa de ser software apenas porque seu principal resultado é uma tabela, um arquivo ou um evento.
@@ -427,11 +427,11 @@ Passou a ser construir uma solução:
 
 Com a expansão das plataformas de dados, tornou-se necessário aplicar práticas de automação e operação contínua ao ciclo de vida dos pipelines.
 
-Nesse contexto surgiu o conceito de [[DataOps]].
+Nesse contexto surgiu o conceito de DataOps.
 
 O DataOps combina ideias provenientes de:
 
-- [[DevOps]];
+- DevOps;
 - métodos ágeis;
 - qualidade de dados;
 - automação;
@@ -472,7 +472,7 @@ Uma equipe pode aplicar seus princípios utilizando diferentes tecnologias.
 
 # A computação em nuvem
 
-Outro fator decisivo para a consolidação da Engenharia de Dados foi a expansão da [[Computação em Nuvem]].
+Outro fator decisivo para a consolidação da Engenharia de Dados foi a expansão da Computação em Nuvem.
 
 Antes da nuvem, aumentar a capacidade de processamento exigia normalmente:
 
@@ -531,7 +531,7 @@ Em arquiteturas tradicionais, o banco de dados armazenava e processava as inform
 
 Essas duas responsabilidades estavam fortemente conectadas.
 
-Com o crescimento dos [[Data Lakes]] e do armazenamento de objetos, tornou-se comum separar armazenamento e processamento.
+Com o crescimento dos Data Lakes e do armazenamento de objetos, tornou-se comum separar armazenamento e processamento.
 
 ```mermaid
 flowchart TB
@@ -562,7 +562,7 @@ Por exemplo:
 
 - o [[Apache-Spark|Apache Spark]] pode processar grandes volumes;
 - o [[Trino]] pode executar consultas SQL;
-- o [[dbt]] pode organizar transformações;
+- o dbt pode organizar transformações;
 - ferramentas de qualidade podem validar os resultados;
 - aplicações analíticas podem consumir as tabelas produzidas.
 
@@ -724,7 +724,7 @@ Por exemplo:
 - os dados chegaram atrasados;
 - uma regra de negócio produziu valores inesperados.
 
-Por isso, a Engenharia de Dados passou a adotar a [[Observabilidade de Dados]].
+Por isso, a Engenharia de Dados passou a adotar a Observabilidade de Dados.
 
 ```mermaid
 mindmap
@@ -830,7 +830,7 @@ Essa abordagem aumenta a responsabilidade sobre o dado e reduz a criação de at
 
 # A Inteligência Artificial ampliou a demanda
 
-O crescimento de [[Machine Learning]] e [[Inteligência Artificial]] ampliou ainda mais a necessidade de Engenharia de Dados.
+O crescimento de Machine Learning e Inteligência Artificial ampliou ainda mais a necessidade de Engenharia de Dados.
 
 Modelos dependem de dados durante todo o seu ciclo de vida.
 
@@ -984,7 +984,7 @@ Os problemas fundamentais permanecem:
 
 # Estudo de caso — A transformação da DataRetail S.A.
 
-A [[DataRetail S.A.]] começou com uma arquitetura simples.
+A [[030-Projetos/DataRetail Platform/README|DataRetail S.A.]] começou com uma arquitetura simples.
 
 ```mermaid
 flowchart LR
@@ -1126,22 +1126,22 @@ A Engenharia de Dados tornou-se estratégica porque os dados passaram a fazer pa
 
 - [[Engenharia-de-Dados|Engenharia de Dados]]
 - [[Engenheiro-de-Dados|Engenheiro de Dados]]
-- [[Engenharia de Software]]
-- [[DataOps]]
-- [[DevOps]]
-- [[Computação em Nuvem]]
+- Engenharia de Software
+- DataOps
+- DevOps
+- Computação em Nuvem
 - [[Apache-Spark|Apache Spark]]
 - [[Apache-Airflow|Apache Airflow]]
 - [[Data-Lake|Data Lake]]
 - [[Lakehouse]]
 - [[Apache-Iceberg|Apache Iceberg]]
 - [[Trino]]
-- [[Observabilidade de Dados]]
+- Observabilidade de Dados
 - [[Qualidade-de-Dados|Qualidade de Dados]]
-- [[Produto de Dados]]
-- [[Machine Learning]]
-- [[Inteligência Artificial]]
-- [[DataRetail S.A.]]
+- Produto de Dados
+- Machine Learning
+- Inteligência Artificial
+- [[030-Projetos/DataRetail Platform/README|DataRetail S.A.]]
 
 ---
 
@@ -1178,7 +1178,7 @@ A Engenharia de Dados tornou-se estratégica porque os dados passaram a fazer pa
 → [[06-O-Papel-do-Engenheiro-de-Dados|O papel do Engenheiro de Dados]]
 ## Continuação
 
-Na próxima parte deste capítulo veremos como conceitos como [[DataOps]], [[Computação em Nuvem]], [[Apache-Spark|Apache Spark]], [[Lakehouse]] e [[Inteligência Artificial]] consolidaram definitivamente a Engenharia de Dados como uma disciplina própria da computação.
+Na próxima parte deste capítulo veremos como conceitos como DataOps, Computação em Nuvem, [[Apache-Spark|Apache Spark]], [[Lakehouse]] e Inteligência Artificial consolidaram definitivamente a Engenharia de Dados como uma disciplina própria da computação.
 
 ---
 

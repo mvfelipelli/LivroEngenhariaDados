@@ -206,13 +206,13 @@ O estudo deve seguir essa ordem.
 
 - [[Lakehouse]]
 
-- [[Data Mesh]]
+- Data Mesh
 
-- [[Data Fabric]]
+- Data Fabric
 
-- [[Lambda Architecture]]
+- Lambda Architecture
 
-- [[Kappa Architecture]]
+- Kappa Architecture
 
 ---
 
@@ -220,25 +220,25 @@ O estudo deve seguir essa ordem.
 
 ## Linguagens
 
-- [[SQL]]
+- [[100-Volumes/04-SQL/README|SQL]]
 
-- [[Python]]
+- [[100-Volumes/06-Python/README|Python]]
 
-- [[Scala]]
+- Scala
 
-- [[Java]]
+- Java
 
 ---
 
 ## Bancos de Dados
 
-- [[PostgreSQL]]
+- [[100-Volumes/08-PostgreSQL/README|PostgreSQL]]
 
-- [[SQL Server]]
+- SQL Server
 
-- [[Oracle Database]]
+- Oracle Database
 
-- [[MySQL]]
+- MySQL
 
 ---
 
@@ -246,9 +246,9 @@ O estudo deve seguir essa ordem.
 
 - [[Apache-Spark|Apache Spark]]
 
-- [[Apache Flink]]
+- Apache Flink
 
-- [[dbt]]
+- dbt
 
 ---
 
@@ -256,7 +256,7 @@ O estudo deve seguir essa ordem.
 
 - [[Trino]]
 
-- [[DuckDB]]
+- DuckDB
 
 ---
 
@@ -270,21 +270,21 @@ O estudo deve seguir essa ordem.
 
 - [[Apache-Iceberg|Apache Iceberg]]
 
-- [[Apache Parquet]]
+- Apache Parquet
 
-- [[Apache Avro]]
+- Apache Avro
 
-- [[ORC]]
+- ORC
 
 ---
 
 ## Cloud
 
-- [[AWS]]
+- AWS
 
-- [[Microsoft Azure]]
+- Microsoft Azure
 
-- [[Google Cloud Platform]]
+- Google Cloud Platform
 
 ---
 
@@ -300,7 +300,7 @@ O estudo deve seguir essa ordem.
 
 - [[ELT]]
 
-- [[DataOps]]
+- DataOps
 
 - [[Data-Lake|Data Lake]]
 
@@ -308,11 +308,11 @@ O estudo deve seguir essa ordem.
 
 - [[Qualidade-de-Dados|Qualidade de Dados]]
 
-- [[Governança de Dados]]
+- Governança de Dados
 
-- [[Observabilidade de Dados]]
+- Observabilidade de Dados
 
-- [[Produto de Dados]]
+- Produto de Dados
 
 ---
 
@@ -350,7 +350,7 @@ Principais categorias:
 
 Projeto oficial da Academia.
 
-[[DataRetail Platform]]
+[[030-Projetos/DataRetail Platform/README|DataRetail Platform]]
 
 Localização:
 
@@ -424,9 +424,9 @@ Todos os conceitos estão em:
 
 ## Sou Desenvolvedor
 
-- [[SQL]]
+- [[100-Volumes/04-SQL/README|SQL]]
 
-- [[Python]]
+- [[100-Volumes/06-Python/README|Python]]
 
 - [[Apache-Spark|Apache Spark]]
 
@@ -438,7 +438,7 @@ Todos os conceitos estão em:
 
 - [[Data-Warehouse|Data Warehouse]]
 
-- [[Modelagem Dimensional]]
+- Modelagem Dimensional
 
 - [[Trino]]
 
@@ -462,7 +462,7 @@ Todos os conceitos estão em:
 
 - [[Qualidade-de-Dados|Qualidade de Dados]]
 
-- [[Feature Store]]
+- Feature Store
 
 ---
 

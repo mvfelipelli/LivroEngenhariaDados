@@ -34,7 +34,7 @@ Ela é resultado de mais de cinquenta anos de evolução tecnológica.
 
 Cada nova geração de sistemas resolveu um problema importante, mas também criou novos desafios que impulsionaram a criação da próxima geração de tecnologias.
 
-Entender essa evolução é fundamental para compreender por que utilizamos hoje ferramentas como [[Apache-Spark|Apache Spark]], [[Apache-Airflow|Apache Airflow]], [[Trino]], [[Apache-Iceberg|Apache Iceberg]] e [[PostgreSQL]].
+Entender essa evolução é fundamental para compreender por que utilizamos hoje ferramentas como [[Apache-Spark|Apache Spark]], [[Apache-Airflow|Apache Airflow]], [[Trino]], [[Apache-Iceberg|Apache Iceberg]] e [[100-Volumes/08-PostgreSQL/README|PostgreSQL]].
 
 > [!tip]
 > Um bom Engenheiro de Dados não aprende apenas ferramentas. Ele entende quais problemas motivaram o surgimento de cada tecnologia.
@@ -194,7 +194,7 @@ Atualmente o Spark é uma das principais plataformas utilizadas em Engenharia de
 
 Em vez de transformar todos os dados antes de armazená-los, passou-se a guardar os dados praticamente em seu formato original.
 
-Nasciam os [[Data Lakes]].
+Nasciam os Data Lakes.
 
 Eles permitiram armazenar:
 
@@ -213,7 +213,7 @@ Essa abordagem aumentou a flexibilidade, mas trouxe novos desafios relacionados 
 
 # 🏛️ Sétima Era — Lakehouse
 
-Os [[Lakehouses]] representam uma evolução dos Data Lakes.
+Os Lakehouses representam uma evolução dos Data Lakes.
 
 Seu objetivo é combinar:
 

@@ -88,9 +88,9 @@ Ao concluir este módulo você será capaz de:
 
 - [[Qualidade-de-Dados|Qualidade de Dados]]
 
-- [[Metadados]]
+- [[100-Volumes/01-Fundamentos/01-Dados/09-Metadados|Metadados]]
 
-- [[Banco de Dados]]
+- Banco de Dados
 
 ---
 

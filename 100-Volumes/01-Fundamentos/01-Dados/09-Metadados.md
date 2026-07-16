@@ -350,7 +350,7 @@ Essas ferramentas serão estudadas em volumes específicos da Academia.
 
 ## Atlas
 
-- [[Governança de Dados]]
+- Governança de Dados
 - [[Pipeline-de-Dados|Pipeline de Dados]]
 - [[Qualidade-de-Dados|Qualidade de Dados]]
 - [[Apache-Airflow|Apache Airflow]]

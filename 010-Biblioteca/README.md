@@ -63,37 +63,37 @@ Cada nota da Biblioteca possui:
 
 ## Engenharia de Dados
 
-- [[Fundamentals of Data Engineering]]
+- Fundamentals of Data Engineering
 
-- [[Designing Data-Intensive Applications]]
+- Designing Data-Intensive Applications
 
-- [[Streaming Systems]]
+- Streaming Systems
 
-- [[Data Pipelines Pocket Reference]]
+- Data Pipelines Pocket Reference
 
-- [[Building Evolutionary Architectures]]
+- Building Evolutionary Architectures
 
 ---
 
 ## SQL
 
-- [[SQL Performance Explained]]
+- SQL Performance Explained
 
-- [[The Art of SQL]]
+- The Art of SQL
 
 ---
 
 ## PostgreSQL
 
-- [[PostgreSQL Internals]]
+- PostgreSQL Internals
 
 ---
 
 ## Arquitetura
 
-- [[Clean Architecture]]
+- Clean Architecture
 
-- [[Domain Driven Design]]
+- Domain Driven Design
 
 ---
 
@@ -103,17 +103,17 @@ Os artigos científicos que mudaram a Engenharia de Dados.
 
 - [[MapReduce]]
 
-- [[Google File System]]
+- Google File System
 
-- [[BigTable]]
+- BigTable
 
-- [[Spanner]]
+- Spanner
 
-- [[The Log]]
+- The Log
 
-- [[Delta Lake Paper]]
+- Delta Lake Paper
 
-- [[Apache Iceberg Specification]]
+- Apache Iceberg Specification
 
 ---
 
@@ -121,37 +121,37 @@ Os artigos científicos que mudaram a Engenharia de Dados.
 
 ## Apache
 
-- [[Apache Spark Docs]]
+- Apache Spark Docs
 
-- [[Apache Airflow Docs]]
+- Apache Airflow Docs
 
-- [[Apache Iceberg Docs]]
+- Apache Iceberg Docs
 
-- [[Apache Kafka Docs]]
+- Apache Kafka Docs
 
-- [[Apache Flink Docs]]
+- Apache Flink Docs
 
 ---
 
 ## PostgreSQL
 
-- [[PostgreSQL Documentation]]
+- PostgreSQL Documentation
 
 ---
 
 ## Trino
 
-- [[Trino Documentation]]
+- Trino Documentation
 
 ---
 
 ## Cloud
 
-- [[AWS Documentation]]
+- AWS Documentation
 
-- [[Azure Learn]]
+- Azure Learn
 
-- [[Google Cloud Documentation]]
+- Google Cloud Documentation
 
 ---
 
@@ -159,17 +159,17 @@ Os artigos científicos que mudaram a Engenharia de Dados.
 
 Material de consulta rápida.
 
-- [[SQL Cheat Sheet]]
+- SQL Cheat Sheet
 
-- [[Linux Cheat Sheet]]
+- Linux Cheat Sheet
 
-- [[Git Cheat Sheet]]
+- Git Cheat Sheet
 
-- [[Python Cheat Sheet]]
+- Python Cheat Sheet
 
-- [[Spark Cheat Sheet]]
+- Spark Cheat Sheet
 
-- [[Trino Cheat Sheet]]
+- Trino Cheat Sheet
 
 ---
 
@@ -177,23 +177,23 @@ Material de consulta rápida.
 
 Arquiteturas publicadas por empresas.
 
-- [[Netflix]]
+- Netflix
 
-- [[Uber]]
+- Uber
 
-- [[Airbnb]]
+- Airbnb
 
-- [[LinkedIn]]
+- LinkedIn
 
-- [[Spotify]]
+- Spotify
 
-- [[Mercado Livre]]
+- Mercado Livre
 
-- [[Nubank]]
+- Nubank
 
-- [[Google]]
+- Google
 
-- [[Amazon]]
+- Amazon
 
 ---
 
@@ -201,19 +201,19 @@ Arquiteturas publicadas por empresas.
 
 Empresas importantes no ecossistema.
 
-- [[Apache Software Foundation]]
+- Apache Software Foundation
 
-- [[Databricks]]
+- Databricks
 
-- [[Snowflake]]
+- Snowflake
 
-- [[Confluent]]
+- Confluent
 
-- [[Microsoft]]
+- Microsoft
 
-- [[Google]]
+- Google
 
-- [[AWS]]
+- AWS
 
 ---
 

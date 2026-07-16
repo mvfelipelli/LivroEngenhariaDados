@@ -165,10 +165,10 @@ Ao concluir este volume você terá desenvolvido:
 
 # Tecnologias Relacionadas
 
-- [[SQL]]
-- [[Python]]
+- [[100-Volumes/04-SQL/README|SQL]]
+- [[100-Volumes/06-Python/README|Python]]
 - [[Apache-Spark|Apache Spark]]
-- [[PostgreSQL]]
+- [[100-Volumes/08-PostgreSQL/README|PostgreSQL]]
 - [[Apache-Airflow|Apache Airflow]]
 - [[Apache-Iceberg|Apache Iceberg]]
 - [[Trino]]
@@ -185,8 +185,8 @@ Conceitos utilizados neste volume:
 - [[Data-Warehouse|Data Warehouse]]
 - [[Data-Lake|Data Lake]]
 - [[Lakehouse]]
-- [[Batch]]
-- [[Streaming]]
+- Batch
+- [[100-Volumes/14-Streaming/README|Streaming]]
 - [[Qualidade-de-Dados|Qualidade de Dados]]
 
 ---

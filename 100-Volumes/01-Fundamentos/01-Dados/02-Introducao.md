@@ -166,7 +166,7 @@ Embora este módulo seja conceitual, seus conteúdos serão aplicados continuame
 
 | Tecnologia | Aplicação dos conceitos |
 |------------|-------------------------|
-| [[PostgreSQL]] | Armazenamento de dados estruturados |
+| [[100-Volumes/08-PostgreSQL/README|PostgreSQL]] | Armazenamento de dados estruturados |
 | [[Apache-Spark|Apache Spark]] | Processamento distribuído de grandes volumes de dados |
 | [[Apache-Iceberg|Apache Iceberg]] | Organização de tabelas analíticas em Data Lakes |
 | [[Trino]] | Consulta distribuída sobre múltiplas fontes de dados |

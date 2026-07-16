@@ -108,15 +108,15 @@ Siga esta ordem.
 
 # 🧪 Laboratórios
 
-- [[020-Laboratorios/Fundamentos]]
-- [[020-Laboratorios/Linux]]
-- [[020-Laboratorios/SQL]]
-- [[020-Laboratorios/Python]]
-- [[020-Laboratorios/Apache-Spark]]
-- [[020-Laboratorios/PostgreSQL]]
-- [[020-Laboratorios/Lakehouse]]
-- [[020-Laboratorios/Trino]]
-- [[020-Laboratorios/Apache-Airflow]]
+- Fundamentos
+- Linux
+- SQL
+- Python
+- Apache-Spark
+- PostgreSQL
+- Lakehouse
+- Trino
+- Apache-Airflow
 
 ---
 
@@ -316,13 +316,13 @@ Projeto --> Revisão
 
 ## Laboratórios
 
-[[020-Laboratorios]]
+020-Laboratorios
 
 ---
 
 ## Certificações
 
-[[040-Certificacoes]]
+040-Certificacoes
 
 ---
 

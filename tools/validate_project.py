@@ -125,7 +125,11 @@ def build_link_index(root: Path) -> tuple[set[str], set[str], set[str]]:
     aliases: set[str] = set()
     for path in find_markdown_files(root):
         stems.add(path.stem.casefold())
-        relative_paths.add(path.relative_to(root).with_suffix("").as_posix().casefold())
+        relative = path.relative_to(root).with_suffix("")
+        parts = relative.parts
+        relative_paths.add(relative.as_posix().casefold())
+        for start in range(1, len(parts) - 1):
+            relative_paths.add(Path(*parts[start:]).as_posix().casefold())
         data, _ = parse_frontmatter(path.read_text(encoding="utf-8"))
         if data and isinstance(data.get("aliases"), list):
             aliases.update(str(alias).casefold() for alias in data["aliases"])
@@ -136,9 +140,24 @@ def check_wikilinks(files: list[Path], root: Path) -> list[Issue]:
     stems, relative_paths, aliases = build_link_index(root)
     issues: list[Issue] = []
     for path in files:
+        in_fence = False
+        in_frontmatter = False
         for number, line in enumerate(path.read_text(encoding="utf-8").splitlines(), start=1):
+            if number == 1 and line.strip() == "---":
+                in_frontmatter = True
+                continue
+            if in_frontmatter:
+                if line.strip() == "---":
+                    in_frontmatter = False
+                continue
+            stripped = line.lstrip()
+            if stripped.startswith("```") or stripped.startswith("~~~"):
+                in_fence = not in_fence
+                continue
+            if in_fence:
+                continue
             for match in WIKILINK_PATTERN.finditer(line):
-                target = match.group(1).replace("\\", "/").strip().casefold()
+                target = match.group(1).replace("\\", "/").strip().rstrip("/").casefold()
                 if target in stems or target in relative_paths or target in aliases:
                     continue
                 issues.append(Issue("wikilinks", path, f"destino não encontrado: [[{match.group(1)}]]", number))

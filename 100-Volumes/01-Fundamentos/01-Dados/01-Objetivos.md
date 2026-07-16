@@ -114,10 +114,10 @@ Os conceitos estudados aqui serão utilizados posteriormente em praticamente tod
 
 | Tecnologia | Onde será estudada |
 |------------|--------------------|
-| [[SQL]] | Volume 04 |
-| [[Python]] | Volume 06 |
+| [[100-Volumes/04-SQL/README|SQL]] | Volume 04 |
+| [[100-Volumes/06-Python/README|Python]] | Volume 06 |
 | [[Apache-Spark|Apache Spark]] | Volume 07 |
-| [[PostgreSQL]] | Volume 08 |
+| [[100-Volumes/08-PostgreSQL/README|PostgreSQL]] | Volume 08 |
 | [[Apache-Iceberg|Apache Iceberg]] | Volume 09 |
 | [[Trino]] | Volume 10 |
 | [[Apache-Airflow|Apache Airflow]] | Volume 11 |
@@ -204,7 +204,7 @@ Você terá concluído este módulo quando conseguir:
 - [[Engenharia-de-Dados|Engenharia de Dados]]
 - [[Pipeline-de-Dados|Pipeline de Dados]]
 - [[Qualidade-de-Dados|Qualidade de Dados]]
-- [[Metadados]]
+- [[100-Volumes/01-Fundamentos/01-Dados/09-Metadados|Metadados]]
 
 ---
 

@@ -38,6 +38,9 @@ As alterações são classificadas nas seguintes categorias:
 * Workflow de CI adicionado para impor invariantes limpos e auditar, sem bloqueio temporário, a dívida histórica do Vault.
 * Normalização de frontmatter automatizada para documentos editoriais, preservando metadados existentes.
 * Validação de frontmatter promovida a etapa bloqueante do CI após eliminação das pendências de YAML.
+* Validador de Wikilinks ajustado à resolução por caminhos abreviados do Obsidian e a blocos de código.
+* Ferramenta adicionada para redirecionar Wikilinks a destinos existentes e remover vínculos sem página correspondente.
+* Validação de Wikilinks promovida a etapa bloqueante do CI após eliminação dos links sem destino.
 
 ## Planned
 

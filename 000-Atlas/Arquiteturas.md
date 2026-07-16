@@ -102,7 +102,7 @@ mindmap
 
 # Arquiteturas Fundamentais
 
-## [[Banco Relacional]]
+## Banco Relacional
 
 ### Objetivo
 
@@ -202,7 +202,7 @@ Combinar as vantagens do Data Lake com o Data Warehouse.
 
 ---
 
-## [[Data Mesh]]
+## Data Mesh
 
 ### Objetivo
 
@@ -217,7 +217,7 @@ Distribuir responsabilidade sobre os dados para os domínios de negócio.
 
 ---
 
-## [[Data Fabric]]
+## Data Fabric
 
 ### Objetivo
 
@@ -234,7 +234,7 @@ Conectar diferentes plataformas através de automação, metadados e integraçã
 
 # Arquiteturas de Processamento
 
-## [[Batch]]
+## Batch
 
 ### Características
 
@@ -251,7 +251,7 @@ Exemplos:
 
 ---
 
-## [[Streaming]]
+## [[100-Volumes/14-Streaming/README|Streaming]]
 
 ### Características
 
@@ -302,7 +302,7 @@ Transformar
 
 ---
 
-## [[CDC]]
+## CDC
 
 Capture apenas alterações.
 
@@ -310,7 +310,7 @@ Muito utilizado para replicação de bancos de dados.
 
 ---
 
-## [[Event Driven]]
+## Event Driven
 
 Integração baseada em eventos.
 
@@ -392,13 +392,13 @@ A decisão depende de fatores como:
 - [[Data-Warehouse|Data Warehouse]]
 - [[Data-Lake|Data Lake]]
 - [[Lakehouse]]
-- [[Data Mesh]]
-- [[Data Fabric]]
-- [[Batch]]
-- [[Streaming]]
+- Data Mesh
+- Data Fabric
+- Batch
+- [[100-Volumes/14-Streaming/README|Streaming]]
 - [[ETL]]
 - [[ELT]]
-- [[CDC]]
+- CDC
 
 ## Tecnologias
 
@@ -406,7 +406,7 @@ A decisão depende de fatores como:
 - [[Apache-Airflow|Apache Airflow]]
 - [[Apache-Iceberg|Apache Iceberg]]
 - [[Trino]]
-- [[PostgreSQL]]
+- [[100-Volumes/08-PostgreSQL/README|PostgreSQL]]
 
 ---
 

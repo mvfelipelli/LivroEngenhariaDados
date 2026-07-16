@@ -31,14 +31,14 @@ Explique por que esse conceito é importante para a [[Engenharia-de-Dados|Engenh
 ## Exemplo prático
 
 > [!example]
-> Adicione aqui um exemplo relacionado ao projeto [[DataRetail S.A.]].
+> Adicione aqui um exemplo relacionado ao projeto [[030-Projetos/DataRetail Platform/README|DataRetail S.A.]].
 
 ## Relações com outros conceitos
 
 - [[ETL]]
 - [[ELT]]
 - [[Data-Lake|Data Lake]]
-- [[Business Intelligence]]
+- Business Intelligence
 
 ## Referências
 

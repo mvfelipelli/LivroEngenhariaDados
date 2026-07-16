@@ -268,9 +268,9 @@ Cada entrega será incremental.
 
 # 🧠 Conceitos-chave
 
-- [[Projeto Integrador]]
-- [[DataRetail Platform]]
-- [[Plataforma de Dados]]
+- Projeto Integrador
+- [[030-Projetos/DataRetail Platform/README|DataRetail Platform]]
+- Plataforma de Dados
 - [[Pipeline-de-Dados|Pipeline de Dados]]
 - [[Lakehouse]]
 

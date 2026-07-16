@@ -401,7 +401,7 @@ Este estudo de caso mostrou que:
 - [[Data-Lake|Data Lake]]
 - [[Lakehouse]]
 - [[Qualidade-de-Dados|Qualidade de Dados]]
-- [[Metadados]]
+- [[100-Volumes/01-Fundamentos/01-Dados/09-Metadados|Metadados]]
 
 ---
 

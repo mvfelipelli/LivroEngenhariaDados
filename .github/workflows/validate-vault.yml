@@ -31,6 +31,9 @@ jobs:
       - name: Validar frontmatter editorial
         run: python tools/validate_project.py --checks yaml
 
+      - name: Validar Wikilinks
+        run: python tools/validate_project.py --checks wikilinks
+
       - name: Validar templates
         run: python tools/validate_project.py 050-Templates --checks markdown,yaml,names,wikilinks
 

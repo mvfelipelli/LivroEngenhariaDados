@@ -93,7 +93,7 @@ end
 
 # Linguagens
 
-## [[SQL]]
+## [[100-Volumes/04-SQL/README|SQL]]
 
 ### Categoria
 
@@ -116,7 +116,7 @@ Consultar, transformar e manipular dados.
 
 ---
 
-## [[Python]]
+## [[100-Volumes/06-Python/README|Python]]
 
 ### Categoria
 
@@ -132,7 +132,7 @@ Automação, processamento e integração.
 
 ---
 
-## [[Scala]]
+## Scala
 
 Utilizada principalmente em ambientes Spark.
 
@@ -140,13 +140,13 @@ Volume complementar.
 
 ---
 
-## [[Java]]
+## Java
 
 Muito utilizada em aplicações distribuídas e algumas ferramentas do ecossistema Hadoop.
 
 ---
 
-## [[Bash]]
+## Bash
 
 Automação em Linux.
 
@@ -156,7 +156,7 @@ Volume 02.
 
 # Bancos de Dados
 
-## [[PostgreSQL]]
+## [[100-Volumes/08-PostgreSQL/README|PostgreSQL]]
 
 ### Categoria
 
@@ -175,19 +175,19 @@ Banco Relacional.
 
 ---
 
-## [[SQL Server]]
+## SQL Server
 
 Banco relacional corporativo.
 
 ---
 
-## [[Oracle Database]]
+## Oracle Database
 
 Muito utilizado em grandes empresas.
 
 ---
 
-## [[MySQL]]
+## MySQL
 
 Bastante presente em aplicações web.
 
@@ -215,13 +215,13 @@ Processamento distribuído.
 
 ---
 
-## [[Apache Flink]]
+## Apache Flink
 
 Especializado em Streaming.
 
 ---
 
-## [[dbt]]
+## dbt
 
 Ferramenta para transformação de dados utilizando SQL.
 
@@ -245,7 +245,7 @@ Consultar dados em múltiplas fontes.
 
 ---
 
-## [[DuckDB]]
+## DuckDB
 
 Banco analítico embarcado.
 
@@ -255,7 +255,7 @@ Muito útil para análises locais.
 
 # Armazenamento
 
-## [[Apache Parquet]]
+## Apache Parquet
 
 Formato colunar.
 
@@ -279,13 +279,13 @@ Recursos:
 
 ---
 
-## [[Delta Lake]]
+## Delta Lake
 
 Alternativa ao Iceberg.
 
 ---
 
-## [[Apache Hudi]]
+## Apache Hudi
 
 Outra tecnologia para Lakehouse.
 
@@ -311,7 +311,7 @@ Gerenciar pipelines.
 
 # Streaming
 
-## [[Apache Kafka]]
+## Apache Kafka
 
 Broker de eventos.
 
@@ -323,7 +323,7 @@ Utilizado para Streaming.
 
 ---
 
-## [[Apache Pulsar]]
+## Apache Pulsar
 
 Alternativa ao Kafka.
 
@@ -331,7 +331,7 @@ Alternativa ao Kafka.
 
 # Cloud
 
-## [[AWS]]
+## AWS
 
 Principais serviços:
 
@@ -343,7 +343,7 @@ Principais serviços:
 
 ---
 
-## [[Microsoft Azure]]
+## Microsoft Azure
 
 Principais serviços:
 
@@ -353,7 +353,7 @@ Principais serviços:
 
 ---
 
-## [[Google Cloud Platform]]
+## Google Cloud Platform
 
 Principais serviços:
 
@@ -365,13 +365,13 @@ Principais serviços:
 
 # Ferramentas de Qualidade
 
-## [[Great Expectations]]
+## Great Expectations
 
 Validação de qualidade de dados.
 
 ---
 
-## [[Soda]]
+## Soda
 
 Monitoramento de qualidade.
 
@@ -379,19 +379,19 @@ Monitoramento de qualidade.
 
 # Observabilidade
 
-## [[OpenLineage]]
+## OpenLineage
 
 Linhagem de dados.
 
 ---
 
-## [[Prometheus]]
+## Prometheus
 
 Métricas.
 
 ---
 
-## [[Grafana]]
+## Grafana
 
 Dashboards operacionais.
 
@@ -399,7 +399,7 @@ Dashboards operacionais.
 
 # Containers
 
-## [[Docker]]
+## Docker
 
 Empacotamento de aplicações.
 
@@ -407,7 +407,7 @@ Volume 16.
 
 ---
 
-## [[Kubernetes]]
+## Kubernetes
 
 Orquestração de containers.
 
@@ -417,13 +417,13 @@ Volume 16.
 
 # Infraestrutura
 
-## [[Terraform]]
+## Terraform
 
 Infraestrutura como Código.
 
 ---
 
-## [[Ansible]]
+## Ansible
 
 Automação de servidores.
 
@@ -517,7 +517,7 @@ Kubernetes --> Projeto["Projeto Integrador"]
 - [[Pipeline-de-Dados|Pipeline de Dados]]
 - [[Data-Lake|Data Lake]]
 - [[Lakehouse]]
-- [[DataOps]]
+- DataOps
 
 ---
 

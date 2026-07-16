@@ -494,7 +494,7 @@ ARQ --> PRO
 - [[Tecnologias]]
 - [[Carreira]]
 - [[Timeline]]
-- [[Projeto Integrador]]
+- Projeto Integrador
 
 ---
 
