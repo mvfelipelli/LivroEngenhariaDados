@@ -180,10 +180,11 @@ Status: 🚧 Em desenvolvimento
 | Módulo | Status |
 | ------ | ------ |
 | 01 — Fundamentos de SQL e Modelo Relacional | ✅ Concluído |
+| 02 — Consultas, Joins e Subconsultas | ✅ Concluído |
 
 ### Ponto de continuidade
 
-O próximo trabalho é estruturar e iniciar o Módulo 02 — Consultas, Joins e Subconsultas.
+O próximo trabalho é estruturar e iniciar o Módulo 03 — Agregações, Funções de Janela e Análise.
 
 ---
 

@@ -478,6 +478,20 @@ Situação:
 
 ---
 
+### Módulo 02 — Consultas, Joins e Subconsultas
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Grão, cardinalidade, joins internos, externos e fanout concluídos.
+* Subconsultas, predicados de existência, conjuntos, CTEs e recursão concluídos.
+* Estudo de caso, revisão, exercícios e laboratório de composição concluídos.
+
+---
+
 ## Volumes 05 a 18
 
 Status:
@@ -497,11 +511,11 @@ Volume 04
 
 ↓
 
-Módulo 02 — Consultas, Joins e Subconsultas
+Módulo 03 — Agregações, Funções de Janela e Análise
 
 ↓
 
-Aprofundar composição relacional e consultas de múltiplas etapas
+Aprofundar sumarização, janelas analíticas e métricas temporais
 
 ↓
 
@@ -513,7 +527,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 02 do Volume 04.
+* iniciar o Módulo 03 do Volume 04.
 
 ---
 
@@ -521,7 +535,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Módulo 02 — Consultas, Joins e Subconsultas.
+* Estruturar e iniciar o Módulo 03 — Agregações, Funções de Janela e Análise.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -620,14 +634,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 02 — Consultas, Joins e Subconsultas.**
+**Estruturar e iniciar o Módulo 03 — Agregações, Funções de Janela e Análise.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 02 do Volume 04.
+4. Iniciar o Módulo 03 do Volume 04.
 
 ---
 

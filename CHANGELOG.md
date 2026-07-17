@@ -26,6 +26,9 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Módulo 02 do Volume 04 desenvolvido com cardinalidade, joins, subconsultas, conjuntos, CTEs e recursão.
+* Estudo de caso, revisão, exercícios, gabarito e referências oficiais de consultas compostas adicionados.
+* Laboratório reproduzível de composição sem fanout e anti-join adicionado e validado.
 * Volume 04 — SQL iniciado com índice e identidade editorial.
 * Módulo 01 desenvolvido com padrão SQL, modelo relacional, schemas, constraints e consultas fundamentais.
 * Estudo de caso, revisão, exercícios, gabarito, referências e laboratório SQLite reproduzível adicionados.
@@ -62,6 +65,7 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Changed
 
+* Continuidade movida para o Módulo 03 — Agregações, Funções de Janela e Análise.
 * Continuidade movida para o Módulo 02 — Consultas, Joins e Subconsultas.
 * Volume 03 — Git e GitHub marcado como concluído e continuidade movida para o Volume 04 — SQL.
 * Continuidade movida para o Módulo 04 — Releases, Versionamento e GitOps.

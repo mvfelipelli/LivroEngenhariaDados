@@ -16,6 +16,7 @@ Este volume desenvolve raciocínio relacional, consultas, manipulação, transa�
 ## Módulos
 
 1. [[01-Fundamentos-de-SQL-e-Modelo-Relacional/README|Fundamentos de SQL e Modelo Relacional]] — concluído.
+2. [[02-Consultas-Joins-e-Subconsultas/README|Consultas, Joins e Subconsultas]] — concluído.
 
 > [!note]
 > O percurso começa pela semântica relacional. Recursos específicos de mecanismos são apresentados apenas depois do núcleo da linguagem.

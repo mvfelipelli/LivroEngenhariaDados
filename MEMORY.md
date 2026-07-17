@@ -447,7 +447,15 @@ Status:
 
 O módulo possui natureza declarativa, padrão SQL, modelo relacional, schemas, tipos, chaves, constraints, consultas fundamentais, lógica de `NULL`, joins, agregações e laboratório SQLite reproduzível.
 
-O próximo trabalho é estruturar e iniciar o Módulo 02 — Consultas, Joins e Subconsultas.
+#### Módulo 02 — Consultas, Joins e Subconsultas
+
+Status:
+
+✅ Concluído
+
+O módulo possui grão, cardinalidade, joins internos e externos, semi-join, anti-join, fanout, subconsultas, conjuntos, CTEs, recursão e laboratório SQLite reproduzível.
+
+O próximo trabalho é estruturar e iniciar o Módulo 03 — Agregações, Funções de Janela e Análise.
 
 ---
 
@@ -457,7 +465,7 @@ Estruturar e iniciar:
 
 **Volume 04 — SQL**
 
-**Módulo 02 — Consultas, Joins e Subconsultas**
+**Módulo 03 — Agregações, Funções de Janela e Análise**
 
 Após sua conclusão:
 
