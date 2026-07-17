@@ -506,6 +506,20 @@ Situação:
 
 ---
 
+### Módulo 04 — DML, Transações e Concorrência
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* INSERT, UPDATE, DELETE, upsert e idempotência concluídos.
+* ACID, isolamento, MVCC, locks, deadlocks, retries e outbox concluídos.
+* Estudo de caso, revisão, exercícios e laboratório transacional concluídos.
+
+---
+
 ## Volumes 05 a 18
 
 Status:
@@ -525,11 +539,11 @@ Volume 04
 
 ↓
 
-Módulo 04 — DML, Transações e Concorrência
+Módulo 05 — DDL, Schemas e Evolução de Estruturas
 
 ↓
 
-Aprofundar mutações consistentes, atomicidade e isolamento
+Aprofundar contratos físicos, constraints e migrações seguras
 
 ↓
 
@@ -541,7 +555,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 04 do Volume 04.
+* iniciar o Módulo 05 do Volume 04.
 
 ---
 
@@ -549,7 +563,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Módulo 04 — DML, Transações e Concorrência.
+* Estruturar e iniciar o Módulo 05 — DDL, Schemas e Evolução de Estruturas.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -648,14 +662,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 04 — DML, Transações e Concorrência.**
+**Estruturar e iniciar o Módulo 05 — DDL, Schemas e Evolução de Estruturas.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 04 do Volume 04.
+4. Iniciar o Módulo 05 do Volume 04.
 
 ---
 

@@ -463,7 +463,15 @@ Status:
 
 O módulo possui agregações, agrupamentos, métricas condicionais, rankings, partições, frames, comparações temporais, acumulados, médias móveis e laboratório SQLite reproduzível.
 
-O próximo trabalho é estruturar e iniciar o Módulo 04 — DML, Transações e Concorrência.
+#### Módulo 04 — DML, Transações e Concorrência
+
+Status:
+
+✅ Concluído
+
+O módulo possui mutações, upsert, idempotência, ACID, savepoints, isolamento, anomalias, MVCC, locks, deadlocks, retries, outbox e laboratório SQLite reproduzível.
+
+O próximo trabalho é estruturar e iniciar o Módulo 05 — DDL, Schemas e Evolução de Estruturas.
 
 ---
 
@@ -473,7 +481,7 @@ Estruturar e iniciar:
 
 **Volume 04 — SQL**
 
-**Módulo 04 — DML, Transações e Concorrência**
+**Módulo 05 — DDL, Schemas e Evolução de Estruturas**
 
 Após sua conclusão:
 

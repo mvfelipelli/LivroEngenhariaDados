@@ -182,10 +182,11 @@ Status: 🚧 Em desenvolvimento
 | 01 — Fundamentos de SQL e Modelo Relacional | ✅ Concluído |
 | 02 — Consultas, Joins e Subconsultas | ✅ Concluído |
 | 03 — Agregações, Funções de Janela e Análise | ✅ Concluído |
+| 04 — DML, Transações e Concorrência | ✅ Concluído |
 
 ### Ponto de continuidade
 
-O próximo trabalho é estruturar e iniciar o Módulo 04 — DML, Transações e Concorrência.
+O próximo trabalho é estruturar e iniciar o Módulo 05 — DDL, Schemas e Evolução de Estruturas.
 
 ---
 
