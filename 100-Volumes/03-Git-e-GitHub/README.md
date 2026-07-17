@@ -17,7 +17,7 @@ Este volume desenvolve versionamento distribuído, colaboração, revisão, auto
 
 1. [[01-Fundamentos-do-Git/README|Fundamentos do Git]] — concluído.
 2. [[02-Branches-Colaboracao-e-GitHub/README|Branches, Colaboração e GitHub]] — concluído.
-2. [[02-Branches-Colaboracao-e-GitHub/README|Branches, Colaboração e GitHub]] — concluído.
+3. [[03-GitHub-Actions-e-CI-CD/README|GitHub Actions e CI/CD]] — concluído.
 
 > [!note]
 > O percurso começa pelo modelo de objetos e estados do Git. Plataformas de hospedagem são apresentadas depois dos fundamentos locais e distribuídos.

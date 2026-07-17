@@ -413,7 +413,15 @@ Status:
 
 O módulo possui modelos colaborativos, estratégias de branch, pull requests, revisão, rulesets, CODEOWNERS, releases, segurança e laboratório distribuído.
 
-O próximo trabalho é estruturar e iniciar o Módulo 03 — GitHub Actions e CI/CD.
+#### Módulo 03 — GitHub Actions e CI/CD
+
+Status:
+
+✅ Concluído
+
+O módulo possui workflows, runners, matrizes, cache, artefatos, OIDC, ambientes, CI, deploy, reuso, supply chain e laboratório reproduzível.
+
+O próximo trabalho é estruturar e iniciar o Módulo 04 — Releases, Versionamento e GitOps.
 
 ---
 
@@ -423,7 +431,7 @@ Estruturar e iniciar:
 
 **Volume 03 — Git e GitHub**
 
-**Módulo 03 — GitHub Actions e CI/CD**
+**Módulo 04 — Releases, Versionamento e GitOps**
 
 Após sua conclusão:
 

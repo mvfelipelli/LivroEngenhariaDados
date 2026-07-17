@@ -430,6 +430,20 @@ Situação:
 
 ---
 
+### Módulo 03 — GitHub Actions e CI/CD
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Workflows, jobs, runners, matrizes, cache e artefatos concluídos.
+* OIDC, ambientes, CI, deploy, reuso, supply chain e governança concluídos.
+* Estudo de caso, revisão, exercícios e laboratório de pipeline concluídos.
+
+---
+
 ## Volumes 04 a 18
 
 Status:
@@ -449,11 +463,11 @@ Volume 03
 
 ↓
 
-Módulo 03 — GitHub Actions e CI/CD
+Módulo 04 — Releases, Versionamento e GitOps
 
 ↓
 
-Aprofundar workflows, jobs, runners, artefatos, ambientes, segurança e entrega contínua
+Aprofundar SemVer, tags, releases, changelogs, promoção e reconciliação GitOps
 
 ↓
 
@@ -465,7 +479,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 03 do Volume 03.
+* iniciar o Módulo 04 do Volume 03.
 
 ---
 
@@ -473,7 +487,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Módulo 03 — GitHub Actions e CI/CD.
+* Estruturar e iniciar o Módulo 04 — Releases, Versionamento e GitOps.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -572,14 +586,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 03 — GitHub Actions e CI/CD.**
+**Estruturar e iniciar o Módulo 04 — Releases, Versionamento e GitOps.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 03 do Volume 03.
+4. Iniciar o Módulo 04 do Volume 03.
 
 ---
 

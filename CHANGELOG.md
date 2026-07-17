@@ -26,6 +26,9 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Módulo 03 do Volume 03 desenvolvido com workflows, runners, cache, artefatos, OIDC, ambientes, CI e deploy.
+* Estudo de caso da DataRetail S.A., revisão, exercícios, gabarito e referências oficiais de Actions adicionados.
+* Laboratório reproduzível de validação de DAG e gates de CI/CD adicionado e validado.
 * Módulo 02 do Volume 03 desenvolvido com colaboração, branches, PRs, revisão, rulesets, releases e segurança.
 * Estudo de caso da DataRetail S.A., revisão, exercícios, gabarito e referências oficiais do GitHub adicionados.
 * Laboratório reproduzível com upstream bare, dois colaboradores, revisão e merge adicionado e validado.
@@ -53,6 +56,7 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Changed
 
+* Continuidade movida para o Módulo 04 — Releases, Versionamento e GitOps.
 * Continuidade movida para o Módulo 03 — GitHub Actions e CI/CD.
 * Continuidade movida para o Módulo 02 — Branches, Colaboração e GitHub.
 * Volume 02 — Linux marcado como concluído e continuidade movida para o Volume 03 — Git e GitHub.
