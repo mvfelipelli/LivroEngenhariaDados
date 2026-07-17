@@ -18,7 +18,7 @@ Este volume desenvolve a capacidade de transformar linguagem de negócio em mode
 1. [[01-Fundamentos-e-Niveis-de-Modelagem/README|Fundamentos e Níveis de Modelagem]] — concluído.
 2. [[02-Modelagem-Conceitual-e-Entidade-Relacionamento/README|Modelagem Conceitual e Entidade-Relacionamento]] — concluído.
 3. [[03-Modelagem-Logica-Relacional-e-Normalizacao/README|Modelagem Lógica Relacional e Normalização]] — concluído.
-4. Modelagem Física, Desnormalização e Desempenho — planejado.
+4. [[04-Modelagem-Fisica-Desnormalizacao-e-Desempenho/README|Modelagem Física, Desnormalização e Desempenho]] — concluído.
 5. Modelagem Dimensional, Fatos e Dimensões — planejado.
 6. Histórico Dimensional, SCD, Snapshots e Bridges — planejado.
 7. Data Vault 2.0 e Integração Histórica — planejado.

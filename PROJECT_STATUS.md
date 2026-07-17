@@ -646,6 +646,18 @@ Situação:
 * Formas normais, decomposição sem perda e preservação concluídas.
 * Estudo de caso, revisão, exercícios e laboratório de normalização concluídos.
 
+### Módulo 04 — Modelagem Física, Desnormalização e Desempenho
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Tipos, chaves, índices, particionamento e distribuição concluídos.
+* Layouts, compressão, desnormalização, medição e governança física concluídos.
+* Estudo de caso, revisão, exercícios e laboratório de índice e projeção concluídos.
+
 ---
 
 ## Volumes 06 a 18
@@ -667,11 +679,11 @@ Volume 05
 
 ↓
 
-Módulo 04 — Modelagem Física, Desnormalização e Desempenho
+Módulo 05 — Modelagem Dimensional, Fatos e Dimensões
 
 ↓
 
-Aprofundar tipos, armazenamento, índices, particionamento e desnormalização controlada
+Aprofundar grão, processos de negócio, fatos, dimensões e esquemas estrela
 
 ↓
 
@@ -683,7 +695,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 04 do Volume 05.
+* iniciar o Módulo 05 do Volume 05.
 
 ---
 
@@ -691,7 +703,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Concluir o Módulo 04 — Modelagem Física, Desnormalização e Desempenho.
+* Concluir o Módulo 05 — Modelagem Dimensional, Fatos e Dimensões.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -790,14 +802,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Concluir o Módulo 04 — Modelagem Física, Desnormalização e Desempenho.**
+**Concluir o Módulo 05 — Modelagem Dimensional, Fatos e Dimensões.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 04 do Volume 05.
+4. Iniciar o Módulo 05 do Volume 05.
 
 ---
 

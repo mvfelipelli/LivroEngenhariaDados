@@ -210,7 +210,7 @@ Status: 🚧 Em desenvolvimento
 | 01 — Fundamentos e Níveis de Modelagem | ✅ Concluído |
 | 02 — Modelagem Conceitual e Entidade-Relacionamento | ✅ Concluído |
 | 03 — Modelagem Lógica Relacional e Normalização | ✅ Concluído |
-| 04 — Modelagem Física, Desnormalização e Desempenho | ⏳ Planejado |
+| 04 — Modelagem Física, Desnormalização e Desempenho | ✅ Concluído |
 | 05 — Modelagem Dimensional, Fatos e Dimensões | ⏳ Planejado |
 | 06 — Histórico Dimensional, SCD, Snapshots e Bridges | ⏳ Planejado |
 | 07 — Data Vault 2.0 e Integração Histórica | ⏳ Planejado |
@@ -218,7 +218,7 @@ Status: 🚧 Em desenvolvimento
 
 ### Ponto de continuidade
 
-O próximo trabalho é concluir o Módulo 04 — Modelagem Física, Desnormalização e Desempenho.
+O próximo trabalho é concluir o Módulo 05 — Modelagem Dimensional, Fatos e Dimensões.
 
 ---
 

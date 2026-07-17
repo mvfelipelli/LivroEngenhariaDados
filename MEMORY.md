@@ -547,7 +547,15 @@ Status:
 
 O módulo possui relações, chaves, dependências funcionais, fecho, 1FN a 5FN, decomposição sem perda, preservação e laboratório SQLite reproduzível.
 
-O próximo trabalho é concluir o Módulo 04 — Modelagem Física, Desnormalização e Desempenho.
+#### Módulo 04 — Modelagem Física, Desnormalização e Desempenho
+
+Status:
+
+✅ Concluído
+
+O módulo possui tipos, chaves, índices, particionamento, distribuição, layouts, compressão, desnormalização, medição e laboratório SQLite reproduzível.
+
+O próximo trabalho é concluir o Módulo 05 — Modelagem Dimensional, Fatos e Dimensões.
 
 ---
 
@@ -557,7 +565,7 @@ Estruturar e iniciar:
 
 **Volume 05 — Modelagem de Dados**
 
-**Módulo 04 — Modelagem Física, Desnormalização e Desempenho**
+**Módulo 05 — Modelagem Dimensional, Fatos e Dimensões**
 
 Após sua conclusão:
 
