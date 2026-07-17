@@ -4,7 +4,7 @@ description: "Linguagem relacional para definição, consulta e transformação 
 tags: [sql, engenharia-de-dados, volume-04]
 aliases: [Volume SQL]
 type: volume
-status: em-desenvolvimento
+status: concluido
 created: 2026-07-17
 updated: 2026-07-17
 ---
@@ -24,10 +24,7 @@ Este volume desenvolve raciocínio relacional, consultas, manipulação, transa�
 7. [[07-Views-Seguranca-e-Governanca-SQL/README|Views, Segurança e Governança SQL]] — concluído.
 8. [[08-SQL-em-Pipelines-e-Plataformas-Analiticas/README|SQL em Pipelines e Plataformas Analíticas]] — concluído.
 9. [[09-Dados-Temporais-e-Semiestruturados-em-SQL/README|Dados Temporais e Semiestruturados em SQL]] — concluído.
-9. [[09-Dados-Temporais-e-Semiestruturados-em-SQL/README|Dados Temporais e Semiestruturados em SQL]] — concluído.
-8. [[08-SQL-em-Pipelines-e-Plataformas-Analiticas/README|SQL em Pipelines e Plataformas Analíticas]] — concluído.
-7. [[07-Views-Seguranca-e-Governanca-SQL/README|Views, Segurança e Governança SQL]] — concluído.
-6. [[06-Planos-de-Execucao-Indices-e-Otimizacao/README|Planos de Execução, Índices e Otimização]] — concluído.
+10. [[10-Testes-Qualidade-e-Observabilidade-SQL/README|Testes, Qualidade e Observabilidade SQL]] — concluído.
 
 > [!note]
 > O percurso começa pela semântica relacional. Recursos específicos de mecanismos são apresentados apenas depois do núcleo da linguagem.

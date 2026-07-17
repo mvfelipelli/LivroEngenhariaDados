@@ -9,3 +9,4 @@
 - [[07-Views-Seguranca-e-Governanca-SQL/README|Módulo 07 — Views, Segurança e Governança SQL]]
 - [[08-SQL-em-Pipelines-e-Plataformas-Analiticas/README|Módulo 08 — SQL em Pipelines e Plataformas Analíticas]]
 - [[09-Dados-Temporais-e-Semiestruturados-em-SQL/README|Módulo 09 — Dados Temporais e Semiestruturados em SQL]]
+- [[10-Testes-Qualidade-e-Observabilidade-SQL/README|Módulo 10 — Testes, Qualidade e Observabilidade SQL]]

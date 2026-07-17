@@ -26,6 +26,9 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Módulo 10 do Volume 04 desenvolvido com testes, reconciliação, anomalias, observabilidade e SLOs.
+* Laboratório reproduzível de gate de qualidade SQL adicionado e validado.
+* Volume 04 — SQL concluído com dez módulos completos.
 * Módulo 09 do Volume 04 desenvolvido com tempo, validade, bitemporalidade, JSON e arrays.
 * Estudo de caso, revisão, exercícios, gabarito e referências temporais e semiestruturadas adicionados.
 * Laboratório reproduzível de consulta as of e expansão de JSON adicionado e validado.

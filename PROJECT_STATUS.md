@@ -590,6 +590,20 @@ Situação:
 
 ---
 
+### Módulo 10 — Testes, Qualidade e Observabilidade SQL
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Testes, fixtures, constraints, contratos e reconciliação concluídos.
+* Propriedades, anomalias, métricas, SLOs e incidentes concluídos.
+* Estudo de caso, revisão, exercícios e gate de qualidade concluídos.
+
+---
+
 ## Volumes 05 a 18
 
 Status:
@@ -605,15 +619,15 @@ Os diretórios e arquivos de controle existem, mas esses volumes ainda não fora
 O próximo trabalho oficial do projeto é:
 
 ```text id="jbcjjo"
-Volume 04
+Volume 05
 
 ↓
 
-Módulo 10 — Testes, Qualidade e Observabilidade SQL
+Módulo 01 — Fundamentos e Níveis de Modelagem
 
 ↓
 
-Aprofundar testes de dados, reconciliação, métricas e diagnóstico operacional
+Estruturar conceitos, níveis e processo de modelagem de dados
 
 ↓
 
@@ -625,7 +639,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 10 do Volume 04.
+* iniciar o Módulo 01 do Volume 05.
 
 ---
 
@@ -633,7 +647,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Módulo 10 — Testes, Qualidade e Observabilidade SQL.
+* Estruturar e iniciar o Módulo 01 — Fundamentos e Níveis de Modelagem.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -732,14 +746,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 10 — Testes, Qualidade e Observabilidade SQL.**
+**Estruturar e iniciar o Módulo 01 — Fundamentos e Níveis de Modelagem.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 10 do Volume 04.
+4. Iniciar o Módulo 01 do Volume 05.
 
 ---
 

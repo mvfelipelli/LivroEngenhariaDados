@@ -11,3 +11,5 @@
 - Módulo 07 — Views, Segurança e Governança SQL concluído com laboratório de exposição controlada.
 - Módulo 08 — SQL em Pipelines e Plataformas Analíticas concluído com laboratório incremental idempotente.
 - Módulo 09 — Dados Temporais e Semiestruturados em SQL concluído com laboratório temporal e JSON.
+- Módulo 10 — Testes, Qualidade e Observabilidade SQL concluído com gate de qualidade reproduzível.
+- Volume 04 — SQL concluído.

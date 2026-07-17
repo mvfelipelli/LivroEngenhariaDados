@@ -24,8 +24,9 @@ Seu propósito é registrar a estrutura vigente em `100-Volumes`, a ordem de est
 | Volume 01             | ✅ Concluído |
 | Volume 02             | ✅ Concluído           |
 | Volume 03             | ✅ Concluído           |
-| Volume 04             | 🚧 Em desenvolvimento |
-| Volumes 05 a 18       | ⏳ Estruturados        |
+| Volume 04             | ✅ Concluído |
+| Volume 05             | 🚧 Em desenvolvimento |
+| Volumes 06 a 18       | ⏳ Estruturados        |
 
 ---
 
@@ -173,7 +174,7 @@ O Volume 03 — Git e GitHub está concluído. O próximo trabalho é estruturar
 
 **Objetivo:** desenvolver raciocínio relacional, consultas, manipulação e análise de dados com SQL.
 
-Status: 🚧 Em desenvolvimento
+Status: ✅ Concluído
 
 ### Módulos
 
@@ -188,10 +189,11 @@ Status: 🚧 Em desenvolvimento
 | 07 — Views, Segurança e Governança SQL | ✅ Concluído |
 | 08 — SQL em Pipelines e Plataformas Analíticas | ✅ Concluído |
 | 09 — Dados Temporais e Semiestruturados em SQL | ✅ Concluído |
+| 10 — Testes, Qualidade e Observabilidade SQL | ✅ Concluído |
 
 ### Ponto de continuidade
 
-O próximo trabalho é estruturar e iniciar o Módulo 10 — Testes, Qualidade e Observabilidade SQL.
+O Volume 04 está concluído. O próximo trabalho é estruturar e iniciar o Módulo 01 — Fundamentos e Níveis de Modelagem do Volume 05.
 
 ---
 

@@ -511,7 +511,15 @@ Status:
 
 O módulo possui instantes, timezones, intervalos, consultas as of, bitemporalidade, JSON, arrays, indexação, evolução de payload e laboratório SQLite reproduzível.
 
-O próximo trabalho é estruturar e iniciar o Módulo 10 — Testes, Qualidade e Observabilidade SQL.
+#### Módulo 10 — Testes, Qualidade e Observabilidade SQL
+
+Status:
+
+✅ Concluído
+
+O módulo possui estratégia de testes, fixtures, constraints, contratos, reconciliação, propriedades, anomalias, métricas, SLOs e laboratório SQLite reproduzível.
+
+O Volume 04 — SQL está concluído. O próximo trabalho é estruturar e iniciar o Módulo 01 — Fundamentos e Níveis de Modelagem do Volume 05.
 
 ---
 
@@ -519,9 +527,9 @@ O próximo trabalho é estruturar e iniciar o Módulo 10 — Testes, Qualidade e
 
 Estruturar e iniciar:
 
-**Volume 04 — SQL**
+**Volume 05 — Modelagem de Dados**
 
-**Módulo 10 — Testes, Qualidade e Observabilidade SQL**
+**Módulo 01 — Fundamentos e Níveis de Modelagem**
 
 Após sua conclusão:
 
