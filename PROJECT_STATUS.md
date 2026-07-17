@@ -622,6 +622,18 @@ Situação:
 * Níveis de modelagem, requisitos, grão, cardinalidade e invariantes concluídos.
 * Estudo de caso, revisão, exercícios e laboratório de esquema validado concluídos.
 
+### Módulo 02 — Modelagem Conceitual e Entidade-Relacionamento
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Entidades, atributos, relacionamentos, cardinalidade e participação concluídos.
+* Entidades associativas, hierarquias, notações e validação concluídos.
+* Estudo de caso, revisão, exercícios e laboratório de marketplace concluídos.
+
 ---
 
 ## Volumes 06 a 18
@@ -643,11 +655,11 @@ Volume 05
 
 ↓
 
-Módulo 02 — Modelagem Conceitual e Entidade-Relacionamento
+Módulo 03 — Modelagem Lógica Relacional e Normalização
 
 ↓
 
-Aprofundar entidades, relacionamentos, cardinalidades e notações conceituais
+Aprofundar relações, dependências funcionais, normalização e integridade lógica
 
 ↓
 
@@ -659,7 +671,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 02 do Volume 05.
+* iniciar o Módulo 03 do Volume 05.
 
 ---
 
@@ -667,7 +679,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Concluir o Módulo 02 — Modelagem Conceitual e Entidade-Relacionamento.
+* Concluir o Módulo 03 — Modelagem Lógica Relacional e Normalização.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -766,14 +778,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Concluir o Módulo 02 — Modelagem Conceitual e Entidade-Relacionamento.**
+**Concluir o Módulo 03 — Modelagem Lógica Relacional e Normalização.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 02 do Volume 05.
+4. Iniciar o Módulo 03 do Volume 05.
 
 ---
 

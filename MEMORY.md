@@ -531,7 +531,15 @@ Status:
 
 O módulo possui domínio, semântica, entidades, identidade, relacionamentos, níveis conceitual/lógico/físico, grão, cardinalidade, invariantes e laboratório SQLite reproduzível.
 
-O próximo trabalho é concluir o Módulo 02 — Modelagem Conceitual e Entidade-Relacionamento.
+#### Módulo 02 — Modelagem Conceitual e Entidade-Relacionamento
+
+Status:
+
+✅ Concluído
+
+O módulo possui entidades fortes e fracas, atributos, relacionamentos, cardinalidade, entidades associativas, hierarquias, notações e laboratório SQLite reproduzível.
+
+O próximo trabalho é concluir o Módulo 03 — Modelagem Lógica Relacional e Normalização.
 
 ---
 
@@ -541,7 +549,7 @@ Estruturar e iniciar:
 
 **Volume 05 — Modelagem de Dados**
 
-**Módulo 02 — Modelagem Conceitual e Entidade-Relacionamento**
+**Módulo 03 — Modelagem Lógica Relacional e Normalização**
 
 Após sua conclusão:
 

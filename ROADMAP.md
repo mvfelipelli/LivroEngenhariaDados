@@ -208,7 +208,7 @@ Status: 🚧 Em desenvolvimento
 | Módulo | Status |
 | ------ | ------ |
 | 01 — Fundamentos e Níveis de Modelagem | ✅ Concluído |
-| 02 — Modelagem Conceitual e Entidade-Relacionamento | ⏳ Planejado |
+| 02 — Modelagem Conceitual e Entidade-Relacionamento | ✅ Concluído |
 | 03 — Modelagem Lógica Relacional e Normalização | ⏳ Planejado |
 | 04 — Modelagem Física, Desnormalização e Desempenho | ⏳ Planejado |
 | 05 — Modelagem Dimensional, Fatos e Dimensões | ⏳ Planejado |
@@ -218,7 +218,7 @@ Status: 🚧 Em desenvolvimento
 
 ### Ponto de continuidade
 
-O próximo trabalho é concluir o Módulo 02 — Modelagem Conceitual e Entidade-Relacionamento.
+O próximo trabalho é concluir o Módulo 03 — Modelagem Lógica Relacional e Normalização.
 
 ---
 

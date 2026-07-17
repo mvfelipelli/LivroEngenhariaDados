@@ -16,7 +16,7 @@ Este volume desenvolve a capacidade de transformar linguagem de negócio em mode
 ## Módulos
 
 1. [[01-Fundamentos-e-Niveis-de-Modelagem/README|Fundamentos e Níveis de Modelagem]] — concluído.
-2. Modelagem Conceitual e Entidade-Relacionamento — planejado.
+2. [[02-Modelagem-Conceitual-e-Entidade-Relacionamento/README|Modelagem Conceitual e Entidade-Relacionamento]] — concluído.
 3. Modelagem Lógica Relacional e Normalização — planejado.
 4. Modelagem Física, Desnormalização e Desempenho — planejado.
 5. Modelagem Dimensional, Fatos e Dimensões — planejado.

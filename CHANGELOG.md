@@ -26,6 +26,8 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Módulo 02 do Volume 05 desenvolvido com entidades, relacionamentos, cardinalidades, hierarquias e notações.
+* Laboratório reproduzível de entidade associativa e cardinalidades de marketplace adicionado.
 * Volume 05 — Modelagem de Dados estruturado em oito módulos progressivos.
 * Módulo 01 desenvolvido com domínio, níveis de modelagem, identidade, grão e invariantes.
 * Laboratório reproduzível de tradução do domínio para esquema validado adicionado.
