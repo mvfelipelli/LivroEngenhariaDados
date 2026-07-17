@@ -197,6 +197,31 @@ O Volume 04 está concluído. O próximo trabalho é estruturar e iniciar o Mód
 
 ---
 
+## Volume 05 — Modelagem de Dados
+
+**Objetivo:** representar domínios operacionais e analíticos com semântica, histórico e governança.
+
+Status: 🚧 Em desenvolvimento
+
+### Módulos
+
+| Módulo | Status |
+| ------ | ------ |
+| 01 — Fundamentos e Níveis de Modelagem | ✅ Concluído |
+| 02 — Modelagem Conceitual e Entidade-Relacionamento | ⏳ Planejado |
+| 03 — Modelagem Lógica Relacional e Normalização | ⏳ Planejado |
+| 04 — Modelagem Física, Desnormalização e Desempenho | ⏳ Planejado |
+| 05 — Modelagem Dimensional, Fatos e Dimensões | ⏳ Planejado |
+| 06 — Histórico Dimensional, SCD, Snapshots e Bridges | ⏳ Planejado |
+| 07 — Data Vault 2.0 e Integração Histórica | ⏳ Planejado |
+| 08 — Modelagem para Data Lake, Lakehouse e Produtos de Dados | ⏳ Planejado |
+
+### Ponto de continuidade
+
+O próximo trabalho é concluir o Módulo 02 — Modelagem Conceitual e Entidade-Relacionamento.
+
+---
+
 ## Ordem Recomendada de Estudo
 
 ```mermaid

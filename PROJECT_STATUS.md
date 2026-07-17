@@ -604,7 +604,27 @@ Situação:
 
 ---
 
-## Volumes 05 a 18
+## Volume 05 — Modelagem de Dados
+
+Status:
+
+🚧 Em desenvolvimento
+
+### Módulo 01 — Fundamentos e Níveis de Modelagem
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Domínio, semântica, entidades, identidade e relacionamentos concluídos.
+* Níveis de modelagem, requisitos, grão, cardinalidade e invariantes concluídos.
+* Estudo de caso, revisão, exercícios e laboratório de esquema validado concluídos.
+
+---
+
+## Volumes 06 a 18
 
 Status:
 
@@ -623,11 +643,11 @@ Volume 05
 
 ↓
 
-Módulo 01 — Fundamentos e Níveis de Modelagem
+Módulo 02 — Modelagem Conceitual e Entidade-Relacionamento
 
 ↓
 
-Estruturar conceitos, níveis e processo de modelagem de dados
+Aprofundar entidades, relacionamentos, cardinalidades e notações conceituais
 
 ↓
 
@@ -639,7 +659,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 01 do Volume 05.
+* iniciar o Módulo 02 do Volume 05.
 
 ---
 
@@ -647,7 +667,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Módulo 01 — Fundamentos e Níveis de Modelagem.
+* Concluir o Módulo 02 — Modelagem Conceitual e Entidade-Relacionamento.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -746,14 +766,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 01 — Fundamentos e Níveis de Modelagem.**
+**Concluir o Módulo 02 — Modelagem Conceitual e Entidade-Relacionamento.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 01 do Volume 05.
+4. Iniciar o Módulo 02 do Volume 05.
 
 ---
 

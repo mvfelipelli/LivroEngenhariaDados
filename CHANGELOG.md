@@ -26,6 +26,9 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Volume 05 — Modelagem de Dados estruturado em oito módulos progressivos.
+* Módulo 01 desenvolvido com domínio, níveis de modelagem, identidade, grão e invariantes.
+* Laboratório reproduzível de tradução do domínio para esquema validado adicionado.
 * Módulo 10 do Volume 04 desenvolvido com testes, reconciliação, anomalias, observabilidade e SLOs.
 * Laboratório reproduzível de gate de qualidade SQL adicionado e validado.
 * Volume 04 — SQL concluído com dez módulos completos.

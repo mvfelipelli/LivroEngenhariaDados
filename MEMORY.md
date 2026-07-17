@@ -519,7 +519,19 @@ Status:
 
 O módulo possui estratégia de testes, fixtures, constraints, contratos, reconciliação, propriedades, anomalias, métricas, SLOs e laboratório SQLite reproduzível.
 
-O Volume 04 — SQL está concluído. O próximo trabalho é estruturar e iniciar o Módulo 01 — Fundamentos e Níveis de Modelagem do Volume 05.
+O Volume 04 — SQL está concluído.
+
+### Volume 05 — Modelagem de Dados
+
+#### Módulo 01 — Fundamentos e Níveis de Modelagem
+
+Status:
+
+✅ Concluído
+
+O módulo possui domínio, semântica, entidades, identidade, relacionamentos, níveis conceitual/lógico/físico, grão, cardinalidade, invariantes e laboratório SQLite reproduzível.
+
+O próximo trabalho é concluir o Módulo 02 — Modelagem Conceitual e Entidade-Relacionamento.
 
 ---
 
@@ -529,7 +541,7 @@ Estruturar e iniciar:
 
 **Volume 05 — Modelagem de Dados**
 
-**Módulo 01 — Fundamentos e Níveis de Modelagem**
+**Módulo 02 — Modelagem Conceitual e Entidade-Relacionamento**
 
 Após sua conclusão:
 
