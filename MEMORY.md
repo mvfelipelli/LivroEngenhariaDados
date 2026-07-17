@@ -471,7 +471,15 @@ Status:
 
 O módulo possui mutações, upsert, idempotência, ACID, savepoints, isolamento, anomalias, MVCC, locks, deadlocks, retries, outbox e laboratório SQLite reproduzível.
 
-O próximo trabalho é estruturar e iniciar o Módulo 05 — DDL, Schemas e Evolução de Estruturas.
+#### Módulo 05 — DDL, Schemas e Evolução de Estruturas
+
+Status:
+
+✅ Concluído
+
+O módulo possui objetos, schemas, tipos, constraints, dependências, locks de DDL, expand-contract, backfill, migrações versionadas e laboratório SQLite reproduzível.
+
+O próximo trabalho é estruturar e iniciar o Módulo 06 — Planos de Execução, Índices e Otimização.
 
 ---
 
@@ -481,7 +489,7 @@ Estruturar e iniciar:
 
 **Volume 04 — SQL**
 
-**Módulo 05 — DDL, Schemas e Evolução de Estruturas**
+**Módulo 06 — Planos de Execução, Índices e Otimização**
 
 Após sua conclusão:
 

@@ -26,6 +26,9 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Módulo 05 do Volume 04 desenvolvido com DDL, constraints, dependências e evolução de schema.
+* Estudo de caso, revisão, exercícios, gabarito e referências oficiais de migrações adicionados.
+* Laboratório reproduzível de expand-contract e reconstrução de tabela adicionado e validado.
 * Módulo 04 do Volume 04 desenvolvido com DML, transações, isolamento, locks, retries e outbox.
 * Estudo de caso, revisão, exercícios, gabarito e referências oficiais de concorrência adicionados.
 * Laboratório reproduzível de transferência atômica e evento idempotente adicionado e validado.
@@ -71,6 +74,7 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Changed
 
+* Continuidade movida para o Módulo 06 — Planos de Execução, Índices e Otimização.
 * Continuidade movida para o Módulo 05 — DDL, Schemas e Evolução de Estruturas.
 * Continuidade movida para o Módulo 04 — DML, Transações e Concorrência.
 * Continuidade movida para o Módulo 03 — Agregações, Funções de Janela e Análise.

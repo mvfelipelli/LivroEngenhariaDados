@@ -4,3 +4,4 @@
 - [[02-Consultas-Joins-e-Subconsultas/README|Módulo 02 — Consultas, Joins e Subconsultas]]
 - [[03-Agregacoes-Funcoes-de-Janela-e-Analise/README|Módulo 03 — Agregações, Funções de Janela e Análise]]
 - [[04-DML-Transacoes-e-Concorrencia/README|Módulo 04 — DML, Transações e Concorrência]]
+- [[05-DDL-Schemas-e-Evolucao-de-Estruturas/README|Módulo 05 — DDL, Schemas e Evolução de Estruturas]]

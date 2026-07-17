@@ -183,10 +183,11 @@ Status: 🚧 Em desenvolvimento
 | 02 — Consultas, Joins e Subconsultas | ✅ Concluído |
 | 03 — Agregações, Funções de Janela e Análise | ✅ Concluído |
 | 04 — DML, Transações e Concorrência | ✅ Concluído |
+| 05 — DDL, Schemas e Evolução de Estruturas | ✅ Concluído |
 
 ### Ponto de continuidade
 
-O próximo trabalho é estruturar e iniciar o Módulo 05 — DDL, Schemas e Evolução de Estruturas.
+O próximo trabalho é estruturar e iniciar o Módulo 06 — Planos de Execução, Índices e Otimização.
 
 ---
 

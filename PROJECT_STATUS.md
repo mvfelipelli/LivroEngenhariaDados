@@ -520,6 +520,20 @@ Situação:
 
 ---
 
+### Módulo 05 — DDL, Schemas e Evolução de Estruturas
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Objetos, schemas, tipos, constraints e dependências concluídos.
+* ALTER TABLE, locks, expand-contract, backfill e governança concluídos.
+* Estudo de caso, revisão, exercícios e laboratório de migração concluídos.
+
+---
+
 ## Volumes 05 a 18
 
 Status:
@@ -539,11 +553,11 @@ Volume 04
 
 ↓
 
-Módulo 05 — DDL, Schemas e Evolução de Estruturas
+Módulo 06 — Planos de Execução, Índices e Otimização
 
 ↓
 
-Aprofundar contratos físicos, constraints e migrações seguras
+Aprofundar custo, acesso, cardinalidade e diagnóstico de consultas
 
 ↓
 
@@ -555,7 +569,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 05 do Volume 04.
+* iniciar o Módulo 06 do Volume 04.
 
 ---
 
@@ -563,7 +577,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Módulo 05 — DDL, Schemas e Evolução de Estruturas.
+* Estruturar e iniciar o Módulo 06 — Planos de Execução, Índices e Otimização.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -662,14 +676,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 05 — DDL, Schemas e Evolução de Estruturas.**
+**Estruturar e iniciar o Módulo 06 — Planos de Execução, Índices e Otimização.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 05 do Volume 04.
+4. Iniciar o Módulo 06 do Volume 04.
 
 ---
 
