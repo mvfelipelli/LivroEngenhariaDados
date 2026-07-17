@@ -7,3 +7,4 @@
 - Módulo 03 — Modelagem Lógica Relacional e Normalização concluído com laboratório de decomposição.
 - Módulo 04 — Modelagem Física, Desnormalização e Desempenho concluído com laboratório de índice e projeção.
 - Módulo 05 — Modelagem Dimensional, Fatos e Dimensões concluído com laboratório star schema.
+- Módulo 06 — Histórico Dimensional, SCD, Snapshots e Bridges concluído com laboratório SCD2.

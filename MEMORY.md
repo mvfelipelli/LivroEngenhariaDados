@@ -563,7 +563,15 @@ Status:
 
 O módulo possui processos, bus matrix, grão, fatos, aditividade, dimensões conformadas, padrões especiais, estrela, carga e laboratório SQLite reproduzível.
 
-O próximo trabalho é concluir o Módulo 06 — Histórico Dimensional, SCD, Snapshots e Bridges.
+#### Módulo 06 — Histórico Dimensional, SCD, Snapshots e Bridges
+
+Status:
+
+✅ Concluído
+
+O módulo possui políticas de mudança, tipos SCD, SCD2, snapshots, bridges, hierarquias, late arriving, testes e laboratório SQLite reproduzível.
+
+O próximo trabalho é concluir o Módulo 07 — Data Vault 2.0 e Integração Histórica.
 
 ---
 
@@ -573,7 +581,7 @@ Estruturar e iniciar:
 
 **Volume 05 — Modelagem de Dados**
 
-**Módulo 06 — Histórico Dimensional, SCD, Snapshots e Bridges**
+**Módulo 07 — Data Vault 2.0 e Integração Histórica**
 
 Após sua conclusão:
 

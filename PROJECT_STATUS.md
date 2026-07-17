@@ -670,6 +670,18 @@ Situação:
 * Dimensões conformadas, padrões especiais, estrela e carga concluídos.
 * Estudo de caso, revisão, exercícios e laboratório star schema concluídos.
 
+### Módulo 06 — Histórico Dimensional, SCD, Snapshots e Bridges
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Políticas de mudança, tipos SCD, SCD2 e lookup temporal concluídos.
+* Snapshots, bridges, hierarquias, dados tardios e testes concluídos.
+* Estudo de caso, revisão, exercícios e laboratório SCD2 concluídos.
+
 ---
 
 ## Volumes 06 a 18
@@ -691,11 +703,11 @@ Volume 05
 
 ↓
 
-Módulo 06 — Histórico Dimensional, SCD, Snapshots e Bridges
+Módulo 07 — Data Vault 2.0 e Integração Histórica
 
 ↓
 
-Aprofundar mudanças dimensionais, validade, snapshots, hierarquias e relações multivaloradas
+Aprofundar hubs, links, satellites, hash keys, historização e integração auditável
 
 ↓
 
@@ -707,7 +719,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 06 do Volume 05.
+* iniciar o Módulo 07 do Volume 05.
 
 ---
 
@@ -715,7 +727,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Concluir o Módulo 06 — Histórico Dimensional, SCD, Snapshots e Bridges.
+* Concluir o Módulo 07 — Data Vault 2.0 e Integração Histórica.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -814,14 +826,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Concluir o Módulo 06 — Histórico Dimensional, SCD, Snapshots e Bridges.**
+**Concluir o Módulo 07 — Data Vault 2.0 e Integração Histórica.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 06 do Volume 05.
+4. Iniciar o Módulo 07 do Volume 05.
 
 ---
 

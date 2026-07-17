@@ -20,7 +20,7 @@ Este volume desenvolve a capacidade de transformar linguagem de negócio em mode
 3. [[03-Modelagem-Logica-Relacional-e-Normalizacao/README|Modelagem Lógica Relacional e Normalização]] — concluído.
 4. [[04-Modelagem-Fisica-Desnormalizacao-e-Desempenho/README|Modelagem Física, Desnormalização e Desempenho]] — concluído.
 5. [[05-Modelagem-Dimensional-Fatos-e-Dimensoes/README|Modelagem Dimensional, Fatos e Dimensões]] — concluído.
-6. Histórico Dimensional, SCD, Snapshots e Bridges — planejado.
+6. [[06-Historico-Dimensional-SCD-Snapshots-e-Bridges/README|Histórico Dimensional, SCD, Snapshots e Bridges]] — concluído.
 7. Data Vault 2.0 e Integração Histórica — planejado.
 8. Modelagem para Data Lake, Lakehouse e Produtos de Dados — planejado.
 

@@ -212,13 +212,13 @@ Status: 🚧 Em desenvolvimento
 | 03 — Modelagem Lógica Relacional e Normalização | ✅ Concluído |
 | 04 — Modelagem Física, Desnormalização e Desempenho | ✅ Concluído |
 | 05 — Modelagem Dimensional, Fatos e Dimensões | ✅ Concluído |
-| 06 — Histórico Dimensional, SCD, Snapshots e Bridges | ⏳ Planejado |
+| 06 — Histórico Dimensional, SCD, Snapshots e Bridges | ✅ Concluído |
 | 07 — Data Vault 2.0 e Integração Histórica | ⏳ Planejado |
 | 08 — Modelagem para Data Lake, Lakehouse e Produtos de Dados | ⏳ Planejado |
 
 ### Ponto de continuidade
 
-O próximo trabalho é concluir o Módulo 06 — Histórico Dimensional, SCD, Snapshots e Bridges.
+O próximo trabalho é concluir o Módulo 07 — Data Vault 2.0 e Integração Histórica.
 
 ---
 
