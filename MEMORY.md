@@ -539,7 +539,15 @@ Status:
 
 O módulo possui entidades fortes e fracas, atributos, relacionamentos, cardinalidade, entidades associativas, hierarquias, notações e laboratório SQLite reproduzível.
 
-O próximo trabalho é concluir o Módulo 03 — Modelagem Lógica Relacional e Normalização.
+#### Módulo 03 — Modelagem Lógica Relacional e Normalização
+
+Status:
+
+✅ Concluído
+
+O módulo possui relações, chaves, dependências funcionais, fecho, 1FN a 5FN, decomposição sem perda, preservação e laboratório SQLite reproduzível.
+
+O próximo trabalho é concluir o Módulo 04 — Modelagem Física, Desnormalização e Desempenho.
 
 ---
 
@@ -549,7 +557,7 @@ Estruturar e iniciar:
 
 **Volume 05 — Modelagem de Dados**
 
-**Módulo 03 — Modelagem Lógica Relacional e Normalização**
+**Módulo 04 — Modelagem Física, Desnormalização e Desempenho**
 
 Após sua conclusão:
 

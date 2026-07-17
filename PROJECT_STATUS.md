@@ -634,6 +634,18 @@ Situação:
 * Entidades associativas, hierarquias, notações e validação concluídos.
 * Estudo de caso, revisão, exercícios e laboratório de marketplace concluídos.
 
+### Módulo 03 — Modelagem Lógica Relacional e Normalização
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Relações, chaves, dependências funcionais e fecho concluídos.
+* Formas normais, decomposição sem perda e preservação concluídas.
+* Estudo de caso, revisão, exercícios e laboratório de normalização concluídos.
+
 ---
 
 ## Volumes 06 a 18
@@ -655,11 +667,11 @@ Volume 05
 
 ↓
 
-Módulo 03 — Modelagem Lógica Relacional e Normalização
+Módulo 04 — Modelagem Física, Desnormalização e Desempenho
 
 ↓
 
-Aprofundar relações, dependências funcionais, normalização e integridade lógica
+Aprofundar tipos, armazenamento, índices, particionamento e desnormalização controlada
 
 ↓
 
@@ -671,7 +683,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 03 do Volume 05.
+* iniciar o Módulo 04 do Volume 05.
 
 ---
 
@@ -679,7 +691,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Concluir o Módulo 03 — Modelagem Lógica Relacional e Normalização.
+* Concluir o Módulo 04 — Modelagem Física, Desnormalização e Desempenho.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -778,14 +790,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Concluir o Módulo 03 — Modelagem Lógica Relacional e Normalização.**
+**Concluir o Módulo 04 — Modelagem Física, Desnormalização e Desempenho.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 03 do Volume 05.
+4. Iniciar o Módulo 04 do Volume 05.
 
 ---
 
