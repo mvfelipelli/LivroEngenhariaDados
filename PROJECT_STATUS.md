@@ -776,6 +776,18 @@ Situação:
 * Datetimes, timezones, regex, compactação e escrita atômica concluídos.
 * Estudo de caso, revisão, exercícios e conversão JSONL para CSV concluídos.
 
+### Módulo 06 — Testes, Qualidade, Logging e Empacotamento
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Estratégia, unitários, integração, contratos, fixtures e doubles concluídos.
+* Propriedades, cobertura, gates, logging e empacotamento concluídos.
+* Estudo de caso, revisão, exercícios e suíte unittest concluídos.
+
 ## Volumes 07 a 18
 
 Status:
@@ -795,11 +807,11 @@ Volume 06
 
 ↓
 
-Módulo 06 — Testes, Qualidade, Logging e Empacotamento
+Módulo 07 — Acesso a Bancos de Dados e APIs
 
 ↓
 
-Instituir testes automatizados, feedback de qualidade, logs e distribuição reproduzível
+Integrar bancos e serviços HTTP com transações, contratos, paginação e resiliência
 
 ↓
 
@@ -811,7 +823,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 06 do Volume 06.
+* iniciar o Módulo 07 do Volume 06.
 
 ---
 
@@ -819,7 +831,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Concluir o Módulo 06 — Testes, Qualidade, Logging e Empacotamento.
+* Concluir o Módulo 07 — Acesso a Bancos de Dados e APIs.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -918,14 +930,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Concluir o Módulo 06 — Testes, Qualidade, Logging e Empacotamento.**
+**Concluir o Módulo 07 — Acesso a Bancos de Dados e APIs.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 07 do Volume 06.
+4. Iniciar o Módulo 08 do Volume 06.
 
 ---
 

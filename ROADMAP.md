@@ -238,7 +238,7 @@ Status: 🚧 Em desenvolvimento
 | 03 — Funções, Módulos, Exceções e Iteradores | ✅ Concluído |
 | 04 — Orientação a Objetos, Dataclasses e Tipagem | ✅ Concluído |
 | 05 — Arquivos, Serialização, Datas e Expressões Regulares | ✅ Concluído |
-| 06 — Testes, Qualidade, Logging e Empacotamento | ⏳ Planejado |
+| 06 — Testes, Qualidade, Logging e Empacotamento | ✅ Concluído |
 | 07 — Acesso a Bancos de Dados e APIs | ⏳ Planejado |
 | 08 — NumPy, Pandas e Processamento Tabular | ⏳ Planejado |
 | 09 — Concorrência, Paralelismo e Performance | ⏳ Planejado |
@@ -246,7 +246,7 @@ Status: 🚧 Em desenvolvimento
 
 ### Ponto de continuidade
 
-O próximo trabalho é concluir o Módulo 06 — Testes, Qualidade, Logging e Empacotamento.
+O próximo trabalho é concluir o Módulo 07 — Acesso a Bancos de Dados e APIs.
 
 ---
 

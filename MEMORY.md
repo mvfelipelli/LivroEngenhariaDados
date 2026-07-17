@@ -631,6 +631,14 @@ Status:
 
 O módulo possui pathlib, I/O, encoding, CSV, JSONL, datetimes, timezones, regex, compactação, escrita atômica e laboratório JSONL para CSV.
 
+#### Módulo 06 — Testes, Qualidade, Logging e Empacotamento
+
+Status:
+
+✅ Concluído
+
+O módulo possui estratégia de testes, fixtures, doubles, propriedades, cobertura, gates, logging estruturado, pyproject, wheels e laboratório unittest reproduzível.
+
 ---
 
 ## Próximo Marco
@@ -639,7 +647,7 @@ Estruturar e iniciar:
 
 **Volume 06 — Python**
 
-**Módulo 06 — Testes, Qualidade, Logging e Empacotamento**
+**Módulo 07 — Acesso a Bancos de Dados e APIs**
 
 Após sua conclusão:
 

@@ -26,6 +26,8 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Módulo 06 do Volume 06 desenvolvido com testes, propriedades, gates, logging estruturado e empacotamento.
+* Laboratório reproduzível com unittest, fake idempotente e proteção de segredos adicionado e validado.
 * Módulo 05 do Volume 06 desenvolvido com arquivos, CSV, JSONL, tempo, regex, compactação e atomicidade.
 * Laboratório reproduzível de conversão JSONL para CSV determinístico e atômico adicionado e validado.
 * Módulo 04 do Volume 06 desenvolvido com classes, dataclasses, composição, Protocols, generics e tipagem gradual.
