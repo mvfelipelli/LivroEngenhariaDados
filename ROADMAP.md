@@ -22,8 +22,9 @@ Seu propósito é registrar a estrutura vigente em `100-Volumes`, a ordem de est
 | Governança do Projeto | 🚧 Em consolidação    |
 | Volume 00             | 🚧 Em desenvolvimento |
 | Volume 01             | ✅ Concluído |
-| Volume 02             | 🚧 Em desenvolvimento |
-| Volumes 03 a 18       | ⏳ Estruturados        |
+| Volume 02             | ✅ Concluído           |
+| Volume 03             | ✅ Concluído           |
+| Volumes 04 a 18       | ⏳ Estruturados        |
 
 ---
 
@@ -47,7 +48,7 @@ flowchart LR
 | 00 | `00-Introducao` | Introdução | 🚧 Em desenvolvimento |
 | 01 | `01-Fundamentos` | Fundamentos | 🚧 Em desenvolvimento |
 | 02 | `02-Linux` | Linux | ⏳ Estruturado |
-| 03 | `03-Git-e-GitHub` | Git e GitHub | ⏳ Estruturado |
+| 03 | `03-Git-e-GitHub` | Git e GitHub | ✅ Concluído |
 | 04 | `04-SQL` | SQL | ⏳ Estruturado |
 | 05 | `05-Modelagem-de-Dados` | Modelagem de Dados | ⏳ Estruturado |
 | 06 | `06-Python` | Python | ⏳ Estruturado |
@@ -96,7 +97,7 @@ Status: ✅ Concluído
 
 **Objetivo:** construir a base conceitual necessária para compreender sistemas, plataformas e arquiteturas de dados.
 
-Status: 🚧 Em desenvolvimento
+Status: ✅ Concluído
 
 ### Módulos
 
@@ -150,7 +151,7 @@ O Volume 02 — Linux está concluído.
 
 **Objetivo:** desenvolver versionamento distribuído, colaboração, revisão e governança de mudanças.
 
-Status: 🚧 Em desenvolvimento
+Status: ✅ Concluído
 
 ### Módulos
 
@@ -159,10 +160,11 @@ Status: 🚧 Em desenvolvimento
 | 01 — Fundamentos do Git | ✅ Concluído |
 | 02 — Branches, Colaboração e GitHub | ✅ Concluído |
 | 03 — GitHub Actions e CI/CD | ✅ Concluído |
+| 04 — Releases, Versionamento e GitOps | ✅ Concluído |
 
 ### Ponto de continuidade
 
-O próximo trabalho é estruturar e iniciar o Módulo 04 — Releases, Versionamento e GitOps.
+O Volume 03 — Git e GitHub está concluído. O próximo trabalho é estruturar e iniciar o Volume 04 — SQL.
 
 ---
 

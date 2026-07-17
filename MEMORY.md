@@ -395,7 +395,7 @@ O Volume 02 — Linux está concluído.
 
 Status:
 
-🚧 Em desenvolvimento
+✅ Concluído
 
 #### Módulo 01 — Fundamentos do Git
 
@@ -421,7 +421,15 @@ Status:
 
 O módulo possui workflows, runners, matrizes, cache, artefatos, OIDC, ambientes, CI, deploy, reuso, supply chain e laboratório reproduzível.
 
-O próximo trabalho é estruturar e iniciar o Módulo 04 — Releases, Versionamento e GitOps.
+#### Módulo 04 — Releases, Versionamento e GitOps
+
+Status:
+
+✅ Concluído
+
+O módulo possui SemVer, tags, releases, changelog, artefatos imutáveis, proveniência, promoção, rollback, reconciliação, drift, segurança e laboratório reproduzível.
+
+O Volume 03 — Git e GitHub está concluído. O próximo trabalho é estruturar e iniciar o Volume 04 — SQL.
 
 ---
 
@@ -429,9 +437,7 @@ O próximo trabalho é estruturar e iniciar o Módulo 04 — Releases, Versionam
 
 Estruturar e iniciar:
 
-**Volume 03 — Git e GitHub**
-
-**Módulo 04 — Releases, Versionamento e GitOps**
+**Volume 04 — SQL**
 
 Após sua conclusão:
 

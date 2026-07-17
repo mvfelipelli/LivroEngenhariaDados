@@ -26,6 +26,9 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Módulo 04 do Volume 03 desenvolvido com SemVer, releases, artefatos, promoção, rollback e GitOps.
+* Estudo de caso, revisão, exercícios, gabarito e referências oficiais de versionamento e GitOps adicionados.
+* Laboratório reproduzível de reconciliação, drift e promoção imutável adicionado e validado.
 * Módulo 03 do Volume 03 desenvolvido com workflows, runners, cache, artefatos, OIDC, ambientes, CI e deploy.
 * Estudo de caso da DataRetail S.A., revisão, exercícios, gabarito e referências oficiais de Actions adicionados.
 * Laboratório reproduzível de validação de DAG e gates de CI/CD adicionado e validado.
@@ -56,6 +59,7 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Changed
 
+* Volume 03 — Git e GitHub marcado como concluído e continuidade movida para o Volume 04 — SQL.
 * Continuidade movida para o Módulo 04 — Releases, Versionamento e GitOps.
 * Continuidade movida para o Módulo 03 — GitHub Actions e CI/CD.
 * Continuidade movida para o Módulo 02 — Branches, Colaboração e GitHub.

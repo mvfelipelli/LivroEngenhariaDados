@@ -400,7 +400,7 @@ O Volume 02 — Linux está concluído.
 
 Status:
 
-🚧 Em desenvolvimento
+✅ Concluído
 
 ### Módulo 01 — Fundamentos do Git
 
@@ -444,6 +444,20 @@ Situação:
 
 ---
 
+### Módulo 04 — Releases, Versionamento e GitOps
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* SemVer, tags, releases, changelog e artefatos imutáveis concluídos.
+* Promoção, rollback, reconciliação, drift, segurança e governança GitOps concluídos.
+* Estudo de caso, revisão, exercícios e laboratório de reconciliação concluídos.
+
+---
+
 ## Volumes 04 a 18
 
 Status:
@@ -459,15 +473,15 @@ Os diretórios, `README.md`, `SUMMARY.md` e `CHANGELOG.md` de cada volume existe
 O próximo trabalho oficial do projeto é:
 
 ```text id="jbcjjo"
-Volume 03
+Volume 04
 
 ↓
 
-Módulo 04 — Releases, Versionamento e GitOps
+SQL
 
 ↓
 
-Aprofundar SemVer, tags, releases, changelogs, promoção e reconciliação GitOps
+Aprofundar linguagem relacional, consultas e transformação de dados
 
 ↓
 
@@ -479,7 +493,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 04 do Volume 03.
+* iniciar o Volume 04 — SQL.
 
 ---
 
@@ -487,7 +501,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Módulo 04 — Releases, Versionamento e GitOps.
+* Estruturar e iniciar o Volume 04 — SQL.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -586,14 +600,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 04 — Releases, Versionamento e GitOps.**
+**Estruturar e iniciar o Volume 04 — SQL.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 04 do Volume 03.
+4. Iniciar o Volume 04 — SQL.
 
 ---
 
