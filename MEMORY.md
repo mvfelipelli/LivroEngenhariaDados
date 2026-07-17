@@ -615,6 +615,14 @@ Status:
 
 O módulo possui assinaturas, closures, decorators, módulos, APIs, exceções, iteradores, geradores, context managers e laboratório de pipeline preguiçoso em lotes.
 
+#### Módulo 04 — Orientação a Objetos, Dataclasses e Tipagem
+
+Status:
+
+✅ Concluído
+
+O módulo possui classes, invariantes, composição, herança, dataclasses, objetos de valor, type hints, Protocols, generics e laboratório de domínio imutável.
+
 ---
 
 ## Próximo Marco
@@ -623,7 +631,7 @@ Estruturar e iniciar:
 
 **Volume 06 — Python**
 
-**Módulo 04 — Orientação a Objetos, Dataclasses e Tipagem**
+**Módulo 05 — Arquivos, Serialização, Datas e Expressões Regulares**
 
 Após sua conclusão:
 

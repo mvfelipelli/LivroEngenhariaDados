@@ -752,6 +752,18 @@ Situação:
 * Exceções, iteradores, geradores e context managers concluídos.
 * Estudo de caso, revisão, exercícios e pipeline preguiçoso concluídos.
 
+### Módulo 04 — Orientação a Objetos, Dataclasses e Tipagem
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Classes, encapsulamento, composição, herança e dataclasses concluídos.
+* Objetos de valor, type hints, Protocols, generics e narrowing concluídos.
+* Estudo de caso, revisão, exercícios e domínio imutável concluídos.
+
 ## Volumes 07 a 18
 
 Status:
@@ -771,11 +783,11 @@ Volume 06
 
 ↓
 
-Módulo 04 — Orientação a Objetos, Dataclasses e Tipagem
+Módulo 05 — Arquivos, Serialização, Datas e Expressões Regulares
 
 ↓
 
-Modelar entidades, valores e interfaces com composição e tipos verificáveis
+Manipular dados persistidos, formatos, tempo e texto com fronteiras explícitas
 
 ↓
 
@@ -787,7 +799,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 04 do Volume 06.
+* iniciar o Módulo 05 do Volume 06.
 
 ---
 
@@ -795,7 +807,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Concluir o Módulo 04 — Orientação a Objetos, Dataclasses e Tipagem.
+* Concluir o Módulo 05 — Arquivos, Serialização, Datas e Expressões Regulares.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -894,14 +906,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Concluir o Módulo 04 — Orientação a Objetos, Dataclasses e Tipagem.**
+**Concluir o Módulo 05 — Arquivos, Serialização, Datas e Expressões Regulares.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 05 do Volume 06.
+4. Iniciar o Módulo 06 do Volume 06.
 
 ---
 

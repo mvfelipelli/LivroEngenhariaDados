@@ -26,6 +26,8 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Módulo 04 do Volume 06 desenvolvido com classes, dataclasses, composição, Protocols, generics e tipagem gradual.
+* Laboratório reproduzível de domínio imutável e repositório estruturalmente tipado adicionado e validado.
 * Módulo 03 do Volume 06 desenvolvido com funções, módulos, exceções, iteradores, geradores e context managers.
 * Laboratório reproduzível de pipeline preguiçoso em lotes com quarentena adicionado e validado.
 * Módulo 02 do Volume 06 desenvolvido com tipos, mutabilidade, coleções, fluxo, complexidade e ordenação.
