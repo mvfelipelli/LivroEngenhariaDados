@@ -20,6 +20,8 @@ Este volume desenvolve raciocínio relacional, consultas, manipulação, transa�
 3. [[03-Agregacoes-Funcoes-de-Janela-e-Analise/README|Agregações, Funções de Janela e Análise]] — concluído.
 4. [[04-DML-Transacoes-e-Concorrencia/README|DML, Transações e Concorrência]] — concluído.
 5. [[05-DDL-Schemas-e-Evolucao-de-Estruturas/README|DDL, Schemas e Evolução de Estruturas]] — concluído.
+6. [[06-Planos-de-Execucao-Indices-e-Otimizacao/README|Planos de Execução, Índices e Otimização]] — concluído.
+6. [[06-Planos-de-Execucao-Indices-e-Otimizacao/README|Planos de Execução, Índices e Otimização]] — concluído.
 
 > [!note]
 > O percurso começa pela semântica relacional. Recursos específicos de mecanismos são apresentados apenas depois do núcleo da linguagem.

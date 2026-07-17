@@ -26,6 +26,9 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Módulo 06 do Volume 04 desenvolvido com planos, estatísticas, operadores, índices e algoritmos de join.
+* Estudo de caso, revisão, exercícios, gabarito e referências oficiais de otimização adicionados.
+* Laboratório reproduzível de comparação de planos antes e depois da indexação adicionado e validado.
 * Módulo 05 do Volume 04 desenvolvido com DDL, constraints, dependências e evolução de schema.
 * Estudo de caso, revisão, exercícios, gabarito e referências oficiais de migrações adicionados.
 * Laboratório reproduzível de expand-contract e reconstrução de tabela adicionado e validado.

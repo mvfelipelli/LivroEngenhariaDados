@@ -184,10 +184,11 @@ Status: 🚧 Em desenvolvimento
 | 03 — Agregações, Funções de Janela e Análise | ✅ Concluído |
 | 04 — DML, Transações e Concorrência | ✅ Concluído |
 | 05 — DDL, Schemas e Evolução de Estruturas | ✅ Concluído |
+| 06 — Planos de Execução, Índices e Otimização | ✅ Concluído |
 
 ### Ponto de continuidade
 
-O próximo trabalho é estruturar e iniciar o Módulo 06 — Planos de Execução, Índices e Otimização.
+O próximo trabalho é estruturar e iniciar o Módulo 07 — Views, Segurança e Governança SQL.
 
 ---
 

@@ -534,6 +534,20 @@ Situação:
 
 ---
 
+### Módulo 06 — Planos de Execução, Índices e Otimização
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Planos, custos, cardinalidade, estatísticas e operadores concluídos.
+* Índices, joins físicos, EXPLAIN ANALYZE, SARGabilidade e método de otimização concluídos.
+* Estudo de caso, revisão, exercícios e laboratório de comparação de planos concluídos.
+
+---
+
 ## Volumes 05 a 18
 
 Status:
@@ -553,11 +567,11 @@ Volume 04
 
 ↓
 
-Módulo 06 — Planos de Execução, Índices e Otimização
+Módulo 07 — Views, Segurança e Governança SQL
 
 ↓
 
-Aprofundar custo, acesso, cardinalidade e diagnóstico de consultas
+Aprofundar abstração, autorização e governança de acesso relacional
 
 ↓
 
@@ -569,7 +583,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 06 do Volume 04.
+* iniciar o Módulo 07 do Volume 04.
 
 ---
 
@@ -577,7 +591,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Módulo 06 — Planos de Execução, Índices e Otimização.
+* Estruturar e iniciar o Módulo 07 — Views, Segurança e Governança SQL.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -676,14 +690,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 06 — Planos de Execução, Índices e Otimização.**
+**Estruturar e iniciar o Módulo 07 — Views, Segurança e Governança SQL.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 06 do Volume 04.
+4. Iniciar o Módulo 07 do Volume 04.
 
 ---
 

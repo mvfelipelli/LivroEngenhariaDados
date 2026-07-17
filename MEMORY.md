@@ -479,7 +479,15 @@ Status:
 
 O módulo possui objetos, schemas, tipos, constraints, dependências, locks de DDL, expand-contract, backfill, migrações versionadas e laboratório SQLite reproduzível.
 
-O próximo trabalho é estruturar e iniciar o Módulo 06 — Planos de Execução, Índices e Otimização.
+#### Módulo 06 — Planos de Execução, Índices e Otimização
+
+Status:
+
+✅ Concluído
+
+O módulo possui planos lógicos e físicos, cardinalidade, estatísticas, operadores, índices, algoritmos de join, EXPLAIN ANALYZE, SARGabilidade e laboratório SQLite reproduzível.
+
+O próximo trabalho é estruturar e iniciar o Módulo 07 — Views, Segurança e Governança SQL.
 
 ---
 
@@ -489,7 +497,7 @@ Estruturar e iniciar:
 
 **Volume 04 — SQL**
 
-**Módulo 06 — Planos de Execução, Índices e Otimização**
+**Módulo 07 — Views, Segurança e Governança SQL**
 
 Após sua conclusão:
 
