@@ -7,3 +7,4 @@
 - [[05-Arquivos-Serializacao-Datas-e-Expressoes-Regulares/README|Módulo 05 — Arquivos, Serialização, Datas e Expressões Regulares]]
 - [[06-Testes-Qualidade-Logging-e-Empacotamento/README|Módulo 06 — Testes, Qualidade, Logging e Empacotamento]]
 - [[07-Acesso-a-Bancos-de-Dados-e-APIs/README|Módulo 07 — Acesso a Bancos de Dados e APIs]]
+- [[08-NumPy-Pandas-e-Processamento-Tabular/README|Módulo 08 — NumPy, Pandas e Processamento Tabular]]

@@ -800,6 +800,18 @@ Situação:
 * HTTP, autenticação, TLS, retries, paginação e contratos concluídos.
 * Estudo de caso, revisão, exercícios e sincronização HTTP-SQLite concluídos.
 
+### Módulo 08 — NumPy, Pandas e Processamento Tabular
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* NumPy, arrays, dtypes, views, broadcasting e vetorização concluídos.
+* Pandas, nulos, joins, agregações, tempo, chunks e memória concluídos.
+* Estudo de caso, revisão, exercícios e mart reconciliado concluídos.
+
 ## Volumes 07 a 18
 
 Status:
@@ -819,11 +831,11 @@ Volume 06
 
 ↓
 
-Módulo 08 — NumPy, Pandas e Processamento Tabular
+Módulo 09 — Concorrência, Paralelismo e Performance
 
 ↓
 
-Processar dados tabulares com vetorização, tipos, joins, agregações e memória controlada
+Escolher modelos de concorrência e otimizar por medição, limites e backpressure
 
 ↓
 
@@ -835,7 +847,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 08 do Volume 06.
+* iniciar o Módulo 09 do Volume 06.
 
 ---
 
@@ -843,7 +855,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Concluir o Módulo 08 — NumPy, Pandas e Processamento Tabular.
+* Concluir o Módulo 09 — Concorrência, Paralelismo e Performance.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -942,14 +954,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Concluir o Módulo 08 — NumPy, Pandas e Processamento Tabular.**
+**Concluir o Módulo 09 — Concorrência, Paralelismo e Performance.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 09 do Volume 06.
+4. Iniciar o Módulo 10 do Volume 06.
 
 ---
 

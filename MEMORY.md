@@ -647,6 +647,14 @@ Status:
 
 O módulo possui DB-API, transações, upsert, pooling, HTTP, TLS, timeouts, retries, paginação, rate limits, contratos e laboratório HTTP para SQLite.
 
+#### Módulo 08 — NumPy, Pandas e Processamento Tabular
+
+Status:
+
+✅ Concluído
+
+O módulo possui arrays, dtypes, broadcasting, vetorização, DataFrames, nulos, joins, agregações, tempo, chunks, memória e laboratório tabular reconciliado.
+
 ---
 
 ## Próximo Marco
@@ -655,7 +663,7 @@ Estruturar e iniciar:
 
 **Volume 06 — Python**
 
-**Módulo 08 — NumPy, Pandas e Processamento Tabular**
+**Módulo 09 — Concorrência, Paralelismo e Performance**
 
 Após sua conclusão:
 

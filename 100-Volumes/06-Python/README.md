@@ -22,7 +22,7 @@ Este volume desenvolve programação Python do ambiente de execução à constru
 5. [[05-Arquivos-Serializacao-Datas-e-Expressoes-Regulares/README|Arquivos, Serialização, Datas e Expressões Regulares]] — concluído.
 6. [[06-Testes-Qualidade-Logging-e-Empacotamento/README|Testes, Qualidade, Logging e Empacotamento]] — concluído.
 7. [[07-Acesso-a-Bancos-de-Dados-e-APIs/README|Acesso a Bancos de Dados e APIs]] — concluído.
-8. NumPy, Pandas e Processamento Tabular — planejado.
+8. [[08-NumPy-Pandas-e-Processamento-Tabular/README|NumPy, Pandas e Processamento Tabular]] — concluído.
 9. Concorrência, Paralelismo e Performance — planejado.
 10. Pipelines de Dados, Observabilidade e Projeto Final — planejado.
 
