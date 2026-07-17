@@ -3,3 +3,4 @@
 ## 2026-07-17
 
 - Volume iniciado com o Módulo 01 — Fundamentos do Git completo.
+- Módulo 02 — Branches, Colaboração e GitHub concluído com laboratório distribuído.

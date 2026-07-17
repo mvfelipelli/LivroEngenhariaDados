@@ -26,6 +26,9 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Módulo 02 do Volume 03 desenvolvido com colaboração, branches, PRs, revisão, rulesets, releases e segurança.
+* Estudo de caso da DataRetail S.A., revisão, exercícios, gabarito e referências oficiais do GitHub adicionados.
+* Laboratório reproduzível com upstream bare, dois colaboradores, revisão e merge adicionado e validado.
 * Volume 03 — Git e GitHub iniciado com índice e identidade editorial.
 * Módulo 01 desenvolvido com modelo de objetos, estados, commits, branches, remotos, recuperação e workflows.
 * Estudo de caso da DataRetail S.A., revisão, exercícios, gabarito, referências e laboratório Git reproduzível adicionados.
@@ -50,6 +53,7 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Changed
 
+* Continuidade movida para o Módulo 03 — GitHub Actions e CI/CD.
 * Continuidade movida para o Módulo 02 — Branches, Colaboração e GitHub.
 * Volume 02 — Linux marcado como concluído e continuidade movida para o Volume 03 — Git e GitHub.
 * Volume 02 atualizado para marcar Segurança e Hardening Linux como concluído e apontar o Módulo 08 como próximo marco.

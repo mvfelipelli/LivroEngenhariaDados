@@ -157,10 +157,11 @@ Status: 🚧 Em desenvolvimento
 | Módulo | Status |
 | ------ | ------ |
 | 01 — Fundamentos do Git | ✅ Concluído |
+| 02 — Branches, Colaboração e GitHub | ✅ Concluído |
 
 ### Ponto de continuidade
 
-O próximo trabalho é estruturar e iniciar o Módulo 02 — Branches, Colaboração e GitHub.
+O próximo trabalho é estruturar e iniciar o Módulo 03 — GitHub Actions e CI/CD.
 
 ---
 

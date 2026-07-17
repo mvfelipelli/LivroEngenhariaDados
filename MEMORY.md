@@ -405,7 +405,15 @@ Status:
 
 O módulo possui modelo distribuído, objetos, estados, branches, merges, remotos, recuperação, workflows e laboratório Git reproduzível.
 
-O próximo trabalho é estruturar e iniciar o Módulo 02 — Branches, Colaboração e GitHub.
+#### Módulo 02 — Branches, Colaboração e GitHub
+
+Status:
+
+✅ Concluído
+
+O módulo possui modelos colaborativos, estratégias de branch, pull requests, revisão, rulesets, CODEOWNERS, releases, segurança e laboratório distribuído.
+
+O próximo trabalho é estruturar e iniciar o Módulo 03 — GitHub Actions e CI/CD.
 
 ---
 
@@ -415,7 +423,7 @@ Estruturar e iniciar:
 
 **Volume 03 — Git e GitHub**
 
-**Módulo 02 — Branches, Colaboração e GitHub**
+**Módulo 03 — GitHub Actions e CI/CD**
 
 Após sua conclusão:
 

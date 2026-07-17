@@ -416,6 +416,20 @@ Situação:
 
 ---
 
+### Módulo 02 — Branches, Colaboração e GitHub
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Modelos colaborativos, branches, pull requests, revisão e integração concluídos.
+* Rulesets, CODEOWNERS, releases, Actions, supply chain e governança concluídos.
+* Estudo de caso, revisão, exercícios e laboratório distribuído concluídos.
+
+---
+
 ## Volumes 04 a 18
 
 Status:
@@ -435,11 +449,11 @@ Volume 03
 
 ↓
 
-Módulo 02 — Branches, Colaboração e GitHub
+Módulo 03 — GitHub Actions e CI/CD
 
 ↓
 
-Aprofundar estratégias de branch, pull requests, revisão, proteção e colaboração no GitHub
+Aprofundar workflows, jobs, runners, artefatos, ambientes, segurança e entrega contínua
 
 ↓
 
@@ -451,7 +465,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 02 do Volume 03.
+* iniciar o Módulo 03 do Volume 03.
 
 ---
 
@@ -459,7 +473,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Módulo 02 — Branches, Colaboração e GitHub.
+* Estruturar e iniciar o Módulo 03 — GitHub Actions e CI/CD.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -558,14 +572,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 02 — Branches, Colaboração e GitHub.**
+**Estruturar e iniciar o Módulo 03 — GitHub Actions e CI/CD.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 02 do Volume 03.
+4. Iniciar o Módulo 03 do Volume 03.
 
 ---
 
