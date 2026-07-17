@@ -186,10 +186,11 @@ Status: 🚧 Em desenvolvimento
 | 05 — DDL, Schemas e Evolução de Estruturas | ✅ Concluído |
 | 06 — Planos de Execução, Índices e Otimização | ✅ Concluído |
 | 07 — Views, Segurança e Governança SQL | ✅ Concluído |
+| 08 — SQL em Pipelines e Plataformas Analíticas | ✅ Concluído |
 
 ### Ponto de continuidade
 
-O próximo trabalho é estruturar e iniciar o Módulo 08 — SQL em Pipelines e Plataformas Analíticas.
+O próximo trabalho é estruturar e iniciar o Módulo 09 — Dados Temporais e Semiestruturados em SQL.
 
 ---
 

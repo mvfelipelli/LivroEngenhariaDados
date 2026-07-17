@@ -562,6 +562,20 @@ Situação:
 
 ---
 
+### Módulo 08 — SQL em Pipelines e Plataformas Analíticas
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Contratos, staging, publicação, incrementalidade e dados atrasados concluídos.
+* Deduplicação, upsert, modelagem dimensional, ELT e warehouses distribuídos concluídos.
+* Estudo de caso, revisão, exercícios e laboratório incremental idempotente concluídos.
+
+---
+
 ## Volumes 05 a 18
 
 Status:
@@ -581,11 +595,11 @@ Volume 04
 
 ↓
 
-Módulo 08 — SQL em Pipelines e Plataformas Analíticas
+Módulo 09 — Dados Temporais e Semiestruturados em SQL
 
 ↓
 
-Aprofundar SQL operacional, incremental e analítico em pipelines de dados
+Aprofundar validade temporal, intervalos, JSON e estruturas semiestruturadas
 
 ↓
 
@@ -597,7 +611,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 08 do Volume 04.
+* iniciar o Módulo 09 do Volume 04.
 
 ---
 
@@ -605,7 +619,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Módulo 08 — SQL em Pipelines e Plataformas Analíticas.
+* Estruturar e iniciar o Módulo 09 — Dados Temporais e Semiestruturados em SQL.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -704,14 +718,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 08 — SQL em Pipelines e Plataformas Analíticas.**
+**Estruturar e iniciar o Módulo 09 — Dados Temporais e Semiestruturados em SQL.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 08 do Volume 04.
+4. Iniciar o Módulo 09 do Volume 04.
 
 ---
 

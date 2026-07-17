@@ -495,7 +495,15 @@ Status:
 
 O módulo possui views comuns e materializadas, roles, grants, ownership, menor privilégio, RLS, mascaramento, prevenção de SQL injection, auditoria, lineage e laboratório SQLite reproduzível.
 
-O próximo trabalho é estruturar e iniciar o Módulo 08 — SQL em Pipelines e Plataformas Analíticas.
+#### Módulo 08 — SQL em Pipelines e Plataformas Analíticas
+
+Status:
+
+✅ Concluído
+
+O módulo possui contratos de pipeline, staging, incrementalidade, watermarks, dados atrasados, deduplicação, upsert, modelagem dimensional, ELT, warehouses distribuídos e laboratório SQLite reproduzível.
+
+O próximo trabalho é estruturar e iniciar o Módulo 09 — Dados Temporais e Semiestruturados em SQL.
 
 ---
 
@@ -505,7 +513,7 @@ Estruturar e iniciar:
 
 **Volume 04 — SQL**
 
-**Módulo 08 — SQL em Pipelines e Plataformas Analíticas**
+**Módulo 09 — Dados Temporais e Semiestruturados em SQL**
 
 Após sua conclusão:
 

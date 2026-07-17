@@ -26,6 +26,9 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Módulo 08 do Volume 04 desenvolvido com staging, incrementalidade, idempotência, dimensional e ELT.
+* Estudo de caso, revisão, exercícios, gabarito e referências de pipelines analíticos adicionados.
+* Laboratório reproduzível de carga incremental com versão, upsert e watermark adicionado e validado.
 * Módulo 07 do Volume 04 desenvolvido com views, roles, menor privilégio, RLS, privacidade e auditoria.
 * Estudo de caso, revisão, exercícios, gabarito e referências oficiais de segurança SQL adicionados.
 * Laboratório reproduzível de view mínima, autorização e consulta parametrizada adicionado e validado.
