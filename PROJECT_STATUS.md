@@ -17,7 +17,7 @@
 | Idioma             | Português (Brasil)               |
 | Repositório        | LivroEngenhariaDados             |
 | Status Geral       | 🚧 Em desenvolvimento            |
-| Última atualização | 2026-07-16                     |
+| Última atualização | 2026-07-17                     |
 
 ---
 
@@ -608,7 +608,7 @@ Situação:
 
 Status:
 
-🚧 Em desenvolvimento
+✅ Concluído
 
 ### Módulo 01 — Fundamentos e Níveis de Modelagem
 
@@ -694,9 +694,29 @@ Situação:
 * Hashes, carga paralela, PIT, Bridges, marts e governança concluídos.
 * Estudo de caso, revisão, exercícios e mini Data Vault concluídos.
 
+### Módulo 08 — Modelagem para Data Lake, Lakehouse e Produtos de Dados
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Zonas Bronze, Silver e Gold, formatos e tabelas Lakehouse concluídos.
+* Particionamento, evolução de schema, contratos e produtos de dados concluídos.
+* Estudo de caso, revisão, exercícios e laboratório por zonas concluídos.
+
 ---
 
-## Volumes 06 a 18
+## Volume 06 — Python
+
+Status:
+
+🚧 Em desenvolvimento
+
+O volume será iniciado pelo Módulo 01 — Fundamentos, Ambiente e Ferramentas Python.
+
+## Volumes 07 a 18
 
 Status:
 
@@ -711,19 +731,19 @@ Os diretórios e arquivos de controle existem, mas esses volumes ainda não fora
 O próximo trabalho oficial do projeto é:
 
 ```text id="jbcjjo"
-Volume 05
+Volume 06
 
 ↓
 
-Módulo 08 — Modelagem para Data Lake, Lakehouse e Produtos de Dados
+Módulo 01 — Fundamentos, Ambiente e Ferramentas Python
 
 ↓
 
-Aprofundar zonas, contratos, formatos, evolução, produtos e interoperabilidade analítica
+Estabelecer linguagem, ambiente, execução, dependências e ferramentas de desenvolvimento
 
 ↓
 
-Preservar identidade, significado e regras do domínio
+Construir uma base reproduzível para automação e processamento de dados
 ```
 
 Durante a evolução desse módulo:
@@ -731,7 +751,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 08 do Volume 05.
+* iniciar o Módulo 01 do Volume 06.
 
 ---
 
@@ -739,7 +759,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Concluir o Módulo 08 — Modelagem para Data Lake, Lakehouse e Produtos de Dados.
+* Concluir o Módulo 01 — Fundamentos, Ambiente e Ferramentas Python.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -838,14 +858,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Concluir o Módulo 08 — Modelagem para Data Lake, Lakehouse e Produtos de Dados.**
+**Concluir o Módulo 01 — Fundamentos, Ambiente e Ferramentas Python.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 08 do Volume 05.
+4. Iniciar o Módulo 02 do Volume 06.
 
 ---
 

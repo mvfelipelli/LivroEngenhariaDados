@@ -579,7 +579,15 @@ Status:
 
 O módulo possui Raw e Business Vault, Hubs, Links, Satellites, hashes, carga paralela, PIT, Bridges, marts e laboratório SQLite reproduzível.
 
-O próximo trabalho é concluir o Módulo 08 — Modelagem para Data Lake, Lakehouse e Produtos de Dados.
+#### Módulo 08 — Modelagem para Data Lake, Lakehouse e Produtos de Dados
+
+Status:
+
+✅ Concluído
+
+O módulo possui zonas Bronze, Silver e Gold, formatos colunares, tabelas Lakehouse, particionamento, evolução de schema, contratos, produtos de dados e laboratório local reproduzível.
+
+O Volume 05 — Modelagem de Dados está concluído.
 
 ---
 
@@ -587,9 +595,9 @@ O próximo trabalho é concluir o Módulo 08 — Modelagem para Data Lake, Lakeh
 
 Estruturar e iniciar:
 
-**Volume 05 — Modelagem de Dados**
+**Volume 06 — Python**
 
-**Módulo 08 — Modelagem para Data Lake, Lakehouse e Produtos de Dados**
+**Módulo 01 — Fundamentos, Ambiente e Ferramentas Python**
 
 Após sua conclusão:
 

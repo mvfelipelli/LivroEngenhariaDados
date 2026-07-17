@@ -25,8 +25,9 @@ Seu propósito é registrar a estrutura vigente em `100-Volumes`, a ordem de est
 | Volume 02             | ✅ Concluído           |
 | Volume 03             | ✅ Concluído           |
 | Volume 04             | ✅ Concluído |
-| Volume 05             | 🚧 Em desenvolvimento |
-| Volumes 06 a 18       | ⏳ Estruturados        |
+| Volume 05             | ✅ Concluído           |
+| Volume 06             | 🚧 Em desenvolvimento |
+| Volumes 07 a 18       | ⏳ Estruturados        |
 
 ---
 
@@ -51,9 +52,9 @@ flowchart LR
 | 01 | `01-Fundamentos` | Fundamentos | 🚧 Em desenvolvimento |
 | 02 | `02-Linux` | Linux | ⏳ Estruturado |
 | 03 | `03-Git-e-GitHub` | Git e GitHub | ✅ Concluído |
-| 04 | `04-SQL` | SQL | 🚧 Em desenvolvimento |
-| 05 | `05-Modelagem-de-Dados` | Modelagem de Dados | ⏳ Estruturado |
-| 06 | `06-Python` | Python | ⏳ Estruturado |
+| 04 | `04-SQL` | SQL | ✅ Concluído |
+| 05 | `05-Modelagem-de-Dados` | Modelagem de Dados | ✅ Concluído |
+| 06 | `06-Python` | Python | 🚧 Em desenvolvimento |
 | 07 | `07-Apache-Spark` | Apache Spark | ⏳ Estruturado |
 | 08 | `08-PostgreSQL` | PostgreSQL | ⏳ Estruturado |
 | 09 | `09-Lakehouse` | Lakehouse | ⏳ Estruturado |
@@ -201,7 +202,7 @@ O Volume 04 está concluído. O próximo trabalho é estruturar e iniciar o Mód
 
 **Objetivo:** representar domínios operacionais e analíticos com semântica, histórico e governança.
 
-Status: 🚧 Em desenvolvimento
+Status: ✅ Concluído
 
 ### Módulos
 
@@ -214,11 +215,11 @@ Status: 🚧 Em desenvolvimento
 | 05 — Modelagem Dimensional, Fatos e Dimensões | ✅ Concluído |
 | 06 — Histórico Dimensional, SCD, Snapshots e Bridges | ✅ Concluído |
 | 07 — Data Vault 2.0 e Integração Histórica | ✅ Concluído |
-| 08 — Modelagem para Data Lake, Lakehouse e Produtos de Dados | ⏳ Planejado |
+| 08 — Modelagem para Data Lake, Lakehouse e Produtos de Dados | ✅ Concluído |
 
 ### Ponto de continuidade
 
-O próximo trabalho é concluir o Módulo 08 — Modelagem para Data Lake, Lakehouse e Produtos de Dados.
+O Volume 05 está concluído. O próximo trabalho é estruturar e iniciar o Módulo 01 — Fundamentos, Ambiente e Ferramentas Python do Volume 06.
 
 ---
 

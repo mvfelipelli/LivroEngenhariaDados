@@ -26,6 +26,9 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Módulo 08 do Volume 05 desenvolvido com zonas, formatos, tabelas Lakehouse, contratos e produtos de dados.
+* Laboratório reproduzível de pipeline Bronze, Silver e Gold com evolução compatível de schema adicionado.
+* Volume 05 — Modelagem de Dados concluído com oito módulos completos.
 * Módulo 07 do Volume 05 desenvolvido com Hubs, Links, Satellites, hashes, PIT e Business Vault.
 * Laboratório reproduzível de mini Data Vault idempotente adicionado.
 * Módulo 06 do Volume 05 desenvolvido com SCD, snapshots, bridges, hierarquias e dados tardios.

@@ -9,3 +9,5 @@
 - Módulo 05 — Modelagem Dimensional, Fatos e Dimensões concluído com laboratório star schema.
 - Módulo 06 — Histórico Dimensional, SCD, Snapshots e Bridges concluído com laboratório SCD2.
 - Módulo 07 — Data Vault 2.0 e Integração Histórica concluído com mini-Vault idempotente.
+- Módulo 08 — Modelagem para Data Lake, Lakehouse e Produtos de Dados concluído com pipeline local por zonas e contrato evolutivo.
+- Volume 05 — Modelagem de Dados concluído com oito módulos completos.

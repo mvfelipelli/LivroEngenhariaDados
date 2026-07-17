@@ -4,7 +4,7 @@ description: "Representação de domínios, relações, histórico e produtos an
 tags: [modelagem-de-dados, engenharia-de-dados, volume-05]
 aliases: [Volume Modelagem de Dados]
 type: volume
-status: em-desenvolvimento
+status: concluido
 created: 2026-07-17
 updated: 2026-07-17
 ---
@@ -22,7 +22,7 @@ Este volume desenvolve a capacidade de transformar linguagem de negócio em mode
 5. [[05-Modelagem-Dimensional-Fatos-e-Dimensoes/README|Modelagem Dimensional, Fatos e Dimensões]] — concluído.
 6. [[06-Historico-Dimensional-SCD-Snapshots-e-Bridges/README|Histórico Dimensional, SCD, Snapshots e Bridges]] — concluído.
 7. [[07-Data-Vault-2-0-e-Integracao-Historica/README|Data Vault 2.0 e Integração Histórica]] — concluído.
-8. Modelagem para Data Lake, Lakehouse e Produtos de Dados — planejado.
+8. [[08-Modelagem-para-Data-Lake-Lakehouse-e-Produtos-de-Dados/README|Modelagem para Data Lake, Lakehouse e Produtos de Dados]] — concluído.
 
 ```mermaid
 flowchart LR
