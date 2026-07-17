@@ -26,6 +26,8 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Módulo 05 do Volume 05 desenvolvido com grão, fatos, dimensões, conformidade e esquema estrela.
+* Laboratório reproduzível de star schema com proteção de grão adicionado.
 * Módulo 04 do Volume 05 desenvolvido com tipos, índices, particionamento, layouts e desnormalização.
 * Laboratório reproduzível de índice e projeção reconciliada adicionado.
 * Módulo 03 do Volume 05 desenvolvido com relações, dependências funcionais, formas normais e decomposição.

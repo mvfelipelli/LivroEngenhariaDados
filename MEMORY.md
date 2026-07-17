@@ -555,7 +555,15 @@ Status:
 
 O módulo possui tipos, chaves, índices, particionamento, distribuição, layouts, compressão, desnormalização, medição e laboratório SQLite reproduzível.
 
-O próximo trabalho é concluir o Módulo 05 — Modelagem Dimensional, Fatos e Dimensões.
+#### Módulo 05 — Modelagem Dimensional, Fatos e Dimensões
+
+Status:
+
+✅ Concluído
+
+O módulo possui processos, bus matrix, grão, fatos, aditividade, dimensões conformadas, padrões especiais, estrela, carga e laboratório SQLite reproduzível.
+
+O próximo trabalho é concluir o Módulo 06 — Histórico Dimensional, SCD, Snapshots e Bridges.
 
 ---
 
@@ -565,7 +573,7 @@ Estruturar e iniciar:
 
 **Volume 05 — Modelagem de Dados**
 
-**Módulo 05 — Modelagem Dimensional, Fatos e Dimensões**
+**Módulo 06 — Histórico Dimensional, SCD, Snapshots e Bridges**
 
 Após sua conclusão:
 

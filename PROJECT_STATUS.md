@@ -658,6 +658,18 @@ Situação:
 * Layouts, compressão, desnormalização, medição e governança física concluídos.
 * Estudo de caso, revisão, exercícios e laboratório de índice e projeção concluídos.
 
+### Módulo 05 — Modelagem Dimensional, Fatos e Dimensões
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Processos, bus matrix, grão, fatos e aditividade concluídos.
+* Dimensões conformadas, padrões especiais, estrela e carga concluídos.
+* Estudo de caso, revisão, exercícios e laboratório star schema concluídos.
+
 ---
 
 ## Volumes 06 a 18
@@ -679,11 +691,11 @@ Volume 05
 
 ↓
 
-Módulo 05 — Modelagem Dimensional, Fatos e Dimensões
+Módulo 06 — Histórico Dimensional, SCD, Snapshots e Bridges
 
 ↓
 
-Aprofundar grão, processos de negócio, fatos, dimensões e esquemas estrela
+Aprofundar mudanças dimensionais, validade, snapshots, hierarquias e relações multivaloradas
 
 ↓
 
@@ -695,7 +707,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 05 do Volume 05.
+* iniciar o Módulo 06 do Volume 05.
 
 ---
 
@@ -703,7 +715,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Concluir o Módulo 05 — Modelagem Dimensional, Fatos e Dimensões.
+* Concluir o Módulo 06 — Histórico Dimensional, SCD, Snapshots e Bridges.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -802,14 +814,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Concluir o Módulo 05 — Modelagem Dimensional, Fatos e Dimensões.**
+**Concluir o Módulo 06 — Histórico Dimensional, SCD, Snapshots e Bridges.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 05 do Volume 05.
+4. Iniciar o Módulo 06 do Volume 05.
 
 ---
 
