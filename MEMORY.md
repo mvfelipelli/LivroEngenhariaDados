@@ -455,7 +455,15 @@ Status:
 
 O módulo possui grão, cardinalidade, joins internos e externos, semi-join, anti-join, fanout, subconsultas, conjuntos, CTEs, recursão e laboratório SQLite reproduzível.
 
-O próximo trabalho é estruturar e iniciar o Módulo 03 — Agregações, Funções de Janela e Análise.
+#### Módulo 03 — Agregações, Funções de Janela e Análise
+
+Status:
+
+✅ Concluído
+
+O módulo possui agregações, agrupamentos, métricas condicionais, rankings, partições, frames, comparações temporais, acumulados, médias móveis e laboratório SQLite reproduzível.
+
+O próximo trabalho é estruturar e iniciar o Módulo 04 — DML, Transações e Concorrência.
 
 ---
 
@@ -465,7 +473,7 @@ Estruturar e iniciar:
 
 **Volume 04 — SQL**
 
-**Módulo 03 — Agregações, Funções de Janela e Análise**
+**Módulo 04 — DML, Transações e Concorrência**
 
 Após sua conclusão:
 

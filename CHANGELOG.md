@@ -26,6 +26,9 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Módulo 03 do Volume 04 desenvolvido com agregações, rankings, frames, comparações e acumulados.
+* Estudo de caso, revisão, exercícios, gabarito e referências oficiais de análise SQL adicionados.
+* Laboratório reproduzível de métricas e funções de janela adicionado e validado.
 * Módulo 02 do Volume 04 desenvolvido com cardinalidade, joins, subconsultas, conjuntos, CTEs e recursão.
 * Estudo de caso, revisão, exercícios, gabarito e referências oficiais de consultas compostas adicionados.
 * Laboratório reproduzível de composição sem fanout e anti-join adicionado e validado.
@@ -65,6 +68,7 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Changed
 
+* Continuidade movida para o Módulo 04 — DML, Transações e Concorrência.
 * Continuidade movida para o Módulo 03 — Agregações, Funções de Janela e Análise.
 * Continuidade movida para o Módulo 02 — Consultas, Joins e Subconsultas.
 * Volume 03 — Git e GitHub marcado como concluído e continuidade movida para o Volume 04 — SQL.
