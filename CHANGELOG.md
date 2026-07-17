@@ -26,6 +26,8 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Módulo 07 do Volume 05 desenvolvido com Hubs, Links, Satellites, hashes, PIT e Business Vault.
+* Laboratório reproduzível de mini Data Vault idempotente adicionado.
 * Módulo 06 do Volume 05 desenvolvido com SCD, snapshots, bridges, hierarquias e dados tardios.
 * Laboratório reproduzível de SCD Tipo 2 e lookup temporal adicionado.
 * Módulo 05 do Volume 05 desenvolvido com grão, fatos, dimensões, conformidade e esquema estrela.

@@ -6,3 +6,4 @@
 - [[04-Modelagem-Fisica-Desnormalizacao-e-Desempenho/README|Módulo 04 — Modelagem Física, Desnormalização e Desempenho]]
 - [[05-Modelagem-Dimensional-Fatos-e-Dimensoes/README|Módulo 05 — Modelagem Dimensional, Fatos e Dimensões]]
 - [[06-Historico-Dimensional-SCD-Snapshots-e-Bridges/README|Módulo 06 — Histórico Dimensional, SCD, Snapshots e Bridges]]
+- [[07-Data-Vault-2-0-e-Integracao-Historica/README|Módulo 07 — Data Vault 2.0 e Integração Histórica]]

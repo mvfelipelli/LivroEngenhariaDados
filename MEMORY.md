@@ -571,7 +571,15 @@ Status:
 
 O módulo possui políticas de mudança, tipos SCD, SCD2, snapshots, bridges, hierarquias, late arriving, testes e laboratório SQLite reproduzível.
 
-O próximo trabalho é concluir o Módulo 07 — Data Vault 2.0 e Integração Histórica.
+#### Módulo 07 — Data Vault 2.0 e Integração Histórica
+
+Status:
+
+✅ Concluído
+
+O módulo possui Raw e Business Vault, Hubs, Links, Satellites, hashes, carga paralela, PIT, Bridges, marts e laboratório SQLite reproduzível.
+
+O próximo trabalho é concluir o Módulo 08 — Modelagem para Data Lake, Lakehouse e Produtos de Dados.
 
 ---
 
@@ -581,7 +589,7 @@ Estruturar e iniciar:
 
 **Volume 05 — Modelagem de Dados**
 
-**Módulo 07 — Data Vault 2.0 e Integração Histórica**
+**Módulo 08 — Modelagem para Data Lake, Lakehouse e Produtos de Dados**
 
 Após sua conclusão:
 

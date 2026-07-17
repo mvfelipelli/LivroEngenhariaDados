@@ -8,3 +8,4 @@
 - Módulo 04 — Modelagem Física, Desnormalização e Desempenho concluído com laboratório de índice e projeção.
 - Módulo 05 — Modelagem Dimensional, Fatos e Dimensões concluído com laboratório star schema.
 - Módulo 06 — Histórico Dimensional, SCD, Snapshots e Bridges concluído com laboratório SCD2.
+- Módulo 07 — Data Vault 2.0 e Integração Histórica concluído com mini-Vault idempotente.

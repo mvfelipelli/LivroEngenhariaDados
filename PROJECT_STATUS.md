@@ -682,6 +682,18 @@ Situação:
 * Snapshots, bridges, hierarquias, dados tardios e testes concluídos.
 * Estudo de caso, revisão, exercícios e laboratório SCD2 concluídos.
 
+### Módulo 07 — Data Vault 2.0 e Integração Histórica
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Raw e Business Vault, Hubs, Links e Satellites concluídos.
+* Hashes, carga paralela, PIT, Bridges, marts e governança concluídos.
+* Estudo de caso, revisão, exercícios e mini Data Vault concluídos.
+
 ---
 
 ## Volumes 06 a 18
@@ -703,11 +715,11 @@ Volume 05
 
 ↓
 
-Módulo 07 — Data Vault 2.0 e Integração Histórica
+Módulo 08 — Modelagem para Data Lake, Lakehouse e Produtos de Dados
 
 ↓
 
-Aprofundar hubs, links, satellites, hash keys, historização e integração auditável
+Aprofundar zonas, contratos, formatos, evolução, produtos e interoperabilidade analítica
 
 ↓
 
@@ -719,7 +731,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 07 do Volume 05.
+* iniciar o Módulo 08 do Volume 05.
 
 ---
 
@@ -727,7 +739,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Concluir o Módulo 07 — Data Vault 2.0 e Integração Histórica.
+* Concluir o Módulo 08 — Modelagem para Data Lake, Lakehouse e Produtos de Dados.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -826,14 +838,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Concluir o Módulo 07 — Data Vault 2.0 e Integração Histórica.**
+**Concluir o Módulo 08 — Modelagem para Data Lake, Lakehouse e Produtos de Dados.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 07 do Volume 05.
+4. Iniciar o Módulo 08 do Volume 05.
 
 ---
 
