@@ -387,7 +387,25 @@ Status:
 
 O módulo integra SLOs, implantação, estado, backup, automação, observabilidade, incidentes, DR, capacidade e laboratório de prontidão.
 
-O Volume 02 — Linux está concluído. O próximo trabalho é estruturar e iniciar o Volume 03 — Git e GitHub.
+O Volume 02 — Linux está concluído.
+
+---
+
+### Volume 03 — Git e GitHub
+
+Status:
+
+🚧 Em desenvolvimento
+
+#### Módulo 01 — Fundamentos do Git
+
+Status:
+
+✅ Concluído
+
+O módulo possui modelo distribuído, objetos, estados, branches, merges, remotos, recuperação, workflows e laboratório Git reproduzível.
+
+O próximo trabalho é estruturar e iniciar o Módulo 02 — Branches, Colaboração e GitHub.
 
 ---
 
@@ -396,6 +414,8 @@ O Volume 02 — Linux está concluído. O próximo trabalho é estruturar e inic
 Estruturar e iniciar:
 
 **Volume 03 — Git e GitHub**
+
+**Módulo 02 — Branches, Colaboração e GitHub**
 
 Após sua conclusão:
 

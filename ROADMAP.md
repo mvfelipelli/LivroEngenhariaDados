@@ -142,7 +142,25 @@ Status: ✅ Concluído
 
 ### Ponto de continuidade
 
-O Volume 02 — Linux está concluído. O próximo trabalho é estruturar e iniciar o Volume 03 — Git e GitHub.
+O Volume 02 — Linux está concluído.
+
+---
+
+## Volume 03 — Git e GitHub
+
+**Objetivo:** desenvolver versionamento distribuído, colaboração, revisão e governança de mudanças.
+
+Status: 🚧 Em desenvolvimento
+
+### Módulos
+
+| Módulo | Status |
+| ------ | ------ |
+| 01 — Fundamentos do Git | ✅ Concluído |
+
+### Ponto de continuidade
+
+O próximo trabalho é estruturar e iniciar o Módulo 02 — Branches, Colaboração e GitHub.
 
 ---
 
