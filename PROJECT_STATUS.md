@@ -764,6 +764,18 @@ Situação:
 * Objetos de valor, type hints, Protocols, generics e narrowing concluídos.
 * Estudo de caso, revisão, exercícios e domínio imutável concluídos.
 
+### Módulo 05 — Arquivos, Serialização, Datas e Expressões Regulares
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Pathlib, I/O, encoding, CSV, JSON e JSONL concluídos.
+* Datetimes, timezones, regex, compactação e escrita atômica concluídos.
+* Estudo de caso, revisão, exercícios e conversão JSONL para CSV concluídos.
+
 ## Volumes 07 a 18
 
 Status:
@@ -783,11 +795,11 @@ Volume 06
 
 ↓
 
-Módulo 05 — Arquivos, Serialização, Datas e Expressões Regulares
+Módulo 06 — Testes, Qualidade, Logging e Empacotamento
 
 ↓
 
-Manipular dados persistidos, formatos, tempo e texto com fronteiras explícitas
+Instituir testes automatizados, feedback de qualidade, logs e distribuição reproduzível
 
 ↓
 
@@ -799,7 +811,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 05 do Volume 06.
+* iniciar o Módulo 06 do Volume 06.
 
 ---
 
@@ -807,7 +819,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Concluir o Módulo 05 — Arquivos, Serialização, Datas e Expressões Regulares.
+* Concluir o Módulo 06 — Testes, Qualidade, Logging e Empacotamento.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -906,14 +918,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Concluir o Módulo 05 — Arquivos, Serialização, Datas e Expressões Regulares.**
+**Concluir o Módulo 06 — Testes, Qualidade, Logging e Empacotamento.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 06 do Volume 06.
+4. Iniciar o Módulo 07 do Volume 06.
 
 ---
 

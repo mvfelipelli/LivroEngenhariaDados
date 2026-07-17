@@ -26,6 +26,8 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Módulo 05 do Volume 06 desenvolvido com arquivos, CSV, JSONL, tempo, regex, compactação e atomicidade.
+* Laboratório reproduzível de conversão JSONL para CSV determinístico e atômico adicionado e validado.
 * Módulo 04 do Volume 06 desenvolvido com classes, dataclasses, composição, Protocols, generics e tipagem gradual.
 * Laboratório reproduzível de domínio imutável e repositório estruturalmente tipado adicionado e validado.
 * Módulo 03 do Volume 06 desenvolvido com funções, módulos, exceções, iteradores, geradores e context managers.

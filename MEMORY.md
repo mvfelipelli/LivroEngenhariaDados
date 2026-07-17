@@ -623,6 +623,14 @@ Status:
 
 O módulo possui classes, invariantes, composição, herança, dataclasses, objetos de valor, type hints, Protocols, generics e laboratório de domínio imutável.
 
+#### Módulo 05 — Arquivos, Serialização, Datas e Expressões Regulares
+
+Status:
+
+✅ Concluído
+
+O módulo possui pathlib, I/O, encoding, CSV, JSONL, datetimes, timezones, regex, compactação, escrita atômica e laboratório JSONL para CSV.
+
 ---
 
 ## Próximo Marco
@@ -631,7 +639,7 @@ Estruturar e iniciar:
 
 **Volume 06 — Python**
 
-**Módulo 05 — Arquivos, Serialização, Datas e Expressões Regulares**
+**Módulo 06 — Testes, Qualidade, Logging e Empacotamento**
 
 Após sua conclusão:
 
