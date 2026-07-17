@@ -26,6 +26,8 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Módulo 07 do Volume 06 desenvolvido com DB-API, transações, HTTP, resiliência, paginação e contratos.
+* Laboratório reproduzível de sincronização HTTP paginada para SQLite adicionado e validado.
 * Módulo 06 do Volume 06 desenvolvido com testes, propriedades, gates, logging estruturado e empacotamento.
 * Laboratório reproduzível com unittest, fake idempotente e proteção de segredos adicionado e validado.
 * Módulo 05 do Volume 06 desenvolvido com arquivos, CSV, JSONL, tempo, regex, compactação e atomicidade.

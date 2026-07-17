@@ -639,6 +639,14 @@ Status:
 
 O módulo possui estratégia de testes, fixtures, doubles, propriedades, cobertura, gates, logging estruturado, pyproject, wheels e laboratório unittest reproduzível.
 
+#### Módulo 07 — Acesso a Bancos de Dados e APIs
+
+Status:
+
+✅ Concluído
+
+O módulo possui DB-API, transações, upsert, pooling, HTTP, TLS, timeouts, retries, paginação, rate limits, contratos e laboratório HTTP para SQLite.
+
 ---
 
 ## Próximo Marco
@@ -647,7 +655,7 @@ Estruturar e iniciar:
 
 **Volume 06 — Python**
 
-**Módulo 07 — Acesso a Bancos de Dados e APIs**
+**Módulo 08 — NumPy, Pandas e Processamento Tabular**
 
 Após sua conclusão:
 

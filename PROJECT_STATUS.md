@@ -788,6 +788,18 @@ Situação:
 * Propriedades, cobertura, gates, logging e empacotamento concluídos.
 * Estudo de caso, revisão, exercícios e suíte unittest concluídos.
 
+### Módulo 07 — Acesso a Bancos de Dados e APIs
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* DB-API, parâmetros, transações, upsert, pooling e lotes concluídos.
+* HTTP, autenticação, TLS, retries, paginação e contratos concluídos.
+* Estudo de caso, revisão, exercícios e sincronização HTTP-SQLite concluídos.
+
 ## Volumes 07 a 18
 
 Status:
@@ -807,11 +819,11 @@ Volume 06
 
 ↓
 
-Módulo 07 — Acesso a Bancos de Dados e APIs
+Módulo 08 — NumPy, Pandas e Processamento Tabular
 
 ↓
 
-Integrar bancos e serviços HTTP com transações, contratos, paginação e resiliência
+Processar dados tabulares com vetorização, tipos, joins, agregações e memória controlada
 
 ↓
 
@@ -823,7 +835,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 07 do Volume 06.
+* iniciar o Módulo 08 do Volume 06.
 
 ---
 
@@ -831,7 +843,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Concluir o Módulo 07 — Acesso a Bancos de Dados e APIs.
+* Concluir o Módulo 08 — NumPy, Pandas e Processamento Tabular.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -930,14 +942,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Concluir o Módulo 07 — Acesso a Bancos de Dados e APIs.**
+**Concluir o Módulo 08 — NumPy, Pandas e Processamento Tabular.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 08 do Volume 06.
+4. Iniciar o Módulo 09 do Volume 06.
 
 ---
 

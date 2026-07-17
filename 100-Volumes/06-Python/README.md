@@ -21,7 +21,7 @@ Este volume desenvolve programação Python do ambiente de execução à constru
 4. [[04-Orientacao-a-Objetos-Dataclasses-e-Tipagem/README|Orientação a Objetos, Dataclasses e Tipagem]] — concluído.
 5. [[05-Arquivos-Serializacao-Datas-e-Expressoes-Regulares/README|Arquivos, Serialização, Datas e Expressões Regulares]] — concluído.
 6. [[06-Testes-Qualidade-Logging-e-Empacotamento/README|Testes, Qualidade, Logging e Empacotamento]] — concluído.
-7. Acesso a Bancos de Dados e APIs — planejado.
+7. [[07-Acesso-a-Bancos-de-Dados-e-APIs/README|Acesso a Bancos de Dados e APIs]] — concluído.
 8. NumPy, Pandas e Processamento Tabular — planejado.
 9. Concorrência, Paralelismo e Performance — planejado.
 10. Pipelines de Dados, Observabilidade e Projeto Final — planejado.

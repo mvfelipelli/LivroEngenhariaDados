@@ -239,14 +239,14 @@ Status: 🚧 Em desenvolvimento
 | 04 — Orientação a Objetos, Dataclasses e Tipagem | ✅ Concluído |
 | 05 — Arquivos, Serialização, Datas e Expressões Regulares | ✅ Concluído |
 | 06 — Testes, Qualidade, Logging e Empacotamento | ✅ Concluído |
-| 07 — Acesso a Bancos de Dados e APIs | ⏳ Planejado |
+| 07 — Acesso a Bancos de Dados e APIs | ✅ Concluído |
 | 08 — NumPy, Pandas e Processamento Tabular | ⏳ Planejado |
 | 09 — Concorrência, Paralelismo e Performance | ⏳ Planejado |
 | 10 — Pipelines de Dados, Observabilidade e Projeto Final | ⏳ Planejado |
 
 ### Ponto de continuidade
 
-O próximo trabalho é concluir o Módulo 07 — Acesso a Bancos de Dados e APIs.
+O próximo trabalho é concluir o Módulo 08 — NumPy, Pandas e Processamento Tabular.
 
 ---
 

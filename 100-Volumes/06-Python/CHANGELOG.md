@@ -9,3 +9,4 @@
 - Módulo 04 — Orientação a Objetos, Dataclasses e Tipagem concluído com domínio imutável e repositório tipado.
 - Módulo 05 — Arquivos, Serialização, Datas e Expressões Regulares concluído com conversão JSONL para CSV atômico.
 - Módulo 06 — Testes, Qualidade, Logging e Empacotamento concluído com suíte unittest e logging JSON.
+- Módulo 07 — Acesso a Bancos de Dados e APIs concluído com sincronização HTTP paginada para SQLite.
