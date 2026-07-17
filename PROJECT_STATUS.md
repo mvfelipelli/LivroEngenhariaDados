@@ -728,6 +728,18 @@ Situação:
 * REPL, scripts, módulos, CLI, ferramentas, configuração e segredos concluídos.
 * Estudo de caso, revisão, exercícios e laboratório de CLI concluídos.
 
+### Módulo 02 — Tipos, Controle de Fluxo e Coleções
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Objetos, mutabilidade, números, texto e sequências concluídos.
+* Dicionários, conjuntos, controle de fluxo, complexidade e ordenação concluídos.
+* Estudo de caso, revisão, exercícios e laboratório de agregação concluídos.
+
 ## Volumes 07 a 18
 
 Status:
@@ -747,11 +759,11 @@ Volume 06
 
 ↓
 
-Módulo 02 — Tipos, Controle de Fluxo e Coleções
+Módulo 03 — Funções, Módulos, Exceções e Iteradores
 
 ↓
 
-Dominar valores, decisões, repetições e estruturas de dados fundamentais
+Criar abstrações reutilizáveis, fluxos preguiçosos e contratos explícitos de falha
 
 ↓
 
@@ -763,7 +775,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 02 do Volume 06.
+* iniciar o Módulo 03 do Volume 06.
 
 ---
 
@@ -771,7 +783,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Concluir o Módulo 02 — Tipos, Controle de Fluxo e Coleções.
+* Concluir o Módulo 03 — Funções, Módulos, Exceções e Iteradores.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -870,14 +882,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Concluir o Módulo 02 — Tipos, Controle de Fluxo e Coleções.**
+**Concluir o Módulo 03 — Funções, Módulos, Exceções e Iteradores.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 03 do Volume 06.
+4. Iniciar o Módulo 04 do Volume 06.
 
 ---
 

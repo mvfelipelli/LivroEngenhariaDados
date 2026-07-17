@@ -16,7 +16,7 @@ Este volume desenvolve programação Python do ambiente de execução à constru
 ## Módulos
 
 1. [[01-Fundamentos-Ambiente-e-Ferramentas-Python/README|Fundamentos, Ambiente e Ferramentas Python]] — concluído.
-2. Tipos, Controle de Fluxo e Coleções — planejado.
+2. [[02-Tipos-Controle-de-Fluxo-e-Colecoes/README|Tipos, Controle de Fluxo e Coleções]] — concluído.
 3. Funções, Módulos, Exceções e Iteradores — planejado.
 4. Orientação a Objetos, Dataclasses e Tipagem — planejado.
 5. Arquivos, Serialização, Datas e Expressões Regulares — planejado.

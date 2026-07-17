@@ -26,6 +26,8 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Módulo 02 do Volume 06 desenvolvido com tipos, mutabilidade, coleções, fluxo, complexidade e ordenação.
+* Laboratório reproduzível de deduplicação e agregação determinística de pedidos adicionado e validado.
 * Volume 06 — Python estruturado em dez módulos progressivos.
 * Módulo 01 desenvolvido com runtime, ambientes, dependências, CLI, ferramentas e configuração.
 * Laboratório reproduzível de CLI para inspeção de pedidos adicionado e validado.

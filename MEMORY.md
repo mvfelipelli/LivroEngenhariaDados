@@ -599,6 +599,14 @@ Status:
 
 O módulo possui runtime, versões, portabilidade, ambientes virtuais, dependências, CLI, ferramentas, configuração, segredos e laboratório reproduzível com biblioteca padrão.
 
+#### Módulo 02 — Tipos, Controle de Fluxo e Coleções
+
+Status:
+
+✅ Concluído
+
+O módulo possui objetos, mutabilidade, números, Unicode, sequências, dicionários, conjuntos, controle de fluxo, complexidade, ordenação e laboratório de agregação determinística.
+
 ---
 
 ## Próximo Marco
@@ -607,7 +615,7 @@ Estruturar e iniciar:
 
 **Volume 06 — Python**
 
-**Módulo 02 — Tipos, Controle de Fluxo e Coleções**
+**Módulo 03 — Funções, Módulos, Exceções e Iteradores**
 
 Após sua conclusão:
 
