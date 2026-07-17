@@ -458,13 +458,33 @@ Situação:
 
 ---
 
-## Volumes 04 a 18
+## Volume 04 — SQL
+
+Status:
+
+🚧 Em desenvolvimento
+
+### Módulo 01 — Fundamentos de SQL e Modelo Relacional
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Padrão SQL, natureza declarativa e modelo relacional concluídos.
+* Schemas, tipos, constraints, consultas, `NULL`, joins e agregações concluídos.
+* Estudo de caso, revisão, exercícios e laboratório SQLite concluídos.
+
+---
+
+## Volumes 05 a 18
 
 Status:
 
 ⏳ Estruturados
 
-Os diretórios, `README.md`, `SUMMARY.md` e `CHANGELOG.md` de cada volume existem. Os READMEs ainda são placeholders vazios; portanto, esses volumes não são considerados iniciados ou concluídos.
+Os diretórios e arquivos de controle existem, mas esses volumes ainda não foram iniciados.
 
 ---
 
@@ -477,11 +497,11 @@ Volume 04
 
 ↓
 
-SQL
+Módulo 02 — Consultas, Joins e Subconsultas
 
 ↓
 
-Aprofundar linguagem relacional, consultas e transformação de dados
+Aprofundar composição relacional e consultas de múltiplas etapas
 
 ↓
 
@@ -493,7 +513,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Volume 04 — SQL.
+* iniciar o Módulo 02 do Volume 04.
 
 ---
 
@@ -501,7 +521,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Volume 04 — SQL.
+* Estruturar e iniciar o Módulo 02 — Consultas, Joins e Subconsultas.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -600,14 +620,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Volume 04 — SQL.**
+**Estruturar e iniciar o Módulo 02 — Consultas, Joins e Subconsultas.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Volume 04 — SQL.
+4. Iniciar o Módulo 02 do Volume 04.
 
 ---
 

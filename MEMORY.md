@@ -433,11 +433,31 @@ O Volume 03 — Git e GitHub está concluído. O próximo trabalho é estruturar
 
 ---
 
+### Volume 04 — SQL
+
+Status:
+
+🚧 Em desenvolvimento
+
+#### Módulo 01 — Fundamentos de SQL e Modelo Relacional
+
+Status:
+
+✅ Concluído
+
+O módulo possui natureza declarativa, padrão SQL, modelo relacional, schemas, tipos, chaves, constraints, consultas fundamentais, lógica de `NULL`, joins, agregações e laboratório SQLite reproduzível.
+
+O próximo trabalho é estruturar e iniciar o Módulo 02 — Consultas, Joins e Subconsultas.
+
+---
+
 ## Próximo Marco
 
 Estruturar e iniciar:
 
 **Volume 04 — SQL**
+
+**Módulo 02 — Consultas, Joins e Subconsultas**
 
 Após sua conclusão:
 

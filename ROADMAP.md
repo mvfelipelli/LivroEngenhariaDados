@@ -24,7 +24,8 @@ Seu propósito é registrar a estrutura vigente em `100-Volumes`, a ordem de est
 | Volume 01             | ✅ Concluído |
 | Volume 02             | ✅ Concluído           |
 | Volume 03             | ✅ Concluído           |
-| Volumes 04 a 18       | ⏳ Estruturados        |
+| Volume 04             | 🚧 Em desenvolvimento |
+| Volumes 05 a 18       | ⏳ Estruturados        |
 
 ---
 
@@ -49,7 +50,7 @@ flowchart LR
 | 01 | `01-Fundamentos` | Fundamentos | 🚧 Em desenvolvimento |
 | 02 | `02-Linux` | Linux | ⏳ Estruturado |
 | 03 | `03-Git-e-GitHub` | Git e GitHub | ✅ Concluído |
-| 04 | `04-SQL` | SQL | ⏳ Estruturado |
+| 04 | `04-SQL` | SQL | 🚧 Em desenvolvimento |
 | 05 | `05-Modelagem-de-Dados` | Modelagem de Dados | ⏳ Estruturado |
 | 06 | `06-Python` | Python | ⏳ Estruturado |
 | 07 | `07-Apache-Spark` | Apache Spark | ⏳ Estruturado |
@@ -165,6 +166,24 @@ Status: ✅ Concluído
 ### Ponto de continuidade
 
 O Volume 03 — Git e GitHub está concluído. O próximo trabalho é estruturar e iniciar o Volume 04 — SQL.
+
+---
+
+## Volume 04 — SQL
+
+**Objetivo:** desenvolver raciocínio relacional, consultas, manipulação e análise de dados com SQL.
+
+Status: 🚧 Em desenvolvimento
+
+### Módulos
+
+| Módulo | Status |
+| ------ | ------ |
+| 01 — Fundamentos de SQL e Modelo Relacional | ✅ Concluído |
+
+### Ponto de continuidade
+
+O próximo trabalho é estruturar e iniciar o Módulo 02 — Consultas, Joins e Subconsultas.
 
 ---
 

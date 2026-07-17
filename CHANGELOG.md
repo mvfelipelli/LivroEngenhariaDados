@@ -26,6 +26,9 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Volume 04 — SQL iniciado com índice e identidade editorial.
+* Módulo 01 desenvolvido com padrão SQL, modelo relacional, schemas, constraints e consultas fundamentais.
+* Estudo de caso, revisão, exercícios, gabarito, referências e laboratório SQLite reproduzível adicionados.
 * Módulo 04 do Volume 03 desenvolvido com SemVer, releases, artefatos, promoção, rollback e GitOps.
 * Estudo de caso, revisão, exercícios, gabarito e referências oficiais de versionamento e GitOps adicionados.
 * Laboratório reproduzível de reconciliação, drift e promoção imutável adicionado e validado.
@@ -59,6 +62,7 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Changed
 
+* Continuidade movida para o Módulo 02 — Consultas, Joins e Subconsultas.
 * Volume 03 — Git e GitHub marcado como concluído e continuidade movida para o Volume 04 — SQL.
 * Continuidade movida para o Módulo 04 — Releases, Versionamento e GitOps.
 * Continuidade movida para o Módulo 03 — GitHub Actions e CI/CD.
