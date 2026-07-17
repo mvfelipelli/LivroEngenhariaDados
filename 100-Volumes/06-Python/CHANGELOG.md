@@ -5,3 +5,4 @@
 - Volume estruturado em dez módulos progressivos.
 - Módulo 01 — Fundamentos, Ambiente e Ferramentas Python concluído com laboratório de ambiente e CLI.
 - Módulo 02 — Tipos, Controle de Fluxo e Coleções concluído com laboratório de agregação determinística.
+- Módulo 03 — Funções, Módulos, Exceções e Iteradores concluído com pipeline preguiçoso em lotes.

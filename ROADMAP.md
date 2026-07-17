@@ -235,7 +235,7 @@ Status: 🚧 Em desenvolvimento
 | ------ | ------ |
 | 01 — Fundamentos, Ambiente e Ferramentas Python | ✅ Concluído |
 | 02 — Tipos, Controle de Fluxo e Coleções | ✅ Concluído |
-| 03 — Funções, Módulos, Exceções e Iteradores | ⏳ Planejado |
+| 03 — Funções, Módulos, Exceções e Iteradores | ✅ Concluído |
 | 04 — Orientação a Objetos, Dataclasses e Tipagem | ⏳ Planejado |
 | 05 — Arquivos, Serialização, Datas e Expressões Regulares | ⏳ Planejado |
 | 06 — Testes, Qualidade, Logging e Empacotamento | ⏳ Planejado |
@@ -246,7 +246,7 @@ Status: 🚧 Em desenvolvimento
 
 ### Ponto de continuidade
 
-O próximo trabalho é concluir o Módulo 03 — Funções, Módulos, Exceções e Iteradores.
+O próximo trabalho é concluir o Módulo 04 — Orientação a Objetos, Dataclasses e Tipagem.
 
 ---
 

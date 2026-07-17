@@ -26,6 +26,8 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Módulo 03 do Volume 06 desenvolvido com funções, módulos, exceções, iteradores, geradores e context managers.
+* Laboratório reproduzível de pipeline preguiçoso em lotes com quarentena adicionado e validado.
 * Módulo 02 do Volume 06 desenvolvido com tipos, mutabilidade, coleções, fluxo, complexidade e ordenação.
 * Laboratório reproduzível de deduplicação e agregação determinística de pedidos adicionado e validado.
 * Volume 06 — Python estruturado em dez módulos progressivos.

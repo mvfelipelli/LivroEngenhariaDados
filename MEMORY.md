@@ -607,6 +607,14 @@ Status:
 
 O módulo possui objetos, mutabilidade, números, Unicode, sequências, dicionários, conjuntos, controle de fluxo, complexidade, ordenação e laboratório de agregação determinística.
 
+#### Módulo 03 — Funções, Módulos, Exceções e Iteradores
+
+Status:
+
+✅ Concluído
+
+O módulo possui assinaturas, closures, decorators, módulos, APIs, exceções, iteradores, geradores, context managers e laboratório de pipeline preguiçoso em lotes.
+
 ---
 
 ## Próximo Marco
@@ -615,7 +623,7 @@ Estruturar e iniciar:
 
 **Volume 06 — Python**
 
-**Módulo 03 — Funções, Módulos, Exceções e Iteradores**
+**Módulo 04 — Orientação a Objetos, Dataclasses e Tipagem**
 
 Após sua conclusão:
 

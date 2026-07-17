@@ -740,6 +740,18 @@ Situação:
 * Dicionários, conjuntos, controle de fluxo, complexidade e ordenação concluídos.
 * Estudo de caso, revisão, exercícios e laboratório de agregação concluídos.
 
+### Módulo 03 — Funções, Módulos, Exceções e Iteradores
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Assinaturas, escopos, closures, decorators, módulos e APIs concluídos.
+* Exceções, iteradores, geradores e context managers concluídos.
+* Estudo de caso, revisão, exercícios e pipeline preguiçoso concluídos.
+
 ## Volumes 07 a 18
 
 Status:
@@ -759,11 +771,11 @@ Volume 06
 
 ↓
 
-Módulo 03 — Funções, Módulos, Exceções e Iteradores
+Módulo 04 — Orientação a Objetos, Dataclasses e Tipagem
 
 ↓
 
-Criar abstrações reutilizáveis, fluxos preguiçosos e contratos explícitos de falha
+Modelar entidades, valores e interfaces com composição e tipos verificáveis
 
 ↓
 
@@ -775,7 +787,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 03 do Volume 06.
+* iniciar o Módulo 04 do Volume 06.
 
 ---
 
@@ -783,7 +795,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Concluir o Módulo 03 — Funções, Módulos, Exceções e Iteradores.
+* Concluir o Módulo 04 — Orientação a Objetos, Dataclasses e Tipagem.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -882,14 +894,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Concluir o Módulo 03 — Funções, Módulos, Exceções e Iteradores.**
+**Concluir o Módulo 04 — Orientação a Objetos, Dataclasses e Tipagem.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 04 do Volume 06.
+4. Iniciar o Módulo 05 do Volume 06.
 
 ---
 
