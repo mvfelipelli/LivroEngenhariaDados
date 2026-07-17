@@ -185,10 +185,11 @@ Status: 🚧 Em desenvolvimento
 | 04 — DML, Transações e Concorrência | ✅ Concluído |
 | 05 — DDL, Schemas e Evolução de Estruturas | ✅ Concluído |
 | 06 — Planos de Execução, Índices e Otimização | ✅ Concluído |
+| 07 — Views, Segurança e Governança SQL | ✅ Concluído |
 
 ### Ponto de continuidade
 
-O próximo trabalho é estruturar e iniciar o Módulo 07 — Views, Segurança e Governança SQL.
+O próximo trabalho é estruturar e iniciar o Módulo 08 — SQL em Pipelines e Plataformas Analíticas.
 
 ---
 

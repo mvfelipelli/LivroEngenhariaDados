@@ -487,7 +487,15 @@ Status:
 
 O módulo possui planos lógicos e físicos, cardinalidade, estatísticas, operadores, índices, algoritmos de join, EXPLAIN ANALYZE, SARGabilidade e laboratório SQLite reproduzível.
 
-O próximo trabalho é estruturar e iniciar o Módulo 07 — Views, Segurança e Governança SQL.
+#### Módulo 07 — Views, Segurança e Governança SQL
+
+Status:
+
+✅ Concluído
+
+O módulo possui views comuns e materializadas, roles, grants, ownership, menor privilégio, RLS, mascaramento, prevenção de SQL injection, auditoria, lineage e laboratório SQLite reproduzível.
+
+O próximo trabalho é estruturar e iniciar o Módulo 08 — SQL em Pipelines e Plataformas Analíticas.
 
 ---
 
@@ -497,7 +505,7 @@ Estruturar e iniciar:
 
 **Volume 04 — SQL**
 
-**Módulo 07 — Views, Segurança e Governança SQL**
+**Módulo 08 — SQL em Pipelines e Plataformas Analíticas**
 
 Após sua conclusão:
 

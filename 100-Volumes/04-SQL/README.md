@@ -21,6 +21,8 @@ Este volume desenvolve raciocínio relacional, consultas, manipulação, transa�
 4. [[04-DML-Transacoes-e-Concorrencia/README|DML, Transações e Concorrência]] — concluído.
 5. [[05-DDL-Schemas-e-Evolucao-de-Estruturas/README|DDL, Schemas e Evolução de Estruturas]] — concluído.
 6. [[06-Planos-de-Execucao-Indices-e-Otimizacao/README|Planos de Execução, Índices e Otimização]] — concluído.
+7. [[07-Views-Seguranca-e-Governanca-SQL/README|Views, Segurança e Governança SQL]] — concluído.
+7. [[07-Views-Seguranca-e-Governanca-SQL/README|Views, Segurança e Governança SQL]] — concluído.
 6. [[06-Planos-de-Execucao-Indices-e-Otimizacao/README|Planos de Execução, Índices e Otimização]] — concluído.
 
 > [!note]

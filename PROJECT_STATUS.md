@@ -548,6 +548,20 @@ Situação:
 
 ---
 
+### Módulo 07 — Views, Segurança e Governança SQL
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Views, materialização, contratos e dependências concluídos.
+* Roles, grants, menor privilégio, RLS, mascaramento e SQL injection concluídos.
+* Estudo de caso, revisão, exercícios e laboratório de exposição controlada concluídos.
+
+---
+
 ## Volumes 05 a 18
 
 Status:
@@ -567,11 +581,11 @@ Volume 04
 
 ↓
 
-Módulo 07 — Views, Segurança e Governança SQL
+Módulo 08 — SQL em Pipelines e Plataformas Analíticas
 
 ↓
 
-Aprofundar abstração, autorização e governança de acesso relacional
+Aprofundar SQL operacional, incremental e analítico em pipelines de dados
 
 ↓
 
@@ -583,7 +597,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 07 do Volume 04.
+* iniciar o Módulo 08 do Volume 04.
 
 ---
 
@@ -591,7 +605,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Módulo 07 — Views, Segurança e Governança SQL.
+* Estruturar e iniciar o Módulo 08 — SQL em Pipelines e Plataformas Analíticas.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -690,14 +704,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 07 — Views, Segurança e Governança SQL.**
+**Estruturar e iniciar o Módulo 08 — SQL em Pipelines e Plataformas Analíticas.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 07 do Volume 04.
+4. Iniciar o Módulo 08 do Volume 04.
 
 ---
 

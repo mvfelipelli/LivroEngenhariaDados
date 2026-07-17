@@ -6,3 +6,4 @@
 - [[04-DML-Transacoes-e-Concorrencia/README|Módulo 04 — DML, Transações e Concorrência]]
 - [[05-DDL-Schemas-e-Evolucao-de-Estruturas/README|Módulo 05 — DDL, Schemas e Evolução de Estruturas]]
 - [[06-Planos-de-Execucao-Indices-e-Otimizacao/README|Módulo 06 — Planos de Execução, Índices e Otimização]]
+- [[07-Views-Seguranca-e-Governanca-SQL/README|Módulo 07 — Views, Segurança e Governança SQL]]

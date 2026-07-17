@@ -26,6 +26,9 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Módulo 07 do Volume 04 desenvolvido com views, roles, menor privilégio, RLS, privacidade e auditoria.
+* Estudo de caso, revisão, exercícios, gabarito e referências oficiais de segurança SQL adicionados.
+* Laboratório reproduzível de view mínima, autorização e consulta parametrizada adicionado e validado.
 * Módulo 06 do Volume 04 desenvolvido com planos, estatísticas, operadores, índices e algoritmos de join.
 * Estudo de caso, revisão, exercícios, gabarito e referências oficiais de otimização adicionados.
 * Laboratório reproduzível de comparação de planos antes e depois da indexação adicionado e validado.

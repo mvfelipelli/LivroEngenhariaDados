@@ -8,3 +8,4 @@
 - Módulo 04 — DML, Transações e Concorrência concluído com laboratório transacional.
 - Módulo 05 — DDL, Schemas e Evolução de Estruturas concluído com laboratório de migração.
 - Módulo 06 — Planos de Execução, Índices e Otimização concluído com laboratório de comparação de planos.
+- Módulo 07 — Views, Segurança e Governança SQL concluído com laboratório de exposição controlada.
