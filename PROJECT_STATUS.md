@@ -576,6 +576,20 @@ Situação:
 
 ---
 
+### Módulo 09 — Dados Temporais e Semiestruturados em SQL
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Instantes, timezones, intervalos, validade e bitemporalidade concluídos.
+* JSON, arrays, expansão, indexação e evolução de schema concluídos.
+* Estudo de caso, revisão, exercícios e laboratório temporal com JSON concluídos.
+
+---
+
 ## Volumes 05 a 18
 
 Status:
@@ -595,11 +609,11 @@ Volume 04
 
 ↓
 
-Módulo 09 — Dados Temporais e Semiestruturados em SQL
+Módulo 10 — Testes, Qualidade e Observabilidade SQL
 
 ↓
 
-Aprofundar validade temporal, intervalos, JSON e estruturas semiestruturadas
+Aprofundar testes de dados, reconciliação, métricas e diagnóstico operacional
 
 ↓
 
@@ -611,7 +625,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 09 do Volume 04.
+* iniciar o Módulo 10 do Volume 04.
 
 ---
 
@@ -619,7 +633,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Módulo 09 — Dados Temporais e Semiestruturados em SQL.
+* Estruturar e iniciar o Módulo 10 — Testes, Qualidade e Observabilidade SQL.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -718,14 +732,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Módulo 09 — Dados Temporais e Semiestruturados em SQL.**
+**Estruturar e iniciar o Módulo 10 — Testes, Qualidade e Observabilidade SQL.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 09 do Volume 04.
+4. Iniciar o Módulo 10 do Volume 04.
 
 ---
 

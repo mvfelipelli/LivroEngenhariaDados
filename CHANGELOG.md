@@ -26,6 +26,9 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Módulo 09 do Volume 04 desenvolvido com tempo, validade, bitemporalidade, JSON e arrays.
+* Estudo de caso, revisão, exercícios, gabarito e referências temporais e semiestruturadas adicionados.
+* Laboratório reproduzível de consulta as of e expansão de JSON adicionado e validado.
 * Módulo 08 do Volume 04 desenvolvido com staging, incrementalidade, idempotência, dimensional e ELT.
 * Estudo de caso, revisão, exercícios, gabarito e referências de pipelines analíticos adicionados.
 * Laboratório reproduzível de carga incremental com versão, upsert e watermark adicionado e validado.

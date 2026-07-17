@@ -10,3 +10,4 @@
 - Módulo 06 — Planos de Execução, Índices e Otimização concluído com laboratório de comparação de planos.
 - Módulo 07 — Views, Segurança e Governança SQL concluído com laboratório de exposição controlada.
 - Módulo 08 — SQL em Pipelines e Plataformas Analíticas concluído com laboratório incremental idempotente.
+- Módulo 09 — Dados Temporais e Semiestruturados em SQL concluído com laboratório temporal e JSON.

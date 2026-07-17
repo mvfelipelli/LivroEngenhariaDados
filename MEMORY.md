@@ -503,7 +503,15 @@ Status:
 
 O módulo possui contratos de pipeline, staging, incrementalidade, watermarks, dados atrasados, deduplicação, upsert, modelagem dimensional, ELT, warehouses distribuídos e laboratório SQLite reproduzível.
 
-O próximo trabalho é estruturar e iniciar o Módulo 09 — Dados Temporais e Semiestruturados em SQL.
+#### Módulo 09 — Dados Temporais e Semiestruturados em SQL
+
+Status:
+
+✅ Concluído
+
+O módulo possui instantes, timezones, intervalos, consultas as of, bitemporalidade, JSON, arrays, indexação, evolução de payload e laboratório SQLite reproduzível.
+
+O próximo trabalho é estruturar e iniciar o Módulo 10 — Testes, Qualidade e Observabilidade SQL.
 
 ---
 
@@ -513,7 +521,7 @@ Estruturar e iniciar:
 
 **Volume 04 — SQL**
 
-**Módulo 09 — Dados Temporais e Semiestruturados em SQL**
+**Módulo 10 — Testes, Qualidade e Observabilidade SQL**
 
 Após sua conclusão:
 

@@ -8,3 +8,4 @@
 - [[06-Planos-de-Execucao-Indices-e-Otimizacao/README|Módulo 06 — Planos de Execução, Índices e Otimização]]
 - [[07-Views-Seguranca-e-Governanca-SQL/README|Módulo 07 — Views, Segurança e Governança SQL]]
 - [[08-SQL-em-Pipelines-e-Plataformas-Analiticas/README|Módulo 08 — SQL em Pipelines e Plataformas Analíticas]]
+- [[09-Dados-Temporais-e-Semiestruturados-em-SQL/README|Módulo 09 — Dados Temporais e Semiestruturados em SQL]]

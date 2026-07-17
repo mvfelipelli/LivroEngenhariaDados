@@ -187,10 +187,11 @@ Status: 🚧 Em desenvolvimento
 | 06 — Planos de Execução, Índices e Otimização | ✅ Concluído |
 | 07 — Views, Segurança e Governança SQL | ✅ Concluído |
 | 08 — SQL em Pipelines e Plataformas Analíticas | ✅ Concluído |
+| 09 — Dados Temporais e Semiestruturados em SQL | ✅ Concluído |
 
 ### Ponto de continuidade
 
-O próximo trabalho é estruturar e iniciar o Módulo 09 — Dados Temporais e Semiestruturados em SQL.
+O próximo trabalho é estruturar e iniciar o Módulo 10 — Testes, Qualidade e Observabilidade SQL.
 
 ---
 

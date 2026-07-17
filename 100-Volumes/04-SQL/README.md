@@ -23,6 +23,8 @@ Este volume desenvolve raciocínio relacional, consultas, manipulação, transa�
 6. [[06-Planos-de-Execucao-Indices-e-Otimizacao/README|Planos de Execução, Índices e Otimização]] — concluído.
 7. [[07-Views-Seguranca-e-Governanca-SQL/README|Views, Segurança e Governança SQL]] — concluído.
 8. [[08-SQL-em-Pipelines-e-Plataformas-Analiticas/README|SQL em Pipelines e Plataformas Analíticas]] — concluído.
+9. [[09-Dados-Temporais-e-Semiestruturados-em-SQL/README|Dados Temporais e Semiestruturados em SQL]] — concluído.
+9. [[09-Dados-Temporais-e-Semiestruturados-em-SQL/README|Dados Temporais e Semiestruturados em SQL]] — concluído.
 8. [[08-SQL-em-Pipelines-e-Plataformas-Analiticas/README|SQL em Pipelines e Plataformas Analíticas]] — concluído.
 7. [[07-Views-Seguranca-e-Governanca-SQL/README|Views, Segurança e Governança SQL]] — concluído.
 6. [[06-Planos-de-Execucao-Indices-e-Otimizacao/README|Planos de Execução, Índices e Otimização]] — concluído.
