@@ -223,6 +223,33 @@ O Volume 05 está concluído. O próximo trabalho é estruturar e iniciar o Mód
 
 ---
 
+## Volume 06 — Python
+
+**Objetivo:** desenvolver programação Python confiável para automação, integração, processamento e operação de pipelines de dados.
+
+Status: 🚧 Em desenvolvimento
+
+### Módulos
+
+| Módulo | Status |
+| ------ | ------ |
+| 01 — Fundamentos, Ambiente e Ferramentas Python | ✅ Concluído |
+| 02 — Tipos, Controle de Fluxo e Coleções | ⏳ Planejado |
+| 03 — Funções, Módulos, Exceções e Iteradores | ⏳ Planejado |
+| 04 — Orientação a Objetos, Dataclasses e Tipagem | ⏳ Planejado |
+| 05 — Arquivos, Serialização, Datas e Expressões Regulares | ⏳ Planejado |
+| 06 — Testes, Qualidade, Logging e Empacotamento | ⏳ Planejado |
+| 07 — Acesso a Bancos de Dados e APIs | ⏳ Planejado |
+| 08 — NumPy, Pandas e Processamento Tabular | ⏳ Planejado |
+| 09 — Concorrência, Paralelismo e Performance | ⏳ Planejado |
+| 10 — Pipelines de Dados, Observabilidade e Projeto Final | ⏳ Planejado |
+
+### Ponto de continuidade
+
+O próximo trabalho é concluir o Módulo 02 — Tipos, Controle de Fluxo e Coleções.
+
+---
+
 ## Ordem Recomendada de Estudo
 
 ```mermaid

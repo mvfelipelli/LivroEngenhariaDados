@@ -589,6 +589,16 @@ O módulo possui zonas Bronze, Silver e Gold, formatos colunares, tabelas Lakeho
 
 O Volume 05 — Modelagem de Dados está concluído.
 
+### Volume 06 — Python
+
+#### Módulo 01 — Fundamentos, Ambiente e Ferramentas Python
+
+Status:
+
+✅ Concluído
+
+O módulo possui runtime, versões, portabilidade, ambientes virtuais, dependências, CLI, ferramentas, configuração, segredos e laboratório reproduzível com biblioteca padrão.
+
 ---
 
 ## Próximo Marco
@@ -597,7 +607,7 @@ Estruturar e iniciar:
 
 **Volume 06 — Python**
 
-**Módulo 01 — Fundamentos, Ambiente e Ferramentas Python**
+**Módulo 02 — Tipos, Controle de Fluxo e Coleções**
 
 Após sua conclusão:
 

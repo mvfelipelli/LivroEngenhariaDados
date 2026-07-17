@@ -26,6 +26,9 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Volume 06 — Python estruturado em dez módulos progressivos.
+* Módulo 01 desenvolvido com runtime, ambientes, dependências, CLI, ferramentas e configuração.
+* Laboratório reproduzível de CLI para inspeção de pedidos adicionado e validado.
 * Módulo 08 do Volume 05 desenvolvido com zonas, formatos, tabelas Lakehouse, contratos e produtos de dados.
 * Laboratório reproduzível de pipeline Bronze, Silver e Gold com evolução compatível de schema adicionado.
 * Volume 05 — Modelagem de Dados concluído com oito módulos completos.
