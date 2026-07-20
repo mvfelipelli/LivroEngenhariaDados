@@ -9,3 +9,4 @@
 - [[07-Acesso-a-Bancos-de-Dados-e-APIs/README|Módulo 07 — Acesso a Bancos de Dados e APIs]]
 - [[08-NumPy-Pandas-e-Processamento-Tabular/README|Módulo 08 — NumPy, Pandas e Processamento Tabular]]
 - [[09-Concorrencia-Paralelismo-e-Performance/README|Módulo 09 — Concorrência, Paralelismo e Performance]]
+- [[10-Pipelines-de-Dados-Observabilidade-e-Projeto-Final/README|Módulo 10 — Pipelines de Dados, Observabilidade e Projeto Final]]

@@ -663,15 +663,25 @@ Status:
 
 O módulo possui threads, GIL, processos, asyncio, cancelamento, filas, semáforos, backpressure, profiling e laboratório assíncrono limitado.
 
+#### Módulo 10 — Pipelines de Dados, Observabilidade e Projeto Final
+
+Status:
+
+✅ Concluído
+
+O módulo possui ports e adapters, validação, quarentena, incrementalidade, checkpoints, backfills, observabilidade, SLOs, operação e pipeline final CSV para SQLite.
+
+O Volume 06 — Python está concluído.
+
 ---
 
 ## Próximo Marco
 
 Estruturar e iniciar:
 
-**Volume 06 — Python**
+**Volume 07 — Apache Spark**
 
-**Módulo 10 — Pipelines de Dados, Observabilidade e Projeto Final**
+**Estruturar e iniciar o primeiro módulo previsto.**
 
 Após sua conclusão:
 

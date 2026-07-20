@@ -4,7 +4,7 @@ description: "Programação Python aplicada à automação, integração e engen
 tags: [python, engenharia-de-dados, volume-06]
 aliases: [Volume Python]
 type: volume
-status: em-desenvolvimento
+status: concluido
 created: 2026-07-17
 updated: 2026-07-17
 ---
@@ -24,7 +24,7 @@ Este volume desenvolve programação Python do ambiente de execução à constru
 7. [[07-Acesso-a-Bancos-de-Dados-e-APIs/README|Acesso a Bancos de Dados e APIs]] — concluído.
 8. [[08-NumPy-Pandas-e-Processamento-Tabular/README|NumPy, Pandas e Processamento Tabular]] — concluído.
 9. [[09-Concorrencia-Paralelismo-e-Performance/README|Concorrência, Paralelismo e Performance]] — concluído.
-10. Pipelines de Dados, Observabilidade e Projeto Final — planejado.
+10. [[10-Pipelines-de-Dados-Observabilidade-e-Projeto-Final/README|Pipelines de Dados, Observabilidade e Projeto Final]] — concluído.
 
 ```mermaid
 flowchart LR

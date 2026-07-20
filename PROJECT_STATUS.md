@@ -712,7 +712,7 @@ Situação:
 
 Status:
 
-🚧 Em desenvolvimento
+✅ Concluído
 
 O volume foi iniciado pelo Módulo 01 — Fundamentos, Ambiente e Ferramentas Python.
 
@@ -824,6 +824,18 @@ Situação:
 * Cancelamento, filas, semáforos, backpressure e profiling concluídos.
 * Estudo de caso, revisão, exercícios e coletor assíncrono concluídos.
 
+### Módulo 10 — Pipelines de Dados, Observabilidade e Projeto Final
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Arquitetura, ingestão, validação, quarentena e incrementalidade concluídas.
+* Checkpoints, backfills, observabilidade, SLOs, deploy e operação concluídos.
+* Estudo de caso, revisão, exercícios e pipeline final observável concluídos.
+
 ## Volumes 07 a 18
 
 Status:
@@ -839,15 +851,15 @@ Os diretórios e arquivos de controle existem, mas esses volumes ainda não fora
 O próximo trabalho oficial do projeto é:
 
 ```text id="jbcjjo"
-Volume 06
+Volume 07
 
 ↓
 
-Módulo 10 — Pipelines de Dados, Observabilidade e Projeto Final
+Apache Spark
 
 ↓
 
-Integrar o volume em pipeline incremental, idempotente, testado e observável
+Estruturar o volume e iniciar o primeiro módulo previsto
 
 ↓
 
@@ -859,7 +871,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 10 do Volume 06.
+* estruturar e iniciar o Volume 07 — Apache Spark.
 
 ---
 
@@ -867,7 +879,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Concluir o Módulo 10 — Pipelines de Dados, Observabilidade e Projeto Final.
+* Estruturar e iniciar o Volume 07 — Apache Spark.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -966,14 +978,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Concluir o Módulo 10 — Pipelines de Dados, Observabilidade e Projeto Final.**
+**Estruturar e iniciar o Volume 07 — Apache Spark.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Volume 07 — Apache Spark.
+4. Identificar e iniciar o primeiro módulo previsto do Volume 07.
 
 ---
 

@@ -26,6 +26,9 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Módulo 10 do Volume 06 desenvolvido com arquitetura, incrementalidade, checkpoints, observabilidade e operação.
+* Projeto final reproduzível de pipeline CSV para SQLite com quarentena e checkpoint adicionado e validado.
+* Volume 06 — Python concluído com dez módulos completos.
 * Módulo 09 do Volume 06 desenvolvido com threads, processos, asyncio, backpressure e profiling.
 * Laboratório reproduzível de coletor assíncrono limitado com timeout e retry adicionado e validado.
 * Módulo 08 do Volume 06 desenvolvido com NumPy, Pandas, dtypes, joins, agregações e gestão de memória.

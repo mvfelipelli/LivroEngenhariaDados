@@ -26,7 +26,7 @@ Seu propósito é registrar a estrutura vigente em `100-Volumes`, a ordem de est
 | Volume 03             | ✅ Concluído           |
 | Volume 04             | ✅ Concluído |
 | Volume 05             | ✅ Concluído           |
-| Volume 06             | 🚧 Em desenvolvimento |
+| Volume 06             | ✅ Concluído           |
 | Volumes 07 a 18       | ⏳ Estruturados        |
 
 ---
@@ -54,7 +54,7 @@ flowchart LR
 | 03 | `03-Git-e-GitHub` | Git e GitHub | ✅ Concluído |
 | 04 | `04-SQL` | SQL | ✅ Concluído |
 | 05 | `05-Modelagem-de-Dados` | Modelagem de Dados | ✅ Concluído |
-| 06 | `06-Python` | Python | 🚧 Em desenvolvimento |
+| 06 | `06-Python` | Python | ✅ Concluído |
 | 07 | `07-Apache-Spark` | Apache Spark | ⏳ Estruturado |
 | 08 | `08-PostgreSQL` | PostgreSQL | ⏳ Estruturado |
 | 09 | `09-Lakehouse` | Lakehouse | ⏳ Estruturado |
@@ -227,7 +227,7 @@ O Volume 05 está concluído. O próximo trabalho é estruturar e iniciar o Mód
 
 **Objetivo:** desenvolver programação Python confiável para automação, integração, processamento e operação de pipelines de dados.
 
-Status: 🚧 Em desenvolvimento
+Status: ✅ Concluído
 
 ### Módulos
 
@@ -242,11 +242,11 @@ Status: 🚧 Em desenvolvimento
 | 07 — Acesso a Bancos de Dados e APIs | ✅ Concluído |
 | 08 — NumPy, Pandas e Processamento Tabular | ✅ Concluído |
 | 09 — Concorrência, Paralelismo e Performance | ✅ Concluído |
-| 10 — Pipelines de Dados, Observabilidade e Projeto Final | ⏳ Planejado |
+| 10 — Pipelines de Dados, Observabilidade e Projeto Final | ✅ Concluído |
 
 ### Ponto de continuidade
 
-O próximo trabalho é concluir o Módulo 10 — Pipelines de Dados, Observabilidade e Projeto Final.
+O Volume 06 — Python está concluído. O próximo trabalho é estruturar e iniciar o Volume 07 — Apache Spark.
 
 ---
 
