@@ -26,6 +26,8 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Módulo 09 do Volume 06 desenvolvido com threads, processos, asyncio, backpressure e profiling.
+* Laboratório reproduzível de coletor assíncrono limitado com timeout e retry adicionado e validado.
 * Módulo 08 do Volume 06 desenvolvido com NumPy, Pandas, dtypes, joins, agregações e gestão de memória.
 * Laboratório reproduzível de mart tabular com cardinalidade e reconciliação adicionado e validado.
 * Módulo 07 do Volume 06 desenvolvido com DB-API, transações, HTTP, resiliência, paginação e contratos.

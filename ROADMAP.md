@@ -241,12 +241,12 @@ Status: 🚧 Em desenvolvimento
 | 06 — Testes, Qualidade, Logging e Empacotamento | ✅ Concluído |
 | 07 — Acesso a Bancos de Dados e APIs | ✅ Concluído |
 | 08 — NumPy, Pandas e Processamento Tabular | ✅ Concluído |
-| 09 — Concorrência, Paralelismo e Performance | ⏳ Planejado |
+| 09 — Concorrência, Paralelismo e Performance | ✅ Concluído |
 | 10 — Pipelines de Dados, Observabilidade e Projeto Final | ⏳ Planejado |
 
 ### Ponto de continuidade
 
-O próximo trabalho é concluir o Módulo 09 — Concorrência, Paralelismo e Performance.
+O próximo trabalho é concluir o Módulo 10 — Pipelines de Dados, Observabilidade e Projeto Final.
 
 ---
 

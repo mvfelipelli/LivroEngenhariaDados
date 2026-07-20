@@ -655,6 +655,14 @@ Status:
 
 O módulo possui arrays, dtypes, broadcasting, vetorização, DataFrames, nulos, joins, agregações, tempo, chunks, memória e laboratório tabular reconciliado.
 
+#### Módulo 09 — Concorrência, Paralelismo e Performance
+
+Status:
+
+✅ Concluído
+
+O módulo possui threads, GIL, processos, asyncio, cancelamento, filas, semáforos, backpressure, profiling e laboratório assíncrono limitado.
+
 ---
 
 ## Próximo Marco
@@ -663,7 +671,7 @@ Estruturar e iniciar:
 
 **Volume 06 — Python**
 
-**Módulo 09 — Concorrência, Paralelismo e Performance**
+**Módulo 10 — Pipelines de Dados, Observabilidade e Projeto Final**
 
 Após sua conclusão:
 

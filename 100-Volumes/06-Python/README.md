@@ -23,7 +23,7 @@ Este volume desenvolve programação Python do ambiente de execução à constru
 6. [[06-Testes-Qualidade-Logging-e-Empacotamento/README|Testes, Qualidade, Logging e Empacotamento]] — concluído.
 7. [[07-Acesso-a-Bancos-de-Dados-e-APIs/README|Acesso a Bancos de Dados e APIs]] — concluído.
 8. [[08-NumPy-Pandas-e-Processamento-Tabular/README|NumPy, Pandas e Processamento Tabular]] — concluído.
-9. Concorrência, Paralelismo e Performance — planejado.
+9. [[09-Concorrencia-Paralelismo-e-Performance/README|Concorrência, Paralelismo e Performance]] — concluído.
 10. Pipelines de Dados, Observabilidade e Projeto Final — planejado.
 
 ```mermaid

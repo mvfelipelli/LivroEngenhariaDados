@@ -812,6 +812,18 @@ Situação:
 * Pandas, nulos, joins, agregações, tempo, chunks e memória concluídos.
 * Estudo de caso, revisão, exercícios e mart reconciliado concluídos.
 
+### Módulo 09 — Concorrência, Paralelismo e Performance
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Threads, GIL, processos, asyncio e concorrência estruturada concluídos.
+* Cancelamento, filas, semáforos, backpressure e profiling concluídos.
+* Estudo de caso, revisão, exercícios e coletor assíncrono concluídos.
+
 ## Volumes 07 a 18
 
 Status:
@@ -831,11 +843,11 @@ Volume 06
 
 ↓
 
-Módulo 09 — Concorrência, Paralelismo e Performance
+Módulo 10 — Pipelines de Dados, Observabilidade e Projeto Final
 
 ↓
 
-Escolher modelos de concorrência e otimizar por medição, limites e backpressure
+Integrar o volume em pipeline incremental, idempotente, testado e observável
 
 ↓
 
@@ -847,7 +859,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* iniciar o Módulo 09 do Volume 06.
+* iniciar o Módulo 10 do Volume 06.
 
 ---
 
@@ -855,7 +867,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Concluir o Módulo 09 — Concorrência, Paralelismo e Performance.
+* Concluir o Módulo 10 — Pipelines de Dados, Observabilidade e Projeto Final.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -954,14 +966,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Concluir o Módulo 09 — Concorrência, Paralelismo e Performance.**
+**Concluir o Módulo 10 — Pipelines de Dados, Observabilidade e Projeto Final.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Iniciar o Módulo 10 do Volume 06.
+4. Iniciar o Volume 07 — Apache Spark.
 
 ---
 

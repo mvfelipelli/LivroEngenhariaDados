@@ -11,3 +11,4 @@
 - Módulo 06 — Testes, Qualidade, Logging e Empacotamento concluído com suíte unittest e logging JSON.
 - Módulo 07 — Acesso a Bancos de Dados e APIs concluído com sincronização HTTP paginada para SQLite.
 - Módulo 08 — NumPy, Pandas e Processamento Tabular concluído com mart tabular reconciliado.
+- Módulo 09 — Concorrência, Paralelismo e Performance concluído com coletor assíncrono limitado.
