@@ -252,6 +252,6 @@ Cada uma dessas seções contribuirá para consolidar os conhecimentos apresenta
 
 ## Próximo Arquivo
 
-➡ **02-Introducao.md**
+➡ **[[100-Volumes/00-Introducao/01-O-que-e-Engenharia-de-Dados/02-Introducao]]**
 
 No próximo documento iniciaremos a discussão sobre a importância dos dados no mundo contemporâneo e como eles se tornaram um dos principais ativos estratégicos das organizações.

@@ -26,6 +26,13 @@ As alterações são classificadas nas seguintes categorias:
 
 ### Added
 
+* Volume 00 — Introdução concluído com dez módulos e 180 documentos modulares estruturados.
+* Conteúdo introdutório consolidado sobre profissão, ecossistema, arquiteturas, projeto DataRetail, ambiente, método de estudo e roadmap.
+* Auditorias reproduzíveis de ambiente e prontidão adicionadas, com exercícios, gabaritos, laboratórios, soluções e referências.
+* Volume 07 — Apache Spark concluído com dez módulos e 180 documentos estruturados.
+* Conteúdo de RDDs, DataFrames, Catalyst, Spark SQL, formatos, otimização, Structured Streaming, confiabilidade, segurança, deploy e operação adicionado.
+* Projeto final integrado da DataRetail com qualidade, deduplicação, broadcast join, mart e reconciliação adicionado e validado.
+* Laboratórios Spark executáveis documentados, incluindo requisitos Hadoop para I/O e streaming local no Windows.
 * Módulo 10 do Volume 06 desenvolvido com arquitetura, incrementalidade, checkpoints, observabilidade e operação.
 * Projeto final reproduzível de pipeline CSV para SQLite com quarentena e checkpoint adicionado e validado.
 * Volume 06 — Python concluído com dez módulos completos.

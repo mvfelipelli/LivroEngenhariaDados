@@ -47,24 +47,23 @@ Este capítulo está dividido nas seguintes seções:
 
 | Arquivo | Conteúdo |
 |----------|----------|
-| 01-Objetivos-de-Aprendizagem.md | Objetivos e competências |
-| 02-Introducao.md | A importância dos dados |
-| 03-A-Era-dos-Dados.md | Como os dados transformaram as organizações |
-| 04-Evolucao-Historica.md | A evolução da tecnologia de dados |
-| 05-O-Nascimento-da-Engenharia-de-Dados.md | Como surgiu a profissão |
-| 06-O-Papel-do-Engenheiro-de-Dados.md | Responsabilidades e atribuições |
-| 07-O-Ecossistema-de-Dados.md | Como Engenharia de Dados se relaciona com BI, Analytics, Ciência de Dados e IA |
-| 08-Ciclo-de-Vida-dos-Dados.md | Da geração ao consumo dos dados |
-| 09-Competencias.md | Competências técnicas e comportamentais |
-| 10-Mercado-e-Tendencias.md | Mercado atual e perspectivas futuras |
-| 11-Estudo-de-Caso.md | Caso prático da empresa DataRetail S.A. |
-| 12-Boas-Praticas.md | Recomendações para profissionais da área |
-| 13-Erros-Comuns.md | Principais erros encontrados em projetos |
-| 14-Resumo.md | Revisão dos principais conceitos |
-| 15-Exercicios.md | Exercícios de fixação |
-| 16-Perguntas-de-Entrevista.md | Questões frequentes em entrevistas técnicas |
-| 17-Leituras-Recomendadas.md | Livros, artigos e documentações oficiais |
-| 18-Glossario.md | Definição dos principais termos utilizados |
+| [[01-Objetivos-de-Aprendizagem|01 — Objetivos de Aprendizagem]] | Objetivos e competências |
+| [[02-Introducao|02 — Introdução]] | A importância dos dados |
+| [[03-A-Era-dos-Dados|03 — A Era dos Dados]] | Como os dados transformaram as organizações |
+| [[04-Evolucao-Historica|04 — Evolução Histórica]] | A evolução da tecnologia de dados |
+| [[05-O-Nascimento-da-Engenharia-de-Dados|05 — O Nascimento da Engenharia de Dados]] | Como surgiu a profissão |
+| [[06-O-Papel-do-Engenheiro-de-Dados|06 — O Papel do Engenheiro de Dados]] | Responsabilidades e atribuições |
+| [[07-O-Ecossistema-de-Dados|07 — O Ecossistema de Dados]] | Relação com BI, Analytics, Ciência de Dados e IA |
+| [[08-Arquiteturas-Modernas|08 — Arquiteturas Modernas]] | Organização das plataformas contemporâneas |
+| [[09-Projeto-Integrador|09 — Projeto Integrador]] | Continuidade prática da Academia |
+| [[10-Estudo-de-Caso-DataRetail|10 — Estudo de Caso DataRetail]] | Aplicação dos fundamentos na empresa fictícia |
+| [[11-Resumo|11 — Resumo]] | Revisão dos principais conceitos |
+| [[12-Perguntas-de-Entrevista|12 — Perguntas de Entrevista]] | Questões frequentes em entrevistas |
+| [[13-Exercicios|13 — Exercícios]] | Atividades progressivas |
+| [[13-Gabarito|13 — Gabarito]] | Respostas orientadoras |
+| [[14-Laboratorio|14 — Laboratório]] | Mapeamento de um fluxo de dados |
+| [[14-Solucao|14 — Solução]] | Implementação de referência |
+| [[15-Referencias|15 — Referências]] | Livros e fontes oficiais |
 
 ---
 
@@ -161,6 +160,6 @@ Recomenda-se apenas curiosidade, disposição para aprender e interesse em compr
 
 ## Próximo Arquivo
 
-➡ **01-Objetivos-de-Aprendizagem.md**
+➡ **[[01-Objetivos-de-Aprendizagem]]**
 
 Neste arquivo iniciaremos oficialmente o conteúdo do capítulo, detalhando os objetivos educacionais, as competências esperadas e como elas se conectam ao restante da Academia.

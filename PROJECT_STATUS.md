@@ -74,13 +74,13 @@ Diretórios principais:
 
 Status:
 
-🚧 Em desenvolvimento
+✅ Concluído
 
 Situação:
 
-* Dez módulos estruturados.
-* Conteúdo parcial existente.
-* O módulo `01-O-que-e-Engenharia-de-Dados` contém capítulos técnicos já produzidos.
+* Dez módulos concluídos.
+* 180 documentos modulares no padrão editorial, além dos três documentos de índice e histórico do volume.
+* Wikilinks, estudos de caso DataRetail, exercícios, laboratórios, soluções e referências consolidados.
 
 ---
 
@@ -836,7 +836,20 @@ Situação:
 * Checkpoints, backfills, observabilidade, SLOs, deploy e operação concluídos.
 * Estudo de caso, revisão, exercícios e pipeline final observável concluídos.
 
-## Volumes 07 a 18
+## Volume 07 — Apache Spark
+
+Status:
+
+✅ Concluído
+
+Situação:
+
+* Dez módulos concluídos, com 18 documentos em cada módulo.
+* Fundamentos, RDDs, DataFrames, SQL, I/O, otimização e streaming concluídos.
+* Confiabilidade, segurança, deploy, operação e projeto final concluídos.
+* Laboratórios viáveis executados; dependência Hadoop local do Windows documentada.
+
+## Volumes 08 a 18
 
 Status:
 
@@ -851,11 +864,11 @@ Os diretórios e arquivos de controle existem, mas esses volumes ainda não fora
 O próximo trabalho oficial do projeto é:
 
 ```text id="jbcjjo"
-Volume 07
+Volume 08
 
 ↓
 
-Apache Spark
+PostgreSQL
 
 ↓
 
@@ -863,7 +876,7 @@ Estruturar o volume e iniciar o primeiro módulo previsto
 
 ↓
 
-Construir uma base reproduzível para automação e processamento de dados
+Construir uma base reproduzível para bancos de dados PostgreSQL
 ```
 
 Durante a evolução desse módulo:
@@ -871,7 +884,7 @@ Durante a evolução desse módulo:
 * atualizar este documento;
 * atualizar ROADMAP.md;
 * registrar no CHANGELOG.md;
-* estruturar e iniciar o Volume 07 — Apache Spark.
+* estruturar e iniciar o Volume 08 — PostgreSQL.
 
 ---
 
@@ -879,7 +892,7 @@ Durante a evolução desse módulo:
 
 ## Alta Prioridade
 
-* Estruturar e iniciar o Volume 07 — Apache Spark.
+* Estruturar e iniciar o Volume 08 — PostgreSQL.
 * Finalizar documentação de governança.
 * Publicar primeira versão do repositório.
 
@@ -978,14 +991,14 @@ Nunca alterar a estrutura do projeto sem autorização explícita.
 
 ## Próximo Marco
 
-**Estruturar e iniciar o Volume 07 — Apache Spark.**
+**Estruturar e iniciar o Volume 08 — PostgreSQL.**
 
 Após sua conclusão:
 
 1. Atualizar PROJECT_STATUS.md.
 2. Atualizar ROADMAP.md.
 3. Registrar a entrega no CHANGELOG.md.
-4. Identificar e iniciar o primeiro módulo previsto do Volume 07.
+4. Identificar e iniciar o primeiro módulo previsto do Volume 08.
 
 ---
 
@@ -1011,6 +1024,7 @@ Após sua conclusão:
 | Módulo 12 concluído               | ✅      |
 | Volume 01 concluído               | ✅      |
 | Volume 02 iniciado                | ✅      |
+| Volume 07 concluído               | ✅      |
 | Módulo Linux 01 concluído         | ✅      |
 | Módulo Linux 02 concluído         | ✅      |
 | Primeira versão pública           | ⏳      |

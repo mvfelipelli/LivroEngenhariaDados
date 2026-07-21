@@ -207,9 +207,9 @@ Documentos existentes ou planejados:
 
 Status:
 
-🚧 Em desenvolvimento
+✅ Concluído
 
-O volume possui dez módulos estruturados. Há conteúdo parcial, especialmente em `01-O-que-e-Engenharia-de-Dados`; portanto, ele não deve ser classificado como não iniciado.
+O volume possui dez módulos concluídos e 180 documentos modulares, além de README, SUMMARY e CHANGELOG. A introdução cobre profissão, ecossistema, arquiteturas, projeto integrador DataRetail, ambiente, método de estudo, roadmap e auditoria de prontidão.
 
 ---
 
@@ -675,13 +675,29 @@ O Volume 06 — Python está concluído.
 
 ---
 
+### Volume 07 — Apache Spark
+
+Status:
+
+✅ Concluído
+
+O volume possui dez módulos completos, cada um com README, objetivos, introdução, sete capítulos técnicos, estudo de caso DataRetail, resumo, perguntas de entrevista, exercícios, gabarito, laboratório, solução e referências.
+
+Foram consolidados fundamentos e arquitetura Spark, RDDs e partições, DataFrames e Catalyst, Spark SQL, I/O e formatos, otimização, Structured Streaming, confiabilidade e segurança, operação em clusters e projeto final integrado.
+
+Os laboratórios viáveis no ambiente local foram executados com PySpark 3.5.3. No Windows, escrita Hadoop e Structured Streaming local exigem `HADOOP_HOME` e `winutils.exe`; essa dependência está documentada nos laboratórios correspondentes.
+
+O Volume 07 — Apache Spark está concluído. O próximo trabalho é estruturar e iniciar o Volume 08 — PostgreSQL.
+
+---
+
 ## Próximo Marco
 
 Estruturar e iniciar:
 
-**Volume 07 — Apache Spark**
+**Volume 08 — PostgreSQL**
 
-**Estruturar e iniciar o primeiro módulo previsto.**
+**Identificar e iniciar o primeiro módulo previsto.**
 
 Após sua conclusão:
 

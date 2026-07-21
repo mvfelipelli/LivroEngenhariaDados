@@ -20,14 +20,15 @@ Seu propósito é registrar a estrutura vigente em `100-Volumes`, a ordem de est
 | --------------------- | --------------------- |
 | Estrutura do Vault    | ✅ Concluída           |
 | Governança do Projeto | 🚧 Em consolidação    |
-| Volume 00             | 🚧 Em desenvolvimento |
+| Volume 00             | ✅ Concluído           |
 | Volume 01             | ✅ Concluído |
 | Volume 02             | ✅ Concluído           |
 | Volume 03             | ✅ Concluído           |
 | Volume 04             | ✅ Concluído |
 | Volume 05             | ✅ Concluído           |
 | Volume 06             | ✅ Concluído           |
-| Volumes 07 a 18       | ⏳ Estruturados        |
+| Volume 07             | ✅ Concluído           |
+| Volumes 08 a 18       | ⏳ Estruturados        |
 
 ---
 
@@ -48,14 +49,14 @@ flowchart LR
 
 | Volume | Diretório | Domínio | Status |
 | ------ | --------- | ------- | ------ |
-| 00 | `00-Introducao` | Introdução | 🚧 Em desenvolvimento |
+| 00 | `00-Introducao` | Introdução | ✅ Concluído |
 | 01 | `01-Fundamentos` | Fundamentos | 🚧 Em desenvolvimento |
 | 02 | `02-Linux` | Linux | ⏳ Estruturado |
 | 03 | `03-Git-e-GitHub` | Git e GitHub | ✅ Concluído |
 | 04 | `04-SQL` | SQL | ✅ Concluído |
 | 05 | `05-Modelagem-de-Dados` | Modelagem de Dados | ✅ Concluído |
 | 06 | `06-Python` | Python | ✅ Concluído |
-| 07 | `07-Apache-Spark` | Apache Spark | ⏳ Estruturado |
+| 07 | `07-Apache-Spark` | Apache Spark | ✅ Concluído |
 | 08 | `08-PostgreSQL` | PostgreSQL | ⏳ Estruturado |
 | 09 | `09-Lakehouse` | Lakehouse | ⏳ Estruturado |
 | 10 | `10-Trino` | Trino | ⏳ Estruturado |
@@ -83,16 +84,16 @@ Status: ✅ Concluído
 
 | Módulo | Status |
 | ------ | ------ |
-| 00 — Apresentação | 🚧 Parcial |
-| 01 — O que é Engenharia de Dados | 🚧 Parcial |
-| 02 — Ecossistema de Dados | ⏳ Estruturado |
-| 03 — Arquiteturas Modernas | ⏳ Estruturado |
-| 04 — Projeto Integrador | ⏳ Estruturado |
-| 05 — Ambiente da Academia | ⏳ Estruturado |
-| 06 — Como Estudar | ⏳ Estruturado |
-| 07 — Roadmap | ⏳ Estruturado |
-| 08 — Preparação do Ambiente | ⏳ Estruturado |
-| 09 — Encerramento | ⏳ Estruturado |
+| 00 — Apresentação | ✅ Concluído |
+| 01 — O que é Engenharia de Dados | ✅ Concluído |
+| 02 — Ecossistema de Dados | ✅ Concluído |
+| 03 — Arquiteturas Modernas | ✅ Concluído |
+| 04 — Projeto Integrador | ✅ Concluído |
+| 05 — Ambiente da Academia | ✅ Concluído |
+| 06 — Como Estudar | ✅ Concluído |
+| 07 — Roadmap | ✅ Concluído |
+| 08 — Preparação do Ambiente | ✅ Concluído |
+| 09 — Encerramento | ✅ Concluído |
 
 ---
 
@@ -246,7 +247,34 @@ Status: ✅ Concluído
 
 ### Ponto de continuidade
 
-O Volume 06 — Python está concluído. O próximo trabalho é estruturar e iniciar o Volume 07 — Apache Spark.
+O Volume 06 — Python está concluído.
+
+---
+
+## Volume 07 — Apache Spark
+
+**Objetivo:** desenvolver processamento distribuído confiável, performático e operável com Apache Spark.
+
+Status: ✅ Concluído
+
+### Módulos
+
+| Módulo | Status |
+| ------ | ------ |
+| 01 — Fundamentos, Arquitetura e Ambiente Spark | ✅ Concluído |
+| 02 — RDDs, Partições, Transformações e Ações | ✅ Concluído |
+| 03 — DataFrames, Schemas, Expressões e Catalyst | ✅ Concluído |
+| 04 — Spark SQL, Joins, Agregações e Janelas | ✅ Concluído |
+| 05 — I/O, Formatos, Particionamento e Fontes | ✅ Concluído |
+| 06 — Execução, Shuffles, Memória e Otimização | ✅ Concluído |
+| 07 — Structured Streaming, Estado e Watermarks | ✅ Concluído |
+| 08 — Confiabilidade, Testes, Observabilidade e Segurança | ✅ Concluído |
+| 09 — Clusters, Deploy, Empacotamento e Operação | ✅ Concluído |
+| 10 — Pipelines Spark e Projeto Final | ✅ Concluído |
+
+### Ponto de continuidade
+
+O Volume 07 — Apache Spark está concluído. O próximo trabalho é estruturar e iniciar o Volume 08 — PostgreSQL.
 
 ---
 

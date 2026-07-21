@@ -262,6 +262,6 @@ Nos próximos capítulos exploraremos como essa área evoluiu ao longo das últi
 
 ## Próximo Arquivo
 
-➡ **03-A-Era-dos-Dados.md**
+➡ **[[03-A-Era-dos-Dados]]**
 
 No próximo capítulo iniciaremos uma viagem pela evolução da informação, desde os primeiros sistemas computacionais até as arquiteturas distribuídas utilizadas atualmente.
